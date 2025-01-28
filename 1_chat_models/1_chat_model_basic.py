@@ -1,5 +1,6 @@
 # Chat Model Documents: https://python.langchain.com/v0.2/docs/integrations/chat/
 # OpenAI Chat Model Documents: https://python.langchain.com/v0.2/docs/integrations/chat/openai/
+# Youtube Tutorial Video : https://www.youtube.com/watch?v=yF9kGESAi3M&ab_channel=aiwithbrandon 
 
 from dotenv import load_dotenv
 from langchain_openai import ChatOpenAI
@@ -8,7 +9,7 @@ from langchain_openai import ChatOpenAI
 load_dotenv()
 
 # Create a ChatOpenAI model
-model = ChatOpenAI(model="gpt-4o")
+model = ChatOpenAI(model="gpt-4o-mini")
 
 # Invoke the model with a message
 result = model.invoke("What is 81 divided by 9?")
