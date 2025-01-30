@@ -3,7 +3,7 @@
 from dotenv import load_dotenv
 from google.cloud import firestore
 from langchain_google_firestore import FirestoreChatMessageHistory
-from langchain_deepseek import ChatDeepSeek  # include the deepseek api
+from langchain_deepseek import ChatDeepSeekAI  # include the deepseek api
 
 
 """
@@ -43,7 +43,7 @@ print("Chat History Initialized.")
 print("Current Chat History:", chat_history.messages)
 
 # Initialize Chat Model
-model = ChatDeepSeek(model="deepseek-chat")
+model = ChatDeepSeekAI(model="deepseek-chat")
 
 print("Start chatting with the AI. Type 'exit' to quit.")
 
