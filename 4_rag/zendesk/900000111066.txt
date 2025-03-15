@@ -1,0 +1,27 @@
+<h1>I want to have a lesson now, what should I do?</h1>
+<p><span style="font-weight: 400;">If you would like to have a lesson as soon as possible, Lesson Invitation may be the best choice for you. Lesson invitation is available for the web, iOS, and Android, and <strong>it allows a teacher to invite his/her students to take individual and package lessons.</strong></span></p>
+<p> </p>
+<h3><strong>Lesson Invitation Rules:</strong></h3>
+<ul>
+<li style="font-weight: 400;" aria-level="1">
+<span style="font-weight: 400;">Only the teacher can send out the Lesson Invitation to </span><span style="font-weight: 400;">his/her <span class="wysiwyg-underline">current students or students who have filled in the “Contact Teacher Form” </span></span>
+</li>
+<li style="font-weight: 400;" aria-level="1"><span style="font-weight: 400;">Make sure you communicate with the teacher prior and check if your teacher is available for the lesson </span></li>
+<li style="font-weight: 400;" aria-level="1">
+<span style="font-weight: 400;">The student can </span><span class="wysiwyg-underline"><span style="font-weight: 400;">only receive 1 lesson invitation at a time from the same teacher</span></span><span style="font-weight: 400;"> (once the student accepts, the teacher can send a new Lesson Invitation to the same student)</span>
+</li>
+<li style="font-weight: 400;" aria-level="1">A Lesson Invitation will automatically <span class="wysiwyg-underline"><span style="font-weight: 400;">expire after 12 hours </span></span><span style="font-weight: 400;">if not accepted by the student</span>
+</li>
+</ul>
+<h3><strong>Key Benefits of Lesson Invitation: </strong></h3>
+<ul>
+<li style="font-weight: 400;" aria-level="1"><span style="font-weight: 400;">Flexible time management as lessons can start on the hour or at any 15 minute interval e.g. 1:00, 1:15, 1:30, 1:45, 2:00.</span></li>
+<li style="font-weight: 400;" aria-level="1"><span style="font-weight: 400;">Students can have lessons within<strong> 2, 6, or 12 hours depending on a teacher's Lesson Request settings.</strong> By using lesson invitation, the lesson can start at the next 15-minute interval.</span></li>
+</ul>
+<p><em><span style="font-weight: 400;">Example:</span></em></p>
+<p><span style="font-weight: 400;">A student messages a teacher at 12:00 asking if the teacher is available for a lesson now. The teacher can send a Lesson Invitation to the student and select 12:15 which is the earliest time the lesson can start.</span></p>
+<p> </p>
+<h3><strong>How Do I Accept/Decline Lesson Invitation?</strong></h3>
+<p><span style="font-weight: 400;">As a student, when you receive a Lesson Invitation, you can choose to </span><strong>Accept/Decline</strong><span style="font-weight: 400;"> in Action Required. If you did not respond to the Lesson Invitation, the Lesson Invitation </span><span style="font-weight: 400;">will <span class="wysiwyg-underline">expire after 12 hours</span></span><span style="font-weight: 400;">.</span></p>
+<p class="wysiwyg-text-align-center"><img src="https://support.italki.com/hc/article_attachments/4405861329433" alt="Screen_Shot_2021-09-02_at_5.42.57_PM.png" width="652" height="377"></p>
+<p class="wysiwyg-text-align-center"><img src="https://support.italki.com/hc/article_attachments/4405861337241" alt="Screen_Shot_2021-09-02_at_5.43.34_PM.png" width="671" height="259"></p>

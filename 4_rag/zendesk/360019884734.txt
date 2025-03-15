@@ -1,0 +1,46 @@
+<h1>I got a new lesson request! What do I do now?</h1>
+<p><iframe src="//www.youtube-nocookie.com/embed/yrdlfMi-R4Y" width="560" height="315" frameborder="0" allowfullscreen=""></iframe></p>
+<p> </p>
+<p><img src="https://support.italki.com/hc/article_attachments/360029701273" alt="Screen_Shot_2019-03-19_at_5.22.32_PM.png" width="705" height="179"></p>
+<h2>What should you do?</h2>
+<p><span style="font-weight: 400;">You should respond to a lesson request as soon as possible so the student knows if they will have a lesson or not. Your options are:</span></p>
+<ul>
+<li style="font-weight: 400;" aria-level="1">
+<strong>Accept</strong><span style="font-weight: 400;"> - If everything about it looks good, accept it to confirm that you will see the student at that requested time. </span>
+</li>
+<ul>
+<li style="font-weight: 400;" aria-level="2">
+<span style="font-weight: 400;">In addition, </span><strong>send a friendly message</strong><span style="font-weight: 400;">.</span>
+</li>
+<li style="font-weight: 400;" aria-level="2">
+<strong>Add the student to your Skype</strong><span style="font-weight: 400;"> (or whichever communication tool you will use).</span>
+</li>
+<li style="font-weight: 400;" aria-level="2">
+<span style="font-weight: 400;">Be prepared - often, students don't know what to do, </span><strong>so the teacher should start the call to begin the lesson on time</strong><span style="font-weight: 400;">.</span>
+</li>
+</ul>
+<li style="font-weight: 400;" aria-level="1">
+<strong>Modify</strong><span style="font-weight: 400;"> - If you need to suggest a change to the price or the time, </span><strong>do not accept the request</strong><span style="font-weight: 400;">, </span><strong>but first, modify it</strong><span style="font-weight: 400;"> and propose these changes. The student will have an option to cancel if he or she disagrees with your proposed change.</span>
+</li>
+<ul>
+<li style="font-weight: 400;" aria-level="2"><span style="font-weight: 400;">Send a message, so the student understands the reason for the proposed change.</span></li>
+</ul>
+<li><span style="font-weight: 400;"><strong>Decline </strong>- If you are unwilling or unable to teach the student, decline the request right away. Now, the student's italki Credits will be available to make a request with a different teacher.</span></li>
+</ul>
+<p> </p>
+<p><strong>Note: DO NOT</strong><span style="font-weight: 400;"> ignore the lesson request. </span><strong>DO NOT</strong><span style="font-weight: 400;"> accept and then propose to reschedule (unless you have already talked to the student). Always propose changes before accepting the request.</span></p>
+<p> </p>
+<p><span class="wysiwyg-color-red">Students can schedule a lesson 2 or more hours in advance. Teachers have to respond to the lesson request within 48 hours or the lesson start time, whichever comes sooner.</span></p>
+<p> </p>
+<p><strong>Otherwise, </strong><span style="font-weight: 400;">the lesson request will automatically expire and the italki Credits will be returned to the student. And the teacher’s attendance rate will be negatively affected.</span></p>
+<p> </p>
+<h3>Steps for processing a time change on the lesson request</h3>
+<ol>
+<li><span style="font-weight: 400;">Click "Change date/time" on the lesson request.</span></li>
+<li>Select your new date/time. (<em>As a Teacher, you can select <strong>any date/time</strong>, even if it doesn't appear in your Teacher Calendar. This is useful <strong>if you want to offer a one-off lesson outside of your regular teaching schedule</strong> or for students<strong> making special requests for a specific time.</strong>)</em>
+</li>
+<li>
+<span style="font-weight: 400;"> </span>Confirm the new time/date.</li>
+<li>Wait for the student to accept the new date/time change. (<em>The student has <strong>48 hours (or until the original lesson time proposed) </strong>to accept your proposed date/time change.  If no action is taken, the lesson request will be canceled.)</em>
+</li>
+</ol>

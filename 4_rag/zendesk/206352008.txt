@@ -1,0 +1,32 @@
+<h1>Can I change my profile from Community Tutor to Professional Teacher?</h1>
+<p>If a Community Tutor has a <a href="https://support.italki.com/hc/en-us/articles/206352058" target="_blank" rel="noopener">teaching certification or credentials</a>, then he or she can apply for a Professional Teacher profile.</p>
+<p>Please note that the instructions below are <strong>only for current Community Tutors</strong> wishing to change their status to Professional Teachers. If you do not yet have a teaching account and have the required certification, you can apply for a professional teacher profile directly.</p>
+<p> </p>
+<p><strong>Before you apply, please read the following information.</strong></p>
+<ul>
+<li>Learn about the differences between being a Professional Teacher and Community Tutor.<br><a href="https://support.italki.com/hc/en-us/articles/900002978766" target="_blank" rel="noopener">Difference between Professional Teacher and Community Tutor</a><br><br>
+</li>
+<li>Check if all your teaching languages are open for Professional Teachers. If one of them is closed, you won’t be able to apply.<br><a href="https://support.italki.com/hc/en-us/articles/115001499873#h_01EV8BHVC07JQH3J2JQYFMAHMC" target="_blank" rel="noopener">Language open/closed list</a><br><br>
+</li>
+<li>Check if you have the certification or credentials to become a Professional Teacher.<br><a href="https://support.italki.com/hc/en-us/articles/206352058-What-types-of-certification-or-credentials-are-required-for-a-Professional-Teaching-Profile-" target="_blank" rel="noopener">What types of certification or credentials are required for a Professional Teaching Profile?</a><br><br>
+</li>
+<li>After your application is accepted, you will be able to update your previous lessons or add more lessons. Your previous lesson history and reviews will also be saved.</li>
+</ul>
+<h3><strong>Apply <a href="https://teach.italki.com/apply/step/1" target="_blank" rel="noopener">here</a></strong></h3>
+<p>In the upgrade application form, you will be prompted for the following information about your background and experience.</p>
+<ul>
+<li>
+<strong><span style="line-height: 1.45em;">Education<br></span></strong>Example: <span>A university degree in teaching XXX as a foreign or second language</span>
+</li>
+<li>
+<span style="line-height: 1.45em;"><strong>Work experience</strong> <br></span><span style="line-height: 1.45em;">Example: Professional employment as a language teacher<br></span><em><span style="line-height: 1.45em;">Note: Any necessary documents must be uploaded to the "Certificates" section</span></em>
+</li>
+<li>
+<span style="line-height: 1.45em;"><strong>Certificates<br></strong></span><span style="line-height: 1.45em;">Example: CELTA, TEFL, etc.</span>
+</li>
+</ul>
+<p>You will also have the opportunity to update your self-introduction and video.</p>
+<p> </p>
+<p><strong>Can I downgrade my profile? </strong></p>
+<p>Professional teachers can contact italki support to downgrade their teacher profiles.</p>
+<p>However, the downgrade action is irreversible. If you want to upgrade your profile again, please follow the normal upgrade process.</p>

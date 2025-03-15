@@ -1,0 +1,26 @@
+<h1>Regional Service Termination Notice</h1>
+<p><span class="wysiwyg-font-size-large"><strong>italki is planning to stop our service in the following regions on 25th June 2022 at 23:59 (UTC+0)</strong></span></p>
+<p><span class="wysiwyg-font-size-large">Iran</span></p>
+<p><span class="wysiwyg-font-size-large">Cuba</span></p>
+<p><span class="wysiwyg-font-size-large">North Korea</span></p>
+<p><span class="wysiwyg-font-size-large">Syria</span></p>
+<p><span class="wysiwyg-font-size-large" style="font-weight: 400;">This means that users living in the above-mentioned regions will no longer have access to the italki website or apps. Users will not be able to access their account, profile, and wallet balance.</span></p>
+<h3 id="h_01J8SBXYHHNETXYASDYBW6QK5F"><span class="wysiwyg-font-size-large"><strong>For Students in the above-mentioned regions:</strong></span></h3>
+<ul>
+<li style="font-weight: 400;" aria-level="1"><span class="wysiwyg-font-size-large" style="font-weight: 400;">Students living in the above regions will be able to use their credit balance and complete their scheduled lessons/packages before 25th June 2022 at 23:59 (UTC+0)</span></li>
+<li style="font-weight: 400;" aria-level="1"><span class="wysiwyg-font-size-large">After the termination date, you will not be able to access the italki site or app</span></li>
+</ul>
+<h3 id="h_01J8SBXYHHBNMYZ9BH31SJA7H7"><span class="wysiwyg-font-size-large"><strong>For Students who have teachers in the above-mentioned regions:</strong></span></h3>
+<ul>
+<li style="font-weight: 400;" aria-level="1"><span class="wysiwyg-font-size-large" style="font-weight: 400;">Lessons scheduled after 17th June 2022 at 23:59(UTC+0) with teachers in the above-mentioned regions will be canceled on the 13th of June</span></li>
+<li style="font-weight: 400;" aria-level="1"><span class="wysiwyg-font-size-large" style="font-weight: 400;">Any unfinished packages booked with teachers in the above-mentioned regions will be terminated at package price on the 13th of June</span></li>
+</ul>
+<h3 id="h_01J8SBXYHH7Q2TKNKPTHNXS5DP"><span class="wysiwyg-font-size-large"><strong>For Teachers in the above-mentioned regions:</strong></span></h3>
+<ul>
+<li style="font-weight: 400;" aria-level="1"><span class="wysiwyg-font-size-large" style="font-weight: 400;">Teachers living in the above-mentioned regions will be able to withdraw their credit balance</span></li>
+<li style="font-weight: 400;" aria-level="1"><span class="wysiwyg-font-size-large" style="font-weight: 400;">Teachers living in the above-mentioned regions will not be able to accept new lesson requests on or after the 13th of June 2022</span></li>
+<li style="font-weight: 400;" aria-level="1"><span class="wysiwyg-font-size-large" style="font-weight: 400;">Upcoming lessons scheduled after the 17th of June 2022 at 23:59(UTC+0) from teachers in the above-mentioned regions will be canceled on the 13th of June</span></li>
+<li style="font-weight: 400;" aria-level="1"><span class="wysiwyg-font-size-large" style="font-weight: 400;">Any unfinished packages from teachers in the above-mentioned regions will be terminated at package price on the 13th of June</span></li>
+<li style="font-weight: 400;" aria-level="1"><span class="wysiwyg-font-size-large" style="font-weight: 400;">For any leftover balance in the teacher's wallet, italki will automatically submit a withdrawal to the teacher’s default withdrawal account. We do suggest teachers in the above-mentioned region to withdraw their balance as soon as possible</span></li>
+</ul>
+<p><span class="wysiwyg-font-size-large"><span style="font-weight: 400;">W</span><span style="font-weight: 400;">e regret that we can no longer provide service in the above-mentioned regions.</span></span></p>

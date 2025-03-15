@@ -1,0 +1,10 @@
+<h1>How do I change my italki login email?</h1>
+<p><span style="font-weight: 400;">1. To change the email you use to login to italki, click "Change email" </span></p>
+<p><span style="font-weight: 400;"><img src="https://support.italki.com/hc/article_attachments/900005322723/mceclip0.png" alt="mceclip0.png"><br>2. Enter your italki password to verify your identity.</span></p>
+<p><span style="font-weight: 400;"><img src="https://support.italki.com/hc/article_attachments/900005322783/mceclip1.png" alt="mceclip1.png"></span></p>
+<p><span style="font-weight: 400;">3. Enter a new email address you’d like to use. Click "save"</span></p>
+<p><strong><img src="https://support.italki.com/hc/article_attachments/900005322843/mceclip2.png" alt="mceclip2.png"></strong></p>
+<p>4. Go to your email inbox and click the link provided in the email to verify your new email address. </p>
+<h2> </h2>
+<p><span style="font-weight: 400;">Related:  <a href="https://support.italki.com/hc/en-us/articles/900006856903-Stop-sign-in-with-Facebook-Google-or-Apple-ID" target="_self" rel="undefined">Stop sign-in with Facebook, Google, or Apple ID</a>  </span></p>
+<p id="h_01EQ7KC49FTNVJHRYP832R7S1J">If you would like to deactivate your italki account, check <a href="https://support.italki.com/hc/en-us/articles/206352938" target="_self" rel="undefined">How do I deactivate my italki account?</a></p>

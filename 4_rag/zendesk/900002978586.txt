@@ -1,0 +1,25 @@
+<h1>What are the technology requirements for teachers?</h1>
+<p><strong>Stable internet connection</strong></p>
+<p>You can test your connection speed <a href="http://www.speedtest.net/" target="_blank" rel="noopener">here</a> and improve your connection speed <a href="http://www.wikihow.com/Maximize-the-Speed-of-Your-Internet-Connection" target="_blank" rel="noopener">here</a>.</p>
+<p> </p>
+<p><strong>Video communication tools</strong></p>
+<p><span style="font-weight: 400;">You can use one or more of the following video platforms to conduct lessons.</span></p>
+<ul>
+<li style="font-weight: 400;">
+<span style="font-weight: 400;">italki Classroom (</span><a href="https://support.italki.com/hc/en-us/articles/360020513473-italki-Classroom-Guidance-for-teachers" target="_blank" rel="noopener">italki Classroom Guidance for teachers</a><span style="font-weight: 400;">)</span>
+</li>
+<li style="font-weight: 400;" aria-level="1"><span style="font-weight: 400;">Skype</span></li>
+<li style="font-weight: 400;" aria-level="1">
+<span style="font-weight: 400;">Zoom (</span><a href="https://support.italki.com/hc/en-us/articles/900004117546-How-do-I-find-my-personal-Zoom-link-ID-and-Passcode-" target="_blank" rel="noopener">How do I find my personal Zoom link, ID and Passcode?</a><span style="font-weight: 400;">) </span>
+</li>
+<li style="font-weight: 400;" aria-level="1"><span style="font-weight: 400;">Google Hangouts</span></li>
+<li style="font-weight: 400;" aria-level="1"><span style="font-weight: 400;">Facetime</span></li>
+<li style="font-weight: 400;" aria-level="1"><span style="font-weight: 400;">WeChat</span></li>
+<li style="font-weight: 400;" aria-level="1"><span style="font-weight: 400;">QQ</span></li>
+</ul>
+<p><span style="font-weight: 400;">When a student requests a lesson with you, italki will provide you and your student with the contact details (such as Skype account/ID) or a link to italki Classroom or Zoom.</span></p>
+<p><span style="font-weight: 400;">For more information about setting up and using communication tools, click </span><a href="https://support.italki.com/hc/en-us/articles/900002978646-Which-communication-tools-can-I-use-to-teach-" target="_blank" rel="noopener">here</a><span style="font-weight: 400;">.</span></p>
+<p> </p>
+<p><strong>Microphone and webcam</strong></p>
+<p><strong>You must have a microphone and a webcam. Headphones are also recommended.</strong></p>
+<p><span style="font-weight: 400;">Using an external camera or microphone typically provides better audio/video quality than using your device's built-in camera or microphone.</span></p>

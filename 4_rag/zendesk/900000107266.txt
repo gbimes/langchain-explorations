@@ -1,0 +1,55 @@
+<h1>What is Lesson Invitation and how do I use this feature?</h1>
+<p class="wysiwyg-text-align-left"><span style="font-weight: 400;">Lesson Invitation allows a teacher to invite his/her students to take lessons. Lessons initiated using Lesson Invitation can start in less or more than 12 hours and at any 15-minute interval e.g. 1:00, 1:15, 1:30, 1:45, 2:00.</span></p>
+<p> </p>
+<p class="wysiwyg-text-align-center"><strong> <iframe src="//player.vimeo.com/video/391445238" width="840" height="472" frameborder="0" allowfullscreen=""></iframe> </strong></p>
+<p class="wysiwyg-text-align-left">Click on "CC" to select subtitles in English, Español, Français, Italiano, Pусский, 中文, 日本語.</p>
+<p class="wysiwyg-text-align-left"> </p>
+<h2 id="h_01J3H8VBFJRQZ49N9C5TGV6VE4">
+<strong>Lesson Invitation Rules</strong><span style="font-weight: 400;"></span>
+</h2>
+<ol>
+<li style="font-weight: 400;" aria-level="1">The student needs to have communicated with you on italki message before you send out the lesson invitation.</li>
+<li style="font-weight: 400;" aria-level="1"><span style="font-weight: 400;">Only 1 Lesson Invitation can be sent to a student at a time (once the student accepts, another Lesson Invitation can be sent to the same student).</span></li>
+<li style="font-weight: 400;" aria-level="1"><span style="font-weight: 400;">A Lesson Invitation will automatically be canceled after 12 hours if no action has been taken by the student.</span></li>
+<li style="font-weight: 400;" aria-level="1"><span style="font-weight: 400;">Teachers will not be penalized for canceled or expired Lesson Invitations.</span></li>
+<li style="font-weight: 400;" aria-level="1"><span style="font-weight: 400;">Do not use this feature to spam your students -  italki will monitor the usage of Lesson Invitation and if we receive student complaints you will no longer be able to use this feature. </span></li>
+<li style="font-weight: 400;" aria-level="1">
+<span style="font-weight: 400;">Lesson invitation is only available for individual and package lessons. Trial lessons are not supported.</span><span style="font-weight: 400;"></span>
+</li>
+</ol>
+<p><span style="font-weight: 400;"><strong>Note:</strong> Lesson Invitation will work in <strong>conjunction</strong> with the current process where students send lesson requests to teachers.</span></p>
+<p> </p>
+<p class="wysiwyg-text-align-center"><span style="font-weight: 400;"> <strong> <iframe src="//player.vimeo.com/video/391444666" width="840" height="472" frameborder="0" allowfullscreen=""></iframe> </strong> </span></p>
+<p><span style="font-weight: 400;">Click on "CC" to select subtitles in English, Español, Français, Italiano, Pусский, 中文, 日本語.</span></p>
+<p> </p>
+<h2 id="h_01J3H8VBFKGJXVC2P5PST5HF8P"><span class="wysiwyg-font-size-large"><strong>How Do I Use Lesson Invitation?</strong></span></h2>
+<p><span style="font-weight: 400;">When clicking “My Lessons” you will see 3 categories, one of which is Lesson Invitation. This is where all your sent Lesson Invitations will be recorded.</span><span style="font-weight: 400;"></span></p>
+<p><img src="https://support.italki.com/hc/article_attachments/900000207706" alt="mceclip2.png" width="657" height="275"></p>
+<p> </p>
+<p><span style="font-weight: 400;">When clicking “My Students”, you will find the Lesson Invitation icon </span><span style="font-weight: 400;">(highlighted in red)</span><span style="font-weight: 400;">. Lesson Invitation can be sent to Students (those who have had communicated with you ) and Potential Students (those who have spoken with you but not yet booked a lesson).</span></p>
+<p><img src="https://support.italki.com/hc/article_attachments/900000207846" alt="mceclip3.png" width="663" height="269"></p>
+<p> </p>
+<p><span style="font-weight: 400;">By clicking <img src="https://support.italki.com/hc/article_attachments/36793607027225" alt="Screenshot_2020-01-13_at_11.48.43.png" width="35" height="29"> , </span><span style="font-weight: 400;">you can create a Lesson Invitation to send to your student. You can also send a Lesson Invitation to your students in Messages by clicking the same icon.</span></p>
+<p><span style="font-weight: 400;"><img src="https://support.italki.com/hc/article_attachments/900002290543" alt="Screenshot_2.jpg" width="674" height="204"></span></p>
+<p> </p>
+<p><span style="font-weight: 400;">You will then have the choice to send an individual (Lesson) or package lesson invitation (Active Package). To send a package Lesson Invitation, select the package and click Next. </span></p>
+<p><span style="font-weight: 400;"><img src="https://support.italki.com/hc/article_attachments/900002036086" alt="WXWorkCapture_15929683044716.png" width="576" height="446"></span></p>
+<p> </p>
+<p><span style="font-weight: 400;">For individual lessons select the lesson language, lesson type, price, and communication tool then click Next. You have the option to easily set a different price for this lesson:</span></p>
+<p><img src="https://support.italki.com/hc/article_attachments/900000206083" alt="mceclip1.png" width="517" height="430"></p>
+<p> </p>
+<p> <span style="font-weight: 400;">For both individual and package Lesson Invitations please select an available time slot:</span></p>
+<p><span style="font-weight: 400;"><img src="https://support.italki.com/hc/article_attachments/900000194843" alt="Screenshot_2020-01-13_at_11.51.46.png"></span></p>
+<p> </p>
+<p><span style="font-weight: 400;">Confirm the details of this Lesson Invitation and send it to your student:</span></p>
+<p><img src="https://support.italki.com/hc/article_attachments/900002036686" alt="Screenshot_1.jpg" width="598" height="441"></p>
+<p> </p>
+<p><span style="font-weight: 400;">Under “My Lessons” you will see a record of this Lesson Invitation and its status:</span></p>
+<p><img src="https://support.italki.com/hc/article_attachments/900000207866" alt="mceclip6.png"></p>
+<p> </p>
+<p><span style="font-weight: 400;">If you wish to make changes to this Lesson Invitation, click on it and you will have the option to cancel it without being penalized:</span></p>
+<p><img src="https://support.italki.com/hc/article_attachments/900000206403" alt="mceclip9.png"></p>
+<p> </p>
+<p><span style="font-weight: 400;">Students will receive your Lesson Invitation in their Messages and on their Student Dashboard. They can respond to the Lesson Invitation by clicking “Accept” or “Decline”. </span><span style="font-weight: 400;">If the student does not respond, the Lesson Invitation </span><span style="font-weight: 400;">will expire after 12 hours</span><span style="font-weight: 400;">.</span></p>
+<p><span style="font-weight: 400;">For teachers, once your Lesson Invitation is accepted, your Lesson Invitation will be displayed under the “Lessons” tab as an Upcoming Lesson.</span></p>
+<p><img src="https://support.italki.com/hc/article_attachments/900000208166" alt="mceclip12.png" width="674" height="383"></p>

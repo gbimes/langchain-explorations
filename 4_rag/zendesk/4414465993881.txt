@@ -1,0 +1,37 @@
+<h1>Recurring Lessons</h1>
+<h3 class="wysiwyg-text-align-center">Rebook with your existing teachers</h3>
+<p> </p>
+<p>If you want to rebook another lesson with your existing teacher, you can book from your teacher profile, your lesson list, lesson detail page, lesson review, and finally teacher calendar. You will be directed to the lesson options page.</p>
+<p><img src="https://support.italki.com/hc/article_attachments/36788797782041" alt="mceclip7.png"></p>
+<ul>
+<li>Choose “Select specific time” as the schedule method, you just need to select lesson quantity and then follow the normal lesson or package lesson booking flow.</li>
+</ul>
+<p><img src="https://support.italki.com/hc/article_attachments/36788797781017" alt="mceclip0.png"></p>
+<p> </p>
+<ul>
+<li>
+<span style="font-weight: 400;">If you want to book lessons consistently for a set period of time, choose “recurring” and then select “Custom amount”. </span>Make sure to select the lesson type, duration, and communication tool before proceeding.</li>
+</ul>
+<p><span style="font-weight: 400;"><img src="https://support.italki.com/hc/article_attachments/36788781177625" alt="mceclip8.png"></span></p>
+<p><span style="font-weight: 400;"> </span></p>
+<ul>
+<li class="wysiwyg-indent4"><span style="font-weight: 400;">Select the time to have your lesson and the duration of the recurring lessons. Users can add up to 7 lesson times in total. There are 4 duration options: 4 weeks, 8 weeks, 12 weeks, and 16 weeks.</span></li>
+<li class="wysiwyg-indent4">
+<span style="font-weight: 400;">Once you have finished choosing the lesson time and duration, you can see the result in the right result bar. If the teacher's availability cannot fulfill some of your preferred times, or you want to disable a specific lesson, you can modify the date and time accordingly.</span><span style="font-weight: 400;"></span>
+</li>
+</ul>
+<p><img src="https://support.italki.com/hc/article_attachments/36788797788953" alt="mceclip10.png">   <img src="https://support.italki.com/hc/article_attachments/36788781179161" alt="mceclip11.png">   <img src="https://support.italki.com/hc/article_attachments/36788781181721" alt="mceclip13.png"></p>
+<ul>
+<li class="wysiwyg-indent4">
+<span style="font-weight: 400;">After completing your lesson selection, the total price will be shown in the bottom right.</span><span style="font-weight: 400;"></span>
+</li>
+</ul>
+<h3>FAQ:</h3>
+<p><strong>1.</strong> How many lessons can I book at one time if the teacher is available for all the lesson times I choose?</p>
+<p>7 lesson times * 16 weeks = 112 lessons in total</p>
+<p> </p>
+<p><strong>2.</strong> Is it possible to book 1 lesson or custom lessons through recurring functions?</p>
+<p>Yes, after you choose the lesson time and duration, if the teacher is only available for one of the lesson times, you will get 1 lesson when you proceed to the payment page.</p>
+<p> </p>
+<p><strong>3.</strong> Will lessons booked through the recurring lesson function be considered single lessons or package lessons?</p>
+<p>If the lesson number is more than 2, it will be considered a package lesson.</p>

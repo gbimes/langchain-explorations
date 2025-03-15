@@ -1,0 +1,109 @@
+<h1>Release Notes Through 2021-01-10 - Cmnty Update - Internal Reference </h1>
+<header class="article-header">
+<div class="article-author">
+<div class="article-meta">Below is the content of <strong>Release Notes Public for all users:</strong>
+</div>
+<div class="article-meta">
+<a href="https://support.italki.com/hc/en-us/articles/900004054086">https://support.italki.com/hc/en-us/articles/900004054086</a> </div>
+<div class="article-meta">
+<p><strong>---</strong></p>
+<p><strong>Voice messages are supported! </strong></p>
+<p><span style="font-weight: 400;">On the italki </span><strong>app</strong><span style="font-weight: 400;">, you can send, receive and play voice messages. </span></p>
+<p><span style="font-weight: 400;">On the italki </span><strong>web</strong><span style="font-weight: 400;">, only receiving and playing voice messages are supported.</span></p>
+<br>
+<p><strong>Files are saved for 30 days </strong></p>
+<br>
+<p><span style="font-weight: 400;">On the italki web, only teachers and paying users can send </span><strong>images and files.</strong></p>
+<p><span style="font-weight: 400;">On the italki app, all users can send </span><strong>images</strong><span style="font-weight: 400;">, Only teachers and paying users can send files.</span></p>
+<br>
+<p><span style="font-weight: 400;">Files will be saved on italki for 30 days. Make sure you download the file you need and save it locally before it expires! </span></p>
+<p><span style="font-weight: 400;">---</span></p>
+<h2><span class="wysiwyg-color-red" style="font-weight: 400;">Release Notes - internal for CS reference</span></h2>
+<p><span style="font-weight: 400;">All messages expire after 180 days </span></p>
+<br>
+<table>
+<tbody>
+<tr>
+<td>
+<p><strong>Platform</strong></p>
+</td>
+<td>
+<p><strong>Type</strong></p>
+</td>
+<td>
+<p><strong>Teachers</strong></p>
+</td>
+<td>
+<p><strong>Students</strong></p>
+</td>
+<td>
+<p><strong>Free Users</strong></p>
+</td>
+</tr>
+<tr>
+<td rowspan="2">
+<p><span style="font-weight: 400;">App</span></p>
+</td>
+<td>
+<p><span style="font-weight: 400;">image</span></p>
+</td>
+<td>
+<p><span style="font-weight: 400;">Y</span></p>
+</td>
+<td>
+<p><span style="font-weight: 400;">Y</span></p>
+</td>
+<td>
+<p><span style="font-weight: 400;">Y</span></p>
+</td>
+</tr>
+<tr>
+<td>
+<p><span style="font-weight: 400;">Other files</span></p>
+</td>
+<td>
+<p><span style="font-weight: 400;">Y</span></p>
+</td>
+<td>
+<p><span style="font-weight: 400;">Y</span></p>
+</td>
+<td>
+<p><span style="font-weight: 400;">N</span></p>
+</td>
+</tr>
+<tr>
+<td rowspan="2">
+<p><span style="font-weight: 400;">Web</span></p>
+</td>
+<td>
+<p><span style="font-weight: 400;">image</span></p>
+</td>
+<td>
+<p><span style="font-weight: 400;">Y</span></p>
+</td>
+<td>
+<p><span style="font-weight: 400;">Y</span></p>
+</td>
+<td>
+<p><span style="font-weight: 400;">N</span></p>
+</td>
+</tr>
+<tr>
+<td>
+<p><span style="font-weight: 400;">Other files</span></p>
+</td>
+<td>
+<p><span style="font-weight: 400;">Y</span></p>
+</td>
+<td>
+<p><span style="font-weight: 400;">Y</span></p>
+</td>
+<td>
+<p><span style="font-weight: 400;">N</span></p>
+</td>
+</tr>
+</tbody>
+</table>
+</div>
+</div>
+</header>

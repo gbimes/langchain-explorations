@@ -1,0 +1,6 @@
+<h1>Lesson Dispute</h1>
+<p><strong>If the incomplete lesson request and solution are declined twice</strong>, the lesson will be in dispute.</p>
+<p> </p>
+<p>Our support team will settle the italki credits based on the materials submitted in the system within 3 days from the date of the dispute. <strong>All italki decisions are final.</strong></p>
+<p> </p>
+<p>We suggest that you discuss lesson issues with your teacher before submitting a lesson incomplete request to avoid disputes.</p>

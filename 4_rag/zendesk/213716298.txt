@@ -1,0 +1,36 @@
+<h1>How do I apply to become a teacher?</h1>
+<p><strong>To apply as a teacher, please follow these steps:</strong></p>
+<ol>
+<li style="font-weight: 400;" aria-level="1">
+<span style="font-weight: 400;">Submit an application on </span><a href="https://teach.italki.com/"><span style="font-weight: 400;">https://teach.italki.com</span></a><span style="font-weight: 400;"> (via a computer or laptop, not available on the phone or app). Applicants will be notified of the result within 10 business days.</span>
+</li>
+<li style="font-weight: 400;" aria-level="1"><span style="font-weight: 400;">Complete the following onboarding process within 15 calendar days upon receiving a pre-approval email.</span></li>
+<ul>
+<li style="font-weight: 400;" aria-level="2">
+<span style="font-weight: 400;">Upload your identity document (</span><a href="https://support.italki.com/hc/en-us/articles/900002930163"><span style="font-weight: 400;">How to pass ID verification?</span></a><span style="font-weight: 400;">)</span>
+</li>
+<li style="font-weight: 400;" aria-level="2"><span style="font-weight: 400;">Watch the Teacher Success tutorial videos</span></li>
+<li style="font-weight: 400;" aria-level="2"><span style="font-weight: 400;">Complete the guided tutorials to set up your account</span></li>
+<li style="font-weight: 400;" aria-level="2"><span style="font-weight: 400;">Pass the quizzes.</span></li>
+</ul>
+</ol>
+<p><span style="font-weight: 400;">After you have completed the onboarding process and finished setting up your account you are ready to go! </span></p>
+<p><span style="font-weight: 400;"> </span></p>
+<p><span style="font-weight: 400;">A few tips: </span></p>
+<ol>
+<li style="font-weight: 400;" aria-level="1">
+<span style="font-weight: 400;">Before you apply, please check which teacher type you want to apply for. </span><strong>You can only choose one teacher type</strong><span style="font-weight: 400;">.</span><span style="font-weight: 400;"><br></span><a href="https://support.italki.com/hc/en-us/articles/900002978766-Difference-between-Professional-Teacher-and-Community-Tutor"><span style="font-weight: 400;">Difference between Professional Teacher and Community Tutor</span><span style="font-weight: 400;"><br></span><span style="font-weight: 400;"><br></span></a><span style="font-weight: 400;">If you first apply to become a Community Tutor, you can later upgrade to Professional Teacher.</span><span style="font-weight: 400;"><br></span><a href="https://support.italki.com/hc/en-us/articles/206352008"><span style="font-weight: 400;">Can a Community Tutor upgrade to a Professional Teacher?</span><span style="font-weight: 400;"><br><br></span></a>
+</li>
+<li style="font-weight: 400;" aria-level="1">
+<span style="font-weight: 400;">As a teacher, you need to have the minimum requirements for technology.</span><span style="font-weight: 400;"><br></span><a href="https://support.italki.com/hc/en-us/articles/900002978586-What-are-the-technology-requirements-for-italki-teachers-"><span style="font-weight: 400;">What are the technology requirements for italki teachers?</span><span style="font-weight: 400;"><br><br></span></a>
+</li>
+<li style="font-weight: 400;" aria-level="1">
+<span style="font-weight: 400;">Once you’ve submitted your application, you can’t edit or cancel it unless you contact italki Support.</span><span style="font-weight: 400;"><br><br></span>
+</li>
+<li style="font-weight: 400;" aria-level="1">
+<span style="font-weight: 400;">If you need help with preparing an introduction video, please check this page:</span><span style="font-weight: 400;"> </span><a href="https://support.italki.com/hc/en-us/articles/212496758-How-do-I-record-and-upload-a-video-to-italki-"><span style="font-weight: 400;">How do I record and upload a video to italki?</span><span style="font-weight: 400;"><br></span></a><span style="font-weight: 400;"></span>
+</li>
+<li style="font-weight: 400;" aria-level="1">Once you’ve become a teacher, you can update your profile such as your intro video, <a style="background-color: #ffffff;" href="https://support.italki.com/hc/en-us/articles/900007656563-How-to-add-another-teaching-language">adding another teaching language</a><span>, etc.</span>
+</li>
+<li style="font-weight: 400;" aria-level="1">Teacher application may be declined due to the unqualified document and profile.</li>
+</ol>

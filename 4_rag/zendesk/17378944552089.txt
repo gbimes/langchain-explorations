@@ -1,0 +1,18 @@
+<h1>Teacher Statistics: Students</h1>
+<p>The Students Statistics at the bottom of your teacher dashboard can tell you a lot about your performance and business on italki, and help you understand where you can make improvements in managing your account. This Article is for the Students Statistics. Find the other statistics below:</p>
+<ul>
+<li><a href="https://support.italki.com/hc/en-us/articles/17378840206489" target="_self">Lesson Overview</a></li>
+<li><a href="https://support.italki.com/hc/en-us/articles/17378894636697" target="_self">My Popular Lessons</a></li>
+<li><a href="https://support.italki.com/hc/en-us/articles/17379044730649" target="_self">Earnings</a></li>
+<li><a href="https://support.italki.com/hc/en-us/articles/17378789551129" target="_self">The Basics</a></li>
+</ul>
+<h3><span style="color: #434343;">Students</span></h3>
+<p>Students are the main statistics related to your students, people who have completed a lesson with you.</p>
+<p><img src="https://lh4.googleusercontent.com/aw3ESMgFQlBIkqRO5YTAU_mows0PMarFVpSvhL3eXs7r0s-Lz8mqh9aT6I-s4FrMZCH_W0yjHPgDCMQsiOjpwzhawfXPpqoOtHpeIlAnsfWYDjbwdYdg7pF03_ZQa-BXsvtoBLDv18zYMivkDCI8w3s"></p>
+<p> </p>
+<ul>
+<li>“Total” is <strong>the number of students you have ever had a class</strong> with you. </li>
+<li>Under that is the number of new students each month, +15 would mean you had <strong>15 first lessons with students</strong>, not just trials as the students can be old to italki but new to you.</li>
+<li>“Retention” is <strong>how many students who had a completed lesson with you one month, have completed a lesson the next month</strong>. Having a high retention rate can be a great indicator of how useful and effective students find your class. Keep in mind Test Teachers and other specialties may have varying retention rates, but if your retention seems low to you, then you should look at improving your abilities in the lesson, so students want to keep coming back.       </li>
+</ul>
+<p>These can show you how well you are gaining and keeping students to grow your business on italki.</p>

@@ -1,0 +1,30 @@
+<h1>SOP: Re-application policy for TMS deactivated teachers</h1>
+<p>Teachers who have had 4 or more missed lesson reports will be automatically deactivated by TMS.</p>
+<p> </p>
+<h3><strong>Conditions</strong></h3>
+<p>For a missed lesson report, we expect the teacher:</p>
+<ol>
+<li style="font-weight: 400;"><span style="font-weight: 400;">Give the student prior notice as soon as they can if they won't be able to attend the lesson. </span></li>
+<li style="font-weight: 400;"><span style="font-weight: 400;">At least explain to the student with detailed reason for the missed lesson after the lesson. </span></li>
+</ol>
+<p><span style="font-weight: 400;">If the teacher does not meet the 2 conditions above, then we consider this lesson is a <strong>real</strong></span><span style="font-weight: 400;"> unattended lesson and this is really </span><strong>bad</strong><span style="font-weight: 400;"> behaviour.</span></p>
+<p>Example:</p>
+<p><img src="https://support.italki.com/hc/article_attachments/360006757834/Screen_Shot_2018-06-05_at_3.54.02_PM.png" alt="Screen_Shot_2018-06-05_at_3.54.02_PM.png" width="646" height="426"></p>
+<p> </p>
+<h3><strong>Re-application policy</strong></h3>
+<p><span style="font-weight: 400;">1. If the teacher has had <strong>3 or more</strong> missed lesson reports without giving the student any prior notice, valid reasons, or explanation afterwards (apart from something out of their control i.e. seriously illness):</span></p>
+<p>a.<span style="font-weight: 400;"> If they contact us, explain in detail and show a strong desire that they still want to teach again, <strong>ban them for 3 months</strong>, then they are allowed to re-apply again. </span></p>
+<p>b.<span style="font-weight: 400;"> If the teacher doesn't contact us or explain in detail but re-apply directly, they should be banned from re-applying <strong>permanently</strong>.</span></p>
+<p><span class="wysiwyg-color-red"><em><span style="font-weight: 400;">After they re-apply, if they have been deactivated again by the TMS, they should be banned from italki permanently.</span></em></span></p>
+<p>Leave a sticky note in the OMS:</p>
+<p><img src="https://support.italki.com/hc/article_attachments/360006809274/Screen_Shot_2018-06-06_at_11.23.34_AM.png" alt="Screen_Shot_2018-06-06_at_11.23.34_AM.png" width="707" height="164"></p>
+<p> </p>
+<p>2.<span style="font-weight: 400;"> If they've had</span> <strong>1 or 2</strong> missed lesson reports without giving the student any prior notice or valid reasons afterwards (apart from something out of their control i.e. seriously illness):</p>
+<p>a. <span style="font-weight: 400;">If they contact us, explain in detail and show a strong desire that they still want to teach again</span>, we can allow them to re-apply.</p>
+<p> </p>
+<h3>Case Study:</h3>
+<p><a href="https://omsv2.italki.com/user/3604506/teacher-info">https://omsv2.italki.com/user/3604506/teacher-info</a></p>
+<p>Teacher Nathalia had more than 3 <span style="font-weight: 400;"><strong>real</strong></span><span style="font-weight: 400;"> missed lesson reports without giving the student any prior notice or valid reasons/explanation afterwards).</span></p>
+<p><span style="font-weight: 400;"><img src="https://support.italki.com/hc/article_attachments/360006816113/Screen_Shot_2018-06-05_at_4.12.56_PM.png" alt="Screen_Shot_2018-06-05_at_4.12.56_PM.png" width="670" height="396"></span></p>
+<p><span style="font-weight: 400;">She contacted us and explained in detail, also showed a strong desire that she wanted to teach again. We allowed her to re-apply <strong>3 months</strong> later.</span></p>
+<p><a href="https://support.italki.com/agent/tickets/227589"><span style="font-weight: 400;">https://italki.zendesk.com/agent/tickets/227589</span></a></p>

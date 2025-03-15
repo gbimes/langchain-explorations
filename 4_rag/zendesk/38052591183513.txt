@@ -1,0 +1,21 @@
+<h1>What is italki Plus and how does it help teachers?</h1>
+<h3 id="h_01J9R9XNXFWC0K5Y0CAP5EMN64">
+<span style="color: #434343;">What is italki Plus?</span><span style="color: #434343;"><del> </del></span>
+</h3>
+<p>You can find full details here on the Student FAQ: <a href="https://support.italki.com/hc/en-us/articles/37624223919385-What-is-italki-Pro"><span class="wysiwyg-underline" style="color: #1155cc;">What is italki Plus?</span></a></p>
+<h3 id="h_01J9R9XNXFN44V32WXS2RNASQW"><span style="color: #434343;">How can I be an italki Plus Teacher?</span></h3>
+<p>To participate you must turn on the lesson Audio recording for the italki classroom in your privacy settings, and provide italki Plus Students lessons in the italki classroom.    </p>
+<h3 id="h_01J9R9XNXFZFN98GG72WJ4RF3J"><span style="color: #434343;">What are the benefits of being an italki Plus Teacher?</span></h3>
+<p>As an italki Plus Teacher, you have access to exclusive features and benefits, including:</p>
+<ul>
+<li>
+<strong>italki Plus Teacher Label:</strong> Your profile will be tagged as an "italki Plus Teacher" if you have the lesson recording feature toggled on. </li>
+<li>
+<strong>Search Filters:</strong> italki Plus Teachers are filtered in search results for italki Plus Students, making it easier for italki Plus Students to find and book with you. </li>
+<li>
+<strong>Targeted Student Recommendations:</strong> italki Plus Students will only be recommended italki Plus Teachers by default, ensuring that your visibility among these students is maximized.</li>
+</ul>
+<h3 id="h_01J9R9XNXFHWY8VBFQ7PEV8SZJ"><span style="color: #434343;">What happens if I have the Lesson Audio Recording toggle off, but an italki Plus Student books with me?</span></h3>
+<p>If an italki Plus Student books a lesson with you and your lesson recording toggle is off, the system will prompt you to turn it on. This is to ensure that italki Plus Students can take full advantage of the lesson recording and other Plus features.</p>
+<h3 id="h_01J9R9XNXF9VD7MAPKZVP38PYC"><span style="color: #434343;">My italki Plus Student doesn’t see an AI lesson summary, what happened? </span></h3>
+<p>While they can contact support to double-check, keep in mind that only the top 35 languages are supported by the AI features. We are working on expanding that, but if you teach a smaller language your students may not see a summary, they can enjoy the other italki Plus Benefits though.</p>

@@ -1,0 +1,27 @@
+<h1>What if a student asks me to pay outside of italki? </h1>
+<p><strong>Accepting payment outside of the italki platform is a serious violation of italki Terms of Service</strong></p>
+<p>All lessons with italki students must be paid for through the italki platform. Expectations of italki teachers are clearly outlined here: <a href="https://support.italki.com/hc/en-us/articles/215325898" target="_blank" rel="noopener">italki Teacher Policies Code of Conduct</a></p>
+<p>Teachers who violate italki Terms of Service will be removed from italki.</p>
+<p>If a student asks you to accept payment outside of the italki system, then as an italki teacher, you <strong>must decline a student's request</strong>. Let the student know that in order to book a lesson and send payment, they must do this through your italki teaching profile.</p>
+<p>In addition, you should let us know about these students by <a href="https://support.italki.com/requests/new" target="_blank" rel="noopener">submitting a support ticket</a>. This way, we can be sure that you were not violating italki policy.</p>
+<p> </p>
+<h3><span class="wysiwyg-font-size-large">Accepting or requesting payments outside of the italki system is detrimental for italki teachers:</span></h3>
+<ul>
+<li>
+<strong>Payment Risk</strong>: Lessons outside of italki have payment risk. Students may or may not follow through with promises to pay. </li>
+<li>
+<strong>Student Reputation</strong>: On italki, students also have to maintain a reputation. Students that are found to be irresponsible are also removed from the system. </li>
+<li>
+<strong>Teacher Reputation Building</strong>: Teachers that teach off of the system do not receive the public feedback and social credit that is recorded on italki. This removes an important feedback loop for social verification of teachers. </li>
+<li>
+<strong>Privacy Risk: </strong>On italki, you do not have to share any personal or private contact information with students. You can never be sure how someone else is going to use your personal contact information.</li>
+<li>
+<strong>Loss of Records</strong>: Lessons scheduled and paid for on the italki system are recorded in your account. italki will be able to find these records and help you if you need assistance.</li>
+<li>
+<strong>Lack of Support </strong>- In the event that a teaching session does not go as planned, there is no way for teachers and students to settle their issues. When the information is saved in the system, italki support staff are able to mediate in dispute and disagreements between teachers and students. </li>
+<li>
+<strong>Bad for the "marketplace"</strong> - If teachers accept lessons and payments outside of italki, then their posted times and prices would become less reliable and trustworthy.</li>
+</ul>
+<p> </p>
+<h3>Please Note: Warning to Teachers</h3>
+<p>Teachers that are found requesting payment, accepting payment, or taking students off of italki will have their profiles removed from italki, and their remaining italki Credits confiscated. </p>

@@ -1,0 +1,42 @@
+<h1>How do I start my new Group Course?</h1>
+<p>A new Group Course can be daunting, and the first class can be the key to the whole course! Here are some useful pieces of advice to follow in order to have a successful first class of a new course</p>
+<h4> </h4>
+<h4 id="h_01H94NQCT295M7DMPDT30GHWNX"><strong>How can I have a successful first class for my new course?</strong></h4>
+<p><strong>Include a communicative ‘warmer’ to get your students feeling comfortable with their classmates.</strong></p>
+<p>You should plan to spend the first 10 minutes of a new course on an exciting warmer activity. You want to get to know your students and you want them to know, and feel comfortable with everyone else because they will be together for several classes. </p>
+<p>There are a number of ways you can build a <em>‘get to know you’ </em>activity on Zoom but the most important thing is to get your students familiar with you, and the other students and, most importantly, get them talking!</p>
+<p> </p>
+<p><strong>Take time to explain the course &amp; set up clear guidelines for the rest of the course.</strong></p>
+<p>While your students may have read the course information it is worth spending some time during the first class explaining the course structure. You should include things like:</p>
+<ul>
+<li>The course schedule</li>
+<li>What each class will focus on</li>
+<li>What students are expected to do to prepare for the classes</li>
+<li>How they can communicate with you if there is a problem</li>
+</ul>
+<p><strong>Introduce important features of Zoom.</strong></p>
+<p>Zoom includes a few simple commands that help you run a smooth class, such as:</p>
+<ul>
+<li>The<em> raise hand</em> function</li>
+<li>Chatbox</li>
+<li>Reaction button</li>
+</ul>
+<p>You should encourage students to use these features - especially the chat box and reaction button because it provides a more engaging experience and these forms of non-verbal feedback allow the conversation to flow better. I recommend spending a few minutes at the start of the first class getting students familiarized with these features and comfortable using them from the very beginning of the course. This will pay dividends in future classes</p>
+<p> </p>
+<p><strong>Set up standards to follow.</strong></p>
+<p>In order for your first class to run smoothly (and continually every class of the course!) you should set up some clear guidelines that you, and the students, can follow. For example, if someone has something to say should they use the raise hand function? Just interrupt? Unmute themselves? What if someone joins late? How should they behave when they enter the Zoom call? And how will you deal with a student who refuses to turn their camera on? </p>
+<p>Also, should students join using a phone or laptop? Do they need to have a notebook and pen? If you will be sharing your screen a lot then you should inform students who may be joining from the phone because it will be hard for them to see everything and everyone at the same time. </p>
+<p> </p>
+<p><strong>Deal with any technical problems in the first class.</strong></p>
+<p>Obviously, some technical problems cannot be avoided. But common issues that may be rectified are things like poor audio quality, dim lighting, background noise, etc. If any of your students are experiencing these issues then I suggest that you address them in the first class and offer possible solutions. For example, if someone has terrible audio quality you can suggest that next time they come prepared with more than one set of headphones and change location to avoid any background noise</p>
+<p> </p>
+<p><strong>Provide a </strong><strong><em>‘sneak peek’</em></strong><strong> of the next class in the course.</strong></p>
+<p>You want to build excitement and anticipation for the next class of the course. Providing students with a <em>‘teaser’</em> is a great way to do this. In addition to detailing the focus on the next class, you might want to present a question for them to think about before the next class and let them know you will reveal the answer in the second class!</p>
+<p> </p>
+<p><strong>Hold a Zoom poll to gather feedback at the end of the class.</strong></p>
+<p>In the settings on your Zoom account, you can find an option to allow polls and quizzes during meetings. These polls can be incredibly useful in generating quick, direct feedback on your class and allowing you to improve for the next time. Personally, I like to ask 2- 4 simple, multiple-choice questions that only take a minute or so to answer. Some example questions could be:</p>
+<p class="wysiwyg-indent2"><em>Do you prefer speaking in a large group in the main room or in smaller groups in break-out rooms? </em></p>
+<p class="wysiwyg-indent2"><em>Did you complete the preparation before the class?</em></p>
+<p class="wysiwyg-indent2"><em>Did you enjoy the grammar game we played?</em></p>
+<p class="wysiwyg-indent2"> </p>
+<p>These tips come from our Expert Group Class Teacher Ian. For more tips and discussion find Ian and other Group Class teachers on the Teacher Forum!</p>

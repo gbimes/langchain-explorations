@@ -1,0 +1,41 @@
+<h1>Classroom Issue</h1>
+<div>Update: 2020/7/9 </div>
+<div>Please include Lesson ID into</div>
+<div><strong>Summary: italki classroom issue - Lesson ID </strong></div>
+<div></div>
+<div>2020/5/26 </div>
+<div></div>
+<p>Please follow the below steps when user report issues using italki classroom. </p>
+<div></div>
+<div>1. When the user report classroom issues, check if there is enough information provided by the user. (Information required can be found in 3. Description) </div>
+<div></div>
+<div></div>
+<div>2. If not, please use Marco: <em><strong><span> </span>product:: Classroom troubleshooting</strong></em><span> </span>to respond. This template is asking users to provide more information on the issue. </div>
+<div></div>
+<div></div>
+<div>3. Once we receive the reply from users, create a Jira ticket following the below instructions. </div>
+<div></div>
+<div></div>
+<div>
+<strong>Project :</strong><span>  </span>italki Bug Reporting</div>
+<div>
+<strong>Issue Type:</strong><span>  </span>Bug</div>
+<div>
+<strong>Summary:</strong>   italki classroom issue - <strong>Lesson ID </strong>
+</div>
+<div>
+<strong>Description:  </strong>
+<div>
+<em>User ID:<br>Lesson ID:<br>Device:<br>External Device:<br>Internet:<br>Description:<span> </span></em> </div>
+<div>
+<strong>Bug Category: </strong>DEFECT_Classroom<strong> </strong>
+</div>
+<div></div>
+<div>4. Product Ops will check twice a week and get back to us on the findings so we can get back to users. </div>
+<div></div>
+<div></div>
+<div>Any questions related to this process, please contact daisy.wei@italki.com</div>
+<div>
+<div></div>
+</div>
+</div>

@@ -1,0 +1,11 @@
+<h1>Try change background in italki Classroom</h1>
+<p>We are thrilled to announce that italki Classroom now has Background Blur and Virtual Backgrounds!</p>
+<p>You can maintain your privacy, or put yourself in a whole new environment when you take lessons with this function!</p>
+<p> </p>
+<p>Getting started is simple:</p>
+<p>1. Supported by Chrome and Firefox browsers. We highly recommend Chrome for best performance. This feature is not supported by Safari.</p>
+<p> </p>
+<p>2. You will be able to select a background when you enter italki Classroom.</p>
+<p><img src="https://support.italki.com/hc/article_attachments/35848979595289" width="602" height="428"></p>
+<p><br>3. Switch the background by clicking “Change background” in “More”.</p>
+<p><img src="https://support.italki.com/hc/article_attachments/35848947255321" width="602" height="435.6972280786673"></p>

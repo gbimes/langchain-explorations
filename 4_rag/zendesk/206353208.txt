@@ -1,0 +1,76 @@
+<h1>How do I subscribe to italki Calendar to sync my lessons?</h1>
+<h2><strong>Sync through italki App</strong></h2>
+<p>If you are using the italki <strong>app</strong> on your mobile device, your Lessons will be automatically synced as long as you have <strong>enabled italki's access to your Calendar.  (Lessons not synced? Troubleshoot <span class="wysiwyg-underline"><a href="#h_01EPX8JMGZJPZDHZ14EVA8E60K" target="_self" rel="undefined">here</a></span>)</strong></p>
+<h2><strong>Subscribe to italki</strong></h2>
+<p>To <strong>subscribe</strong> to italki Calendar's so that you can sync your lessons on your laptop or a third-party Calendar, you will need to:</p>
+<ul>
+<li>Step 1: <a href="#h_01EPV8NEC7QKQE35BR3EZXR2EF" target="_self" rel="undefined"><strong><span class="wysiwyg-underline">Get an italki Calendar subscription link</span></strong></a>
+</li>
+<li>Step 2: <span class="wysiwyg-underline"><strong><a href="#h_01EPV8T26SENQ603Y2GAJKR07A" target="_self">Add it to your Mac</a></strong></span>, your <span class="wysiwyg-underline"><strong><a href="#h_01EPV8T7EGJZ5MRF438S4Y1ANY" target="_self">iOS devices</a></strong></span>, or <span class="wysiwyg-underline"><strong><a href="#h_01EPV8TD4391VK26M3F9XWWQ05" target="_self">Google Calendar</a></strong></span>.</li>
+</ul>
+<h3 id="h_01EPV8NEC7QKQE35BR3EZXR2EF">
+<strong>Get an italki Calendar subscription link</strong><strong><br></strong>
+</h3>
+<ol>
+<li>Hover on your profile picture and click “<strong style="font-size: 15px;">Calendar</strong><span style="font-weight: 400;">” to view your italki </span><span class="wysiwyg-underline"><a style="background-color: #ffffff; font-size: 15px;" href="https://www.italki.com/calendar"><strong>Calendar</strong></a></span><span style="font-weight: 400;"> and check all your lessons.</span><strong><br></strong><span style="font-weight: 400;"><img src="https://support.italki.com/hc/article_attachments/900004518566" alt="3.9.1-italki_Calendar_-_Calendar.png"></span>
+</li>
+<li>
+<span style="font-weight: 400;">Click “Get iCalendar Feed” </span><span style="font-weight: 400;"></span><span style="font-weight: 400;"><img src="https://support.italki.com/hc/article_attachments/900005471783" alt="3.9.1-italki_Calendar_-_Get_Feed.png"></span>
+</li>
+<li>
+<span style="font-weight: 400;">Copy the link so that you can use it in a third-party calendar such as Apple Calendar or Google calendar to sync your italki events on them.<br></span><img style="text-align: center;" src="https://support.italki.com/hc/article_attachments/900004518606" alt="3.9.1-italki_Calendar_-_Copy.png">
+</li>
+</ol>
+<h3 id="h_01EPV8NP2KQRE1EQTDE91P2EX6"><strong>Add italki Calendar to your <a href="#h_01EPV8T26SENQ603Y2GAJKR07A" target="_self">Mac</a>, <a href="#h_01EPV8T7EGJZ5MRF438S4Y1ANY" target="_self">iOS devices</a>, or <a href="#h_01EPV8TD4391VK26M3F9XWWQ05" target="_self">Google Calendar</a></strong></h3>
+<h4 id="h_01EPV8T26SENQ603Y2GAJKR07A"><strong>Add italki Calendar to your Mac</strong></h4>
+<p><span style="font-weight: 400;">You can set up a new iCloud calendar subscription on your Mac by following the steps below</span></p>
+<ol>
+<li style="font-weight: 400;"><span style="font-weight: 400;">In Calendar, choose File &gt; New Calendar Subscription. </span></li>
+<li style="font-weight: 400;"><span style="font-weight: 400;">Enter the calendar’s web address, then click Subscribe.</span></li>
+<li style="font-weight: 400;"><span style="font-weight: 400;">Enter a name for the calendar and choose a color to help you identify it on your calendar.</span></li>
+<li style="font-weight: 400;">
+<span style="font-weight: 400;">Choose <strong>iCloud</strong>/<strong>On My Mac</strong> from the Location menu, then click OK.</span><span style="font-weight: 400;"><img src="https://support.italki.com/hc/article_attachments/36793648582297" alt="Screen_Shot_2019-07-04_at_16.57.09.png"></span>
+</li>
+</ol>
+<p><span style="font-weight: 400;">Check more info about adding a Calendar to your Mac on Apple’s help page </span><span class="wysiwyg-underline"><strong><a href="https://support.apple.com/en-us/HT202361">here</a></strong></span><span style="font-weight: 400;">. </span></p>
+<h4 id="h_01EPV8T7EGJZ5MRF438S4Y1ANY"><strong>Add italki Calendar to your iOS devices</strong></h4>
+<ol>
+<li style="font-weight: 400;"><span style="font-weight: 400;">Make sure italki has access to your Calendar. Then lessons will be automatically added to your calendar on your device.</span></li>
+<li style="font-weight: 400;">
+<span style="font-weight: 400;">If you want to manually add the URL.<br>- Go to <strong>Settings </strong> &gt; Calendar &gt; Accounts &gt; Add Account &gt; Other</span><span style="font-weight: 400;"><br></span><span style="font-weight: 400;">- Tap Add Subscribed Calendar.</span><span style="font-weight: 400;"><br></span><span style="font-weight: 400;">- Enter the URL you just copied to subscribe to italki</span>
+</li>
+</ol>
+<p><span style="font-weight: 400;">Check more info about adding a Calendar to your iOS devices on Apple’s help page </span><span class="wysiwyg-underline"><strong><a href="https://support.apple.com/en-hk/guide/ipad/ipad1b02bf5b/ipados">here</a></strong></span><span style="font-weight: 400;">.</span></p>
+<h4 id="h_01EPV8TD4391VK26M3F9XWWQ05"><strong>Add italki Calendar to your Google Calendar</strong></h4>
+<ol>
+<li style="font-weight: 400;"><span style="font-weight: 400;">open Google Calendar.</span></li>
+<li style="font-weight: 400;"><span style="font-weight: 400;">On the left, next to "Other calendars," click <strong>Add</strong> and then <strong>From URL</strong>.</span></li>
+<li style="font-weight: 400;"><span style="font-weight: 400;">Enter the URL you just copied in the field provided.</span></li>
+<li style="font-weight: 400;"><span style="font-weight: 400;">Click Add calendar. The calendar will appear on the left side under "Other calendars."</span></li>
+</ol>
+<p><span style="font-weight: 400;">It might take up to 12 hours for changes to show in your Google Calendar.</span></p>
+<p><span style="font-weight: 400;">Check more info on Google’s help page </span><span class="wysiwyg-underline"><strong><a href="https://support.google.com/calendar/answer/37100?co=GENIE.Platform%3DDesktop&amp;hl=en&amp;oco=1">here</a></strong></span><span style="font-weight: 400;"><strong> </strong>&gt; </span><strong>Add using a link</strong><span style="font-weight: 400;"> if you are using other devices.</span></p>
+<p> </p>
+<h2 id="h_01EPX8JMGZJPZDHZ14EVA8E60K"><strong>I can't find my italki lessons on my Calendar / Lessons are not synced to my phone.<br></strong></h2>
+<p>Some events might not be synced to your Calendar immediately, which depends on the update mechanism. In addition, you might want to check your <a href="#h_01EPX8VS8Y41CXNR5F5G07EVVP" target="_self">Calendar (or Calendar Privacy) settings on your iPhone</a>, <a href="#h_01EPX8WK119660SC8SAQEP06ER" target="_self">on other devices</a>, or <a href="#h_01EPX8X7C5T06ZKYDZSB2W49VZ" target="_self">with your Google Calendar</a> and make sure italki has access to your Calendar. </p>
+<ul>
+<li>
+<h4 id="h_01EPX8VS8Y41CXNR5F5G07EVVP"><strong>Calendar Settings on iPhone</strong></h4>
+</li>
+</ul>
+<p><strong>1. iPhone Privacy Settings</strong><br>Open iPhone <strong>Settings</strong> &gt; <strong>Privacy</strong> &gt; <strong>Calendars</strong>, make sure italki is enabled to access your Calendar. </p>
+<p><strong>2. iPhone Calendar app</strong><br>Open the Calendar app on your iPhone, click "Calendars" at the bottom. Make sure the "italki app" under iCloud is enabled.</p>
+<p><strong>3. iPhone Calendar settings</strong><br>Open iPhone Settings &gt; Calendar, check Calendar settings on your phone.</p>
+<ul>
+<li>
+<h4 id="h_01EPX8WK119660SC8SAQEP06ER"><strong>Calendar Settings on other devices</strong></h4>
+</li>
+</ul>
+<p>Please Google "calendar privacy settings + your phone model"</p>
+<ul>
+<li>
+<h4 id="h_01EPX8X7C5T06ZKYDZSB2W49VZ"><strong> Google Calendar Settings</strong></h4>
+</li>
+</ul>
+<p>Open Google Calendar on your device, click the hamburger icon on the top left corner, under your account, enable "italki Lessons" to make them appear on your Calendar. </p>
+<p> </p>

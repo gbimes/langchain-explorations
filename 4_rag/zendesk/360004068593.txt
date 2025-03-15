@@ -1,0 +1,14 @@
+<h1>GDPR - Teacher Account Deactivation</h1>
+<div style="color: #222222; font-family: arial, sans-serif; font-size: 12.8px; font-style: normal; font-variant-ligatures: normal; font-variant-caps: normal; font-weight: 400; letter-spacing: normal; orphans: 2; text-align: start; text-indent: 0px; text-transform: none; white-space: normal; widows: 2; word-spacing: 0px; -webkit-text-stroke-width: 0px; background-color: #ffffff; text-decoration-style: initial; text-decoration-color: initial;">Process and Zendesk Macros for future GDPR issues in service team's side.</div>
+<div style="color: #222222; font-family: arial, sans-serif; font-size: 12.8px; font-style: normal; font-variant-ligatures: normal; font-variant-caps: normal; font-weight: 400; letter-spacing: normal; orphans: 2; text-align: start; text-indent: 0px; text-transform: none; white-space: normal; widows: 2; word-spacing: 0px; -webkit-text-stroke-width: 0px; background-color: #ffffff; text-decoration-style: initial; text-decoration-color: initial;">
+<ul>
+<li style="margin-left: 15px;">
+<strong>The operation process of GDPR tickets: </strong><a style="color: #1155cc;" href="https://xconfluence.italki.com/display/SER/GDPR" target="_blank" rel="noopener" data-saferedirecturl="https://www.google.com/url?hl=en&amp;q=https://xconfluence.italki.com/display/SER/GDPR&amp;source=gmail&amp;ust=1525931355655000&amp;usg=AFQjCNF68XXQlm70fotigLdWW924JjHlwA">https://xconfluence.<wbr></wbr>italki.com/display/SER/GDPR</a>
+</li>
+</ul>
+<ul>
+<li style="margin-left: 15px;">
+<strong>The content of GDPR Macros:</strong> <a style="color: #1155cc;" href="https://docs.google.com/document/d/1NJ2LL10YgGOedtw2zK4_iT2DRH_rEo_Tq70pszVhkHQ/edit" target="_blank" rel="noopener" data-saferedirecturl="https://www.google.com/url?hl=en&amp;q=https://docs.google.com/document/d/1NJ2LL10YgGOedtw2zK4_iT2DRH_rEo_Tq70pszVhkHQ/edit&amp;source=gmail&amp;ust=1525931355655000&amp;usg=AFQjCNEUuH_kMA1lqTF4SdSsL_1VUp6LtQ">https://docs.google.com/<wbr></wbr>document/d/<wbr></wbr>1NJ2LL10YgGOedtw2zK4_iT2DRH_<wbr></wbr>rEo_Tq70pszVhkHQ/edit</a> </li>
+</ul>
+</div>
+<div style="color: #222222; font-family: arial, sans-serif; font-size: 12.8px; font-style: normal; font-variant-ligatures: normal; font-variant-caps: normal; font-weight: 400; letter-spacing: normal; orphans: 2; text-align: start; text-indent: 0px; text-transform: none; white-space: normal; widows: 2; word-spacing: 0px; -webkit-text-stroke-width: 0px; background-color: #ffffff; text-decoration-style: initial; text-decoration-color: initial;">For teacher service, if the EU teacher writes in to ask to delete the account and information, you may first deactivate the teacher profile, then follow the operation process stated as above.</div>

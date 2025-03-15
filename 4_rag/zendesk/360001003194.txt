@@ -1,0 +1,98 @@
+<h1>SOP of Handling TMS Reports and Tickets - Lesson Attendance</h1>
+<p>italki Teacher <span style="color: #333333; font-family: Arial, sans-serif; font-size: 14px; font-style: normal; font-variant-ligatures: normal; font-variant-caps: normal; font-weight: 400; letter-spacing: normal; orphans: 2; text-align: left; text-indent: 0px; text-transform: none; white-space: normal; widows: 2; word-spacing: 0px; -webkit-text-stroke-width: 0px; background-color: #ffffff; text-decoration-style: initial; text-decoration-color: initial; display: inline !important; float: none;">Missed Lessons and Lesson Requests</span> Ticketing for Missed Lessons by Tier 2 - Teachers Group.  These should be escalated to our Tier 2 - Teachers Group.</p>
+<p>Reference: <a href="https://xconfluence.italki.com/display/TEA/TMS+tickets+SOP">TMS ticketing SOP in Jira</a></p>
+<h3>Procedure</h3>
+<p>When a ticket comes in and it is in regards to Teachers have missed lessons and their profile has been hidden who been caught by the Teacher M<span style="color: #333333; font-family: Arial, sans-serif; font-size: 14px; font-style: normal; font-variant-ligatures: normal; font-variant-caps: normal; font-weight: 400; letter-spacing: normal; orphans: 2; text-align: left; text-indent: 0px; text-transform: none; white-space: normal; widows: 2; word-spacing: 0px; -webkit-text-stroke-width: 0px; background-color: #ffffff; text-decoration-style: initial; text-decoration-color: initial; display: inline !important; float: none;">issed Lessons and Lesson Requests</span> System (TMS):</p>
+<p>You need to <strong>first check the status of that teacher on OMSV2</strong>.</p>
+<p>Find teacher report by ID/email in the OMS list: <a href="https://omsv2.italki.com/teacher/reviewlist">https://omsv2.italki.com/teacher/reviewlist</a><br><br><img src="https://support.italki.com/hc/article_attachments/360001112193/1.png" alt="1.png" width="564" height="242"></p>
+<ul>
+<li>If this is the<strong> Teacher's First or Second Report for missed lessons, remote team staff can handle and try to solve out the ticket.</strong>
+</li>
+<li>If this is the <strong>Teacher's Third or Fourth Report, escalate the ticket to Escalated Teachers Group.</strong>
+</li>
+</ul>
+<h3>How to Solve out the Ticket for TMS First and Second Reports: </h3>
+<p>Check the <strong>lesson details</strong> and <strong>message history</strong>.  Read what happened between the Student and the Teacher.  Did the Teacher leave any messages?<br><br><img src="https://support.italki.com/hc/article_attachments/360001112173/2.png" alt="2.png" width="566" height="173"><br><br>You now have the option to:</p>
+<ul>
+<li>
+<strong>Dismiss the report:</strong>
+<ul>
+<li>If there is<strong> clear proof that teacher and student reached an agreement</strong>
+</li>
+<li>If the teacher was not able to attend the lesson due to an unpredictable reason (power outage, earthquake, etc) <br>1) Paste the ticket link to the admin log (in the popup window)<br>2) Reply to the teacher using the<strong> Template A </strong>below. (adjust the email accordingly) - it's also a macro Teacher::TMS Missed Lesson (Valid Excuse)<br><br>
+</li>
+</ul>
+</li>
+<li>
+<strong>Record the report:</strong>
+<ul>
+<li>If there is <strong>no clear proof that shows teacher and student reached an agreement</strong>
+</li>
+<li>If the teacher did not send any message in the lesson message.  <br>1) Paste the ticket link to the admin log (in the popup window)<br>2) Reply to the teacher using the<strong> Template B </strong>below. (adjust the email accordingly) - it's also a macro Teacher::TMS Missed Lesson (Sick / Afraid to Decline / No Excuse)</li>
+</ul>
+</li>
+</ul>
+<p><strong><span class="wysiwyg-font-size-large">Third and Fourth Reports </span></strong></p>
+<p>For Teachers who have 3rd or 4th Reports, these should be simply escalated to Tier 2 Teachers and Teacher Services will deal with them. </p>
+<ul>
+<li>3rd report (Teacher Wallet will be frozen): Escalate to Tier 2 - Teachers</li>
+<li>4th report (Teacher Wallet will be frozen and Teacher Profile will be deactivated): Escalate to Tier 2 - Teachers</li>
+</ul>
+<p><strong>3rd Report SOP <br></strong></p>
+<p><strong>When a teacher writes in about their Teacher Wallet being frozen and they have received their 3rd Report, please follow the instructions below:</strong></p>
+<p><strong>For the First Time they receive a 3rd Report</strong>, we can accept any excuse and unfreeze their teacher wallet however we need to let them know if this happens the next time, we will not unfreeze their wallet and they will need to wait for the penalty duration. </p>
+<ul>
+<li>
+<strong>Teacher will be suspended for 7 days and we unfreeze wallet. </strong>(note we are shortening the duration to one week as it is a first offense and unfreezing wallet)</li>
+<li>Use Teacher::TMS Missed Lesson (3rd Report / Final Report) - First Time Macro</li>
+<li>Make note in Sticky Notes: "Teacher 3rd Report - 1st time offense - shortened punishment and unfroze wallet."</li>
+<li>Unfreeze Wallet - Leave an internal note in the Ticket and write the reason why the teacher's wallet should be unfrozen. Assign the Ticket to Mr Support (Hisun).</li>
+<li>Slack @Hisun and ask him to check the Sheet and unfreeze the Teacher Wallet.</li>
+<li>Keep this ticket as Open for 7 days.  In Internal Notes for the ticket make a note to yourself on when this Teacher's Profile should be unhidden.</li>
+<li>After 7 days, reset Teacher's report count to zero and let the teacher know that his wallet has been unfrozen and his profile is now visible on italki.</li>
+</ul>
+<p><strong>For the Second Time they receive a 3rd Report</strong>, we will not accept their excuse any more. </p>
+<ul>
+<li><strong>Teacher will be suspended for 30 days and wallet will be frozen for 30 days<br></strong></li>
+<li>Use Teacher::TMS Missed Lesson (3rd Report / Final Report) - Second Time Macro</li>
+<li>Keep this ticket as Open for 30 days.  In Internal Notes for the ticket make a note to yourself on when this Teacher's Profile should be unhidden.</li>
+<li>After 30 days, reset Teacher's report count to zero and let the teacher know that his wallet has been unfrozen and his profile is now visible on italki.</li>
+<li>Make note in Sticky Notes: "Teacher 3rd Report - 2st time offense - shortened punishment and unfroze wallet."</li>
+<li>Unfreeze Wallet - Leave an internal note in the Ticket and write the reason why the teacher's wallet should be unfrozen. Assign the Ticket to Mr Support (Hisun).</li>
+<li>Slack @Hisun and ask him to check the Sheet and unfreeze the Teacher Wallet.</li>
+</ul>
+<p><strong>4th Report SOP <br></strong></p>
+<p>When a Teacher receives their 4th Report, they have automatically been deactivated from our system and there is the 4th Report email that is already sent to them.  If they write in asking to be reactivated, simply let them there's nothing Teacher Services can do and that they can reapply as a teacher.  <br><br><em>There isn't a specific macro as these should be very personal and explain to the teacher that nothing can be done as <strong>their Teacher Profile has already been deactivated</strong>. All they can do is reapply as a Teacher.</em></p>
+<p><strong>Reset report number:<br></strong>If there is a situation that requires resetting all the report number for a teacher, Escalated Teachers Team can do it on this page: <a href="https://omsv2.italki.com/teacher/reviewlist">https://omsv2.italki.com/teacher/reviewlist</a>.<br><br>Click the three dots to find the option RESET #MISSED REQUEST or #MISSED ATTENDANCE<br><br> <img src="https://support.italki.com/hc/article_attachments/360002097373/reset.png" alt="reset.png" width="278" height="93"></p>
+<p>Please note, only after the reports that have been processed, then the total number can be reset.</p>
+<h3>
+<strong><span class="wysiwyg-font-size-large">Templates</span></strong> </h3>
+<p><strong>Template A:  * Valid excuse for the missing lesson </strong></p>
+<p>Hi, XXX,</p>
+<p><span style="font-weight: 400;">Thank you for reaching out to us. </span><span style="font-weight: 400;">Your response has been received.</span></p>
+<p><strong><span class="wysiwyg-color-black60">It is the first time teacher wrote to us to appeal &gt;&gt;</span></strong></p>
+<p><span class="wysiwyg-color-black"><span style="font-weight: 400;">We have gone ahead and dismissed the report just for this time. </span></span>If you have already agreed on the lesson report, we will not be able to reset the problem lesson in this case in the future. </p>
+<p><span class="wysiwyg-color-black60"><strong>Health issues &gt;&gt;</strong></span></p>
+<p><span style="font-weight: 400;">Regarding this report. We're really sorry to hear that you were sick. We hope everything is ok with you. </span><span style="font-weight: 400;">As we understand it was a health issue, w<span class="wysiwyg-color-black">e have gone ahead and dismissed the report just for this time.</span></span></p>
+<p><span class="wysiwyg-color-black60"><strong>Other valid excuses for the missing lesson &gt;&gt;</strong></span></p>
+<p><span class="wysiwyg-color-black"><span style="font-weight: 400;">We have gone ahead and dismissed the report. </span></span>If you have already agreed on the lesson report, we may not be able to reset the problem lesson in the future.  </p>
+<p>When you are ready to accept new requests, you can manage your teaching profile status here<span style="font-weight: 400;">: </span><strong>Teacher Profile</strong><span style="font-weight: 400;"> &gt; </span><strong>Teacher Status</strong><span style="font-weight: 400;"> &gt; click the “pencil” icon to edit your status to</span><strong> “I’m looking for new students”.</strong> </p>
+<p><span style="font-weight: 400;">Please note, only when the lesson is confirmed by both student and teacher as "The teacher did not attend the lesson", the teacher will receive a warning message from italki according to the Lesson Attendance Policy. </span></p>
+<p><span style="font-weight: 400;">Teacher Attendance Policy: </span><a href="https://support.italki.com/hc/en-us/articles/115004764653-What-happens-if-I-did-not-attend-a-lesson-"><span style="font-weight: 400;">What happens if I did not attend a lesson?</span></a></p>
+<p><span style="font-weight: 400;">In the future, (if possible) please try to let the student know ahead of the lesson time on italki lesson message page if you are not able to attend the lesson. </span></p>
+<p><strong>If you have already reached an agreement for the lesson, please report the lesson problem as "Reached a prior agreement" or "Other".</strong></p>
+<p><span style="font-weight: 400;">If you do not agree with the reported reason in the lesson problem, please decline student's report request. </span></p>
+<p><span style="font-weight: 400;">Kind Regards,</span></p>
+<p>---</p>
+<p><strong>Template B: * No valid excuse for the missing lesson </strong></p>
+<p>Hi, XXX,</p>
+<p><span style="font-weight: 400;">Thank you for reaching out to us.</span></p>
+<p><span style="font-weight: 400;">Your response has been received. </span><span style="font-weight: 400;">I have looked the lesson record for you. </span></p>
+<p><span style="font-weight: 400;">As there is no message/evidence that shows the teacher and student have reached a prior agreement on the lesson page. The lesson status remains as "Teacher did not attend the lesson".</span></p>
+<p><span style="font-weight: 400;">Please send us the relevant proof (screenshots) that shows you and the student have reached a prior agreement for this lesson. Otherwise, this lesson will remain the status as "Teacher did not attend the lesson".</span></p>
+<p><span style="font-weight: 400;">We highly recommend that teacher and student communicate on the italki lesson page for any lesson related issue, as the italki lesson message is the only official proof.</span></p>
+<p><span style="font-weight: 400;">In the future, if possible, please try to let the student know ahead of the lesson time on italki lesson message page if you are not able to attend the lesson. </span></p>
+<p><strong>If you have already reached an agreement for the lesson, please report the lesson problem as "Reached a prior agreement" or "Other".</strong></p>
+<p><span style="font-weight: 400;">If you do not agree with the reported reason in the lesson problem, please decline student's report request. </span></p>
+<p><span style="font-weight: 400;">Learn more: Teacher Attendance Policy - </span><a href="https://support.italki.com/hc/en-us/articles/115004764653-What-happens-if-I-did-not-attend-a-lesson-"><span style="font-weight: 400;">What happens if I did not attend a lesson?</span></a></p>
+<p><span style="font-weight: 400;">Kind Regards,</span>  </p>

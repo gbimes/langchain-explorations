@@ -1,0 +1,56 @@
+<h1>Withdraw using PayPal</h1>
+<p dir="ltr">In order to get paid via PayPal, you must have a valid PayPal account that can receive funds.</p>
+<p dir="ltr">If you do not have a PayPal account, you must first create one and make sure that your account can receive funds before you can proceed with processing italki Credits. Each country has different requirements for payment via PayPal. Many require that you have to submit your real identification with your country's PayPal website. </p>
+<p dir="ltr">Please contact your country's PayPal website to ensure that your PayPal account can receive funds. If you need to contact PayPal about your account, visit <a href="https://www.paypal.com/selfhelp" target="_blank" rel="noopener">PayPal self help</a>.</p>
+<p dir="ltr">Here, you can view <a href="https://www.paypal.com/webapps/mpp/country-worldwide" target="_blank" rel="noopener">PayPal's list of supported countries and currencies</a>.</p>
+<p dir="ltr"> </p>
+<h3 dir="ltr">PayPal Withdrawal Examples</h3>
+<p dir="ltr">One of these methods will be automatically chosen to process your withdrawal request. Please note the minimum withdrawal amount is<strong> $30</strong> <strong>USD</strong> in italki Credits. </p>
+<p dir="ltr">For a normal or an express withdrawal request, the method will be <strong>PayPal MassPay</strong>. But if it's an exclusive withdrawal request, <strong>PayPal Individual pay</strong> will be applied. </p>
+<table dir="ltr" border="1" cellspacing="0" cellpadding="0">
+<colgroup>
+<col width="331">
+<col width="331">
+</colgroup>
+<tbody>
+<tr>
+<td style="vertical-align: top;" data-sheets-value='{"1":2,"2":"PayPal*MassPay"}'><strong>PayPal MassPay</strong></td>
+<td style="vertical-align: top;" data-sheets-value='{"1":2,"2":"PayPal* Individual Pay"}'><strong>PayPal Individual Pay</strong></td>
+</tr>
+<tr>
+<td style="vertical-align: top;" data-sheets-value='{"1":2,"2":"Used for general and express withdrawal requests"}'>Used for general and express withdrawal requests</td>
+<td style="vertical-align: top;" data-sheets-value='{"1":2,"2":"when resending failed withdrawal requests"}'>When resending failed withdrawal requests</td>
+</tr>
+<tr>
+<td style="vertical-align: top;" data-sheets-value='{"1":2,"2":"Example Withdraw Amount: $500 USD credits\n Paypal charges a 2% fee on the amount you receive. This will be automatically deducted from your withdrawal.\n italki will send $ 490.20 USD via italki PayPal account to your PayPal Account.\n Amount you will receive = (requested amount)/(1.02)\n Fees are the same regardless of country."}'>
+<p>Example Withdraw Amount: $500 USD credits</p>
+<p><br>Paypal charges <strong>a 2% fee</strong> on the amount you receive. This will be automatically deducted from your withdrawal.<br>italki will send $490.20 USD via italki's PayPal account to your PayPal Account.<br>The amount you will receive = Requested amount/1.02</p>
+<p><br>Fees are the same regardless of country.</p>
+</td>
+<td style="vertical-align: top;" data-sheets-value='{"1":2,"2":"Example Withdraw Amount: $500 USD credits\n italki will send $500 USD via bank transfer to your Paypal Account\n Paypal will charge their fees for using their service. \n Typically Paypal charges 3.9% + $0.30 so you would receive $ 480.20 USD after Paypal charges its fees. \n Fees do vary from country to country so check with your local PayPal for their latest fee information for your country."}'>
+<p>Example Withdraw Amount: $500 USD credits</p>
+<p><br>italki will send $500 USD via bank transfer to your PayPal account.<br>PayPal will charge you fees for using their service. <br>Typically PayPal charges 3.9% + $0.30 so you would receive $ 480.20 USD after charging its fees.</p>
+<p><br>Fees vary from country to country so check with your local PayPal for their latest fee information for your country.</p>
+</td>
+</tr>
+</tbody>
+</table>
+<div class="table-responsive"></div>
+<h3 dir="ltr">Important Information</h3>
+<ul>
+<li dir="ltr">If MassPay fails due to a problem with the teacher's PayPal account, then italki will use <strong>PayPal Individual Pay</strong> to process the payment. </li>
+</ul>
+<h4 dir="ltr"> </h4>
+<h3 dir="ltr">How to withdraw your credits via PayPal</h3>
+<p dir="ltr">1. Add PayPal as your payment method in <a href="https://teach.italki.com/console/withdraw" target="_blank" rel="noopener">Withdrawal Settings</a>.</p>
+<p dir="ltr"><img src="https://support.italki.com/hc/article_attachments/900008096126" alt="Screenshot_2021-04-28_at_15.20.23.png" width="664" height="262"></p>
+<p dir="ltr"> </p>
+<p dir="ltr">2. Enter your <strong>PayPal email address</strong> and <strong>italki password</strong>. Your PayPal information will be saved for future withdrawal.</p>
+<p><img src="https://support.italki.com/hc/article_attachments/900008096206" alt="Screenshot_2021-04-28_at_15.24.46.png" width="594" height="308"></p>
+<p> </p>
+<p dir="ltr">3. Go to <a href="https://teach.italki.com/finance/overview" target="_blank" rel="noopener">My Wallet</a>.</p>
+<p dir="ltr"><img src="https://support.italki.com/hc/article_attachments/900009022603" alt="Screenshot_2021-04-28_at_15.19.49.png" width="369" height="321"> </p>
+<p dir="ltr"> </p>
+<p dir="ltr">4. Click 'Withdraw' to submit a withdrawal request.</p>
+<p dir="ltr"><img src="https://support.italki.com/hc/article_attachments/900009023663" alt="Screenshot_2021-04-28_at_15.33.54.png" width="629" height="291"></p>
+<p dir="ltr"><img src="https://support.italki.com/hc/article_attachments/900008096906" alt="Screenshot_2021-04-28_at_15.34.39.png" width="673" height="356"></p>

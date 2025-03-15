@@ -1,0 +1,23 @@
+<h1>Tax Identification Number (TIN)</h1>
+<h3 id="reportable-information-tax-identification-number">Tax Identification Number</h3>
+<p>The taxpayer identification number (TIN) is the unique identifier assigned to the Account Holder by the tax administration in the Account Holder’s jurisdiction of tax residence. It is a unique combination of letters and/or numbers used to identify an individual or entity for the purposes of administering the tax laws of that jurisdiction.</p>
+<p>Any identifier assigned by a jurisdiction of source, for example, for identifying a person whose income has been subject to withholding tax at source, should not be reported.</p>
+<p>Some jurisdictions do not issue a TIN and where that is the case there will be nothing to report unless they use other high integrity numbers with an equivalent level of identification. For individuals these include:</p>
+<ul>
+<li>Social security number</li>
+<li>National insurance number</li>
+<li>Citizen or personal identification code or number</li>
+<li>Resident registration number</li>
+</ul>
+<p>Reference: <a href="https://www.gov.uk/hmrc-internal-manuals/international-exchange-of-information/ieim402040">https://www.gov.uk/hmrc-internal-manuals/international-exchange-of-information/ieim402040</a></p>
+<p> </p>
+<h3>Reply Template:</h3>
+<p>italki is a Hong Kong company and as such we only need to report taxes for our teachers who hold Hong Kong and China IDs.<br><br>However, as a ______ citizen, it is your own responsibility to report this as foreign earned income. We don't provide any special tax forms for this purpose. If you need proof of income, you can download and print out your teacher wallet details on <a href="https://teach.italki.com/finance/overview">https://teach.italki.com/finance/overview</a>.<img src="https://support.italki.com/hc/article_attachments/360040383274/Teacher_Wallet_-_Download.png" alt="Teacher_Wallet_-_Download.png"></p>
+<p>As we have teachers all over the world, each country has its own laws on how to report foreign earned income. You should check with your home country's laws regarding this and report accordingly.<br><br>Just in case, here's italki HK Limited's Tax/Business Identification Code. Please note that we are a registered Hong Kong company which I would not think is applicable in ______.<br><br>italki HK Limited<br>Suite 2004, 20/F, Tower 5<br>China Hong Kong City, 33 Canton Road<br>Tsim Sha Tsui, Kowloon<br>Hong Kong<br><br>Tax/Business Identification Code 39472850-000-06-12-A</p>
+<p> </p>
+<h3>Tickets:</h3>
+<ul>
+<li><a href="https://support.italki.com/agent/tickets/273360">https://italki.zendesk.com/agent/tickets/273360</a></li>
+<li><a href="https://support.italki.com/agent/tickets/272681">https://italki.zendesk.com/agent/tickets/272681</a></li>
+<li><a href="https://support.italki.com/agent/tickets/189056">https://italki.zendesk.com/agent/tickets/189056</a></li>
+</ul>

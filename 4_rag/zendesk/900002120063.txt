@@ -1,0 +1,299 @@
+<h1>How to create Jira form </h1>
+<p><span class="wysiwyg-font-size-large">When user reports an issue or provides product feedback, we can directly create Jira ticket through zendesk and our product team will review it on a regular basis to improve our user experience. </span></p>
+<h1><span class="wysiwyg-font-size-large">1. How to create Jira ticket </span></h1>
+<p><span class="wysiwyg-font-size-large">Click " Apps“ on the right corner, then click " create issue" </span></p>
+<p><span class="wysiwyg-font-size-large"><img src="https://support.italki.com/hc/article_attachments/900002870683/mceclip0.png" alt="mceclip0.png"></span></p>
+<p> </p>
+<h1><span class="wysiwyg-font-size-large">2. Filling the Jira form </span></h1>
+<p><span class="wysiwyg-font-size-large"><img src="https://support.italki.com/hc/article_attachments/900002899986/mceclip2.png" alt="mceclip2.png"></span></p>
+<p> </p>
+<h2><span class="wysiwyg-font-size-large">2.1 Project*</span></h2>
+<table style="width: 764px;" border="1">
+<tbody>
+<tr>
+<td width="210">italki Bug Report (DEFECT)</td>
+<td width="554">This is for bugs, when a feature or function is not working as it supposes to be</td>
+</tr>
+<tr>
+<td>User Feedback</td>
+<td>This is feedback when the student has suggestions on improving certain feature or function or related to user profile </td>
+</tr>
+<tr>
+<td>Teacher Success</td>
+<td>This is feedback when the teacher has suggestions on improving teacher-related feature or function </td>
+</tr>
+</tbody>
+</table>
+<h2><span class="wysiwyg-font-size-large"><br>2.2 Issue Type*</span></h2>
+<p><span class="wysiwyg-font-size-large">This area is automatically selected when Project is selected. </span><span class="wysiwyg-font-size-large"></span></p>
+<h2><span class="wysiwyg-font-size-large">2.3 Summary* </span></h2>
+<p><span class="wysiwyg-font-size-large">Summarize the problem </span></p>
+<p><span class="wysiwyg-font-size-large wysiwyg-color-green130">Good example: italki classroom issue - Lesson ID xxxxxxxxxx</span></p>
+<p><span class="wysiwyg-font-size-large wysiwyg-color-red70">Bad example: User can't book lesson</span><span class="wysiwyg-font-size-large"><span></span></span></p>
+<h2><span class="wysiwyg-font-size-large"><span>2.4 Description* </span></span></h2>
+<p><span class="wysiwyg-font-size-large"><span>When writing the description, make sure you summarize the issue with the necessary information, key information includes but not limited to:</span></span></p>
+<p><span class="wysiwyg-font-size-large"><span>User ID:</span></span></p>
+<p><span class="wysiwyg-font-size-large"><span>Device /Browser used: </span></span><span class="wysiwyg-font-size-large"><span></span></span><span class="wysiwyg-font-size-large"><span></span></span></p>
+<p><font size="4">The simple description of what happened: </font><span class="wysiwyg-font-size-large"><span></span></span></p>
+<p><strong><span class="wysiwyg-font-size-large">Please don't copy-paste the user's email directly, see example below: </span></strong></p>
+<p><span class="wysiwyg-font-size-large"><span><img src="https://support.italki.com/hc/article_attachments/900002870903/mceclip4.png" alt="mceclip4.png"></span></span></p>
+<h2>2.5 优先级（Priority）</h2>
+<p>Please select priority based on your understanding of the issue, in general, anything related to can't pay, can't book a lesson or can't register as a user is a high priority. </p>
+<h2>2.6 模块(Component)</h2>
+<p>Please select the component based on the below guideline.</p>
+<table style="height: 1743px; width: 942px;" border="1">
+<tbody>
+<tr>
+<td style="width: 367px;" data-sheets-value='{"1":2,"2":"Components"}'>Components</td>
+<td style="width: 160px;" data-sheets-value='{"1":2,"2":"Owner"}'>Owner</td>
+<td style="width: 381px;" data-sheets-value='{"1":2,"2":"User"}'>User</td>
+</tr>
+<tr>
+<td style="width: 367px;" data-sheets-value='{"1":2,"2":"Splash (App)"}'>Splash (App)</td>
+<td style="width: 160px;" data-sheets-value='{"1":2,"2":"Team 1"}'>Team 1</td>
+<td style="width: 381px;" data-sheets-value='{"1":2,"2":"Team 1"}'>Team 1</td>
+</tr>
+<tr>
+<td style="width: 367px;" data-sheets-value='{"1":2,"2":"Intro/Welcome (App)"}'>Intro/Welcome (App)</td>
+<td style="width: 160px;" data-sheets-value='{"1":2,"2":"Team 1"}'>Team 1</td>
+<td style="width: 381px;" data-sheets-value='{"1":2,"2":"Team 1"}'>Team 1</td>
+</tr>
+<tr>
+<td style="width: 367px;" data-sheets-value='{"1":2,"2":"Homepage (Web)"}'>Homepage (Web)</td>
+<td style="width: 160px;" data-sheets-value='{"1":2,"2":"Team 1"}'>Team 1</td>
+<td style="width: 381px;" data-sheets-value='{"1":2,"2":"Everyone"}'>Everyone</td>
+</tr>
+<tr>
+<td style="width: 367px;" data-sheets-value='{"1":2,"2":"Teacher Homepage (Web) "}'>Teacher Homepage (Web)</td>
+<td style="width: 160px;" data-sheets-value='{"1":2,"2":"Team 1"}'>Team 1</td>
+<td style="width: 381px;" data-sheets-value='{"1":2,"2":"Team 1"}'>Team 1</td>
+</tr>
+<tr>
+<td style="width: 367px;" data-sheets-value='{"1":2,"2":"Signup &amp; Login"}'>Signup &amp; Login</td>
+<td style="width: 160px;" data-sheets-value='{"1":2,"2":"Team 1"}'>Team 1</td>
+<td style="width: 381px;" data-sheets-value='{"1":2,"2":"Team 1"}'>Team 1</td>
+</tr>
+<tr>
+<td style="width: 367px;" data-sheets-value='{"1":2,"2":"Home Screen (App)"}'>Home Screen (App)</td>
+<td style="width: 160px;" data-sheets-value='{"1":2,"2":"Team 2"}'>Team 2</td>
+<td style="width: 381px;" data-sheets-value='{"1":2,"2":"Everyone"}'>Everyone</td>
+</tr>
+<tr>
+<td style="width: 367px;" data-sheets-value='{"1":2,"2":"Nav Bar (Web)"}'>Nav Bar (Web)</td>
+<td style="width: 160px;" data-sheets-value='{"1":2,"2":"Team 1"}'>Team 1</td>
+<td style="width: 381px;" data-sheets-value='{"1":2,"2":"Team 1"}'>Team 1</td>
+</tr>
+<tr>
+<td style="width: 367px;" data-sheets-value='{"1":2,"2":"Footer (Web)"}'>Footer (Web)</td>
+<td style="width: 160px;" data-sheets-value='{"1":2,"2":"Team 1"}'>Team 1</td>
+<td style="width: 381px;" data-sheets-value='{"1":2,"2":"Team 1"}'>Team 1</td>
+</tr>
+<tr>
+<td style="width: 367px;" data-sheets-value='{"1":2,"2":"Dashboard (Web)"}'>Dashboard (Web)</td>
+<td style="width: 160px;" data-sheets-value='{"1":2,"2":"Team 2"}'>Team 2</td>
+<td style="width: 381px;" data-sheets-value='{"1":2,"2":"Everyone"}'>Everyone</td>
+</tr>
+<tr>
+<td style="width: 367px;" data-sheets-value='{"1":2,"2":"Teacher Dashboard (Web)"}'>Teacher Dashboard (Web)</td>
+<td style="width: 160px;" data-sheets-value='{"1":2,"2":"Team 2"}'>Team 2</td>
+<td style="width: 381px;" data-sheets-value='{"1":2,"2":"Everyone"}'>Everyone</td>
+</tr>
+<tr>
+<td style="width: 367px;" data-sheets-value='{"1":2,"2":"Student Onboarding"}'>Student Onboarding</td>
+<td style="width: 160px;" data-sheets-value='{"1":2,"2":"Team 1"}'>Team 1</td>
+<td style="width: 381px;" data-sheets-value='{"1":2,"2":"Team 1"}'>Team 1</td>
+</tr>
+<tr>
+<td style="width: 367px;" data-sheets-value='{"1":2,"2":"Teacher Onboarding"}'>Teacher Onboarding</td>
+<td style="width: 160px;" data-sheets-value='{"1":2,"2":"Team 1"}'>Team 1</td>
+<td style="width: 381px;" data-sheets-value='{"1":2,"2":"Team 1"}'>Team 1</td>
+</tr>
+<tr>
+<td style="width: 367px;" data-sheets-value='{"1":2,"2":"Teacher Application (Web)"}'>Teacher Application (Web)</td>
+<td style="width: 160px;" data-sheets-value='{"1":2,"2":"Team 1"}'>Team 1</td>
+<td style="width: 381px;" data-sheets-value='{"1":2,"2":"Team 1"}'>Team 1</td>
+</tr>
+<tr>
+<td style="width: 367px;" data-sheets-value='{"1":2,"2":"Me Center (App)"}'>Me Center (App)</td>
+<td style="width: 160px;" data-sheets-value='{"1":2,"2":"Team 1"}'>Team 1</td>
+<td style="width: 381px;" data-sheets-value='{"1":2,"2":"Team 1, Team 3"}'>Team 1, Team 3</td>
+</tr>
+<tr>
+<td style="width: 367px;" data-sheets-value='{"1":2,"2":"Edit Profile"}'>Edit Profile</td>
+<td style="width: 160px;" data-sheets-value='{"1":2,"2":"Team 1"}'>Team 1</td>
+<td style="width: 381px;" data-sheets-value='{"1":2,"2":"Team 1"}'>Team 1</td>
+</tr>
+<tr>
+<td style="width: 367px;" data-sheets-value='{"1":2,"2":"User Profile"}'>User Profile</td>
+<td style="width: 160px;" data-sheets-value='{"1":2,"2":"Team 1"}'>Team 1</td>
+<td style="width: 381px;" data-sheets-value='{"1":2,"2":"Team 1, Team 3"}'>Team 1, Team 3</td>
+</tr>
+<tr>
+<td style="width: 367px;" data-sheets-value='{"1":2,"2":"Edit Teacher Profile (App)"}'>Edit Teacher Profile (App)</td>
+<td style="width: 160px;" data-sheets-value='{"1":2,"2":"Team 1"}'>Team 1</td>
+<td style="width: 381px;" data-sheets-value='{"1":2,"2":"Team 1, Team 2"}'>Team 1, Team 2</td>
+</tr>
+<tr>
+<td style="width: 367px;" data-sheets-value='{"1":2,"2":"Teacher Settings"}'>Teacher Settings</td>
+<td style="width: 160px;" data-sheets-value='{"1":2,"2":"Team 2"}'>Team 2</td>
+<td style="width: 381px;" data-sheets-value='{"1":2,"2":"Team 2"}'>Team 2</td>
+</tr>
+<tr>
+<td style="width: 367px;" data-sheets-value='{"1":2,"2":"Teacher Profile"}'>Teacher Profile</td>
+<td style="width: 160px;" data-sheets-value='{"1":2,"2":"Team 2"}'>Team 2</td>
+<td style="width: 381px;" data-sheets-value='{"1":2,"2":"Team 1, Team 2"}'>Team 1, Team 2</td>
+</tr>
+<tr>
+<td style="width: 367px;" data-sheets-value='{"1":2,"2":"Account Settings"}'>Account Settings</td>
+<td style="width: 160px;" data-sheets-value='{"1":2,"2":"Team 1"}'>Team 1</td>
+<td style="width: 381px;" data-sheets-value='{"1":2,"2":"Everyone"}'>Everyone</td>
+</tr>
+<tr>
+<td style="width: 367px;" data-sheets-value='{"1":2,"2":"Dark Mode (App)"}'>Dark Mode (App)</td>
+<td style="width: 160px;" data-sheets-value='{"1":2,"2":"Team 1"}'>Team 1</td>
+<td style="width: 381px;" data-sheets-value='{"1":2,"2":"Everyone"}'>Everyone</td>
+</tr>
+<tr>
+<td style="width: 367px;" data-sheets-value='{"1":2,"2":"Teacher Search "}'>Teacher Search</td>
+<td style="width: 160px;" data-sheets-value='{"1":2,"2":"Team 2"}'>Team 2</td>
+<td style="width: 381px;" data-sheets-value='{"1":2,"2":"Team 1, Team 2"}'>Team 1, Team 2</td>
+</tr>
+<tr>
+<td style="width: 367px;" data-sheets-value='{"1":2,"2":"Teacher Recommenndation"}'>Teacher Recommenndation</td>
+<td style="width: 160px;" data-sheets-value='{"1":2,"2":"Team 2"}'>Team 2</td>
+<td style="width: 381px;" data-sheets-value='{"1":2,"2":"Team 1, Team 2"}'>Team 1, Team 2</td>
+</tr>
+<tr>
+<td style="width: 367px;" data-sheets-value='{"1":2,"2":"Calendar"}'>Calendar</td>
+<td style="width: 160px;" data-sheets-value='{"1":2,"2":"Team 2"}'>Team 2</td>
+<td style="width: 381px;" data-sheets-value='{"1":2,"2":"Team 1, Team 2"}'>Team 1, Team 2</td>
+</tr>
+<tr>
+<td style="width: 367px;" data-sheets-value='{"1":2,"2":"Booking Flow"}'>Booking Flow</td>
+<td style="width: 160px;" data-sheets-value='{"1":2,"2":"Team 2"}'>Team 2</td>
+<td style="width: 381px;" data-sheets-value='{"1":2,"2":"Team 1, Team 2"}'>Team 1, Team 2</td>
+</tr>
+<tr>
+<td style="width: 367px;" data-sheets-value='{"1":2,"2":"Lesson Flow"}'>Lesson Flow</td>
+<td style="width: 160px;" data-sheets-value='{"1":2,"2":"Team 2"}'>Team 2</td>
+<td style="width: 381px;" data-sheets-value='{"1":2,"2":"Team 1, Team 2"}'>Team 1, Team 2</td>
+</tr>
+<tr>
+<td style="width: 367px;" data-sheets-value='{"1":2,"2":"Lesson Review"}'>Lesson Review</td>
+<td style="width: 160px;" data-sheets-value='{"1":2,"2":"Team 2"}'>Team 2</td>
+<td style="width: 381px;" data-sheets-value='{"1":2,"2":"Team 1, Team 2"}'>Team 1, Team 2</td>
+</tr>
+<tr>
+<td style="width: 367px;" data-sheets-value='{"1":2,"2":"Lesson/Package Details"}'>Lesson/Package Details</td>
+<td style="width: 160px;" data-sheets-value='{"1":2,"2":"Team 2"}'>Team 2</td>
+<td style="width: 381px;" data-sheets-value='{"1":2,"2":"Team 1, Team 2"}'>Team 1, Team 2</td>
+</tr>
+<tr>
+<td style="width: 367px;" data-sheets-value='{"1":2,"2":"My Teachers"}'>My Teachers</td>
+<td style="width: 160px;" data-sheets-value='{"1":2,"2":"Team 2"}'>Team 2</td>
+<td style="width: 381px;" data-sheets-value='{"1":2,"2":"Team 2"}'>Team 2</td>
+</tr>
+<tr>
+<td style="width: 367px;" data-sheets-value='{"1":2,"2":"My Students"}'>My Students</td>
+<td style="width: 160px;" data-sheets-value='{"1":2,"2":"Team 2"}'>Team 2</td>
+<td style="width: 381px;" data-sheets-value='{"1":2,"2":"Team 2"}'>Team 2</td>
+</tr>
+<tr>
+<td style="width: 367px;" data-sheets-value='{"1":2,"2":"My Lessons"}'>My Lessons</td>
+<td style="width: 160px;" data-sheets-value='{"1":2,"2":"Team 2"}'>Team 2</td>
+<td style="width: 381px;" data-sheets-value='{"1":2,"2":"Team 2"}'>Team 2</td>
+</tr>
+<tr>
+<td style="width: 367px;" data-sheets-value='{"1":2,"2":"Order &amp; Payment"}'>Order &amp; Payment</td>
+<td style="width: 160px;" data-sheets-value='{"1":2,"2":"Team 2"}'>Team 2</td>
+<td style="width: 381px;" data-sheets-value='{"1":2,"2":"Team 2"}'>Team 2</td>
+</tr>
+<tr>
+<td style="width: 367px;" data-sheets-value='{"1":2,"2":"My Wallet"}'>My Wallet</td>
+<td style="width: 160px;" data-sheets-value='{"1":2,"2":"Team 2"}'>Team 2</td>
+<td style="width: 381px;" data-sheets-value='{"1":2,"2":"Team 2"}'>Team 2</td>
+</tr>
+<tr>
+<td style="width: 367px;" data-sheets-value='{"1":2,"2":"Teacher Withdrawal"}'>Teacher Withdrawal</td>
+<td style="width: 160px;" data-sheets-value='{"1":2,"2":"Team 2"}'>Team 2</td>
+<td style="width: 381px;" data-sheets-value='{"1":2,"2":"Team 2"}'>Team 2</td>
+</tr>
+<tr>
+<td style="width: 367px;" data-sheets-value='{"1":2,"2":"My Coupons"}'>My Coupons</td>
+<td style="width: 160px;" data-sheets-value='{"1":2,"2":"Team 2"}'>Team 2</td>
+<td style="width: 381px;" data-sheets-value='{"1":2,"2":"Team 2"}'>Team 2</td>
+</tr>
+<tr>
+<td style="width: 367px;" data-sheets-value='{"1":2,"2":"Gift Card Purchase"}'>Gift Card Purchase</td>
+<td style="width: 160px;" data-sheets-value='{"1":2,"2":"Team 2"}'>Team 2</td>
+<td style="width: 381px;" data-sheets-value='{"1":2,"2":"Team 2"}'>Team 2</td>
+</tr>
+<tr>
+<td style="width: 367px;" data-sheets-value='{"1":2,"2":"OOPT Purchase"}'>OOPT Purchase</td>
+<td style="width: 160px;" data-sheets-value='{"1":2,"2":"SI"}'>SI</td>
+<td style="width: 381px;" data-sheets-value='{"1":2,"2":"Everyone "}'>Everyone</td>
+</tr>
+<tr>
+<td style="width: 367px;" data-sheets-value='{"1":2,"2":"Internal Ads"}'>Internal Ads</td>
+<td style="width: 160px;" data-sheets-value='{"1":2,"2":"Team 2"}'>Team 2</td>
+<td style="width: 381px;" data-sheets-value='{"1":2,"2":"Everyone"}'>Everyone</td>
+</tr>
+<tr>
+<td style="width: 367px;" data-sheets-value='{"1":2,"2":"Community"}'>Community</td>
+<td style="width: 160px;" data-sheets-value='{"1":2,"2":"Team 3"}'>Team 3</td>
+<td style="width: 381px;" data-sheets-value='{"1":2,"2":"Everyone"}'>Everyone</td>
+</tr>
+<tr>
+<td style="width: 367px;" data-sheets-value='{"1":2,"2":"Message &amp; Notification"}'>Message &amp; Notification</td>
+<td style="width: 160px;" data-sheets-value='{"1":2,"2":"Team 3"}'>Team 3</td>
+<td style="width: 381px;" data-sheets-value='{"1":2,"2":"Everyone"}'>Everyone</td>
+</tr>
+<tr>
+<td style="width: 367px;" data-sheets-value='{"1":2,"2":"Support Channels"}'>Support Channels</td>
+<td style="width: 160px;" data-sheets-value='{"1":2,"2":"Team 3"}'>Team 3</td>
+<td style="width: 381px;" data-sheets-value='{"1":2,"2":"Team 3"}'>Team 3</td>
+</tr>
+<tr>
+<td style="width: 367px;" data-sheets-value='{"1":2,"2":"Referral"}'>Referral</td>
+<td style="width: 160px;" data-sheets-value='{"1":2,"2":"Team 3"}'>Team 3</td>
+<td style="width: 381px;" data-sheets-value='{"1":2,"2":"Team 1, Team 3"}'>Team 1, Team 3</td>
+</tr>
+<tr>
+<td style="width: 367px;" data-sheets-value='{"1":2,"2":"Language Challenge"}'>Language Challenge</td>
+<td style="width: 160px;" data-sheets-value='{"1":2,"2":"Team 2"}'>Team 2</td>
+<td style="width: 381px;">　</td>
+</tr>
+<tr>
+<td style="width: 367px;" data-sheets-value='{"1":2,"2":"Help Center (Zendesk)"}'>Help Center (Zendesk)</td>
+<td style="width: 160px;" data-sheets-value='{"1":2,"2":"Team 3"}'>Team 3</td>
+<td style="width: 381px;" data-sheets-value='{"1":2,"2":"CS"}'>CS</td>
+</tr>
+<tr>
+<td style="width: 367px;" data-sheets-value='{"1":2,"2":"Company Page"}'>Company Page</td>
+<td style="width: 160px;" data-sheets-value='{"1":2,"2":"Marketing"}'>Marketing</td>
+<td style="width: 381px;" data-sheets-value='{"1":2,"2":"Marketing, People Ops"}'>Marketing, People Ops</td>
+</tr>
+<tr>
+<td style="width: 367px;" data-sheets-value='{"1":2,"2":"BOS Portal"}'>BOS Portal</td>
+<td style="width: 160px;" data-sheets-value='{"1":2,"2":"Team 1"}'>Team 1</td>
+<td style="width: 381px;" data-sheets-value='{"1":2,"2":"Team 1"}'>Team 1</td>
+</tr>
+<tr>
+<td style="width: 367px;" data-sheets-value='{"1":2,"2":"Affiliate Program (Web)"}'>Affiliate Program (Web)</td>
+<td style="width: 160px;" data-sheets-value='{"1":2,"2":"Team 1"}'>Team 1</td>
+<td style="width: 381px;" data-sheets-value='{"1":2,"2":"Team 1"}'>Team 1</td>
+</tr>
+<tr>
+<td style="width: 367px;" data-sheets-value='{"1":2,"2":"Partnership Program (Web)"}'>Partnership Program (Web)</td>
+<td style="width: 160px;" data-sheets-value='{"1":2,"2":"Team 1"}'>Team 1</td>
+<td style="width: 381px;" data-sheets-value='{"1":2,"2":"Team 1"}'>Team 1</td>
+</tr>
+<tr>
+<td style="width: 367px;" data-sheets-value='{"1":2,"2":"Classroom"}'>Classroom</td>
+<td style="width: 160px;" data-sheets-value='{"1":2,"2":"SI"}'>SI</td>
+<td style="width: 381px;" data-sheets-value='{"1":2,"2":"Everyone"}'>Everyone</td>
+</tr>
+</tbody>
+</table>
+<p> How the defect has been handled, please refer to: </p>
+<h2 id="title-text" class="with-breadcrumbs"><a href="https://xconfluence.italki.cn/pages/viewpage.action?pageId=39393780">Defect Flow (Aug 2020)</a></h2>

@@ -1,0 +1,81 @@
+<h1>How do I get paid and what's the withdrawal fee?</h1>
+<p><iframe src="//www.youtube-nocookie.com/embed/qeX0w4isMNI" width="560" height="315" frameborder="0" allowfullscreen=""></iframe></p>
+<p> </p>
+<p><span style="font-weight: 400;">italki works with different Payment Providers to help you withdraw your money in </span><strong>USD</strong><span style="font-weight: 400;">. The main Payment Providers we use are:</span></p>
+<ul>
+<li style="font-weight: 400;" aria-level="1">
+<strong>PayPal</strong><span style="font-weight: 400;"> - https://www.paypal.com (</span><a href="https://support.italki.com/hc/en-us/articles/206351818-Withdraw-using-PayPal" target="_blank" rel="noopener">Learn More</a><span style="font-weight: 400;">) </span><a href="https://www.paypal.com/webapps/mpp/country-worldwide" target="_blank" rel="noopener">list of countries and currencies supported by Paypal</a>
+</li>
+<li style="font-weight: 400;" aria-level="1">
+<strong>Hyperwallet </strong><span style="font-weight: 400;">- a PayPal service with a lower service fee (</span><a href="https://support.italki.com/hc/en-us/articles/900001980846-Get-Paid-With-Hyperwallet" target="_blank" rel="noopener">Learn More</a><span style="font-weight: 400;">)</span>
+</li>
+<li style="font-weight: 400;" aria-level="1">
+<strong>Payoneer</strong><span style="font-weight: 400;"> - https://www.payoneer.com (</span><a href="https://support.italki.com/hc/en-us/articles/360020069633-Withdraw-using-Payoneer" target="_blank" rel="noopener">Learn More</a><span style="font-weight: 400;">)</span>
+</li>
+<li style="font-weight: 400;" aria-level="1">
+<strong>Bank Transfer via Payoneer</strong><span style="font-weight: 400;"> - italki transfers money through Payoneer to the bank account specified in your Payoneer account. (</span><a href="https://support.italki.com/hc/en-us/articles/206351808-Withdraw-using-Bank-Transfer-via-Payoneer" target="_blank" rel="noopener">Learn More</a><span style="font-weight: 400;">)</span>
+</li>
+</ul>
+<p><span class="wysiwyg-color-red" style="font-weight: 400;">The minimum withdrawal amount is $30 USD in italki Credits.</span></p>
+<p> </p>
+<p><span style="font-weight: 400;">Although italki does <strong>NOT</strong> charge any fee from your withdrawals, you may be subject to different fees depending on which method you use. Please be aware that different countries may have different transaction fees charged by the respective payment provider.</span></p>
+<p> </p>
+<p><span style="font-weight: 400;">The chart below shows typical fees for each payment provider. Please consult your payment provider's website for your particular country to see what fees apply to you.</span></p>
+<table style="border-collapse: collapse; width: 100%;" border="1">
+<tbody>
+<tr>
+<td style="width: 18.4286%;">
+<p><strong>Method</strong></p>
+</td>
+<td style="width: 81.4286%;">
+<p><strong>        Fee (Charged by Payment Providers)</strong></p>
+</td>
+</tr>
+<tr>
+<td style="width: 18.4286%;">
+<p><span style="font-weight: 400;">PayPal</span></p>
+</td>
+<td style="width: 81.4286%;">
+<ul>
+<li>
+<span style="font-weight: 400;">2% of the requested amount </span>(rates differ from different countries)</li>
+</ul>
+</td>
+</tr>
+<tr>
+<td style="width: 18.4286%;">
+<p><span style="font-weight: 400;">Hyperwallet</span></p>
+</td>
+<td style="width: 81.4286%;">
+<ul>
+<li>
+<span style="font-weight: 400;">1.5% of the requested amount </span>(rates differ from different countries)</li>
+</ul>
+</td>
+</tr>
+<tr>
+<td style="width: 18.4286%;">
+<p><span style="font-weight: 400;">Payoneer</span></p>
+</td>
+<td style="width: 81.4286%;">
+<ul>
+<li><span style="font-weight: 400;">$3 USD flat fee for each transfer</span></li>
+</ul>
+</td>
+</tr>
+<tr>
+<td style="width: 18.4286%;">
+<p><span style="font-weight: 400;">Bank Transfer</span></p>
+<p><span style="font-weight: 400;">(via Payoneer)</span></p>
+</td>
+<td style="width: 81.4286%;">
+<ul>
+<li style="font-weight: 400;" aria-level="1"><span style="font-weight: 400;">For USD transfers to banks in the USA: $1.5 USD flat fee.</span></li>
+<li style="font-weight: 400;" aria-level="1"><span style="font-weight: 400;">For USD transfers to countries with local currency bank transfer route, received in the local currency: $3 USD flat fee + Payoneer currency exchange rate (around 2% of the amount transferred, depending on which currency is needed).</span></li>
+<li style="font-weight: 400;" aria-level="1"><span style="font-weight: 400;">For USD transfers to all other countries: $15 USD flat fee. Additional intermediary bank fees or loading fees may apply. SWIFT bank transfer is not applicable to countries where the local currency route is available. </span></li>
+</ul>
+</td>
+</tr>
+</tbody>
+</table>
+<p><br><span style="font-weight: 400;">For details about when you will get paid, please check the article: </span><a href="https://support.italki.com/hc/en/articles/206351868-J-ai-soumis-ma-demande-de-retrait-Quand-vais-je-recevoir-mon-paiement-" target="_blank" rel="noopener noreferrer">I've submitted my withdrawal request, when will I receive my payment.</a></p>

@@ -1,0 +1,185 @@
+<h1>Vouchers & Promotions</h1>
+<h2 data-renderer-start-pos="1"><strong>Currently, we have three types of promotions</strong></h2>
+<p data-renderer-start-pos="64"><strong data-renderer-mark="true">1.Voucher Codes</strong></p>
+<p data-renderer-start-pos="64">Directly redeem into italki credits, no other action required other than entering it.</p>
+<ul class="ak-ul" data-indent-level="1">
+<li>
+<p data-renderer-start-pos="87">Example: FHFIE2E8VIX28B68<img src="https://support.italki.com/hc/article_attachments/4402669169305/mceclip3.png" alt="mceclip3.png"></p>
+</li>
+</ul>
+<p data-renderer-start-pos="230"><strong data-renderer-mark="true">2.Promotion Codes </strong></p>
+<p data-renderer-start-pos="230">Used when making a purchase, can get a bonus or discount</p>
+<ul class="ak-ul" data-indent-level="1">
+<li>
+<p data-renderer-start-pos="255">Example: XMAS2021<br><img src="https://support.italki.com/hc/article_attachments/4402669142681/mceclip1.png" alt="mceclip1.png"></p>
+</li>
+</ul>
+<p data-renderer-start-pos="400"><strong data-renderer-mark="true">3.Coupons</strong></p>
+<p data-renderer-start-pos="400">1-1 coupon sent directly to a user’s wallet. Used when making a purchase, can get a bonus or a discount,</p>
+<ul>
+<li data-renderer-start-pos="400">Example: Buy 10 get 5, Buy 10 get 5 off<img src="https://support.italki.com/hc/article_attachments/4402669179929/mceclip5.png" alt="mceclip5.png">
+</li>
+</ul>
+<h3 data-renderer-start-pos="4789"> </h3>
+<h2><strong>Coupon Cheat Sheet</strong></h2>
+<table dir="ltr" border="1" cellspacing="0" cellpadding="0">
+<colgroup>
+<col width="150">
+<col width="150">
+<col width="150">
+<col width="150">
+<col width="150">
+</colgroup>
+<tbody>
+<tr>
+<td data-sheets-value='{"1":2,"2":"Coupon Type"}'><strong>Coupon Type</strong></td>
+<td data-sheets-value='{"1":2,"2":"Usage Senarios"}'><strong>Usage Scenarios</strong></td>
+<td data-sheets-value='{"1":2,"2":"Payment Types"}'><strong>Payment Types</strong></td>
+<td data-sheets-value='{"1":2,"2":"Usage Conditions"}'><strong>Usage Conditions</strong></td>
+<td data-sheets-value='{"1":2,"2":"Display Condition"}'><strong>Display Condition</strong></td>
+</tr>
+<tr>
+<td data-sheets-value='{"1":2,"2":"Purchase Coupon"}'><strong>Purchase Coupon</strong></td>
+<td data-sheets-value='{"1":2,"2":"-Buy Credits\n \n-Book Lesson\n \n-Language Test TN\n \n-Language Test"}'>-Buy Credits<br><br>-Book Lesson<br><br>-Language Test TN<br><br>-Language Test</td>
+<td data-sheets-value='{"1":2,"2":"-Payment Method\n\n-Payment Method + Balance"}'>-Payment Method<br><br>-Payment Method + Balance</td>
+<td data-sheets-value='{"1":2,"2":"Total Purchase Amount (Payment Method) must be higher than Code amount"}'>Total Purchase Amount (Payment Method) must be higher than Code amount</td>
+<td data-sheets-value='{"1":2,"2":"Display in all areas as long as purchase conditions are fulfilled"}'>Display in all areas as long as purchase conditions are fulfilled</td>
+</tr>
+<tr>
+<td data-sheets-value='{"1":2,"2":"Lesson Coupon"}'><strong>Lesson Coupon</strong></td>
+<td data-sheets-value='{"1":2,"2":"-Book Lesson"}'>-Book Lesson</td>
+<td data-sheets-value='{"1":2,"2":"-Payment Method\n\n-Payment Method + Balance\n \n-Balance"}'>-Payment Method<br><br>-Payment Method + Balance<br><br>-Balance</td>
+<td data-sheets-value='{"1":2,"2":"Lesson Price must be higher than Code amount"}'>Lesson Price must be higher than Code amount</td>
+<td data-sheets-value='{"1":2,"2":"Display in Lesson Checkout only"}'>Display in Lesson Checkout only</td>
+</tr>
+<tr>
+<td data-sheets-value='{"1":2,"2":"Language Test Coupon (TN)"}'><strong>Language Test Coupon (TN)</strong></td>
+<td data-sheets-value='{"1":2,"2":"-Purchase TN Language Test"}'>-Purchase TN Language Test</td>
+<td data-sheets-value='{"1":2,"2":"-Payment Method\n \n-Payment Method + Balance\n \n-Balance"}'>-Payment Method<br><br>-Payment Method + Balance<br><br>-Balance</td>
+<td data-sheets-value='{"1":2,"2":"Fixed to $30 - X"}'>Fixed to $30 - X</td>
+<td data-sheets-value='{"1":2,"2":"Display in Language Test TN and Display in Language Test OOPT only"}'>Display in Language Test TN and Display in Language Test OOPT only</td>
+</tr>
+<tr>
+<td data-sheets-value='{"1":2,"2":"Language Test Coupon (OOPT)"}'><strong>Language Test Coupon (OOPT)</strong></td>
+<td data-sheets-value='{"1":2,"2":"-Purchase OOPT Language Test"}'>-Purchase OOPT Language Test</td>
+<td data-sheets-value='{"1":2,"2":"-Payment Method\n \n-Payment Method + Balance\n \n-Balance"}'>-Payment Method<br><br>-Payment Method + Balance<br><br>-Balance</td>
+<td data-sheets-value='{"1":2,"2":"Fixed to $10 - X"}'>Fixed to $10 - X</td>
+<td data-sheets-value='{"1":2,"2":"Display in Language Test TN and Display in Language Test OOPT only"}'>Display in Language Test TN and Display in Language Test OOPT only</td>
+</tr>
+</tbody>
+</table>
+<p> </p>
+<p><strong><span style="font-size: 1.5em;">Coupon Refund Logic</span></strong></p>
+<table dir="ltr" style="font-size: 15px; height: 1349px; width: 816px;" border="1" cellspacing="0" cellpadding="0">
+<colgroup>
+<col width="153">
+<col width="291">
+<col width="478">
+<col width="266">
+</colgroup>
+<tbody>
+<tr style="height: 22px;">
+<td style="height: 22px; width: 108.698px;"> </td>
+<td class="wysiwyg-text-align-center" style="height: 22px; width: 188.455px;" data-sheets-value='{"1":2,"2":"Senario"}'><strong>Scenario</strong></td>
+<td class="wysiwyg-text-align-center" style="height: 22px; width: 292.969px;" data-sheets-value='{"1":2,"2":"Student Get"}'><strong>Student Get</strong></td>
+<td class="wysiwyg-text-align-center" style="height: 22px; width: 180.312px;" data-sheets-value='{"1":2,"2":"Teacher Get"}'><strong>Teacher Get</strong></td>
+</tr>
+<tr style="height: 111px;">
+<td style="height: 111px; width: 108.698px;" data-sheets-value='{"1":2,"2":"Purchase Coupon "}'><strong>Purchase Coupon</strong></td>
+<td style="height: 111px; width: 188.455px;" data-sheets-value='{"1":2,"2":"If the user is using purchase coupn to purchased a lesson, when the lesson got cancelled"}'>If the user is using a purchase couponBuy $30 get $5 off to purchase a lesson of $30, when the lesson got canceled</td>
+<td style="height: 111px; width: 292.969px;" data-sheets-value='{"1":2,"2":"Italki will refund credits direct to the student wallet （Coupon will not be refunded）"}'>Credit Refund: $ 30<br>Coupon Refund: None</td>
+<td class="wysiwyg-text-align-center" style="height: 111px; width: 180.312px;" data-sheets-value='{"1":2,"2":"None"}'>None</td>
+</tr>
+<tr style="height: 133px;">
+<td style="height: 954px; width: 108.698px;" rowspan="5" data-sheets-value='{"1":2,"2":"Lesson Coupon"}'>
+<div><strong>Lesson Coupon</strong></div>
+</td>
+<td style="height: 133px; width: 188.455px;" data-sheets-value='{"1":2,"2":"Single Lesson Price: $30\nCoupon:Book 1 lesson no conditions get $5 off \nLesson Status: Cancelled"}'>
+<p><strong>Single Lesson Price:</strong> $30<br><strong>Coupon: </strong>Book 1 lesson no conditions get $5 off <br><strong>Lesson Status:</strong> Cancelled</p>
+<p> </p>
+</td>
+<td style="height: 133px; width: 292.969px;" data-sheets-value='{"1":2,"2":"Credit Refund: $ 25\nCoupon Refund: Book 1 lesson no conditions get $5 off "}'>
+<p> </p>
+<p>The student should get: $ 30</p>
+<p><span class="wysiwyg-underline"><strong>In the form of</strong></span></p>
+<p><span class="wysiwyg-color-red">Credit Refund: $ 25</span><br><span class="wysiwyg-color-red">Coupon Refund: Book 1 lesson no conditions get $5 off</span></p>
+</td>
+<td class="wysiwyg-text-align-center" style="height: 133px; width: 180.312px;" data-sheets-value='{"1":2,"2":"None"}'>None</td>
+</tr>
+<tr style="height: 177px;">
+<td style="height: 177px; width: 188.455px;" data-sheets-value='{"1":2,"2":"Single Lesson Price: $30\nCoupon:Book 1 lesson no conditions get $5 off \nLesson Status: In dispute, we decide to split the credit 50% each"}'>
+<strong>Single Lesson Price:</strong> $30<br><strong>Coupon: </strong>Book 1 lesson no conditions get $5 off <br><strong>Lesson Status:</strong> Lesson in dispute, italki decide to split the credit to 50% each</td>
+<td style="height: 177px; width: 292.969px;" data-sheets-value='{"1":2,"2":"Credit Refund: $ 10\nCoupon Refund: Book 1 lesson no conditions get $5 off "}'>
+<p>The student should get: $ 15</p>
+<p><span class="wysiwyg-underline"><strong>In the form of</strong></span></p>
+<p><span class="wysiwyg-color-red">Credit Refund: $ 10</span><br><span class="wysiwyg-color-red">Coupon Refund: Book 1 lesson no conditions get $5 off</span></p>
+</td>
+<td class="wysiwyg-text-align-center" style="height: 177px; width: 180.312px;" data-sheets-value='{"1":2,"2":"$15 - Commission"}'>$15 - Commission</td>
+</tr>
+<tr style="height: 222px;">
+<td style="height: 222px; width: 188.455px;" data-sheets-value='{"1":2,"2":"Package Lesson Price:$40 ($8 * 5)\nCoupon:Book 1 lesson above $20 get $5 off\nUnit Price：$9\nAverage Price: $8\nLesson Status: complete 1 lesson, S want to terminate the package"}'>
+<p><strong>Package Lesson Price:</strong>$40 ($8 * 5)<br><strong>Coupon: </strong>Book 1 lesson above $20 get $5 off<br><strong>Unit Price：</strong>$9<br><strong>Average Price:</strong> $8<br><strong>Lesson Status:</strong> complete 1 lesson, S want to terminate the package</p>
+<p> </p>
+</td>
+<td style="height: 222px; width: 292.969px;" data-sheets-value='{"1":2,"2":"Credit Refund: $ 26\nCoupon Refund: Book 1 lesson above $20 get $5 off"}'>
+<p><strong>Package terminate at：</strong>unit price</p>
+<p><strong>The student should get:</strong> $ 31</p>
+<p><span class="wysiwyg-underline"><strong>In the form of</strong></span></p>
+<p><span class="wysiwyg-color-red">Credit Refund: $ 26</span><br><span class="wysiwyg-color-red">Coupon Refund: Book 1 lesson above $20 get $5 off</span></p>
+</td>
+<td class="wysiwyg-text-align-center" style="height: 222px; width: 180.312px;" data-sheets-value='{"1":2,"2":"$9 - Commission"}'>$9 - Commission</td>
+</tr>
+<tr style="height: 222px;">
+<td style="height: 222px; width: 188.455px;" data-sheets-value='{"1":2,"2":"Package Lesson Price:$40 ($8 * 5)\nCoupon:Book 1 lesson above $20 get $5 off\nUnit Price：$9\nAverage Price: $8\nLesson Status: complete 4 lessons, S want to terminate the package"}'>
+<p><strong>Package Lesson Price:</strong>$40 ($8 * 5)<br><strong>Coupon: </strong>Book 1 lesson above $20 get $5 off<br><strong>Unit Price：</strong>$9<br><strong>Average Price:</strong> $8<br><strong>Lesson Status:</strong> complete 4 lessons, S want to terminate the package</p>
+</td>
+<td style="height: 222px; width: 292.969px;" data-sheets-value='{"1":2,"2":"Credit Refund: $ 4\nCoupon Refund: None\n"}'>
+<p><strong>Package terminate at：</strong>unit price</p>
+<p><strong>The student should get:</strong> $ 0</p>
+<p><span class="wysiwyg-underline"><strong>In the form of</strong></span></p>
+<p><span class="wysiwyg-color-red">Credit Refund: $ 0</span><br><span class="wysiwyg-color-red">Coupon Refund: None</span></p>
+</td>
+<td class="wysiwyg-text-align-center" style="height: 222px; width: 180.312px;" data-sheets-value='{"1":2,"2":"$36 - Commission"}'>$36 - Commission</td>
+</tr>
+<tr style="height: 200px;">
+<td style="height: 200px; width: 188.455px;" data-sheets-value='{"1":2,"2":"Package Lesson Price:$40 ($8 * 5)\nCoupon:Book 1 lesson above $20 get $5 off\nUnit Price：$10\nAverage Price:$8\nLesson Status:complete 4 lessons, S want to terminate the package"}'>
+<p><strong>Package Lesson Price:</strong>$40 ($8 * 5)<br><strong>Coupon: </strong>Book 1 lesson above $20 get $5 off<br><strong>Unit Price：</strong>$10<br><strong>Average Price:</strong>$8<br><strong>Lesson Status: </strong>complete 4 lessons, S want to terminate the package</p>
+</td>
+<td style="height: 200px; width: 292.969px;" data-sheets-value='{"1":2,"2":"Credit Refund: None\nCoupon Refund: None\n"}'>
+<p><strong>Package terminate at：</strong>unit price</p>
+<p><strong>The student should get:</strong> $ 0</p>
+<p><span class="wysiwyg-underline"><strong>In the form of</strong></span></p>
+<p><span class="wysiwyg-color-red">Credit Refund: None</span><br><span class="wysiwyg-color-red">Coupon Refund: None</span></p>
+</td>
+<td class="wysiwyg-text-align-center" style="height: 200px; width: 180.312px;" data-sheets-value='{"1":2,"2":"$40 - Commssion"}'>$40 - Commission</td>
+</tr>
+<tr style="height: 111px;">
+<td style="height: 111px; width: 108.698px;" rowspan="2" data-sheets-value='{"1":2,"2":"No Condition Coupon"}'>
+<strong>No Condition Coupon</strong><br><strong><br></strong>
+</td>
+<td style="height: 111px; width: 188.455px;" data-sheets-value='{"1":2,"2":"If the user is using no condition coupn $5 to purchased a lesson $2, when the lesson got cancelled"}'>If the user is using no condition coupon $5 to purchase a lesson $2 when the lesson got canceled</td>
+<td style="height: 111px; width: 292.969px;" data-sheets-value='{"1":2,"2":"Credit Refund: None\nCoupon Refund: Book 1 lesson no conditions get $5 off \n"}'>
+<strong>Credit Refund:</strong> None<br><strong>Coupon Refund:</strong> Book 1 lesson no conditions get $5 off</td>
+<td class="wysiwyg-text-align-center" style="height: 111px; width: 180.312px;" data-sheets-value='{"1":2,"2":"None"}'>None</td>
+</tr>
+<tr>
+<td style="width: 188.455px;">If the user is using no condition coupon $5 to purchase a lesson $6 when the lesson got canceled</td>
+<td style="width: 292.969px;">
+<strong>Credit Refund:</strong> $ 1<br><strong>Coupon Refund:</strong> Book 1 lesson no conditions get $5 off</td>
+<td class="wysiwyg-text-align-center" style="width: 180.312px;">None</td>
+</tr>
+<tr style="height: 44px;">
+<td style="height: 44px; width: 108.698px;" data-sheets-value='{"1":2,"2":"language test coupon"}'><strong>language test coupon</strong></td>
+<td class="wysiwyg-text-align-center" style="height: 44px; width: 188.455px;" data-sheets-value='{"1":2,"2":"-"}'>-</td>
+<td class="wysiwyg-text-align-center" style="height: 44px; width: 292.969px;" data-sheets-value='{"1":2,"2":"-"}'>-</td>
+<td class="wysiwyg-text-align-center" style="height: 44px; width: 180.312px;" data-sheets-value='{"1":2,"2":"-"}'>-</td>
+</tr>
+</tbody>
+</table>
+<p> </p>
+<p><strong><span class="wysiwyg-color-red">* Lesson Coupon refund rules: </span></strong></p>
+<p>If the amount refund to student &gt; lesson coupon value, we refund in credit + coupon</p>
+<p>If the amount refund to student = lesson coupon value, we refund in coupon only</p>
+<p>If the amount refund to student &lt; lesson coupon value,<strong> no refund will be given</strong></p>
+<p> </p>
+<p> </p>

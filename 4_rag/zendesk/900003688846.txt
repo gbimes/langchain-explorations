@@ -1,0 +1,21 @@
+<h1>Confirm a Lesson and Leave Lesson Review</h1>
+<p>Congrats on finishing your lesson (maybe your first one) on italki! You are now officially on an amazing language-learning journey. Here are a few things you might consider doing when your lesson is completed:</p>
+<h3 id="h_01HBA5ASXPCST40E77QATNERZQ"><strong>1. Confirming your lesson</strong></h3>
+<p><img src="https://support.italki.com/hc/article_attachments/23420655142809"></p>
+<p>After successfully finishing a great lesson, confirm it at your earliest convenience so that your teacher can receive the payment in time. </p>
+<p>But don’t worry if you forget to do so - italki will automatically confirm it as completed<strong> three days after the lesson time.</strong></p>
+<h3 id="h_01HBA5ASXP7BDRVTC9FHEC8CH2"><strong style="font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', Helvetica, Arial, sans-serif;">2. <strong>Rating your lesson</strong></strong></h3>
+<p>You can rate the lesson out of 5 stars and share the lesson experience by answering four questions.</p>
+<p><em><span style="color: #999999;"><img style="height: 630.0912646675359; width: 456px;" src="https://lh6.googleusercontent.com/Q6tGtwUZ0Q7rvJIb9b9fh4caxX6xV6pGl8QfZv6gz8JhAgK5Y-H3wSwJEdWnx3d6yezIOcn560-1L7GAbioLtVn2v0YoT_rmgA26iGDQ5WUMXe1K08wCN6mxv_7aBAr95CoOU1weurYxxfgXo1luTZQ"></span></em></p>
+<ul>
+<li>
+<strong><em><span style="background-color: #ffffff;">Ratings and answers are anonymous</span></em></strong><span style="background-color: #ffffff;">, </span>which will not be seen by the teacher and other students. Your rating will help provide an overall score that appears on the teacher’s profile. </li>
+<li><span style="color: #2a2b2e; background-color: #ffffff;">For each question, you can choose up to three tags.</span></li>
+<li>You can do a lesson review within <strong>14 days after the lesson was confirmed</strong>.</li>
+</ul>
+<p><strong style="font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', Helvetica, Arial, sans-serif;">3. <strong>Leaving a useful, constructive lesson review </strong></strong></p>
+<p>A good lesson comment includes enough detail to give other students an idea of what a lesson was like. Providing your overall lesson experience will be very helpful for other users! Try to be specific - you can offer your view on what the teachers did well, and how they can improve. Constructive feedback will motivate the teachers to keep doing better. </p>
+<p><strong>Bear in mind that your feedback is public and cannot be edited once successfully submitted. It will be on the teacher’s profile page.</strong> So try to increase the relevance of your feedback, stick to the facts, and be honest and friendly!</p>
+<p> </p>
+<p>Examples of helpful reviews:</p>
+<p><span style="font-weight: 400;"><img src="https://support.italki.com/hc/article_attachments/23421764657817">         </span></p>

@@ -1,0 +1,60 @@
+<h1>What are Group Courses & the Group Course Policy</h1>
+<p>Introducing our new Group courses! Join us to learn, progress, and thrive in a dynamic group setting!<br><br></p>
+<p><strong>What are Group courses?</strong></p>
+<ul>
+<li>Group courses are a series of group classes that focus on one topic, or just a general language course that helps you practice and progress.</li>
+<li>You can meet with your teachers and peers regularly each week at a set time. Courses usually last a few weeks, depending on the topic.</li>
+</ul>
+<p> </p>
+<p><img style="height: 261px; width: 624px;" src="https://lh5.googleusercontent.com/iKYGNQLsSDlbFD11X6NEDwoPXttYKAZ3M-AF66lPOb5fjQMcEsNdy3L8ecrbYFKiHn8WQA5d2J5Nedmo2OG4wY6Vw1sUJSbwrArWPt08qAxd92aX70dFUIQQ1i9a5CWPSa5qEst_Uf6-xlETC50_-LI"></p>
+<p> </p>
+<p><strong>What benefits can I get from Group courses?</strong></p>
+<ul>
+<li>Regular meeting times keep you learning week after week.</li>
+<li>Well-designed course plans ensure learning quality and outcomes.</li>
+<li>Learn with the same teacher and classmates to develop friendships and teamwork.</li>
+</ul>
+<p><br><strong>Here are a few tips that help you make the most of the course:</strong></p>
+<ul>
+<li>Choose a course that fits your schedule, language level, and goals. You can find these details on the course detail page.</li>
+<li>Make sure you have a Zoom account and have downloaded Zoom on the device(s) you will use to attend class.</li>
+<li>Download the class materials on the course detail page. Viewing the content before class can help you focus more on what’s said in class.<strong><br></strong><strong><img style="height: 605px; width: 624px;" src="https://lh4.googleusercontent.com/VtkaW3rv_hzB2JSCV1oRTMSmVfTgUmMyffOV5xotykn4kEaMj9REOltrSu4lExtAVwv973rysaJ1ni8NboFv-BKOivM6C6VN7YkUkw1NMpZg4sJswTESsHeaM5fQItogQuVyUzW3u-XqvFG5iA479SI"></strong><strong><br></strong><strong><br></strong><a href="http://italki.com/group-class" target="_blank" rel="noopener noreferrer"><strong><span class="wysiwyg-underline" style="color: #1155cc;">Browse courses</span></strong><strong><br></strong></a>
+</li>
+</ul>
+<p>To ensure a smooth learning experience for all, we kindly request that you familiarize yourself with the policies governing our Group courses below</p>
+<p><strong> </strong></p>
+<p><strong>Can I cancel a course if I am a student?</strong></p>
+<p>Yes, you can cancel a course if it's more than 24 hours before the course starts and receive credits back. However, if it's less than 24 hours before the course starts, you won't be able to cancel it.</p>
+<p> </p>
+<p><strong>What happens if the minimum number of students isn't met?</strong></p>
+<p>If the minimum number of students isn't met, the system will automatically cancel the course and refund all credits. Both students and teachers will receive a notification about the cancellation.</p>
+<p> </p>
+<p><strong>Can a teacher cancel a course if the minimum number of students isn't met?</strong></p>
+<p>Yes, a teacher can cancel a course if the minimum number of students is not met 24 hours before the course starts, and students will receive credits back. However, if the minimum number of students is already enrolled, the teacher won't have the option to cancel the course.</p>
+<p> </p>
+<p><strong>Can a student or teacher cancel or reschedule one of the classes before the start time?</strong></p>
+<p>No, a student or teacher can not cancel or reschedule the class. The course is proceeding as scheduled.</p>
+<p> </p>
+<p><strong>What happens if a student doesn't show up for a class?</strong></p>
+<p>If a student doesn't show up for a class, including due to internet issues or sickness, there won't be any refunds for the class. The course will continue as scheduled.</p>
+<p> </p>
+<p><strong>What happens if a student misbehaves?</strong></p>
+<p>If there's proof of serious violation of the italki policy, the student will be removed immediately. If there's no proof, the student will be removed after the second violation, and all unused balances will be given to the teacher. For other misbehaviors, the student will receive a warning for the first time and will be removed after the second violation. All unused balances will be given to the teacher.</p>
+<p> </p>
+<p><strong>Can a student request to terminate a course?</strong></p>
+<p>Students cannot request to terminate the course. However, if another student is causing an issue, they will be removed. Termination is also not allowed if the student isn't satisfied with the teacher's quality. </p>
+<p> </p>
+<p><strong>Can a teacher request to terminate a course?</strong></p>
+<p>A teacher can not request to terminate a course unless the left student count in the course is 1.</p>
+<p> </p>
+<p><strong>What options do students have if a teacher misbehaves, no-show, or violates italki policy?</strong></p>
+<p>Students can choose to terminate the entire course and get the unused balance refunded or get the affected class refunded and continue the course. </p>
+<p> </p>
+<p><strong>What happens if the remaining student counts in the course is under the minimum student requirements but more than 1 student?</strong></p>
+<p>The course cannot be terminated, and the teacher must continue with the course. </p>
+<p> </p>
+<p><strong>What happens if the remaining student count in the course is 1?</strong></p>
+<p>The teacher or student can request to terminate the course, and any unused credits will be refunded to the student. </p>
+<p> </p>
+<p><strong>How is the unused balance calculated?</strong></p>
+<p>The unused balance is calculated as (the total credit for the course)/(total # of classes in the course) *(# of upcoming classes). For example, if the entire course is $100 for 5 lessons, 4 lessons are completed, and 1 lesson is upcoming, the unused balance will be 100/5 *(5-4) = $20.</p>

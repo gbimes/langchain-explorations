@@ -1,0 +1,24 @@
+<h1>SOP: Teachers who pass away and next of kin contact us for funds</h1>
+<p><strong>Sometimes italki Teachers will pass away.  If a next of kin (parent, wife, family member) contacts italki asking for their remaining funds, we can send these funds to the next of kin with proper documentation. We will need the following:</strong></p>
+<ol>
+<li><span style="font-weight: 400;"> Death Certificate of the Teacher</span></li>
+<li><span style="font-weight: 400;"> Certificate Proving Relationship between Next of Kin and Deceased</span></li>
+</ol>
+<ul>
+<li><span style="font-weight: 400;">ID (Passport, Driver's License)</span></li>
+<li><span style="font-weight: 400;">Birth Certificate</span></li>
+</ul>
+<ol start="3">
+<li><span style="font-weight: 400;"> Where to send the remaining funds.</span></li>
+</ol>
+<p><strong>After you have collected all this information.  Make a Card in <a href="https://trello.com/b/FOPWu85K/88-payment-service-problems-abby-z">88 Payment Services Problems Trello Board.</a> Column 11 OTHER.  Hisun and Polaris should be tagged. Card should have:</strong></p>
+<ol>
+<li><span style="font-weight: 400;"> Ticket Number</span></li>
+<li><span style="font-weight: 400;"> User / Teacher ID</span></li>
+<li><span style="font-weight: 400;"> Amount of money to be withdrawn</span></li>
+<li><span style="font-weight: 400;"> Payment method (Paypal etc...) where to send money to</span></li>
+</ol>
+<p><strong><span class="wysiwyg-font-size-large">General Rule: We have a paper trail with documentation that shows to where we have sent the money.</span></strong></p>
+<h3><span style="font-weight: 400;">---</span></h3>
+<h3><span style="font-weight: 400;">History</span></h3>
+<p><span style="font-weight: 400;">2018 June 11   Case Study #1 - Jamie Alexander Elliott Foote</span><span style="font-weight: 400;"> </span><a href="https://www.italki.com/user/1550462"><span style="font-weight: 400;">https://www.italki.com/user/1550462</span></a></p>

@@ -1,0 +1,7 @@
+<h1>Why hasn’t my lesson request been accepted?</h1>
+<p><span style="font-weight: 400;">A teacher will have a maximum of 48h (or the lesson starts time, whichever is sooner) to respond to a lesson request. </span></p>
+<p><strong>Your lesson is booked successfully only after your lesson request is accepted by your teacher. </strong></p>
+<p><span style="font-weight: 400;">If you don’t want to wait, simply filter by <strong>“Auto-accept”</strong> on the teacher search list to find teachers instantly accepting lesson requests automatically.</span></p>
+<p><span style="font-weight: 400;"><img src="https://support.italki.com/hc/article_attachments/4403619411609" alt="123123.png"></span></p>
+<p><span style="font-weight: 400;">If your lesson request is declined, you will receive the credits returned to your </span><span class="wysiwyg-underline"><strong><a href="https://www.italki.com/finance/overview" target="_blank" rel="noopener">student wallet</a></strong></span><span style="font-weight: 400;">. </span></p>
+<p><span style="font-weight: 400;">Successfully purchased italki credits cannot be refunded to cash. Read more about our </span><span class="wysiwyg-underline"><strong><a href="https://support.italki.com/hc/en-us/articles/360023115453">Credits Policies</a></strong></span><span style="font-weight: 400;">.</span></p>

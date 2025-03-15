@@ -1,0 +1,26 @@
+<h1>Reporting a Problem about a Teacher</h1>
+<p><strong>1. Check the information and decide if it is worth reporting to Teacher Services</strong></p>
+<p><strong>2. Report the teacher on <a href="https://docs.google.com/spreadsheets/d/1mZQx3kwK66eb-ubPUd2mEnZX-RlhVK-YqwLDsP39Acc/edit#gid=1415340384" target="_blank" rel="noopener">Problem Teacher Reports 举报问题教师 (Eric)</a></strong></p>
+<p>If you hide the teacher's profile or change anything, then put this in the problem report <strong>"Comment"</strong></p>
+<p><strong>3. Go to the teacher's profile in the OMS</strong></p>
+<p>leave a "Sticky Note" in the admin log about the problem: <a href="https://omsv2.italki.com/user/xxxxxxx/teacher-info">https://omsv2.italki.com/user/xxxxxxx/teacher-info</a></p>
+<p><strong>4. If the violation is serious, and could pose a threat to students or to italki:</strong></p>
+<ul>
+<li>
+<p>Hide the Teacher's Profile: (set "Teacher status" to <strong>NO</strong>)<img src="https://support.italki.com/hc/article_attachments/360001035973/mceclip0.png"></p>
+</li>
+<li>
+<p>(if really serious) Change the "Accepting students status"<img src="https://support.italki.com/hc/article_attachments/360001036253/mceclip3.png"><img src="https://support.italki.com/hc/article_attachments/360001036293/mceclip4.png"> </p>
+<ul>
+<li>
+<p>"New students cannot request lessons" is the same as the old "not looking for new students"</p>
+</li>
+<li>
+<p>"Students cannot request lessons (admin-only)" means that neither new students nor old students can request lessons</p>
+</li>
+</ul>
+</li>
+</ul>
+<p>Be sure to leave this information in the Sticky Notes</p>
+<p><img src="https://support.italki.com/hc/article_attachments/360001036113/mceclip2.png"></p>
+<p>If the issue is very serious, also be sure to notify someone on slack</p>

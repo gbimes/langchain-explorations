@@ -1,0 +1,21 @@
+<h1>Teacher Podcast </h1>
+<h2><strong>What is Teacher Podcast </strong></h2>
+<p>Teacher Podcast is an audio post created by teachers for language learners. </p>
+<p> </p>
+<h2><strong>How to create a podcast </strong></h2>
+<p><strong>1. Create a channel </strong></p>
+<p>In order to create a podcast, you will have to create a channel first. Usually, a<span> channel explains <strong>the theme</strong> of your podcast. Click “Create channel” to create a new Podcast channel. </span></p>
+<p data-renderer-start-pos="173"><img src="https://support.italki.com/hc/article_attachments/4415763221401" alt="Screen_Shot_2022-01-25_at_4.08.20_PM.png" width="674" height="290"></p>
+<p data-renderer-start-pos="173"><strong>2. Upload episodes to your channel</strong></p>
+<p data-renderer-start-pos="208">Record a new episode for your channel and upload it to one of your existing channels.</p>
+<p data-renderer-start-pos="208"><img src="https://support.italki.com/hc/article_attachments/4415780098713" alt="Screen_Shot_2022-01-25_at_4.12.16_PM.png" width="645" height="200"></p>
+<p data-renderer-start-pos="208"><strong>3. Episode review status </strong></p>
+<p data-renderer-start-pos="309">Every episode you upload will need to be reviewed first. Your episode status will show “Under review” and will not be able to be seen by others until the review process is complete. <span> </span><span></span><img src="https://support.italki.com/hc/article_attachments/4415780132249" alt="Screen_Shot_2022-01-25_at_4.14.00_PM.png" width="661" height="103"></p>
+<p data-renderer-start-pos="309"> </p>
+<p data-renderer-start-pos="309"><span>Once your episode is approved, the episode will be visible to other users on the podcast homepage on the italki App. If you choose to share your episodes in the italki Community, you’ll also be able to find your episodes there. <strong>Your channel won’t be visible to other italki users until you have uploaded at least ONE approved episode to your channel.</strong></span></p>
+<p data-renderer-start-pos="309"><span><strong><img src="https://support.italki.com/hc/article_attachments/4415771855769" alt="Screen_Shot_2022-01-25_at_4.18.04_PM.png" width="687" height="109"></strong></span></p>
+<p data-renderer-start-pos="713"> </p>
+<p data-renderer-start-pos="713">If your episode is rejected, you can edit the content and re-upload it. Your episode will go through the review process again.</p>
+<p data-renderer-start-pos="713"><img src="https://support.italki.com/hc/article_attachments/4415771968409" alt="Screen_Shot_2022-01-25_at_4.21.13_PM.png" width="694" height="109"></p>
+<p data-renderer-start-pos="713"> </p>
+<p data-renderer-start-pos="713"><span>Please kindly keep in mind that you can only delete podcasts after they have been reviewed. You cannot delete a podcast episode while it is under review. </span></p>

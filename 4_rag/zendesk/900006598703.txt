@@ -1,0 +1,63 @@
+<h1>Referral Program</h1>
+<p> </p>
+<p><span><img src="https://support.italki.com/hc/article_attachments/900007681706/mceclip0.png" alt="mceclip0.png"></span></p>
+<h2><strong>Product Launch Time:</strong></h2>
+<p><span class="wysiwyg-color-red"><strong><span class="wysiwyg-underline">April 14, 2021</span> </strong></span></p>
+<p> </p>
+<h2><strong>Introduction of new Refer a Friend program:</strong></h2>
+<p><span style="font-weight: 400;">Refer a Friend is italki’s referral program where you can earn credits and coupons for inviting your friends to italki! Earn $15 for each friend you invite that successfully takes their first lesson. As they continue to take lessons, you will earn additional rewards in the form of credit coupons.</span></p>
+<p><span style="font-weight: 400;">The more they learn, the more you earn!</span></p>
+<p><span style="font-weight: 400;">If you already have an italki account, you can start inviting people from your Referral Dashboard located here: </span><a href="https://www.italki.com/referral"><span style="font-weight: 400;">Link</span></a></p>
+<p> </p>
+<h2><strong>Channels to invite a friend:</strong></h2>
+<p>Via email, social media, or copy personal referral link to friends.</p>
+<p> </p>
+<h2><strong>How to earn more credit?</strong></h2>
+<p><span>Check the <strong>Referral Rules</strong> in below:</span></p>
+<p> </p>
+<p><span><img src="https://support.italki.com/hc/article_attachments/900007681886/mceclip1.png" alt="mceclip1.png"></span></p>
+<p> </p>
+<h2><strong>How to check the successful invites and amount earned?</strong></h2>
+<p><strong><img src="https://support.italki.com/hc/article_attachments/900008604783/mceclip0.png" alt="mceclip0.png" width="645" height="163"></strong></p>
+<ul class="ak-ul" data-indent-level="1">
+<li>
+<p data-renderer-start-pos="2193">Friends - Total number of successful registrations through the link </p>
+</li>
+<li>
+<p data-renderer-start-pos="2275">Earned - Total number of credits earned</p>
+</li>
+<li><span>This calculation is done from ALL the subsidies they received, no matter if they used it or not.</span></li>
+</ul>
+<p><strong><img src="https://support.italki.com/hc/article_attachments/900007682626/mceclip1.png" alt="mceclip1.png" width="370" height="441"></strong></p>
+<p> </p>
+<p>Users should be able to see the data if they successfully invite friends and get the referral bonus. It will also show the learning progress of each invitee.</p>
+<p> </p>
+<h2>
+<strong>Terms and Conditions</strong><span></span>
+</h2>
+<ul>
+<li style="font-weight: 400;" aria-level="1"><span style="font-weight: 400;">Coupons must be used within 30 days of their issue date or they will expire.</span></li>
+<li style="font-weight: 400;" aria-level="1"><span style="font-weight: 400;">Users who refer themselves are not eligible to take part in the referral program. Anyone who abuses the referral program will not receive the referral bonus and their accounts may be suspended.</span></li>
+<li style="font-weight: 400;" aria-level="1"><span style="font-weight: 400;">Fraudulent purchases will not receive the referral bonus.</span></li>
+<li style="font-weight: 400;" aria-level="1"><span style="font-weight: 400;">italki reserves the right to update the referral program rewards at any time</span></li>
+<li style="font-weight: 400;" aria-level="1"><span style="font-weight: 400;">All decisions made by italki are final</span></li>
+</ul>
+<h2><strong>Invalid Referral</strong></h2>
+<p>1. Shared browser</p>
+<p>2. Blacklisted account</p>
+<p>3. Fraudulent</p>
+<p> </p>
+<h2><strong>FAQ:</strong></h2>
+<p><strong>1. How is the old referral settled?</strong></p>
+<p><span style="font-weight: 400;">In order to make sure we have a smooth transition period, anyone who registered through the previous referral system </span><strong>within the past year</strong><span style="font-weight: 400;">, but </span><strong>has not made a first purchase before April 14, 2021 </strong><span style="font-weight: 400;">is eligible to receive the new referral rewards. </span></p>
+<p><span style="font-weight: 400;">Users who have </span><strong>already received referral rewards</strong><span style="font-weight: 400;"> from the previous referral program </span><strong>will not be eligible</strong><span style="font-weight: 400;">.</span></p>
+<p> </p>
+<p><strong>2. Will the inviter and invitee get a coupon automatically after the invitee finished 5/10/25 lessons?</strong></p>
+<p>The invitee will need to claim the coupon and the coupon will be deposited to their italki wallet.</p>
+<p>Inviter will get the rewards automatically.</p>
+<p> </p>
+<p><strong>3.What is the "first lesson"?</strong></p>
+<p>Both inviter and invitee will get the credit only after the first lesson is "completed".</p>
+<p> </p>
+<p><strong>4.Why referral doesn't support email registration？</strong></p>
+<p>"防止薅羊毛“。To avoid Fraudulent or cheating behavior on referral, especially for old users who might use their email to get the referral rewards on purpose.</p>

@@ -1,0 +1,23 @@
+<h1>What’s italki Language Assessment?</h1>
+<p> </p>
+<p><span style="font-weight: 400;">italki Language Assessment will be released in the upcoming months. It’s a great tool to help students assess their learning progress and/or better prepare them for an official language test. </span></p>
+<p> </p>
+<p><strong>Main features </strong></p>
+<ul>
+<li style="font-weight: 400;"><span style="font-weight: 400;">Supports 6 languages: English, Spanish, French, German, Japanese and Portuguese.</span></li>
+<li style="font-weight: 400;"><span style="font-weight: 400;">Speaking assessment is available along with grammar, vocabulary and reading assessment.</span></li>
+<li style="font-weight: 400;"><span style="font-weight: 400;">It provides accurate and immediate results, which are often used as a pre-test for official language tests.</span></li>
+<li style="font-weight: 400;"><span style="font-weight: 400;">The test takes 30 - 40 minutes to complete.</span></li>
+<li style="font-weight: 400;"><span style="font-weight: 400;">It only costs 30 USD. </span></li>
+</ul>
+<p><span style="font-weight: 400;">If you’re teaching test preparation lessons, you can recommend italki Language Assessment to your students as a mock test before taking an official language test. The assessment isn’t the same as an official language test like IELTS or TOEFL, but it’s an efficient and cost effective way for a student to understand their level before taking a real test.</span><span style="font-weight: 400;"></span></p>
+<p><span style="font-weight: 400;">If you’re teaching conversation lessons or accent reduction, the speaking assessment will serve as sufficient proof demonstrating your student’s improved pronunciation after your lessons.</span></p>
+<p> </p>
+<p>Students can find italki language assessment under "My Tests" on left navigation bar.</p>
+<p><img src="https://support.italki.com/hc/article_attachments/900005832766" alt="Screenshot_2021-02-01_at_11.13.56.png"></p>
+<p> </p>
+<p>There are 2 options: italki Language Test which includes True North Speaking Test and WebCAPE Grammar Test and Oxford Online Placement Test. </p>
+<p><img src="https://support.italki.com/hc/article_attachments/900005832806" alt="Screenshot_2021-02-01_at_11.15.22.png"></p>
+<p> </p>
+<p>By clicking "View Details", a detailed introduction about the language test can be found.</p>
+<p><img src="https://support.italki.com/hc/article_attachments/900005832846" alt="Screenshot_2021-02-01_at_11.16.17.png"></p>

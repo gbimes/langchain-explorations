@@ -1,0 +1,9 @@
+<h1>Audio Recording in the italki Classroom for Teachers</h1>
+<p>Audio Recording in the italki Classroom is needed when teaching italki Plus Students, as the recording is the basis for the AI tools at their disposal designed to improve their learning experience and progress. With that, <strong>italki takes student and teacher privacy very seriously. </strong>We ask for your permission to record the audio of your lessons in the italki classroom. </p>
+<p>The recording will only happen in the web version of italki Classroom. In order for ANY recording to be made, BOTH the teacher AND the student must have agreed to permit italki to record their lesson audio.</p>
+<p>You can manage your recording permission from the dashboard in Privacy Settings. <span style="background-color: #ffffff;">Please note that at the time when you turn off the permission, all lessons already requested will still be recorded. Lessons requested after the change will not be recorded.</span></p>
+<p><img src="https://support.italki.com/hc/article_attachments/37890556836121" width="624" height="495"></p>
+<p> </p>
+<h3 id="h_01J7J51CHJ599Y0RS0S5EEYMFS"><span style="color: #434343;">How is the audio recording saved and used?</span></h3>
+<p>The audio recording is saved on italki’s private storage. It will be anonymized and used solely to improve the learning and teaching experience on italki and the performance and functionality of italki products.</p>
+<p>We have integrated certain AI-powered tools from third parties to enhance students’ experiences on italki. For example, we will use the lesson audio recording transcript to generate notes and a summary of the lesson by AI.</p>

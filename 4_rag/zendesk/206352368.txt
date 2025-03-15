@@ -1,0 +1,17 @@
+<h1>Time zone settings on italki </h1>
+<p><span style="font-weight: 400;">How do you know your italki time zone setting is correct? Simply </span><span style="font-weight: 400;">make sure the time on your <strong><span class="wysiwyg-underline"><a href="https://www.italki.com/dashboard" target="_blank" rel="noopener">Dashboard</a></span></strong></span><span style="font-weight: 400;"> next to your nickname matches the time on your device!</span></p>
+<p><strong><span style="font-weight: 400;">If your italki time zone setting is different from your device, there will be a popup to let you confirm your timezone when you log in. And you will see a small exclamation icon with a notification. Click on the icon to </span></strong><span style="font-weight: 400;">select the correct timezone</span><strong><span style="font-weight: 400;">. </span></strong></p>
+<p><img src="https://support.italki.com/hc/article_attachments/20913338536473"></p>
+<p><img src="https://support.italki.com/hc/article_attachments/20913394314649"></p>
+<p><strong>If you travel or move to another city, please make sure to check your time zone.</strong></p>
+<p> </p>
+<h2 id="h_01EQ07NCVGSPN4MWC13349H63C"><strong>Select your time zone</strong></h2>
+<p><span style="font-weight: 400;">On the italki </span><span class="wysiwyg-underline"><strong><a href="https://www.italki.com/settings/account" target="_blank" rel="noopener">Settings</a></strong></span> page<span style="font-weight: 400;">, you can select a <strong>Time Zone</strong> from the drop-down menu. If your location is not listed, check your local timezone first and make sure you are selecting the correct one. </span></p>
+<p><img src="https://support.italki.com/hc/article_attachments/900003537523" alt="1.2.1-Select_Your_TimeZone1.png"></p>
+<p><strong>Make sure you check your <span class="wysiwyg-underline"><a href="https://www.italki.com/dashboard" target="_blank" rel="noopener">Dashboard</a></span> again and see if your time on italki matches the time on your local device! </strong></p>
+<h2> </h2>
+<h2><strong>Daylight Saving Time</strong></h2>
+<p><span style="font-weight: 400;">You don’t need to manually change your time zone setting for DST (Daylight Saving Time). It is automatically observed and updated on italki. </span></p>
+<p> </p>
+<h2><strong>My teacher's time zone</strong></h2>
+<p><span style="font-weight: 400;">You don’t need to worry about your teacher’s timezone. Once the time zone is correctly selected, italki automatically <strong>calculates time zone differences</strong> between you and your teacher. The date and time you see on the italki booking page and lesson pages are in your timezone.</span></p>

@@ -1,0 +1,153 @@
+<h1>February 2020  italki Teacher Newsletter</h1>
+<p>Dear teachers,</p>
+<p>Here below is February italki Teacher Newsletter. </p>
+<!-- [if gte mso 9]><xml><o:OfficeDocumentSettings><o:AllowPNG/><o:PixelsPerInch>96</o:PixelsPerInch></o:OfficeDocumentSettings></xml><![endif]-->
+<p>  </p>
+<!-- [if !mso]><!--><!--<![endif]--><!-- [if !mso]><!--><!--<![endif]--><!-- [if IE]><div class="ie-browser"><![endif]-->
+<table class="nl-container" style="table-layout: fixed; vertical-align: top; min-width: 320px; margin: 0 auto; border-spacing: 0; border-collapse: collapse; mso-table-lspace: 0pt; mso-table-rspace: 0pt; background-color: #ffffff; width: 100%;" role="presentation" width="100%" cellspacing="0" cellpadding="0" bgcolor="#FFFFFF">
+<tbody>
+<tr style="vertical-align: top;" valign="top">
+<td style="word-break: break-word; vertical-align: top;" valign="top">
+<!-- [if (mso)|(IE)]><table width="100%" cellpadding="0" cellspacing="0" border="0"><tr><td align="center" style="background-color:#FFFFFF"><![endif]-->
+<div style="background-color: transparent;">
+<div class="block-grid " style="margin: 0 auto; min-width: 320px; max-width: 500px; overflow-wrap: break-word; word-wrap: break-word; word-break: break-word; background-color: transparent;">
+<div style="border-collapse: collapse; display: table; width: 100%; background-color: transparent;">
+<!-- [if (mso)|(IE)]><table width="100%" cellpadding="0" cellspacing="0" border="0" style="background-color:transparent;"><tr><td align="center"><table cellpadding="0" cellspacing="0" border="0" style="width:500px"><tr class="layout-full-width" style="background-color:transparent"><![endif]--> <!-- [if (mso)|(IE)]><td align="center" width="500" style="background-color:transparent;width:500px; border-top: 0px dotted transparent; border-left: 0px dotted transparent; border-bottom: 0px dotted transparent; border-right: 0px dotted transparent;" valign="top"><table width="100%" cellpadding="0" cellspacing="0" border="0"><tr><td style="padding-right: 0px; padding-left: 0px; padding-top:5px; padding-bottom:5px;"><![endif]-->
+<div class="col num12" style="min-width: 320px; max-width: 500px; display: table-cell; vertical-align: top; width: 500px;">
+<div style="width: 100% !important;">
+<!-- [if (!mso)&(!IE)]><!-->
+<div style="border: 0px dotted transparent; padding: 5px 0px 5px 0px;">
+<!--<![endif]-->
+<div class="img-container center  autowidth  fullwidth" style="padding-right: 0px; padding-left: 0px;" align="center">
+<!-- [if mso]><table width="100%" cellpadding="0" cellspacing="0" border="0"><tr style="line-height:0px"><td style="padding-right: 0px;padding-left: 0px;" align="center"><![endif]--><a style="outline: none;" tabindex="-1" href="https://support.italki.com/hc/en-us" target="_blank" rel="noopener"> <img class="center  autowidth  fullwidth" style="text-decoration: none; -ms-interpolation-mode: bicubic; height: auto; border: none; width: 100%; max-width: 500px; display: block;" title="Image" src="https://filemanager-static01.italki.com/200227070637Header-1%20(1).png" alt="Image" width="500" align="center" border="0"></a> <!-- [if mso]></td></tr></table><![endif]-->
+</div>
+<div class="img-container center  autowidth  fullwidth" style="padding-right: 0px; padding-left: 0px;" align="center">
+<!-- [if mso]><table width="100%" cellpadding="0" cellspacing="0" border="0"><tr style="line-height:0px"><td style="padding-right: 0px;padding-left: 0px;" align="center"><![endif]--><a style="outline: none;" tabindex="-1" href="https://support.italki.com/hc/en-us/articles/900000053183-Thank-you-to-the-teachers-who-contributed-to-the-Teacher-Knowledge-Base" target="_blank" rel="noopener"> <img class="center  autowidth  fullwidth" style="text-decoration: none; -ms-interpolation-mode: bicubic; height: auto; border: none; width: 100%; max-width: 500px; display: block;" title="Image" src="https://filemanager-static01.italki.com/200227070647Header-2%20(1).png" alt="Image" width="500" align="center" border="0"></a> <!-- [if mso]></td></tr></table><![endif]-->
+</div>
+<!-- [if mso]><table width="100%" cellpadding="0" cellspacing="0" border="0"><tr><td style="padding-right: 10px; padding-left: 10px; padding-top: 25px; padding-bottom: 10px; font-family: Tahoma, Verdana, sans-serif"><![endif]-->
+<div style="color: #555555; font-family: 'Roboto', Tahoma, Verdana, Segoe, sans-serif; line-height: 1.2; padding: 25px 10px 10px 10px;">
+<div style="font-size: 12px; line-height: 1.2; font-family: 'Roboto', Tahoma, Verdana, Segoe, sans-serif; color: #555555; mso-line-height-alt: 14px;">
+<p style="font-size: 12px; line-height: 1.2; text-align: center; mso-line-height-alt: 14px; margin: 0;"><strong><span style="font-size: 13px; mso-ansi-font-size: 14px;">Learn How to Use Lesson Invitation</span></strong></p>
+<p style="font-size: 12px; line-height: 1.2; text-align: center; mso-line-height-alt: 14px; margin: 0;"><br><span style="font-size: 13px; mso-ansi-font-size: 14px;">We are thrilled to announce that Lesson Invitation has been released! Learn about how Lesson Invitation works and how it can help you. We've created 2 introduction videos and offer subtitles in 7 languages! </span></p>
+<p style="font-size: 12px; line-height: 1.2; mso-line-height-alt: 14px; margin: 0;"> </p>
+</div>
+</div>
+<!-- [if mso]></td></tr></table><![endif]-->
+<div class="img-container center fixedwidth" style="padding-right: 0px; padding-left: 0px;" align="center">
+<!-- [if mso]><table width="100%" cellpadding="0" cellspacing="0" border="0"><tr style="line-height:0px"><td style="padding-right: 0px;padding-left: 0px;" align="center"><![endif]--><a style="outline: none;" tabindex="-1" href="https://support.italki.com/hc/en-us/articles/900000107266-What-is-Lesson-Invitation-and-how-do-I-use-this-feature-" target="_blank" rel="noopener"> <img class="center fixedwidth" style="text-decoration: none; -ms-interpolation-mode: bicubic; height: auto; border: none; width: 100%; max-width: 100px; display: block;" title="Image" src="https://bsftassets.s3.amazonaws.com/bee/images/d76ed3c2-ff52-4b3b-b852-d04c8f6c8e0c/learn%20more.png" alt="Image" width="100" align="center" border="0"></a>
+<div style="font-size: 1px; line-height: 20px;"> </div>
+<!-- [if mso]></td></tr></table><![endif]-->
+</div>
+<div class="img-container center  autowidth  fullwidth" style="padding-right: 0px; padding-left: 0px;" align="center">
+<!-- [if mso]><table width="100%" cellpadding="0" cellspacing="0" border="0"><tr style="line-height:0px"><td style="padding-right: 0px;padding-left: 0px;" align="center"><![endif]--><a style="outline: none;" tabindex="-1" href="https://support.italki.com/hc/en-us/community/topics" target="_blank" rel="noopener"> <img class="center  autowidth  fullwidth" style="text-decoration: none; -ms-interpolation-mode: bicubic; height: auto; border: none; width: 100%; max-width: 500px; display: block;" title="Image" src="https://bsftassets.s3.amazonaws.com/bee/images/d76ed3c2-ff52-4b3b-b852-d04c8f6c8e0c/banner%20%282%29.png" alt="Image" width="500" align="center" border="0"></a> <!-- [if mso]></td></tr></table><![endif]-->
+</div>
+<!-- [if (!mso)&(!IE)]><!-->
+</div>
+<!--<![endif]-->
+</div>
+</div>
+<!-- [if (mso)|(IE)]></td></tr></table><![endif]--> <!-- [if (mso)|(IE)]></td></tr></table></td></tr></table><![endif]-->
+</div>
+</div>
+</div>
+<!-- [if (mso)|(IE)]></td></tr></table><![endif]-->
+</td>
+</tr>
+</tbody>
+</table>
+<!-- [if (IE)]></div><![endif]--><!-- Layout 18 (Image and text block with button) -->
+<div>
+<table style="background-color: #fff; margin: 0 auto;" border="0" width="100%" cellspacing="0" cellpadding="0" align="center" bgcolor="#FFFFFF">
+<tbody>
+<tr>
+<td style="background-color: #fff;" bgcolor="#FFFFFF">
+<table class="container" style="margin: 0 auto; max-width: 520px;" border="0" cellspacing="0" cellpadding="0" align="center" bgcolor="#FFFFFF">
+<tbody>
+<tr>
+<td class="spacer" style="font-size: 0; line-height: 0; border-bottom: 1px solid #7F7F7F;" height="10"> </td>
+</tr>
+<tr>
+<td class="spacer" style="font-size: 0; line-height: 0; border-top: 1px solid #DDDDDD;" height="10"> </td>
+</tr>
+<tr>
+<td>
+<table class="container" style="margin: 0 auto; max-width: 520px;" border="0" cellspacing="0" cellpadding="0" align="center">
+<tbody>
+<tr>
+<td style="text-align: center; vertical-align: top; font-size: 0; padding: 15px; display: flex; justify-content: space-between;" align="center">
+<!--left-->
+<div>
+<table border="0" cellspacing="0" cellpadding="0" align="center">
+<tbody>
+<tr>
+<td align="center" width="370">
+<table border="0" width="100%" cellspacing="0" cellpadding="0" align="center">
+<tbody>
+<tr>
+<td style="font-family: 'Roboto', Arial, sans-serif; font-size: 9px; color: #9b9b9b; line-height: 15px; text-align: left;">italki, Suite 2004,20/F., Tower 5, China<br> Hong Kong City, 33 Canton Road,<br> Tsim Sha Tsui, Kowloon, Hong Kong</td>
+</tr>
+</tbody>
+</table>
+</td>
+</tr>
+</tbody>
+</table>
+</div>
+<!--end left--> <!-- [if (gte mso 9)|(IE)]>
+                                                   </td>
+                                                   <td align="center" style="text-align:center;vertical-align:top;font-size:0;">
+                                                      <![endif]--> <!--right-->
+<div>
+<table border="0" cellspacing="0" cellpadding="0" align="center">
+<tbody>
+<tr>
+<td align="center" width="150">
+<table border="0" width="95%" cellspacing="0" cellpadding="0" align="center">
+<tbody>
+<tr>
+<td style="padding-top: 5px;" align="right">
+<table width="140" cellspacing="0" cellpadding="0" align="right">
+<tbody>
+<tr>
+<td align="center" width="25"><a href="https://www.facebook.com/italkilanguages/" target="_blank" rel="noopener"><img src="https://filemanager-static01.italki.com/190812041022facebook.png" alt="Facebook" width="25" border="0"></a></td>
+<td width="10"> </td>
+<td width="30"><a href="https://twitter.com/italki" target="_blank" rel="noopener"><img src="https://filemanager-static01.italki.com/190812041132twitter.png" alt="Twitter" width="30" border="0"></a></td>
+<td width="10"> </td>
+<td width="25"><a href="https://instagram.com/italki/" target="_blank" rel="noopener"><img src="https://filemanager-static01.italki.com/190812041039ins.png" alt="Youtube" width="25" border="0"></a></td>
+<td width="10"> </td>
+<td width="30"><a href="https://www.youtube.com/italkilanguage" target="_blank" rel="noopener"><img src="https://filemanager-static01.italki.com/190812041115youtube.png" alt="Youtube" width="30" border="0"></a></td>
+</tr>
+</tbody>
+</table>
+</td>
+</tr>
+</tbody>
+</table>
+</td>
+</tr>
+</tbody>
+</table>
+</div>
+<!--end right-->
+</td>
+</tr>
+</tbody>
+</table>
+</td>
+</tr>
+<tr>
+<td class="spacer" style="font-size: 0; line-height: 0;" height="20"> </td>
+</tr>
+</tbody>
+</table>
+</td>
+</tr>
+</tbody>
+</table>
+</div>
+<!-- End Footer -->
+<p> </p>
+<!-- [if (IE)]></div><![endif]-->
+<p> </p>
+<!-- End Layout 18 (Image and text block with button) -->
+<p> </p>

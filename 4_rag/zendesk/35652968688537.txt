@@ -1,0 +1,30 @@
+<h1>How do I teach different Lesson Categories?</h1>
+<p>Teachers who wish to offer different lesson categories must demonstrate their qualifications for teaching the category.  </p>
+<h2 id="h_01J3YMH3ZJZ1GTZVJNDHEX0PQ5">Acceptable certifications and qualifications include: </h2>
+<ul>
+<li>A Language Teaching Certificate focused on the Category</li>
+<li>A University Degree in the Category</li>
+<li>A Professional Certification in the Category</li>
+<li>Proof of Employment in a field closely related to the Category</li>
+<li>Other locally/internationally recognized certificates /qualifications </li>
+</ul>
+<p> </p>
+<p><strong>As an example, let’s use Business:</strong></p>
+<h3 id="h_01J493Q7YZYEYAETXJXJEKFBRV"> </h3>
+<h3 id="h_01J3YMH3ZJ9MRW8MQTXEJRCKYX"><span style="color: #434343;">A Language Teaching Certificate focused on the Category</span></h3>
+<p>A TEFL-Business or another Teaching Business English certificate<strong> issued by an accredited institution</strong> is acceptable for English. Similar certifications for other languages are acceptable.</p>
+<h3 id="h_01J3YMH3ZJCE3S6FYT5Q2F2AEN"><span style="color: #434343;">A University Degree in the Category</span></h3>
+<p>An associate's in Business, a bachelor's in Business, a Master’s in Business, or the equivalent are all acceptable.</p>
+<h3 id="h_01J3YMH3ZJHDJWXRGFHKF2PKNS"><span style="color: #434343;">A Professional Certification in the Category</span></h3>
+<p>A Certified Business Administrator (CBA), Certified Administrative Professional (CAP), or other similar certifications <strong>issued by an accredited institution</strong> are acceptable.</p>
+<h3 id="h_01J3YMH3ZJTP9P9ZXK9KGHGJQ8"><span style="color: #434343;">Proof of Employment in a field closely related to the Category</span></h3>
+<p>It can be a copy of a work contract showing your employment or a signed and dated reference letter from a reputable source stating you have experience in Business, administration, etc. </p>
+<p> </p>
+<h2 id="h_01J3YMH3ZJ4RQWQRBE3G04RB18">Unacceptable Documents</h2>
+<h3 id="h_01J3YMH3ZJG6RJYW5DXBD0W5YC"><span style="color: #434343;">Unaccredited Certificates</span></h3>
+<p>Free online courses or training, such as Certificates of Achievement, Certificates of Participation, etc. MOOCs such as Udemy, Coursera, or Open2Study.</p>
+<h3 id="h_01J3YMH3ZJATTTXT48B4CDFMBH"><span style="color: #434343;">Language Proficiency Certificates</span></h3>
+<p>Any certificate showing your language proficiency in a category, not your teaching skills or experience, is unacceptable. For Example, IELTS, TOEFL, and DALFs.</p>
+<p> </p>
+<p><strong>After August 14th</strong> you can apply through your Teacher account by going to Teacher Settings --&gt; Resume and Certificates --&gt; + Business/Test/Kids/Medical/Technology</p>
+<p><img src="https://support.italki.com/hc/article_attachments/40224655010201" alt="企业微信截图_17320858301124.png"></p>

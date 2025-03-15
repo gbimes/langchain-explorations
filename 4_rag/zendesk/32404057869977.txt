@@ -1,0 +1,20 @@
+<h1>Oxford Online Placement Test (OOPT)</h1>
+<h2 id="h_01J8SDDZ2W6TTWHBTCY163FC9N"><strong>General Terms and Conditions:</strong></h2>
+<p><span style="font-weight: 400;">italki works with Oxford Online Placement Test to provide online language placement tests for language learners</span><span style="font-weight: 400;">.</span></p>
+<p><strong>Test contents:</strong></p>
+<p><span style="font-weight: 400;">OOPT, Oxford Online Placement Test includes an English listening and grammar test.</span></p>
+<p><strong>Expiration:</strong></p>
+<p class="MsoNormal"><span lang="EN-US">Oxford Online Placement Test is valid for a year from the purchase date.</span></p>
+<p><strong>Cancellation:</strong></p>
+<p><span style="font-weight: 400;">italki Credits need to be purchased to pay for Oxford Online Placement Test. </span><a href="https://support.italki.com/hc/en-us/articles/360023115453" target="_blank" rel="noopener noreferrer">italki Credits Refund and Expiration Policies</a><span style="font-weight: 400;"> apply to any italki Credits purchase. Successful purchases of language tests </span><strong>cannot be canceled or refunded</strong><span style="font-weight: 400;">.</span></p>
+<p> </p>
+<h2 id="h_01HXGM6X955GKZWMMK3T5TMAHB"><span style="font-weight: 400;"><strong>How long will the test take?</strong><br></span></h2>
+<p>For the OOPT test, please make sure that you click “submit” at the last step to complete your test within the one-hour time limit. Otherwise, you won't get a score as the exam didn't finish in time.</p>
+<p> </p>
+<h2 id="h_01HXGM6X95KVN8WXB45MSEZZKP"><strong>When and where can I see my result on the language test on italki?</strong></h2>
+<p><strong>OOPT result </strong>will be imported with a badge displayed on your <a href="https://www.italki.com/settings/profile" target="_blank" rel="noopener noreferrer"><strong><span style="color: #1a74b0;">Profile</span></strong><strong><span style="color: #1a74b0;"> page</span></strong></a> within <strong>3 business days</strong> after the test. If you have completed multiple tests, only the highest level will be displayed.</p>
+<p><img src="https://support.italki.com/hc/article_attachments/38221803757849"></p>
+<p> </p>
+<h2 id="h_01HXRFZVJG09G1EH6MRX0WC76K"><strong>What should I do if I don't want to show my OOPT result on italki?</strong></h2>
+<p>You can go to your <a href="https://www.italki.com/settings/profile" target="_blank" rel="noopener noreferrer"><strong><span style="color: #1a74b0;">Profile</span></strong></a> page, click <strong>Edit Profile &gt; Oxford Online Placement Test, </strong>click the edit icon to change your OOPT privacy settings if you don't want the result to be public.</p>
+<p><img src="https://support.italki.com/hc/article_attachments/32404079823897"></p>

@@ -1,0 +1,48 @@
+<h1>Our tips for getting the most out of your Students’ First Contact</h1>
+<p class="wysiwyg-text-align-center"><span style="font-weight: 400;"><img src="https://support.italki.com/hc/article_attachments/9092911629337/pasted_image_0_1_.png" alt="pasted_image_0_1_.png" width="336" height="345"></span></p>
+<p> </p>
+<p><span style="font-weight: 400;">The first step in a great professional relationship is building understanding and trust! And the best way to do that is through communication. In order to help you maximize your efficiency and efficacy in communicating with new potential students, we have created the “Student First Contact” settings. </span></p>
+<p><span style="font-weight: 400;">Check out our tips below on how to set up your messaging today!</span></p>
+<h2><span style="font-weight: 400;">Messages</span></h2>
+<p><span style="font-weight: 400;">The Message is seen by students when they first start to message you. Students are already asked by italki for their language, speaking level, main goal, and preferred time. This is your chance to get a bit more information that might be useful to you when first contacting a student. Remember though you only have 100 characters so keep it short and to the point.</span></p>
+<p><span style="font-weight: 400;">You might ask things like: </span></p>
+<ul>
+<li style="font-weight: 400;" aria-level="1"><span style="font-weight: 400;">What topics are you interested in? </span></li>
+<li style="font-weight: 400;" aria-level="1"><span style="font-weight: 400;">Do you have any preferred materials? </span></li>
+<li style="font-weight: 400;" aria-level="1"><span style="font-weight: 400;">How many times a week do you want to have a lesson? </span></li>
+<li style="font-weight: 400;" aria-level="1"><span style="font-weight: 400;">For Business lessons, what field are you currently working in?</span></li>
+<li style="font-weight: 400;" aria-level="1"><span style="font-weight: 400;">Do you have any adaptability needs I should be aware of?  </span></li>
+</ul>
+<p><span style="font-weight: 400;">Or you might provide special instructions like: </span></p>
+<ul>
+<li style="font-weight: 400;" aria-level="1"><span style="font-weight: 400;">For kids' lessons please let me know the age of your child.</span></li>
+</ul>
+<p><span style="font-weight: 400;">This can also be another place to reinforce your image as a caring teacher, by leaving supportive and motivating messages for potential students.  </span></p>
+<h2><span style="font-weight: 400;">Auto-reply</span></h2>
+<p><span style="font-weight: 400;">Here is your chance to really shine! This is your first communication with students and it can be important that it sets the right tone and feeling for your future communications. For the Auto-reply, you get up to 500 characters to get your message across. Here are some key tips! Note that this auto-reply only works with the new messaging feature and not the older version of the Teacher Contact Form. </span></p>
+<h3><span style="font-weight: 400;">Sound Human</span></h3>
+<p><span style="font-weight: 400;">It can be tempting to sound very professional or official when writing an auto-reply, but we would encourage you to be a bit more casual. Being formal in the auto-reply can seem really ‘robotic’ and uncaring, which is likely the exact opposite of who you are.</span></p>
+<p><span style="font-weight: 400;">“</span><em><span style="font-weight: 400;">Hi, and thanks for the message! Sorry, I am not able to reply right now, but I am looking forward to chatting soon.” </span></em></p>
+<p><span style="font-weight: 400;">“</span><em><span style="font-weight: 400;">I am happy you decided to reach out, but unfortunately I am not able to reply right now.</span></em><span style="font-weight: 400;">”</span></p>
+<h3> </h3>
+<h3><span style="font-weight: 400;">Set a time you will respond</span></h3>
+<p><span style="font-weight: 400;">The key to an auto-reply is to follow up later with your potential new students of course. By setting a time you will get back to them, like “I’ll reply in the next 24 hours.” You set an expectation and when you do get back to them within 24 hours you show you are responsible and keep your promises. </span></p>
+<p><span style="font-weight: 400;">“</span><em><span style="font-weight: 400;">Sorry I missed your message. I will reply back within 12 hours.</span></em><span style="font-weight: 400;">” </span></p>
+<p><span style="font-weight: 400;">“</span><em><span style="font-weight: 400;">I am currently on vacation, but will be back on italki after the 24th.</span></em><span style="font-weight: 400;">”</span></p>
+<h3> </h3>
+<h3><span style="font-weight: 400;">Let them know what to expect</span></h3>
+<p><span style="font-weight: 400;">Beyond when you will reply back, you can also let them know what to expect when you do and what sort of questions you may ask. This helps form a connection and also lets them know you are attentive and professional.</span></p>
+<p><span style="font-weight: 400;">“</span><em><span style="font-weight: 400;">After I read your message, I’ll send you some materials to help us set your short-term and long-term learning goals.</span></em><span style="font-weight: 400;">”</span></p>
+<p><span style="font-weight: 400;">“</span><em><span style="font-weight: 400;">I get many messages, but I should reply back within 24 hours, if you haven’t heard from me by then, please contact me again!</span></em><span style="font-weight: 400;">”    </span></p>
+<h3> </h3>
+<h3><span style="font-weight: 400;">Avoid technical or difficult words</span></h3>
+<p><span style="font-weight: 400;">Remember these students are here to learn your language, and they may be far from mastering it. Keeping the language simple and friendly will help them feel connected and comfortable with you.</span></p>
+<p><span style="font-weight: 400;">“</span><em><span style="font-weight: 400;">If you are interested in my various lessons and thoughts on pedagogy, please pursue my “Me as a Teacher” information</span></em><span style="font-weight: 400;">” <strong>(not so good)</strong> </span></p>
+<p><span style="font-weight: 400;">“</span><em><span style="font-weight: 400;">If you want to know more about how I teach, look at my “Me as a Teacher” section.</span></em><span style="font-weight: 400;">”  </span></p>
+<h3> </h3>
+<h3><span style="font-weight: 400;">Give them something to do next </span></h3>
+<p><span style="font-weight: 400;"> An Auto-reply message is your chance to stay connected with a potential student. What better way to continue the connection than help them find out more about you as a teacher or find some of your content on italki? </span></p>
+<p><em><span style="font-weight: 400;">“While you wait, you can take a look at my podcast channel for some of my level listening exercises.</span></em><span style="font-weight: 400;">”</span></p>
+<p><span style="font-weight: 400;">“</span><em><span style="font-weight: 400;">Don’t forget to check out my “about me” section to learn more about my journey to becoming an italki teacher.</span></em><span style="font-weight: 400;">” </span></p>
+<p><span style="font-weight: 400;"> </span></p>
+<p><span style="font-weight: 400;">Do you have any Auto-reply tips? Share them in the comments below! </span></p>

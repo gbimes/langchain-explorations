@@ -1,0 +1,16 @@
+<h1>How to extend a package?</h1>
+<h3 id="h_01J5PSCCS4XAYZEBN5W2KXPHFG"><strong>When and Where to extend a package?</strong></h3>
+<p><span style="font-weight: 400;">Either a teacher or a student can request to extend a package 30 days before the Package expiration date. A reminder will be sent to students both one month and one week before the expiration date. A “</span><strong>Request Extension</strong><span style="font-weight: 400;">” button is available within 30 days before the Package expiration date.</span></p>
+<p><span style="font-weight: 400;"><img src="https://support.italki.com/hc/article_attachments/900006305086" alt="mceclip2.png" width="697" height="208"><br></span><span class="wysiwyg-underline"></span></p>
+<h3 id="h_01J5PSCCS41P9WNA6NMFKGGH2G"><strong>Rules to extend a package: </strong></h3>
+<ul>
+<li>The package can be extended for <strong>1 month</strong> when both parties agree to the extension request. Otherwise, the package will expire as normal on the expiry date.</li>
+<li><span style="font-weight: 400;">Teachers and students each have ONE chance to request a Package extension.</span></li>
+<li data-renderer-start-pos="826">If the other party does not respond to your package extension request within <strong>3 days</strong>, the request will be automatically accepted. </li>
+<li><strong>If no action is taken by either student or teacher before the Package expiration date, the Package will expire and the credits will be calculated based on the following policies:</strong></li>
+</ul>
+<p>1) Incomplete package lesson credits will return to the student’s wallet when a package expires. </p>
+<p>2) Any completed lessons from an expired package are paid to the teacher at their single lesson price. </p>
+<p>3) If the cost of the completed single lessons from an expired package is equal to or exceeds the total price of the package, the total package cost is given to the teacher.</p>
+<p> </p>
+<p><span style="font-weight: 400;">Note that the Package expiration date will not affect your upcoming lesson(s) you have successfully booked. However, if a Package is about to expire and you only sent a lesson request, but it has not been accepted by your teacher, the Package may still expire before your requested lesson date.</span></p>

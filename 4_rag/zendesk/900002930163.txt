@@ -1,0 +1,69 @@
+<h1>How to pass ID verification?</h1>
+<p>Once your teacher application has been <strong>pre-approved</strong>, you'll be asked to verify your ID.</p>
+<p>Before you start, we recommend that you check out <strong><a href="https://sumsub.com/supported-documents/" target="_blank" rel="noopener">The List of the Supported Countries and Types of Documents</a></strong> to understand which types of documents are acceptable.</p>
+<p>Below is a step-by-step guide.</p>
+<h2><strong>Step 1</strong></h2>
+<p><span style="font-weight: 400;">Click “Confirm” and follow the instructions on the screen.</span></p>
+<p><img src="https://support.italki.com/hc/article_attachments/9170134103065" alt="SumSub.png"></p>
+<p><span style="font-weight: 400;">First, you will have to check and accept Sumsub’s privacy terms and give consent to the processing of your personal data.</span></p>
+<p><img src="https://support.italki.com/hc/article_attachments/36784634877977" alt="20.png" width="678" height="444"></p>
+<h2><strong>Step 2</strong></h2>
+<p><span style="font-weight: 400;">You can verify your identity with an official government document — ID card, passport, driving license, etc. After taking a photo of your document, please upload the pictures, using the form. Here you can find <a href="https://sumsub.com/supported-documents/" target="_blank" rel="noopener">A List of the Supported Countries and Types of Documents</a>.</span><span style="font-weight: 400;"></span></p>
+<p><span style="font-weight: 400;">First, choose your country/region, ID type, and upload the <strong>photos</strong> of your document.</span><span style="font-weight: 400;"></span></p>
+<p><span style="font-weight: 400;"><img src="https://support.italki.com/hc/article_attachments/36784631513625" alt="30.png"></span></p>
+<p><span style="font-weight: 400;"><img src="https://support.italki.com/hc/article_attachments/9170140408217" alt="SumSub1.png"></span></p>
+<p> </p>
+<table>
+<tbody>
+<tr>
+<td>
+<p><strong>What is important to note when you upload proof of identity:</strong></p>
+<ul>
+<li style="font-weight: 400;"><span style="font-weight: 400;"><strong>All corners</strong> of the document should be visible in the photo.</span></li>
+<li style="font-weight: 400;"><span style="font-weight: 400;">The text in the document should be easy to read. Make sure there are <strong>no highlights or stains</strong> on the photo. Low-quality pictures won’t be accepted.</span></li>
+<li style="font-weight: 400;"><span style="font-weight: 400;"><strong>Black and white</strong> photos of documents are not acceptable.</span></li>
+<li style="font-weight: 400;"><span style="font-weight: 400;">If your document has two pages or two sides (for example, a US ID-card or a CIS passport), both sides/pages must be attached.</span></li>
+<li style="font-weight: 400;"><span style="font-weight: 400;">The document <strong>must be valid for at least a month</strong>. An expired document won’t be validated.</span></li>
+<li style="font-weight: 400;"><span style="font-weight: 400;">Do not edit or correct your documents with graphic editors.</span></li>
+<li style="font-weight: 400;"><strong>JPEG or PDF files larger than 100 KB are acceptable.</strong></li>
+<li><em><span class="wysiwyg-color-red">Scans and digital documents in PDF format are acceptable, but NOT photos converted to PDF</span></em></li>
+</ul>
+</td>
+</tr>
+</tbody>
+</table>
+<p> </p>
+<h3><strong><span class="wysiwyg-underline">Important information</span></strong></h3>
+<p><strong>1. For South Korean applicants</strong></p>
+<p><span style="font-weight: 400;">Please carefully cover all sensitive information as shown below in red. <strong>Do not edit photos digitally, please use only physical objects such as sticky notes.</strong></span></p>
+<p><span style="font-weight: 400;"><strong><a href="https://support.sumsub.com/hc/en-us/articles/360008818159-Special-rules-for-South-Korea" target="_blank" rel="noopener">Special rules for South Korea</a></strong></span><span style="font-weight: 400;"></span></p>
+<p><img src="https://support.italki.com/hc/article_attachments/36784634880921" alt="korean_ID_card-1-o6lsx50c1i67xcu1gg2vkcdzik79ohel4fgscfeoq4.png" width="292" height="170"><img src="https://support.italki.com/hc/article_attachments/36784634881817" alt="korean_driving_licen-o6lsx26th02cyiy4wwuzuv3lqel61e3e41ibwliv8s.png" width="292" height="170"></p>
+<p><img src="https://support.italki.com/hc/article_attachments/36784634882969" alt="korean_passport-1-o6lsx5y68c7i8ysoayhi4u5g3y2mw6ibgk49tpddmg.png" width="292" height="364"></p>
+<p> </p>
+<p><strong>2. For certain languages</strong></p>
+<p><strong>Documents that are fully in the following languages may not be recognised. </strong>If there is English or Latin<span> transliteration on the document, it can be accepted. Otherwise, the applicant will need to upload a notarized document in English. </span>(<a href="https://support.sumsub.com/hc/en-us/articles/360015588960-If-your-document-is-in-Farsi" target="_blank" rel="noopener">What should I do to get a notarized translation of my ID document?</a>)<strong><br></strong><span style="font-weight: 400;">- Armenian<br>- Bengali<br>- Burmese<br></span><span style="font-weight: 400;">- Dari<br>- Dhivehi<br>- Farsi (<a href="https://support.sumsub.com/hc/en-us/articles/360015588960-If-your-document-is-in-Farsi" target="_blank" rel="noopener">If your document is in Farsi</a>)<br>- Georgian<br>- Hindi<br></span><span style="font-weight: 400;">- Khmer (Cambodian) <br>- Kinyarwanda<br>- Lao <br>- Mongolian<br>- Nepalese<br>- Sinhalese<br>- Urdu </span></p>
+<p> </p>
+<h2><strong>Step 3</strong></h2>
+<p><span style="font-weight: 400;">Take <strong>a video selfie</strong> to confirm that the document belongs to you (its owner). Click "I'm ready" to start. You can also continue on your phone.</span></p>
+<p><span style="font-weight: 400;"><img src="https://support.italki.com/hc/article_attachments/36784634890137" alt="liveness_check_-_new.png" width="601" height="617"></span></p>
+<p class="fail-hints-title" data-v-23fed4cc=""><strong>Having trouble? Here are some tips:</strong></p>
+<ul class="fail-hints" data-v-23fed4cc="">
+<li class="fail-hint" data-v-23fed4cc="">Make sure it's not too dark</li>
+<li class="fail-hint" data-v-23fed4cc="">Try again in front of a neutral background</li>
+<li class="fail-hint" data-v-23fed4cc="">Try using a different device or browser</li>
+</ul>
+<p><span style="font-weight: 400;">Check <a href="https://support.sumsub.com/hc/en-us/articles/360008818179-How-do-I-pass-liveness-verification" target="_blank" rel="noopener">How do I pass liveness verification?</a> for more detailed information.</span></p>
+<p> </p>
+<h2><strong>Step 4</strong></h2>
+<p><span style="font-weight: 400;">When all of the information is submitted, please check it one more time for any mistakes. If needed, you can click <strong>"Edit"</strong> to check your documents again before submitting.</span></p>
+<p><img src="https://support.italki.com/hc/article_attachments/36784631521689" alt="50.png" width="647" height="428"></p>
+<p><span style="font-weight: 400;">If everything is correct, the only thing left is to wait for approval. </span><strong>It usually takes 10 minutes to verify your documents. However, it may take up to 24 hours in some cases.</strong></p>
+<p> </p>
+<h2><strong>Notes</strong></h2>
+<ul>
+<li style="font-weight: 400;"><span style="font-weight: 400;">Make sure that your profile data corresponds with the submitted documents that are clearly visible to avoid issues. <strong>Otherwise, your application will be declined.</strong></span></li>
+<li style="font-weight: 400;">
+<span style="font-weight: 400;">Once you've started, please complete the ID verification process within 30 minutes, otherwise you’ll need to restart. </span><span style="font-weight: 400;"><br></span>
+</li>
+<li style="font-weight: 400;"><span style="font-weight: 400;"><span>If you’ve completed your verification and would like your data deleted from Sum&amp;Substance, please contact </span><a href="mailto:support@italki.com" target="_blank" rel="noopener">support@italki.com</a><span>.</span></span></li>
+</ul>

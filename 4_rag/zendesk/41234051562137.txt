@@ -1,0 +1,22 @@
+<h1>How to redeem a Glossika code</h1>
+<h2 id="h_01JG3E8YSFAGFHE94ENMKPKYNC">About Glossika</h2>
+<p>It takes practice to get comfortable speaking another language. Glossika provides a structured environment to drill practical sentences in your target language. You'll hear native speakers speak at natural speeds and do your best to keep up. Then, when next week's italki lesson comes around, you'll be ready.</p>
+<h2 id="h_01JG3E8YSFS7005ZBTSCDVX089">Redeem your code</h2>
+<ol>
+<li>Sign up <a href="https://ai.glossika.com/" target="_blank" rel="noopener noreferrer">here</a> to create your Glossika account.</li>
+</ol>
+<p class="wysiwyg-indent4">🌟You need to redeem your coupon code via the <a href="https://ai.glossika.com/register" target="_blank" rel="noopener noreferrer">web only</a>. Once you have created your account, you can use Glossika both on the web and in the apps.</p>
+<p><img src="https://support.italki.com/hc/article_attachments/41673988318745" width="741" height="325"></p>
+<ol start="2">
+<li>Tap “Plan &amp; Billing”.</li>
+</ol>
+<p><img src="https://support.italki.com/hc/article_attachments/41673958856601" width="723" height="363"></p>
+<ol start="3">
+<li>Select the <strong>Monthly - Pro</strong> plan below. Please note that the discount codes can only be applied to the pro monthly option. Click “Subscribe Now”.</li>
+</ol>
+<p><img src="https://support.italki.com/hc/article_attachments/41673958859929" width="747" height="390"></p>
+<ol start="4">
+<li><span style="color: #1c1c1c; background-color: #ffffff;">Enter your code. You will also need to provide your card details to start the promotion. However, you won't be charged for the first two months, and you can cancel the subscription anytime before the next payment date.</span></li>
+</ol>
+<p><img src="https://support.italki.com/hc/article_attachments/41673958863513" width="575" height="484"></p>
+<p>If you have issues with redeeming your code, please contact support at <a href="mailto:support@glossika.com"><span class="wysiwyg-underline" style="color: #1155cc;">support@glossika.com</span></a>.</p>

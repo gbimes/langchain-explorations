@@ -1,0 +1,25 @@
+<h1>How to schedule a lesson on italki</h1>
+<p><strong>I’ve found a </strong><a href="https://support.italki.com/hc/en-us/articles/360022944434-How-to-search-for-a-teacher-that-fits-me-most-" target="_blank" rel="noopener noreferrer"><strong>great teacher</strong></a><strong>! How can I schedule a lesson?</strong></p>
+<p><span style="font-weight: 400;">Booking lessons on italki is very flexible. You can book lessons with a teacher one by one until you find the teacher that suits you best and provides you with customized teaching services.</span></p>
+<p><span style="font-weight: 400;"><img src="https://support.italki.com/hc/article_attachments/900009962183" alt="Screen_Shot_2021-06-02_at_4.12.49_PM.png"></span></p>
+<p><span style="font-weight: 400;">On italki, You can choose to pay per single lesson or purchase a certain amount of </span><strong><a href="https://support.italki.com/hc/en-us/articles/360023115873" target="_blank" rel="noopener noreferrer">italki Credits</a></strong><span style="font-weight: 400;"> at once. Then you can directly use the credits to schedule a lesson/package. (</span><a href="https://support.italki.com/hc/en-us/articles/900003304686" target="_blank" rel="noopener noreferrer"><strong>What is a package?</strong></a>)</p>
+<p><span style="font-weight: 400;">Each teacher provides 60min single lessons. In addition, teachers can choose whether to provide 30min, 45min or 90min lessons and Lesson Packages.</span></p>
+<ol>
+<li style="font-weight: 400;" aria-level="1"><span style="font-weight: 400;">Click the “Book now” button.</span></li>
+<li style="font-weight: 400;" aria-level="1">
+<span style="font-weight: 400;">Select the language you’d like to learn. (if your teacher teaches different languages) and the lesson (</span><a href="https://support.italki.com/hc/en-us/articles/360022944554" target="_blank" rel="noopener noreferrer"><strong>What are Trial Lessons?</strong></a> <a href="https://support.italki.com/hc/en-us/articles/900003304686" target="_blank" rel="noopener noreferrer"><strong>What is a Lesson Package?</strong></a><span style="font-weight: 400;">)</span>
+</li>
+<li style="font-weight: 400;" aria-level="1"><span style="font-weight: 400;">Select the lesson duration. Teachers can decide how long the lessons are, such as 30min, 45min.</span></li>
+<li style="font-weight: 400;" aria-level="1">
+<span style="font-weight: 400;">Select the lesson date and time.</span><strong> It is displayed in your timezone. </strong><span style="font-weight: 400;">(check </span><a href="https://support.italki.com/hc/en-us/articles/206352368" target="_blank" rel="noopener noreferrer"><strong>Timezone settings on italki</strong></a><span style="font-weight: 400;">)</span>
+</li>
+<li style="font-weight: 400;" aria-level="1">
+<span style="font-weight: 400;">Select your lesson communication tool. (</span><a href="https://support.italki.com/hc/en-us/articles/206353108" target="_blank" rel="noopener noreferrer"><strong>What device/software do I need to take classes?</strong></a><span style="font-weight: 400;">)</span>
+</li>
+<li style="font-weight: 400;" aria-level="1">
+<span style="font-weight: 400;">Send a lesson request and wait for it to be accepted. (</span><a href="https://support.italki.com/hc/en-us/articles/900004231283" target="_blank" rel="noopener noreferrer"><strong>Why hasn’t my lesson request been accepted?</strong></a><span style="font-weight: 400;">)</span>
+</li>
+</ol>
+<p><strong>What are the courses like? Are there any textbooks?</strong></p>
+<p><span style="font-weight: 400;">Teachers are offering tailored 1-1 lessons for each student. So lesson structure, class forms, and materials can be discussed with your teacher to customize your study plan.</span></p>
+<p><span style="font-weight: 400;">Professional Teachers normally have learning materials such as textbooks, PDF, Powerpoint slides, and videos. You can check teachers’ lesson descriptions and ask if materials can be provided.</span></p>

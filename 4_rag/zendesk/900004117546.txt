@@ -1,0 +1,25 @@
+<h1>How do I find my personal Zoom link, ID and Passcode?</h1>
+<h3>How do I find my Zoom link, ID and passcode?</h3>
+<ol>
+<li style="font-weight: 400;" aria-level="1"><span style="font-weight: 400;">Sign in to the Zoom website.</span></li>
+<li style="font-weight: 400;" aria-level="1"><span style="font-weight: 400;">Click Meetings, then Personal Room.</span></li>
+</ol>
+<p><span style="font-weight: 400;"><img src="https://support.italki.com/hc/article_attachments/36792936602009" alt="Screenshot_2021-01-26_at_16.53.38.png"></span></p>
+<p> </p>
+<p><span style="font-weight: 400;">On the Zoom app interface, select the “Meeting” menu to find your meeting ID, meeting link and passcode.</span></p>
+<p><span style="font-weight: 400;"><img src="https://support.italki.com/hc/article_attachments/36792936604441" alt="Screenshot_2021-01-26_at_16.54.56.png"></span></p>
+<p><span style="font-weight: 400;">For more information, please refer to this </span><a href="https://support.zoom.us/hc/en-us/articles/201362843-Personal-meeting-ID-PMI-and-personal-link" target="_blank" rel="noopener">Zoom Help Guide</a><span style="font-weight: 400;">.</span></p>
+<p> </p>
+<h3>How do I add Zoom as one of my Communication Tools?</h3>
+<ol>
+<li style="font-weight: 400;" aria-level="1">
+<span style="font-weight: 400;">Go to </span><a href="https://teach.italki.com/console/basic" target="_blank" rel="noopener">https://teach.italki.com/console/basic</a><span style="font-weight: 400;">, then click “+Add a communication tool”.</span>
+</li>
+<li style="font-weight: 400;" aria-level="1"><span style="font-weight: 400;">Fill in your personal meeting link, personal meeting ID, and passcode.</span></li>
+</ol>
+<p><span style="font-weight: 400;"><img src="https://support.italki.com/hc/article_attachments/900005745626/WeChatWorkScreenshot_cdb1b963-45c2-4abd-b943-5f7206315eb6.png" alt="WeChatWorkScreenshot_cdb1b963-45c2-4abd-b943-5f7206315eb6.png"></span></p>
+<p> </p>
+<h3>How do your students attend a lesson via Zoom?</h3>
+<p><span style="font-weight: 400;">Your student may click the <strong>“Enter Classroom via Zoom”</strong> button on the lesson detail page or log into Zoom directly with the Zoom meeting ID and passcode provided on the lesson detail page.</span></p>
+<p><img src="https://support.italki.com/hc/article_attachments/900005745986/24af.png" alt="24af.png"></p>
+<p><span style="font-weight: 400;">To learn more about other communication tools, please check the article:</span> <a href="https://support.italki.com/hc/en-us/articles/900002978646-Which-communication-tools-can-I-use-to-teach-" target="_blank" rel="noopener">Which communication tools can I use to teach?</a></p>

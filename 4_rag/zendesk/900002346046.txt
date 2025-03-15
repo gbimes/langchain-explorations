@@ -1,0 +1,11 @@
+<h1>How to Report Violations</h1>
+<p><span style="font-weight: 400;">We take any misconduct very seriously. If you believe that a violation of this italki Community Policy or other italki Policies has occurred, please report the violation to us. </span></p>
+<h2><strong>Report content on italki new community </strong></h2>
+<p><span style="font-weight: 400;">Simply click the ... next to the content or long-press the content and click "report" if the content is under the comment section to report any posts, exercise, or questions.</span></p>
+<p> </p>
+<p><img src="https://support.italki.com/hc/article_attachments/900003199546" alt="How_to_report_violations_-_pic.png"></p>
+<h2><strong>Report a user</strong></h2>
+<p><span style="font-weight: 400;">You can report a user from your Message chatbox or from a user's profile.</span></p>
+<p>On your message page, find the conversation with this user, click <strong>Option &gt; Report</strong><img src="https://support.italki.com/hc/article_attachments/900003165703" alt="report_concern.png" width="869" height="211"></p>
+<p><span style="font-weight: 400;">Or visit the user's profile, click the ... icon and <strong>Report Concern</strong>. </span></p>
+<p><span style="font-weight: 400;"><img src="https://support.italki.com/hc/article_attachments/900003199666" alt="report_concern-user_profile.png"></span></p>

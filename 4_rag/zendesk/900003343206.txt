@@ -1,0 +1,22 @@
+<h1>WeChat Users 1111 Promotion Internal FAQ 微信用户双11促销活动</h1>
+<p>More details (Sheet: <strong>Double 11</strong>) on internal <a href="https://docs.google.com/spreadsheets/d/1amUn4B9ohTNrUCPtHYGKMtWxNkeuFQh9jTOx1EENt78/edit?usp=sharing" target="_self" rel="undefined">Google Sheet</a> </p>
+<h2><strong>Promotion 1:</strong></h2>
+<p>Pay $500 get extra $50 - code "italki500"</p>
+<p>Pay $800 get extra $88 - code "italki800"</p>
+<h3><strong>Promotion time:</strong></h3>
+<p>(a) We are notifying subscribers of the event from UTC+8 12:00noon 9 November until 24:00 p.m till 11 November.</p>
+<p>But actual italki500 and italki800 promo codes are valid instantly until 24:00 pm on November 12.</p>
+<h3>Possible problems and solutions</h3>
+<p>1. both codes will expire if the user fails to pay, but the codes will be automatically reactivated after 10 minutes - if the user approaches our customer service because of an invalid code, please advise try again after 10 minutes from the last failed payment.</p>
+<p>2. For both codes, each user can only participate in each activity <strong>ONCE</strong>, but the same user can participate in both activities at the same time.</p>
+<p>3. Code is limited to use 500 times. It should theoretically be used about 200 times (618 promotion data as a reference)<br>4. View code in OMS here: <a href="https://omsv2.italki.com/voucher/generics">https://omsv2.italki.com/voucher/generics </a>   </p>
+<h2><strong>Promotion 2:</strong></h2>
+<p>Users subscribe to our WeChat account: <em><strong>italkichina. </strong></em>Leave a message in the comment section of the article to write #my story with italki, we internally select the 10 best user stories, add our wechat service account, we will send a $5 learning gift.</p>
+<h3><strong>Promotion time:</strong></h3>
+<p>Articles will be pushed on Nov. 9 and the call for messages will begin. The <strong>deadline</strong> is Nov. 13th 12 noon.</p>
+<p>Gift money will be sent to users by Nov. 20.</p>
+<h3><strong>TBD.</strong></h3>
+<p>#PLACEHOLDER FOR AUTO-REPLY COPY HERE#</p>
+<p><img src="https://support.italki.com/hc/article_attachments/900004415906/mceclip0.png" alt="mceclip0.png"> </p>
+<p> </p>
+<p> </p>

@@ -1,0 +1,11 @@
+<h1>italki Classroom Safari Issue Troubleshooting</h1>
+<p><span style="font-weight: 400;">As <strong>Safari version 15.x will prevent some users from linking to our server in Classroom</strong>, you can refer to the following solution to continue using Classroom.</span></p>
+<p><span style="font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', Helvetica, Arial, sans-serif;">1. Disable “NSURLSession WebSocket” instead of enable.</span></p>
+<ul>
+<li style="font-weight: 400;" aria-level="1"><span style="font-weight: 400;">Open the Safari &gt; Preferences, click "Advanced", then select “Show Develop menu in menu bar.”</span></li>
+<li style="font-weight: 400;" aria-level="1"><span style="font-weight: 400;">Click Develop menu</span></li>
+<li style="font-weight: 400;" aria-level="1"><span style="font-weight: 400;">Tap on “Experimental Features” at the bottom</span></li>
+<li style="font-weight: 400;" aria-level="1"><span style="font-weight: 400;">Scroll down until you see “NSURLSession WebSocket”</span></li>
+<li style="font-weight: 400;" aria-level="1"><span style="font-weight: 400;">Disable “NSURLSession WebSocket”</span></li>
+</ul>
+<p>2. Use another browser, we recommend Chrome as the best browser to use Classroom, you can click <a href="https://www.google.com/chrome/" target="_self">here</a> to download Chrome.</p>

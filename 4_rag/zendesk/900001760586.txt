@@ -1,0 +1,233 @@
+<h1>Free Trial Campaign </h1>
+<h1><strong>Free Trial Campaign: </strong></h1>
+<p><a href="https://support.italki.com/hc/en-us/articles/900001623063-Free-Trial-Promotion-Join-Get-More-Students-limited-promotion-">https://support.italki.com/hc/en-us/articles/900001623063-Free-Trial-Promotion-Join-Get-More-Students-limited-promotion-</a></p>
+<p>This campaign will only be eligible for new users registered after the campaign launched and user needs to verify their cell number before they can use the free trial. </p>
+<p><strong>Only one free trial is allowed per user. The other two trials are normal trial lessons.</strong></p>
+<p>Below are the country codes for countries where the user can't verify their phone number, which means they can't join this campaign, no workaround. </p>
+<p> </p>
+<table style="background-color: #f0f3f4;">
+<tbody>
+<tr>
+<td style="text-align: center; vertical-align: middle;" width="63"><strong>ISO</strong></td>
+<td style="text-align: center; vertical-align: middle;" width="149"><strong>Country </strong></td>
+<td style="text-align: center; vertical-align: middle;" width="72"><strong>Code</strong></td>
+<td style="text-align: center; vertical-align: middle;" width="72"><strong>ISO</strong></td>
+<td style="text-align: center; vertical-align: middle;" width="212"><strong>Country </strong></td>
+<td style="text-align: center; vertical-align: middle;" width="72"><strong>Code</strong></td>
+<td style="text-align: center; vertical-align: middle;" width="79"><strong>ISO</strong></td>
+<td style="text-align: center; vertical-align: middle;" width="180"><strong>Country </strong></td>
+<td style="text-align: center; vertical-align: middle;" width="92"><strong>Code</strong></td>
+</tr>
+<tr>
+<td style="text-align: center; vertical-align: middle;" width="63">AS</td>
+<td style="text-align: center; vertical-align: middle;">American Samoa</td>
+<td style="text-align: center; vertical-align: middle;">1-684</td>
+<td style="text-align: center; vertical-align: middle;" width="72">HM</td>
+<td style="text-align: center; vertical-align: middle;">　</td>
+<td style="text-align: center; vertical-align: middle;">　</td>
+<td style="text-align: center; vertical-align: middle;" width="79">SD</td>
+<td style="text-align: center; vertical-align: middle;">Sudan</td>
+<td style="text-align: center; vertical-align: middle;">249</td>
+</tr>
+<tr>
+<td style="text-align: center; vertical-align: middle;">BV</td>
+<td style="text-align: center; vertical-align: middle;">　</td>
+<td style="text-align: center; vertical-align: middle;">　</td>
+<td style="text-align: center; vertical-align: middle;">IO</td>
+<td style="text-align: center; vertical-align: middle;">British Indian Ocean Territory</td>
+<td style="text-align: center; vertical-align: middle;">246</td>
+<td style="text-align: center; vertical-align: middle;">SH</td>
+<td style="text-align: center; vertical-align: middle;">Saint Helena</td>
+<td style="text-align: center; vertical-align: middle;">290</td>
+</tr>
+<tr>
+<td style="text-align: center; vertical-align: middle;" width="63">CC</td>
+<td style="text-align: center; vertical-align: middle;">Cocos Islands</td>
+<td style="text-align: center; vertical-align: middle;">61</td>
+<td style="text-align: center; vertical-align: middle;" width="72">IR</td>
+<td style="text-align: center; vertical-align: middle;">Iran</td>
+<td style="text-align: center; vertical-align: middle;">98</td>
+<td style="text-align: center; vertical-align: middle;" width="79">SJ</td>
+<td style="text-align: center; vertical-align: middle;">Svalbard and Jan Mayen</td>
+<td style="text-align: center; vertical-align: middle;">47</td>
+</tr>
+<tr>
+<td style="text-align: center; vertical-align: middle;">CU</td>
+<td style="text-align: center; vertical-align: middle;">Cuba</td>
+<td style="text-align: center; vertical-align: middle;" width="72">53</td>
+<td style="text-align: center; vertical-align: middle;">KP</td>
+<td style="text-align: center; vertical-align: middle;">North Korea</td>
+<td style="text-align: center; vertical-align: middle;">850</td>
+<td style="text-align: center; vertical-align: middle;">SM</td>
+<td style="text-align: center; vertical-align: middle;">San Marino</td>
+<td style="text-align: center; vertical-align: middle;">378</td>
+</tr>
+<tr>
+<td style="text-align: center; vertical-align: middle;" width="63">CX</td>
+<td style="text-align: center; vertical-align: middle;">Christmas Island</td>
+<td style="text-align: center; vertical-align: middle;">61</td>
+<td style="text-align: center; vertical-align: middle;" width="72">MH</td>
+<td style="text-align: center; vertical-align: middle;">Marshall Islands</td>
+<td style="text-align: center; vertical-align: middle;">692</td>
+<td style="text-align: center; vertical-align: middle;" width="79">SY</td>
+<td style="text-align: center; vertical-align: middle;">Syria</td>
+<td style="text-align: center; vertical-align: middle;">963</td>
+</tr>
+<tr>
+<td style="text-align: center; vertical-align: middle;">EH</td>
+<td style="text-align: center; vertical-align: middle;">Western Sahara</td>
+<td style="text-align: center; vertical-align: middle;">212</td>
+<td style="text-align: center; vertical-align: middle;">MP</td>
+<td style="text-align: center; vertical-align: middle;">Northern Mariana Islands</td>
+<td style="text-align: center; vertical-align: middle;">1-670</td>
+<td style="text-align: center; vertical-align: middle;">TK</td>
+<td style="text-align: center; vertical-align: middle;">Tokelau</td>
+<td style="text-align: center; vertical-align: middle;">690</td>
+</tr>
+<tr>
+<td style="text-align: center; vertical-align: middle;" width="63">ER</td>
+<td style="text-align: center; vertical-align: middle;">Eritrea</td>
+<td style="text-align: center; vertical-align: middle;">291</td>
+<td style="text-align: center; vertical-align: middle;" width="72">NF</td>
+<td style="text-align: center; vertical-align: middle;">　</td>
+<td style="text-align: center; vertical-align: middle;">　</td>
+<td style="text-align: center; vertical-align: middle;" width="79">TV</td>
+<td style="text-align: center; vertical-align: middle;">Tuvalu</td>
+<td style="text-align: center; vertical-align: middle;">688</td>
+</tr>
+<tr>
+<td style="text-align: center; vertical-align: middle;">FK</td>
+<td style="text-align: center; vertical-align: middle;">Falkland Islands</td>
+<td style="text-align: center; vertical-align: middle;">500</td>
+<td style="text-align: center; vertical-align: middle;">NR</td>
+<td style="text-align: center; vertical-align: middle;">Nauru</td>
+<td style="text-align: center; vertical-align: middle;">674</td>
+<td style="text-align: center; vertical-align: middle;">UM</td>
+<td style="text-align: center; vertical-align: middle;">　</td>
+<td style="text-align: center; vertical-align: middle;">　</td>
+</tr>
+<tr>
+<td style="text-align: center; vertical-align: middle;" width="63">FM</td>
+<td style="text-align: center; vertical-align: middle;">Micronesia</td>
+<td style="text-align: center; vertical-align: middle;">691</td>
+<td style="text-align: center; vertical-align: middle;" width="72">NU</td>
+<td style="text-align: center; vertical-align: middle;">Niue</td>
+<td style="text-align: center; vertical-align: middle;">683</td>
+<td style="text-align: center; vertical-align: middle;" width="79">VA</td>
+<td style="text-align: center; vertical-align: middle;">Vatican</td>
+<td style="text-align: center; vertical-align: middle;">379</td>
+</tr>
+<tr>
+<td style="text-align: center; vertical-align: middle;">GS</td>
+<td style="text-align: center; vertical-align: middle;">　</td>
+<td style="text-align: center; vertical-align: middle;">　</td>
+<td style="text-align: center; vertical-align: middle;">PN</td>
+<td style="text-align: center; vertical-align: middle;">Pitcairn</td>
+<td style="text-align: center; vertical-align: middle;">64</td>
+<td style="text-align: center; vertical-align: middle;">ZR</td>
+<td style="text-align: center; vertical-align: middle;">　</td>
+<td style="text-align: center; vertical-align: middle;">　</td>
+</tr>
+</tbody>
+</table>
+<h2><strong>How does the payment works</strong></h2>
+<p>User needs to pay $5 dollar first and book lessons have a free trial filter, when the free trial is ended, they can choose to get a refund in either italki credit or the original payment method. The refund is automatically processed back to the original payment method. </p>
+<p>Please note that after <strong>30 days</strong> of the original payment date, the refund through the website is not possible, so the user will need to email us and follow the normal refund process. </p>
+<h2><strong>Cancellation &amp; Reschedule Policy</strong></h2>
+<p><strong>* Only reschedule is allowed on Trial lesson, cancellation is not allowed on Trial lesson. We will not cancel any trial lesson in any circumstances </strong></p>
+<p><strong>* There will be no "report problem" button. </strong></p>
+<p><strong>* For any dispute, please investigate first following the normal process, asking the teacher or student to provide evidence. </strong></p>
+<p><strong>* If there is more than one lesson teacher miss, please make sure you copy the first sticky note content and add the 2nd piece of information. For example:</strong></p>
+<p>Agent A:  didn't show up trial lesson (Lesson ID 1) </p>
+<p>Agent B:  didn't show up trial lesson (Lesson ID 1) </p>
+<p><strong>             </strong>  didn't show up trial lesson (Lesson ID 2) </p>
+<p><strong>* Please handle the ticket according to the below guideline. Only escalate the ticket when you need to reset the trial. </strong></p>
+<table style="width: 1129px; height: 715px;" border="2">
+<tbody>
+<tr style="height: 22px;">
+<td style="width: 110px; height: 22px;">　</td>
+<td style="width: 202px; height: 22px;">Situation</td>
+<td style="width: 313px; height: 22px;">To Teacher</td>
+<td style="width: 459px; height: 22px;">To Student</td>
+</tr>
+<tr style="height: 44px;">
+<td style="width: 110px; height: 154px;" rowspan="3">Before Lesson Start Time</td>
+<td style="width: 202px; height: 44px;">Student wants to cancel </td>
+<td style="width: 313px; height: 44px;">-</td>
+<td style="width: 459px; height: 44px;">The lesson can't be canceled due to the campaign rules, suggest student to reschedule.</td>
+</tr>
+<tr style="height: 66px;">
+<td style="width: 202px; height: 66px;">Teacher wants to cancel </td>
+<td style="width: 313px; height: 66px;">The lesson can't be canceled due to the campaign rules, suggest teacher to reschedule.</td>
+<td style="width: 459px; height: 66px;">　</td>
+</tr>
+<tr style="height: 44px;">
+<td style="width: 202px; height: 44px;">Teacher wants to reschedule</td>
+<td style="width: 783px; height: 44px;" colspan="2">1. The student agrees, reschedule <br> 2. The student doesn't agree, follow the original lesson time </td>
+</tr>
+<tr style="height: 44px;">
+<td style="width: 110px; height: 392.281px;" rowspan="4">After Lesson Start Time</td>
+<td style="width: 202px; height: 44px;">Student No show</td>
+<td style="width: 313px; height: 44px;">Credit will be sent to the teacher automatically </td>
+<td style="width: 459px; height: 44px;">Normal choose refund, we will not reset the trial lesson</td>
+</tr>
+<tr style="height: 130px;">
+<td style="width: 202px; height: 130px;">Teacher No show</td>
+<td style="width: 313px; height: 130px;">
+<p>1. Add OMS sticky note - lesson ID, teacher no show</p>
+<p>2. In OMS Change T's <span>Auto Accept Status to "Automatically Accept - Old Student"</span></p>
+<p>3. Inform teacher we made the change and will take credit from his wallet </p>
+</td>
+<td style="width: 459px; height: 130px;">1. Let student confirm the lesson and get a refund, contact us once it's done<br> 2. <strong>Escalate the ticket to Tier 2 - dispute - Exy</strong> <br> <strong>3. Exy to reset the trial lesson for student and take credit from teacher</strong>
+</td>
+</tr>
+<tr style="height: 108.281px;">
+<td style="width: 202px; height: 108.281px;">Teacher reject due to teacher wants to select student </td>
+<td style="width: 313px; height: 108.281px;">
+<p>1. Add OMS sticky note - lesson ID, teacher no show<br> 2. In OMS Change T's <span>Auto Accept Status to "Automatically Accept - Old Student"</span></p>
+<p>3. Inform teacher we made the change and will take credit from his wallet </p>
+</td>
+<td style="width: 459px; height: 108.281px;">1. Let student confirm the lesson and get a refund, contact us once it's done<br> <strong>2. Escalate the ticket to Tier 2 - dispute - Exy</strong> <br> <strong>3. Exy to reset the trial lesson for student and take credit from teacher</strong>
+</td>
+</tr>
+<tr style="height: 110px;">
+<td style="width: 202px; height: 110px;">Teacher has emergency </td>
+<td style="width: 313px; height: 110px;">Inform teacher we will take the credit from his wallet </td>
+<td style="width: 459px; height: 110px;">1. Let student confirm the lesson and get a refund, contact us once it's done<br> <strong>2. Escalate the ticket to Tier 2 - dispute - Exy</strong> <br> <strong>3. Exy to reset the trial lesson for student and take credit from teacher</strong>
+</td>
+</tr>
+</tbody>
+</table>
+<p> </p>
+<p> </p>
+<h2><strong>Screenshots:</strong></h2>
+<p><strong>1. After a new user registered. </strong></p>
+<p><strong><img src="https://support.italki.com/hc/article_attachments/900002404743/blobid0.png" alt="blobid0.png"></strong></p>
+<p><strong>2. Click get free Trial, it brings you to the teacher list page - Free Trial filter applied. </strong></p>
+<p><strong><img src="https://support.italki.com/hc/article_attachments/900002425866/blobid2.png" alt="blobid2.png"></strong></p>
+<p> </p>
+<p><strong>3. Select Teacher </strong></p>
+<p><strong><img src="https://support.italki.com/hc/article_attachments/900002404823/blobid3.png" alt="blobid3.png"></strong></p>
+<p><strong>4. Book Lesson</strong></p>
+<p> </p>
+<p><strong><img src="https://support.italki.com/hc/article_attachments/900002404923/blobid5.png" alt="blobid5.png"></strong></p>
+<p><strong><img src="https://support.italki.com/hc/article_attachments/900002425966/blobid6.png" alt="blobid6.png"></strong></p>
+<p><strong>5. After you select a communication tool and click next, you will need to verify your phone number. </strong></p>
+<p><strong><img src="https://support.italki.com/hc/article_attachments/900002426006/blobid7.png" alt="blobid7.png"></strong></p>
+<p><strong>You can close the window and it will go to the confirmation page</strong></p>
+<p><strong><img src="https://support.italki.com/hc/article_attachments/900002404983/blobid8.png" alt="blobid8.png"></strong></p>
+<p><span class="wysiwyg-color-red"><strong>Note: the lesson is not free if you can't verify your phone number. You can go back and redo the process again, the "verify phone number" will pop up one more time. If you close it, you will not see this pop up anymore and the lesson will not be free. </strong></span></p>
+<p><span class="wysiwyg-color-black"><strong>6. User profile page.</strong></span></p>
+<p><span class="wysiwyg-color-black"><strong><img src="https://support.italki.com/hc/article_attachments/900002405043/blobid10.png" alt="blobid10.png"></strong></span></p>
+<p> </p>
+<p><span class="wysiwyg-color-black"><strong>7. Verify your phone number on the profile page </strong></span></p>
+<p><span class="wysiwyg-color-black"><strong><img src="https://support.italki.com/hc/article_attachments/900002426086/blobid11.png" alt="blobid11.png"></strong></span></p>
+<p> </p>
+<p> </p>
+<p><span class="wysiwyg-color-red"><strong> </strong></span></p>
+<p> </p>
+<p> </p>
+<p> </p>
+<p> </p>
+<p> </p>
+<p> </p>

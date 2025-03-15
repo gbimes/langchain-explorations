@@ -1,0 +1,41 @@
+<h1>Offer lesson peak times</h1>
+<p>To attract students, you need to be available at a time that is convenient for students.</p>
+<p>Here is a list of the lesson peak times (in UTC +0) of the top 6 markets for English language students.</p>
+<table style="border-collapse: collapse; width: 100%; height: 154px;" border="1">
+<tbody>
+<tr style="height: 22px;">
+<td class="wysiwyg-text-align-center" style="width: 50%; height: 22px;"><strong>Market (Students’ living country)</strong></td>
+<td class="wysiwyg-text-align-center" style="width: 50%; height: 22px;"><strong>Lesson peak times (UTC +0)</strong></td>
+</tr>
+<tr style="height: 22px;">
+<td class="wysiwyg-text-align-center" style="width: 50%; height: 22px;">
+<p>Russia</p>
+</td>
+<td class="wysiwyg-text-align-center" style="width: 50%; height: 22px;">
+<p>07:00-19:00</p>
+</td>
+</tr>
+<tr style="height: 22px;">
+<td class="wysiwyg-text-align-center" style="width: 50%; height: 22px;">Italy </td>
+<td class="wysiwyg-text-align-center" style="width: 50%; height: 22px;">07:00-20:00</td>
+</tr>
+<tr style="height: 22px;">
+<td class="wysiwyg-text-align-center" style="width: 50%; height: 22px;">China </td>
+<td class="wysiwyg-text-align-center" style="width: 50%; height: 22px;">07:00-20:00</td>
+</tr>
+<tr style="height: 22px;">
+<td class="wysiwyg-text-align-center" style="width: 50%; height: 22px;">USA </td>
+<td class="wysiwyg-text-align-center" style="width: 50%; height: 22px;">14:00-02:00</td>
+</tr>
+<tr style="height: 22px;">
+<td class="wysiwyg-text-align-center" style="width: 50%; height: 22px;">
+<p>Spain</p>
+</td>
+<td class="wysiwyg-text-align-center" style="width: 50%; height: 22px;">8:00-20:00</td>
+</tr>
+<tr style="height: 22px;">
+<td class="wysiwyg-text-align-center" style="width: 50%; height: 22px;">Brazil</td>
+<td class="wysiwyg-text-align-center" style="width: 50%; height: 22px;">11:00-01:00</td>
+</tr>
+</tbody>
+</table>

@@ -1,0 +1,18 @@
+<h1>Teacher Statistics: Earnings</h1>
+<p>The Earnings at the bottom of your teacher dashboard can tell you a lot about your performance, help you manage your finances, and understand your business on italki. This Article is for the Earnings sections of your statistics. Find the other statistics below:</p>
+<ul>
+<li><a href="https://support.italki.com/hc/en-us/articles/17378840206489" target="_self">Lesson Overview</a></li>
+<li><a href="https://support.italki.com/hc/en-us/articles/17378894636697" target="_self">My Popular Lessons</a></li>
+<li><a href="https://support.italki.com/hc/en-us/articles/17378944552089" target="_self">Students</a></li>
+<li>
+<a href="https://support.italki.com/hc/en-us/articles/17378789551129" target="_self">The Basics</a> </li>
+</ul>
+<h3><span style="color: #434343;">Earnings</span></h3>
+<p>Finally, we come to your earnings, keep these things in mind.  </p>
+<p><img src="https://lh4.googleusercontent.com/Zybl4iNsHfNq4fOsOUeih2Ct_SOrr9q7uENS7hK64qJv6_5vPuycUGVK3slWZBorez-HYnGWniuILY2KNrv6pDmjxoVhpDI_Q_mZrRlBYpbO_iGM7lAilLPDtxiAYf485UeJ_YfgmUz2BTWqz8INNU4"></p>
+<ul>
+<li>“Total” is <strong>the amount of money, in US Dollars, that you have earned on italki minus the commission </strong>since January 1st, 2020. </li>
+<li>Under that, you can see your monthly totals, <strong>+238 means you earned $238 US dollars that month</strong>. Keep in mind that we calculate the time by when the transaction happened, not the lesson time so if the lesson was on the 30th but confirmed and the money was given to you on the 2nd, we calculate it based on the 2nd.</li>
+<li>“Unit Rate” is <strong>the amount of money you earned that month divided by the number of lesson hours you completed</strong>. This gives you an idea of your “hourly rate” over all your lesson types and lesson lengths.</li>
+</ul>
+<p>If you feel your hourly rate is too low, consider raising the prices of your cheapest class, or your most popular classes to increase it.</p>

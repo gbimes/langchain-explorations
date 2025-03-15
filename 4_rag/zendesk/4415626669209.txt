@@ -1,0 +1,121 @@
+<h1>5 Keys to Making Great Flashcards on italki!</h1>
+<p><span style="font-weight: 400;">The </span><a href="https://teach.italki.com/vocabulary"><span style="font-weight: 400;">Vocabulary tool</span></a><span style="font-weight: 400;"> on italki allows you to create, organize, and share great flashcard sets that you can share with students and potential students alike. If you are looking for guidance on how to use the feature click <a href="https://support.italki.com/hc/en-us/articles/4415881166233-Introducing-Vocabulary" target="_self">HERE</a>. Creating unique, creative, and useful flashcards can be a challenge, but one that can bring a business your way. </span></p>
+<h3><span style="font-weight: 400;">Here are 5 Keys to making great flashcards on italki: </span></h3>
+<h3><span style="font-weight: 400;">1. Pictures and mnemonics</span></h3>
+<p><span style="font-weight: 400;">A key feature of flashcards is their ability to help students retain the information on the card. We can enhance this ability by creating cards with memorable pictures and mnemonics. </span></p>
+<p> </p>
+<table>
+<tbody>
+<tr>
+<td class="wysiwyg-text-align-center" style="width: 325.312px;">
+<img src="https://support.italki.com/hc/article_attachments/36793847375129" alt="donuts-g15a2052af_1920.jpg"><br><br>
+<p class="wysiwyg-text-align-center"><strong>Friend</strong></p>
+<p class="wysiwyg-text-align-center"><span style="font-weight: 400;">n.</span></p>
+</td>
+<td style="width: 351.688px;">
+<br><br><br><br>
+<p class="wysiwyg-text-align-center"><strong>n. </strong></p>
+<p class="wysiwyg-text-align-center"><strong>a person whom one knows and with whom one has a bond of mutual affection.</strong></p>
+<br><br>
+<p class="wysiwyg-text-align-center"><span style="font-weight: 400;">Fred’s </span><strong><em>friend</em></strong><span style="font-weight: 400;"> loves to eat doughnuts.  </span></p>
+<br><br>
+</td>
+</tr>
+</tbody>
+</table>
+<p> </p>
+<p><span style="font-weight: 400;">Even simple words can benefit from mnemonics, such as </span><span style="font-weight: 400;">Friend: Fred rushed in eating nine doughnuts. What about a picture of Fred with nine doughnuts and his friends?</span></p>
+<h3><span style="font-weight: 400;">2. Examples </span></h3>
+<p><span style="font-weight: 400;">Part of remembering vocabulary is the context and connection of words. Where and how a word is used can be just as important as pronunciation. For more subtle words providing an example sentence or other meanings to give context can help students understand and remember. </span></p>
+<p> </p>
+<table>
+<tbody>
+<tr>
+<td class="wysiwyg-text-align-center" style="width: 336px;">
+<img src="https://support.italki.com/hc/article_attachments/36793840777497" alt="Fishing_Coffee.jpg"><br><br>
+<p class="wysiwyg-text-align-center"><strong>Fishing for a compliment</strong></p>
+<p class="wysiwyg-text-align-center"><span style="font-weight: 400;">idiom </span></p>
+</td>
+<td style="width: 340px;">
+<br><br><br><br><br>
+<p class="wysiwyg-text-align-center"><strong>idiom </strong></p>
+<p class="wysiwyg-text-align-center"><strong>The act of trying to get others to praise you.</strong></p>
+<br><br>
+<p class="wysiwyg-text-align-center"><span style="font-weight: 400;">Fred was in the coffee shop </span><strong><em>fishing for a compliment</em></strong><span style="font-weight: 400;"> about his new yellow shirt.  </span></p>
+<br><br>
+</td>
+</tr>
+</tbody>
+</table>
+<p> </p>
+<h3><span style="font-weight: 400;">3. Unique content</span></h3>
+<p><span style="font-weight: 400;">There is nothing wrong with creating flashcards with fruits, sports, or other basic words. Could you make them unique? The answer is yes. Can you also make unique sets with different words that showcase your talents and specialties? The answer is also yes!  </span></p>
+<table>
+<tbody>
+<tr>
+<td class="wysiwyg-text-align-center" style="width: 290px;">
+<br><img src="https://support.italki.com/hc/article_attachments/36793847378713" alt="anger-1300528.png"><br>
+<p class="wysiwyg-text-align-center"><strong>incongruent</strong></p>
+<p class="wysiwyg-text-align-center"><span style="font-weight: 400;">adj. </span></p>
+</td>
+<td style="width: 290px;">
+<br><br><br><br><br>
+<p class="wysiwyg-text-align-center"><strong>adj. </strong></p>
+<p class="wysiwyg-text-align-center"><strong>Not suitable, not fitting well with something else.</strong></p>
+<br><br>
+<p class="wysiwyg-text-align-center"><span style="font-weight: 400;">His violent actions were incongruent with our company’s values.  </span></p>
+<br><br>
+</td>
+</tr>
+</tbody>
+</table>
+<p> </p>
+<h3><span style="font-weight: 400;">4. Related not overlapped</span></h3>
+<p><span style="font-weight: 400;">Building connections between words and phrases can help your students remember them. As such the words in your set should be related to a topic or theme, but try not to have words that overlap in meaning and use, as that can be confusing.</span></p>
+<p> </p>
+<table style="width: 678px;">
+<tbody>
+<tr>
+<td class="wysiwyg-text-align-center" style="width: 330.5px;">
+<img src="https://support.italki.com/hc/article_attachments/36793847379481" alt="forrest-1846892_1920.jpg"><br><br>
+<p class="wysiwyg-text-align-center"><strong>moss</strong></p>
+<p class="wysiwyg-text-align-center"><span style="font-weight: 400;">n. </span></p>
+</td>
+<td style="width: 324.5px;">
+<br><br><br><br><br>
+<p class="wysiwyg-text-align-center"><strong>n. </strong></p>
+<p class="wysiwyg-text-align-center"><strong>Small flowerless plants that lack true roots.</strong></p>
+<br><br>
+<p class="wysiwyg-text-align-center"><span style="font-weight: 400;">The tree roots are covered in </span><strong><em>moss</em></strong><span style="font-weight: 400;">.  </span></p>
+<br><br>
+</td>
+</tr>
+</tbody>
+</table>
+<p> </p>
+<p><span style="font-weight: 400;">  </span></p>
+<h3><span style="font-weight: 400;">5. Focused </span></h3>
+<p><span style="font-weight: 400;">Similar to being related, be focused. Keep your sets focused on a topic or word set. Help students stay focused by keeping the sets manageable and easy to review within 15 minutes. You don’t need to cover every word related to shopping in one set, maybe cover a certain type of store. </span></p>
+<p><br><br></p>
+<table style="width: 673px;">
+<tbody>
+<tr>
+<td class="wysiwyg-text-align-center" style="width: 335.513px;">
+<img src="https://support.italki.com/hc/article_attachments/36793840781849" alt="singapore-243669_1920.jpg"><br><br>
+<p class="wysiwyg-text-align-center"><strong>vibrant</strong></p>
+<p class="wysiwyg-text-align-center"><span style="font-weight: 400;">adj. </span></p>
+</td>
+<td style="width: 314.487px;">
+<br><br><br><br><br>
+<p class="wysiwyg-text-align-center"><strong>adj. </strong></p>
+<p class="wysiwyg-text-align-center"><strong>full of energy and enthusiasm</strong></p>
+<br><br>
+<p class="wysiwyg-text-align-center"><span style="font-weight: 400;">Singapore is a </span><strong><em>vibrant </em></strong><span style="font-weight: 400;">and busy metropolis.  </span></p>
+<br><br>
+</td>
+</tr>
+</tbody>
+</table>
+<p class="wysiwyg-text-align-center"> </p>
+<p><span style="font-weight: 400;">Now you’re all set to create some great flashcards with our Vocabulary tool. Go and create your sets to share with students. </span></p>
+<p class="wysiwyg-text-align-center"><a href="https://teach.italki.com/vocabulary"><span style="font-weight: 400;">GO TO VOCABULARY</span></a><span style="font-weight: 400;"> </span></p>

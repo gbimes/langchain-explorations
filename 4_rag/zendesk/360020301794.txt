@@ -1,0 +1,20 @@
+<h1>How do I edit my Teacher Calendar?</h1>
+<h2><iframe src="//www.youtube-nocookie.com/embed/q4lXBIZDHvk" width="560" height="315" frameborder="0" allowfullscreen=""></iframe></h2>
+<p><strong>Where do I find my teacher's calendar on the PC web? </strong></p>
+<p><span style="font-weight: 400;">You can either click on “My Calendar” on the navigation bar or go to “Teacher settings– Lessons and Availability– Teacher Calendar”</span></p>
+<p><img src="https://support.italki.com/hc/article_attachments/11371511570969" alt="Picture_1.png"><br><br><br></p>
+<p><img src="https://support.italki.com/hc/article_attachments/11371530526361" alt="Picture_2.png"></p>
+<p><strong>How to create available time slots?</strong></p>
+<p><span style="font-weight: 400;">You can either click on create or drag on the blank space on your calendar to create a time slot. You can set a single time slot or one that repeats. For example, 8 am-5 pm every Monday. </span></p>
+<p><br><strong>How to edit/delete my time slots?</strong></p>
+<p><span style="font-weight: 400;">Click on a green time slot grid on the calendar and you will see the availability detail in a pop-up window. Then click on the edit or delete button to do the modifications. </span></p>
+<p><img src="https://support.italki.com/hc/article_attachments/11371537995289" alt="Picture_3.png"><br><br></p>
+<p><strong>How do I reset my availability?</strong></p>
+<p><span style="font-weight: 400;">You can click on the button“reset availability” on the left bottom of the page to reset slots for some time or all available slots. </span></p>
+<p><img src="https://support.italki.com/hc/article_attachments/11371579622681" alt="Picture_4.png"><br><br><br><br><br></p>
+<p><strong>Can I still turn on vacation mode?</strong></p>
+<p><span style="font-weight: 400;">Unfortunately, the new calendar does not support the “turn on vacation” mode. As an alternative, you can go to Teacher Settings–  Lessons and Availability– Availability settings to accept lesson requests from </span><strong>Nobody </strong><span style="font-weight: 400;">and then click on “save”. </span><span style="font-weight: 400;">This way, you will not receive any lesson requests during the vacation. Don’t forget to change it back to accept lesson requests after you come back from vacation! </span></p>
+<p><img src="https://support.italki.com/hc/article_attachments/11371581127577" alt="Picture_5.png"><br><br><br><br></p>
+<p><strong>I can’t use the new calendar on my old version italki app. What can I do?</strong></p>
+<p><span style="font-weight: 400;">The new calendar is only available on the latest version, so you must update your app. If not, you can only have access to it on the PC web.</span></p>
+<p><a href="https://support.italki.com/hc/en-us/articles/360020145253-I-need-to-take-a-break-from-teaching-on-italki-What-do-I-do-" target="_blank" rel="noopener"><span class="wysiwyg-font-size-large">Read more on "I need to take a break from teaching. What do I do?"</span></a></p>

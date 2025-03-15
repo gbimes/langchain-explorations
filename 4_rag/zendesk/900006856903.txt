@@ -1,0 +1,8 @@
+<h1>Stop sign-in with Facebook, Google, or Apple ID</h1>
+<p><span style="font-weight: 400;">If you would like to stop logging in to italki with a third-party account, make sure you have at least connected with one of the following accounts:</span></p>
+<p><span style="font-weight: 400;">1. Your email address</span></p>
+<p><span style="font-weight: 400;">2. Your phone number</span></p>
+<p><span style="font-weight: 400;">3. Another third-party connection such as Facebook, Apple ID, or Google Account.</span></p>
+<p><span style="font-weight: 400;">Then click </span><strong>Disconnect.</strong></p>
+<p><img src="https://support.italki.com/hc/article_attachments/900003543363/1.9.3-disconnect_from_3rd_parties.png" alt="1.9.3-disconnect_from_3rd_parties.png"></p>
+<p> </p>

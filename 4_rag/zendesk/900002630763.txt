@@ -1,0 +1,9 @@
+<h1>Identity Verification Guidelines for Teachers</h1>
+<p><span style="font-weight: 400;">In October 2020, we launched an identity verification process for all new teacher applicants. This process aims to reduce the number of fraudulent accounts and better protect teachers and students.</span></p>
+<p><span style="font-weight: 400;">This verification process is entirely online and complies with KYC/AML and GDPR regulations. Applicants will be asked to upload their passport or government-issued identification, but italki won’t store any personal information during the process. </span></p>
+<p><span style="font-weight: 400;">All identity verification will be processed by our partner </span><a href="https://sumsub.com/" target="_blank" rel="noopener">Sum&amp;Substance</a><span style="font-weight: 400;">.</span></p>
+<p><span style="font-weight: 400;">If you’ve completed your verification and would like your data deleted from Sum&amp;Substance, please contact </span><a href="mailto:support@italki.com" target="_blank" rel="noopener">support@italki.com</a><span style="font-weight: 400;">.</span></p>
+<p> </p>
+<p><strong>Useful Links</strong></p>
+<p><a href="https://sumsub.com/data-protection-policy/" target="_blank" rel="noopener">Sum&amp;Substance’s Data Protection Policy</a></p>
+<p><a href="https://sumsub.com/supported-documents/identity-docs/" target="_blank" rel="noopener">A List of the Supported Countries and Types of Documents</a></p>

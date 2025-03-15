@@ -1,0 +1,291 @@
+<h1>June 2021 italki Teacher Newsletter</h1>
+<p> </p>
+<p> </p>
+<table border="0" width="100%" cellspacing="0" cellpadding="0" align="center" bgcolor="#ffffff">
+<tbody>
+<tr>
+<td class="deviceWidth" align="center" bgcolor="#ffffff">
+<div style="background-color: #ffffff;">
+<table border="0" width="100%" cellspacing="0" cellpadding="0">
+<tbody>
+<tr>
+<td align="left" valign="top">
+<!-- BANNER -->
+<table class="deviceWidth" width="600" cellspacing="0" cellpadding="0" align="center">
+<tbody>
+<tr>
+<td class="onecols" align="center" valign="top" width="600"><center><a style="cursor: default;" href="#"><img class="img_shrink2" style="display: block; vertical-align: bottom;" src="https://cdn.getblueshift.com/pictures/88696/content/header-2-en.png" alt="Here's what happened at italki in June" width="600"></a></center></td>
+</tr>
+</tbody>
+</table>
+<!-- /BANNER -->
+<table class="deviceWidth" width="600" cellspacing="0" cellpadding="0" align="center">
+<tbody>
+<tr>
+<td class="deviceWidth" style="background-color: #ffffff;" align="center" valign="top" width="600" height="22"> </td>
+</tr>
+</tbody>
+</table>
+<!-- BANNER -->
+<table class="deviceWidth" width="600" cellspacing="0" cellpadding="0" align="center">
+<tbody>
+<tr>
+<td class="onecols" align="center" valign="top" width="600"><center><img class="icon2 img_shrink2" style="padding-left: 5px; max-width: 190px !important; display: block; vertical-align: bottom;" src="https://cdn.getblueshift.com/pictures/88697/content/icon-1.png" alt="chart-icon" width="190"></center></td>
+</tr>
+</tbody>
+</table>
+<!-- /BANNER --> <!-- COPY -->
+<table class="deviceWidth" width="600" cellspacing="0" cellpadding="0" align="center">
+<tbody>
+<tr>
+<td class="" width="30"> </td>
+<td class="onecols" style="padding-top: 20px; color: #343434; font-family: 'Roboto', 'Helvetica Neue', Helvetica, sans-serif; text-decoration: none; line-height: 100%;" align="left" valign="top" width="540">
+<div style="text-align: center; line-height: 100%;"><span class="mob_greeting" style="font-weight: bold; line-height: 1.2; font-size: 24px; color: #343434; font-family: 'Roboto', 'Helvetica Neue', Helvetica, sans-serif;"> What data can teachers use to<br>better manage their business? </span></div>
+<br>
+<div style="text-align: center; line-height: 100%; padding-top: 15px;"><span class="mob_font1" style="line-height: 15px; color: #343434; font-family: 'Roboto', 'Helvetica Neue', Helvetica, sans-serif; font-size: 18px;"> <a style="text-decoration: none;" href="https://support.italki.com/hc/en-us/articles/4402704984601" target="_blank" rel="noopener"><span style="color: #ff554b; font-weight: 500;">TURN INTO A DATA ANALYST&gt;&gt;</span> </a> </span></div>
+<!-- COPY -->
+<table class="deviceWidth" width="600" cellspacing="0" cellpadding="0" align="center">
+<tbody>
+<tr>
+<td class="deviceWidth" style="background-color: #ffffff;" align="center" valign="top" width="600" height="22"> </td>
+</tr>
+</tbody>
+</table>
+<table class="deviceWidth" width="600" cellspacing="0" cellpadding="0" align="center">
+<tbody>
+<tr>
+<td class="deviceWidth" style="background-color: #ffffff;" align="center" valign="top" width="600" height="22"> </td>
+</tr>
+</tbody>
+</table>
+<!-- BANNER -->
+<table class="deviceWidth" width="600" cellspacing="0" cellpadding="0" align="center">
+<tbody>
+<tr>
+<td class="onecols" style="font-size: 18px; color: #343434; font-family: 'Roboto', 'Helvetica Neue', Helvetica, sans-serif; text-decoration: none; line-height: 120%;" align="center" valign="top" width="600"><center><a style="cursor: default;" href="#"><img class="icon3 img_shrink2" style="max-width: 390px; width: 100%; display: block; vertical-align: bottom;" src="https://cdn.getblueshift.com/pictures/88698/content/icon-2.png" alt="Teacher Webinar icon" width="390"></a></center></td>
+</tr>
+</tbody>
+</table>
+<!-- /BANNER -->
+<table class="deviceWidth" width="600" cellspacing="0" cellpadding="0" align="center">
+<tbody>
+<tr>
+<td class="" width="30"> </td>
+<td class="onecols" style="padding-top: 10px; color: #343434; font-family: 'Roboto', 'Helvetica Neue', Helvetica, sans-serif; text-decoration: none; line-height: 100%;" align="left" valign="top" width="540">
+<div style="text-align: center; line-height: 100%;"><span class="mob_font1" style="color: #343434; font-weight: 300; font-family: 'Roboto', 'Helvetica Neue', Helvetica, sans-serif; font-size: 20px;"> Teacher Webinar: </span></div>
+</td>
+<td class="" width="30"> </td>
+</tr>
+</tbody>
+</table>
+<table class="deviceWidth" width="600" cellspacing="0" cellpadding="0" align="center">
+<tbody>
+<tr>
+<td class="" width="30"> </td>
+<td class="onecols" style="padding-top: 10px; font-size: 24px; color: #343434; font-family: 'Roboto', 'Helvetica Neue', Helvetica, sans-serif; text-decoration: none; line-height: 100%;" align="left" valign="top" width="540">
+<div style="text-align: center; line-height: 100%;"><span class="mob_font1"> <strong>How do I connect with any student?</strong> </span></div>
+</td>
+<td class="" width="30"> </td>
+</tr>
+</tbody>
+</table>
+<table class="deviceWidth" width="600" cellspacing="0" cellpadding="0" align="center">
+<tbody>
+<tr>
+<td class="deviceWidth" style="background-color: #ffffff;" align="center" valign="top" width="600" height="22"> </td>
+</tr>
+</tbody>
+</table>
+<table class="deviceWidth" width="600" cellspacing="0" cellpadding="0" align="center">
+<tbody>
+<tr>
+<td class="" width="30"> </td>
+<td class="onecols" style="font-size: 24px; color: #343434; font-family: 'Roboto', 'Helvetica Neue', Helvetica, sans-serif; text-decoration: none; line-height: 100%;" align="left" valign="top" width="540">
+<div style="text-align: center; line-height: 100%;"><span class="mob_font1" style="color: #343434; font-family: 'Roboto', 'Helvetica Neue', Helvetica, sans-serif; font-size: 16px;"> How do you make sure everyone feels safe and<br id="sScreen">motivated, regardless of background or culture? </span></div>
+</td>
+<td class="" width="30"> </td>
+</tr>
+</tbody>
+</table>
+<table class="deviceWidth" width="600" cellspacing="0" cellpadding="0" align="center">
+<tbody>
+<tr>
+<td class="deviceWidth" style="background-color: #ffffff;" align="center" valign="top" width="600" height="22"> </td>
+</tr>
+</tbody>
+</table>
+<table class="deviceWidth" width="600" cellspacing="0" cellpadding="0" align="center">
+<tbody>
+<tr>
+<td class="" width="30"> </td>
+<td class="onecols" style="font-size: 24px; color: #343434; font-family: 'Roboto', 'Helvetica Neue', Helvetica, sans-serif; text-decoration: none; line-height: 100%;" align="left" valign="top" width="540">
+<div style="text-align: center; line-height: 100%;"><span class="mob_font1" style="line-height: 30px; color: #343434; font-family: 'Roboto', 'Helvetica Neue', Helvetica, sans-serif; font-size: 18px;"> <a style="text-decoration: none;" href="https://www.youtube.com/watch?v=5bKSRcbH75M" target="_blank" rel="noopener"><span style="color: #ff554b; font-weight: 600;">WATCH THE RECORDING NOW&gt;&gt;</span> </a> </span></div>
+</td>
+<td class="" width="30"> </td>
+</tr>
+</tbody>
+</table>
+<table class="deviceWidth" width="600" cellspacing="0" cellpadding="0" align="center">
+<tbody>
+<tr>
+<td class="deviceWidth" style="background-color: #ffffff;" align="center" valign="top" width="600" height="22"> </td>
+</tr>
+</tbody>
+</table>
+<table class="deviceWidth" width="600" cellspacing="0" cellpadding="0" align="center">
+<tbody>
+<tr>
+<td class="deviceWidth" style="background-color: #ffffff;" align="center" valign="top" width="600" height="22"> </td>
+</tr>
+</tbody>
+</table>
+<!-- BANNER -->
+<table class="deviceWidth" width="600" cellspacing="0" cellpadding="0" align="center">
+<tbody>
+<tr>
+<td class="onecols" style="font-size: 18px; color: #343434; font-family: 'Roboto', 'Helvetica Neue', Helvetica, sans-serif; text-decoration: none; line-height: 120%;" align="center" valign="top" width="600"><center><a style="font-family: 'Roboto', 'Helvetica Neue', Helvetica, sans-serif; font-size: 16px; line-height: 40px; font-weight: 300; color: #ff554b; text-decoration: none; padding: 0; margin: 0; display: block;" href="https://www.youtube.com/watch?v=5bKSRcbH75M" target="_blank" rel="noopener"> <img class="img_shrink2" style="max-width: 230px; display: block; vertical-align: bottom;" src="https://cdn.getblueshift.com/pictures/88701/content/icon-3.png" alt="Watch The Recording Now" width="230"> </a></center></td>
+</tr>
+</tbody>
+</table>
+<!-- /BANNER -->
+<table class="deviceWidth" width="600" cellspacing="0" cellpadding="0" align="center">
+<tbody>
+<tr>
+<td class="" width="30"> </td>
+<td class="onecols" style="padding-top: 20px; font-size: 24px; color: #343434; font-family: 'Roboto', 'Helvetica Neue', Helvetica, sans-serif; text-decoration: none; line-height: 100%;" align="center" valign="top" width="540">
+<div style="text-align: center; line-height: 100%;"><span class="mob_font1"> <strong>Heads up! Something big is coming…</strong> </span></div>
+</td>
+<td class="" width="30"> </td>
+</tr>
+</tbody>
+</table>
+<table class="deviceWidth" width="600" cellspacing="0" cellpadding="0" align="center">
+<tbody>
+<tr>
+<td class="deviceWidth" style="background-color: #ffffff;" align="center" valign="top" width="600" height="22"> </td>
+</tr>
+</tbody>
+</table>
+<table class="deviceWidth" width="600" cellspacing="0" cellpadding="0" align="center">
+<tbody>
+<tr>
+<td class="" width="30"> </td>
+<td class="onecols" style="font-size: 24px; color: #343434; font-family: 'Roboto', 'Helvetica Neue', Helvetica, sans-serif; text-decoration: none; line-height: 100%;" align="center" valign="top" width="540">
+<div style="text-align: center; line-height: 100%;"><span class="mob_font1" style="color: #343434; font-family: 'Roboto', 'Helvetica Neue', Helvetica, sans-serif; font-size: 16px;"> Keep an eye on your inbox for something huge on <span style="color: #ff554b;">5 July</span>.<br>It’s big, exciting, and it’s going to be a great opportunity to<br id="sScreen">attract new students </span></div>
+</td>
+<td class="" width="30"> </td>
+</tr>
+</tbody>
+</table>
+<table class="deviceWidth" width="600" cellspacing="0" cellpadding="0" align="center">
+<tbody>
+<tr>
+<td class="deviceWidth" align="center" valign="top" width="600" height="40"> </td>
+</tr>
+</tbody>
+</table>
+<!-- copy -->
+<table class="deviceWidth" width="600" cellspacing="0" cellpadding="0" align="center">
+<tbody>
+<tr>
+<td class="" width="30"> </td>
+<td class="onecols" style="font-family: 'Roboto', 'Helvetica Neue', Helvetica, sans-serif; color: #343434; text-decoration: none; line-height: 24px;" align="center" valign="top" width="540">
+<div style="text-align: center; line-height: 22px;"><span style="color: #8c8c8c; line-height: 32px; font-size: 16px;"> Happy Teaching,<br>The <span style="color: #ff554b;">italki</span> Team </span></div>
+</td>
+<td class="" width="30"> </td>
+</tr>
+</tbody>
+</table>
+<table class="deviceWidth" width="600" cellspacing="0" cellpadding="0" align="center">
+<tbody>
+<tr>
+<td class="deviceWidth" align="center" valign="top" width="600" height="40"> </td>
+</tr>
+</tbody>
+</table>
+<table class="deviceWidth" width="600" cellspacing="0" cellpadding="0" align="center">
+<tbody>
+<tr>
+<td class="" width="100"> </td>
+<td class="deviceWidth" style="border-top: 1px solid #9b9b9b;" align="center" valign="top" width="540"> </td>
+<td class="" width="100"> </td>
+</tr>
+</tbody>
+</table>
+<table class="deviceWidth" style="margin: 0 auto;" border="0" width="600" cellspacing="0" cellpadding="0" align="center">
+<tbody>
+<tr>
+<td style="text-align: center; vertical-align: top; font-size: 0; padding-bottom: 15px; padding-top: 15px;" align="center">
+<!--left-->
+<div style="display: inline-block; vertical-align: top;">
+<table border="0" cellspacing="0" cellpadding="0" align="center">
+<tbody>
+<tr>
+<td align="center" width="370">
+<table border="0" width="600" cellspacing="0" cellpadding="0" align="center">
+<tbody>
+<tr>
+<td style="font-family: 'Roboto', Arial, sans-serif; font-size: 9px; color: #9b9b9b; line-height: 15px; text-align: center;">italki, Suite 2004,20/F., Tower 5, China<br>Hong Kong City, 33 Canton Road,<br>Tsim Sha Tsui, Kowloon, Hong Kong <br><a style="color: #4d92e3; text-decoration: none;" href="{{unsubscribe_link}}" target="_blank" rel="noopener">Manage your email preferences</a> | <a style="color: #4d92e3; text-decoration: none;" href="{{unsubscribe_link}}" target="_blank" rel="noopener">Unsubscribe</a>
+</td>
+</tr>
+</tbody>
+</table>
+</td>
+</tr>
+</tbody>
+</table>
+</div>
+</td>
+</tr>
+</tbody>
+</table>
+<table class="onecol" width="600" cellspacing="0" cellpadding="0" align="center" bgcolor="#ffffff">
+<tbody>
+<tr>
+<td class="" style="color: #ffffff !important;" bgcolor="#ffffff" width="20"> </td>
+<td class="onecols" colspan="" rowspan="" align="center" valign="top" bgcolor="#ffffff" width="600">
+<table class="deviceWidth" width="600" cellspacing="0" cellpadding="0" align="center" bgcolor="#ffffff">
+<tbody>
+<tr>
+<th class="onecols" style="line-height: 30px; font: 100 22px 'Roboto', 'Helvetica Neue', sans-serif; color: #ffffff; background-color: #ffffff !important;" colspan="" rowspan="" align="center" valign="center" width="200">
+<div style="text-align: center !important;"><center>
+<div style="text-align: center; background-color: #ffffff !important;">
+<a style="font: 500 11px/19px 'Helvetica Neue', Helvetica, Arial, sans-serif; color: #343434; text-decoration: none; background-color: #ffffff !important;" href="https://www.facebook.com/italkilanguages" target="_blank" rel="noopener"> <img class="img_social" style="background-color: #ffffff !important;" src="https://cdn.getblueshift.com/pictures/70180/content/iconfinder_social_media_applications_1-facebook_4102573.png" alt="FB" width="30" height="30"> </a> <span style="color: #f9f9f9;"> </span> <a style="font: 500 11px/19px 'Helvetica Neue', Helvetica, Arial, sans-serif; color: #343434; text-decoration: none; background-color: #ffffff !important;" href="https://twitter.com/italki" target="_blank" rel="noopener"> <img class="img_social" style="background-color: #ffffff !important;" src="https://cdn.getblueshift.com/pictures/70179/content/iconfinder_twitter_317720.png" alt="TW" width="30" height="30"> </a> <span style="color: #f9f9f9;"> </span> <a style="font: 500 11px/19px 'Helvetica Neue', Helvetica, Arial, sans-serif; color: #343434; text-decoration: none; background-color: #ffffff !important;" href="https://www.instagram.com/italki/" target="_blank" rel="noopener"> <img class="img_social" style="background-color: #ffffff !important;" src="https://cdn.getblueshift.com/pictures/70181/content/iconfinder_instagram_1298747.png" alt="IG" width="30" height="30"> </a> <span style="color: #f9f9f9;"> </span> <a style="font: 500 11px/19px 'Helvetica Neue', Helvetica, Arial, sans-serif; color: #343434; text-decoration: none; background-color: #ffffff !important;" href="https://www.youtube.com/user/italkilanguage" target="_blank" rel="noopener"> <img class="img_social" style="background-color: #ffffff !important;" src="https://cdn.getblueshift.com/pictures/70178/content/iconfinder_youtube_317714.png" alt="YT" width="30" height="30"> </a>
+</div>
+</center></div>
+</th>
+</tr>
+</tbody>
+</table>
+</td>
+<td class="" style="color: #ffffff !important;" bgcolor="#ffffff" width="20"> </td>
+</tr>
+</tbody>
+</table>
+<table class="deviceWidth" width="600" cellspacing="0" cellpadding="0" align="center" bgcolor="#ffffff">
+<tbody>
+<tr>
+<td class="deviceWidth" align="center" valign="top" width="600"> </td>
+</tr>
+</tbody>
+</table>
+<table class="deviceWidth" width="600" cellspacing="0" cellpadding="0" align="center" bgcolor="#ffffff">
+<tbody>
+<tr>
+<td class="deviceWidth" align="center" valign="top" width="600"> </td>
+</tr>
+</tbody>
+</table>
+</td>
+</tr>
+</tbody>
+</table>
+</td>
+</tr>
+</tbody>
+</table>
+</div>
+</td>
+</tr>
+</tbody>
+</table>

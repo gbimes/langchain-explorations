@@ -1,0 +1,112 @@
+<h1>Useful Teaching Tools and Resources</h1>
+<h2><strong>Classroom Tools</strong></h2>
+<p><span style="font-weight: 400;">Classin: </span><a href="https://www.eeo.cn/en/" target="_blank" rel="noopener">https://www.eeo.cn/en/</a><span style="font-weight: 400;">  </span></p>
+<p><span style="font-weight: 400;">Feature: Online Classroom</span></p>
+<p> </p>
+<p><span style="font-weight: 400;">Prezy: </span><a href="https://prezi.com/" target="_blank" rel="noopener">https://prezi.com/</a></p>
+<p><span style="font-weight: 400;">Feature: animated presentation</span></p>
+<p> </p>
+<p><span style="font-weight: 400;">GoConqr: </span><a href="https://www.goconqr.com/" target="_blank" rel="noopener">https://www.goconqr.com/</a></p>
+<p><span style="font-weight: 400;">Feature: Flashcards, slides, notes, quizzes, flowcharts, mind maps</span></p>
+<p> </p>
+<p><span style="font-weight: 400;">Genially: </span><a href="http://genial.ly/" target="_blank" rel="noopener">genial.ly</a></p>
+<p><span style="font-weight: 400;">Feature: presentations, interactive images, games</span></p>
+<p> </p>
+<p><span style="font-weight: 400;">Quizlet: </span><a href="https://quizlet.com/" target="_blank" rel="noopener">https://quizlet.com/</a></p>
+<p><span style="font-weight: 400;">Feature: Vocabulary, flashcards</span></p>
+<p> </p>
+<p><span style="font-weight: 400;">Canva: </span><a href="https://www.canva.com/" target="_blank" rel="noopener">https://www.canva.com/</a></p>
+<p><span style="font-weight: 400;">Feature: images, flashcards, games</span></p>
+<p> </p>
+<p><span style="font-weight: 400;">Miro: </span><a href="https://miro.com/" target="_blank" rel="noopener">https://miro.com/</a></p>
+<p><span style="font-weight: 400;">Feature: Online Whiteboard</span></p>
+<p> </p>
+<p><span style="font-weight: 400;">Anki: </span><a href="https://apps.ankiweb.net/" target="_blank" rel="noopener">https://apps.ankiweb.net/</a></p>
+<p><span style="font-weight: 400;">Feature: Vocabulary, flashcards</span></p>
+<p> </p>
+<p><span style="font-weight: 400;">Watch2gether: </span><span style="font-weight: 400;"><a href="https://www.watch2gether.com/" target="_blank" rel="noopener">https://www.watch2gether.com/</a></span></p>
+<p><span style="font-weight: 400;">Feature: Invite students to watch videos</span></p>
+<p> </p>
+<p><span style="font-weight: 400;">Dvolver: </span><a href="http://dvolver.com/" target="_blank" rel="noopener">http://dvolver.com/</a></p>
+<p><span style="font-weight: 400;">Feature: animated mini-letters</span></p>
+<p> </p>
+<p><span style="font-weight: 400;">Paint</span></p>
+<p><span style="font-weight: 400;">Feature: Whiteboard</span></p>
+<p> </p>
+<p><span style="font-weight: 400;">SharePoint, Google Drive, One Drive</span></p>
+<p><span style="font-weight: 400;">Feature: well-organized shared workspace </span></p>
+<p><br><br></p>
+<h2><strong>Dictionary</strong></h2>
+<p><span style="font-weight: 400;">Reverso:</span><a href="http://www.reverso.net/text_translation.aspx?lang=EN" target="_blank" rel="noopener">http://www.reverso.net</a></p>
+<p><span style="font-weight: 400;">Feature: Mobile translation</span></p>
+<p> </p>
+<p><span style="font-weight: 400;">Wordreference: </span><a href="https://www.wordreference.com/" target="_blank" rel="noopener">https://www.wordreference.com/</a></p>
+<p><span style="font-weight: 400;">Feature: Dictionary, language forum</span></p>
+<p> </p>
+<p><span style="font-weight: 400;">Youglish: </span><a href="https://youglish.com/" target="_blank" rel="noopener">https://youglish.com/</a></p>
+<p><span style="font-weight: 400;">Feature: Pronunciation check</span></p>
+<p> </p>
+<p><span style="font-weight: 400;">HowJSay: </span><a href="https://howjsay.com/" target="_blank" rel="noopener">https://howjsay.com/</a></p>
+<p><span style="font-weight: 400;">Feature: Pronunciation check</span></p>
+<p> </p>
+<p><span style="font-weight: 400;">The Urban dictionary: </span><a href="https://www.urbandictionary.com/" target="_blank" rel="noopener">https://www.urbandictionary.com/</a></p>
+<p><span style="font-weight: 400;">Feature: Dictionary</span></p>
+<p> </p>
+<p><span style="font-weight: 400;">Cambridge Online Dictionary: </span><a href="https://dictionary.cambridge.org/" target="_blank" rel="noopener">https://dictionary.cambridge.org/</a></p>
+<p><span style="font-weight: 400;">Feature: Dictionary and articles</span></p>
+<p><br><br></p>
+<h2><strong>Exercises</strong></h2>
+<p><span style="font-weight: 400;">italki Community Exercise: </span><a href="https://www.italki.com/community/exercises" target="_blank" rel="noopener">https://www.italki.com/community/exercises</a></p>
+<p><span style="font-weight: 400;">Feature: Writing exercise</span></p>
+<p> </p>
+<p><span style="font-weight: 400;">Englisch Hilfen: </span><a href="https://www.englisch-hilfen.de/en/" target="_blank" rel="noopener">https://www.englisch-hilfen.de/en/</a></p>
+<p><span style="font-weight: 400;">Feature: Grammar exercise</span></p>
+<p> </p>
+<p><span style="font-weight: 400;">English Page: <a href="https://www.englishpage.com/" target="_blank" rel="noopener">EnglishPage.com</a> </span></p>
+<p><span style="font-weight: 400;">Feature: online English exercises</span></p>
+<p> </p>
+<p><span style="font-weight: 400;">Listening Practice: <a href="http://listeningpractice.org/" target="_blank" rel="noopener">ListeningPractice.org</a></span></p>
+<p><span style="font-weight: 400;">Feature: Listening exercises for multiple languages</span></p>
+<p> </p>
+<p><span style="font-weight: 400;">LePointduFle: </span><a href="https://www.lepointdufle.net/" target="_blank" rel="noopener">https://www.lepointdufle.net/</a></p>
+<p><span style="font-weight: 400;">Feature: French exercises</span></p>
+<p> </p>
+<h2><strong>Video Courses and Podcasts</strong></h2>
+<p><span style="font-weight: 400;">Rachel's English YouTube channel: </span><a href="https://www.youtube.com/user/rachelsenglish" target="_blank" rel="noopener">https://www.youtube.com/user/rachelsenglish</a></p>
+<p><span style="font-weight: 400;">Feature: YouTube videos</span></p>
+<p> </p>
+<p><span style="font-weight: 400;">Slow Chinese: </span><a href="https://www.podbean.com/podcast-detail/9i6zp-33922/%E6%85%A2%E9%80%9F%E4%B8%AD%E6%96%87-Slow-Chinese-Podcast" target="_blank" rel="noopener">https://www.podbean.com/podcast-detail/9i6zp-33922/%E6%85%A2%E9%80%9F%E4%B8%AD%E6%96%87-Slow-Chinese-Podcast</a></p>
+<p><span style="font-weight: 400;">Feature: Chinese Podcast</span></p>
+<p> </p>
+<h2><strong>Teaching Material</strong></h2>
+<p><span style="font-weight: 400;">Off2Class: </span><a href="https://www.off2class.com/" target="_blank" rel="noopener">https://www.off2class.com/</a></p>
+<p><span style="font-weight: 400;">Feature: lesson plans</span></p>
+<p> </p>
+<p><span style="font-weight: 400;">Make Beliefs Comix: </span><a href="https://www.makebeliefscomix.com/" target="_blank" rel="noopener">https://www.makebeliefscomix.com/</a></p>
+<p><span style="font-weight: 400;">Feature: comic material</span></p>
+<p> </p>
+<p><span style="font-weight: 400;">abcya: </span><a href="https://www.abcya.com/" target="_blank" rel="noopener">https://www.abcya.com/</a></p>
+<p><span style="font-weight: 400;">Features: games for kids</span></p>
+<p> </p>
+<p><span style="font-weight: 400;">Enseigner Le Francis: </span><a href="https://enseigner.tv5monde.com/fiches-pedagogiques-fle" target="_blank" rel="noopener">https://enseigner.tv5monde.com/fiches-pedagogiques-fle</a></p>
+<p><span style="font-weight: 400;">Feature: French teaching materials</span></p>
+<p> </p>
+<p><span style="font-weight: 400;">Zeit Sprachen: <a href="https://www.deutsch-perfekt.com/deutsch-ueben/seine-meinung-sagen">https://www.deutsch-perfekt.com/deutsch-ueben/seine-meinung-sagen</a></span></p>
+<p><span style="font-weight: 400;">Feature: German news</span><span style="font-weight: 400;"></span></p>
+<p> </p>
+<p>Deutsche Grammatik online lernen und üben auf Lingolia: <a href="https://deutsch.lingolia.com/de/grammatik" target="_self">https://deutsch.lingolia.com/de/grammatik</a></p>
+<p>Feature: German grammar exercises</p>
+<p> </p>
+<p>Super Easy German: <a href="https://www.youtube.com/watch?v=aFURRj5A6IE">https://www.youtube.com/watch?v=aFURRj5A6IE</a></p>
+<p>Feature: German grammar videos</p>
+<p> </p>
+<p><span style="font-weight: 400;">Facebook Groups: Online Teacher Summit and Clown Teacher Forum (RCT) </span></p>
+<p><span style="font-weight: 400;">Feature: Forums with teaching resources</span></p>
+<p> </p>
+<p><span style="font-weight: 400;">BBC teaching English: </span><a href="https://www.teachingenglish.org.uk/resources" target="_blank" rel="noopener">https://www.teachingenglish.org.uk/resources</a></p>
+<p><span style="font-weight: 400;">Feature: English teaching resources</span></p>
+<p><span style="font-weight: 400;"> </span></p>
+<p><span style="font-weight: 400;">TESL Journal: </span><a href="http://iteslj.org/" target="_blank" rel="noopener">http://iteslj.org/</a></p>
+<p><span style="font-weight: 400;">Feature: TESL papers, lesson plans, ideas, games</span></p>
+<p> </p>
+<p><span style="font-weight: 400;">Conversation Practice Resource: </span><span style="font-weight: 400;"><a href="https://breakingnewsenglish.com/" target="_blank" rel="noopener">https://breakingnewsenglish.com/</a></span></p>

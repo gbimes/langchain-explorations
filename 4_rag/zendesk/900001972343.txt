@@ -1,0 +1,9 @@
+<h1>Hyperwallet transaction fees and countries covered</h1>
+<p class="wysiwyg-text-align-center"><span class="wysiwyg-font-size-large" style="font-weight: 400;"><strong>Local Bank Transfer</strong></span></p>
+<p><span style="font-weight: 400;">Hyperwallet transfers the money to your local bank account resulting in lower transaction fees compared to Wire Transfer. If a currency exchange is required, Hyperwallet will carry out the conversion at a rate set by Hyperwallet.</span></p>
+<p><span style="font-weight: 400;"><img src="https://support.italki.com/hc/article_attachments/900002703183/Screenshot_1.jpg" alt="Screenshot_1.jpg"><img src="https://support.italki.com/hc/article_attachments/900002703203/Screenshot_2.jpg" alt="Screenshot_2.jpg"><img src="https://support.italki.com/hc/article_attachments/900002727586/Screenshot_3.jpg" alt="Screenshot_3.jpg"></span></p>
+<p><span class="wysiwyg-font-size-small" style="font-weight: 400;">*Fees subject to change</span></p>
+<p class="wysiwyg-text-align-center"><span class="wysiwyg-font-size-large"><strong>Wire Transfer (SWIFT)</strong></span></p>
+<p><span style="font-weight: 400;">Wire transfer is a traditional method of sending money internationally via banks which use the SWIFT system. In some cases, both the sending and receiving banks may charge fees resulting in higher transaction costs.</span></p>
+<p><strong><img src="https://support.italki.com/hc/article_attachments/900002727646/Screenshot_4.jpg" alt="Screenshot_4.jpg"></strong></p>
+<p><strong><span class="wysiwyg-font-size-small" style="font-weight: 400;">*Fees subject to change</span></strong></p>

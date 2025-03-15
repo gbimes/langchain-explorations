@@ -1,0 +1,842 @@
+<h1>How do I add my phone number?</h1>
+<p><span style="font-weight: 400;">If you would like to add your phone number to italki, you can: </span></p>
+<ol>
+<li style="font-weight: 400;">
+<span style="font-weight: 400;">Go to your account </span><a href="https://www.italki.com/settings/account" target="_blank" rel="noopener">Settings</a> page</li>
+<li style="font-weight: 400;"><span style="font-weight: 400;">Click “<strong>Add Phone</strong>” </span></li>
+<li style="font-weight: 400;"><span style="font-weight: 400;">Enter your italki password to verify your identity</span></li>
+<li style="font-weight: 400;"><span style="font-weight: 400;">Enter your phone number and click “<strong>Send</strong>”</span></li>
+<li style="font-weight: 400;"><span style="font-weight: 400;">Enter the verification code you have received and click “<strong>Save</strong>”</span></li>
+</ol>
+<h2><strong>I don’t receive the verification code </strong></h2>
+<p><span style="font-weight: 400;">Due to restrictions in different countries and areas, we are sorry that the SMS service is currently unavailable for users from the countries or regions below:</span></p>
+<table style="border-collapse: collapse; width: 85.8549%;" border="1">
+<tbody>
+<tr style="height: 22px;">
+<td style="height: 22px; width: 13.8133%;"><strong>ISO</strong></td>
+<td style="height: 22px; width: 49.4677%;"><strong>Country</strong></td>
+<td style="height: 22px; width: 21.9818%;"><strong>Code</strong></td>
+</tr>
+<tr style="height: 22px;">
+<td style="height: 22px; width: 13.8133%;">AF</td>
+<td style="height: 22px; width: 49.4677%;">Afghanistan</td>
+<td style="height: 22px; width: 21.9818%;">93</td>
+</tr>
+<tr style="height: 22px;">
+<td style="height: 22px; width: 13.8133%;">AL</td>
+<td style="height: 22px; width: 49.4677%;">Albania</td>
+<td style="height: 22px; width: 21.9818%;">355</td>
+</tr>
+<tr style="height: 22px;">
+<td style="height: 22px; width: 13.8133%;">DZ</td>
+<td style="height: 22px; width: 49.4677%;">Algeria</td>
+<td style="height: 22px; width: 21.9818%;">213</td>
+</tr>
+<tr style="height: 22px;">
+<td style="height: 22px; width: 13.8133%;">AD</td>
+<td style="height: 22px; width: 49.4677%;">Andorra</td>
+<td style="height: 22px; width: 21.9818%;">376</td>
+</tr>
+<tr style="height: 22px;">
+<td style="height: 22px; width: 13.8133%;">AO</td>
+<td style="height: 22px; width: 49.4677%;">Angola</td>
+<td style="height: 22px; width: 21.9818%;">244</td>
+</tr>
+<tr style="height: 22px;">
+<td style="height: 22px; width: 13.8133%;">AI</td>
+<td style="height: 22px; width: 49.4677%;">Anguilla</td>
+<td style="height: 22px; width: 21.9818%;">1264</td>
+</tr>
+<tr style="height: 22px;">
+<td style="height: 22px; width: 13.8133%;">AG</td>
+<td style="height: 22px; width: 49.4677%;">Antigua and Barbuda</td>
+<td style="height: 22px; width: 21.9818%;">1268</td>
+</tr>
+<tr style="height: 22px;">
+<td style="height: 22px; width: 13.8133%;">AM</td>
+<td style="height: 22px; width: 49.4677%;">Armenia</td>
+<td style="height: 22px; width: 21.9818%;">374</td>
+</tr>
+<tr style="height: 22px;">
+<td style="height: 22px; width: 13.8133%;">AW</td>
+<td style="height: 22px; width: 49.4677%;">Aruba</td>
+<td style="height: 22px; width: 21.9818%;">297</td>
+</tr>
+<tr style="height: 22px;">
+<td style="height: 22px; width: 13.8133%;">AZ</td>
+<td style="height: 22px; width: 49.4677%;">Azerbaijan</td>
+<td style="height: 22px; width: 21.9818%;">994</td>
+</tr>
+<tr style="height: 22px;">
+<td style="height: 22px; width: 13.8133%;">BS</td>
+<td style="height: 22px; width: 49.4677%;">Bahamas</td>
+<td style="height: 22px; width: 21.9818%;">1242</td>
+</tr>
+<tr style="height: 22px;">
+<td style="height: 22px; width: 13.8133%;">BH</td>
+<td style="height: 22px; width: 49.4677%;">Bahrain</td>
+<td style="height: 22px; width: 21.9818%;">973</td>
+</tr>
+<tr style="height: 22px;">
+<td style="height: 22px; width: 13.8133%;">BD</td>
+<td style="height: 22px; width: 49.4677%;">Bangladesh</td>
+<td style="height: 22px; width: 21.9818%;">880</td>
+</tr>
+<tr style="height: 22px;">
+<td style="height: 22px; width: 13.8133%;">BB</td>
+<td style="height: 22px; width: 49.4677%;">Barbados</td>
+<td style="height: 22px; width: 21.9818%;">1246</td>
+</tr>
+<tr style="height: 22px;">
+<td style="height: 22px; width: 13.8133%;">BY</td>
+<td style="height: 22px; width: 49.4677%;">Belarus</td>
+<td style="height: 22px; width: 21.9818%;">375</td>
+</tr>
+<tr style="height: 22px;">
+<td style="height: 22px; width: 13.8133%;">BZ</td>
+<td style="height: 22px; width: 49.4677%;">Belize</td>
+<td style="height: 22px; width: 21.9818%;">501</td>
+</tr>
+<tr style="height: 22px;">
+<td style="height: 22px; width: 13.8133%;">BJ</td>
+<td style="height: 22px; width: 49.4677%;">Benin</td>
+<td style="height: 22px; width: 21.9818%;">229</td>
+</tr>
+<tr style="height: 22px;">
+<td style="height: 22px; width: 13.8133%;">BM</td>
+<td style="height: 22px; width: 49.4677%;">Bermuda</td>
+<td style="height: 22px; width: 21.9818%;">1441</td>
+</tr>
+<tr style="height: 22px;">
+<td style="height: 22px; width: 13.8133%;">BT</td>
+<td style="height: 22px; width: 49.4677%;">Bhutan</td>
+<td style="height: 22px; width: 21.9818%;">975</td>
+</tr>
+<tr style="height: 22px;">
+<td style="height: 22px; width: 13.8133%;">BO</td>
+<td style="height: 22px; width: 49.4677%;">Bolivia</td>
+<td style="height: 22px; width: 21.9818%;">591</td>
+</tr>
+<tr style="height: 22px;">
+<td style="height: 22px; width: 13.8133%;">BA</td>
+<td style="height: 22px; width: 49.4677%;">Bosnia and Herzegovina</td>
+<td style="height: 22px; width: 21.9818%;">387</td>
+</tr>
+<tr style="height: 22px;">
+<td style="height: 22px; width: 13.8133%;">BW</td>
+<td style="height: 22px; width: 49.4677%;">Botswana</td>
+<td style="height: 22px; width: 21.9818%;">267</td>
+</tr>
+<tr style="height: 22px;">
+<td style="height: 22px; width: 13.8133%;">BN</td>
+<td style="height: 22px; width: 49.4677%;">Brunei</td>
+<td style="height: 22px; width: 21.9818%;">673</td>
+</tr>
+<tr style="height: 22px;">
+<td style="height: 22px; width: 13.8133%;">BG</td>
+<td style="height: 22px; width: 49.4677%;">Bulgaria</td>
+<td style="height: 22px; width: 21.9818%;">359</td>
+</tr>
+<tr style="height: 22px;">
+<td style="height: 22px; width: 13.8133%;">BF</td>
+<td style="height: 22px; width: 49.4677%;">Burkina Faso</td>
+<td style="height: 22px; width: 21.9818%;">226</td>
+</tr>
+<tr style="height: 22px;">
+<td style="height: 22px; width: 13.8133%;">BI</td>
+<td style="height: 22px; width: 49.4677%;">Burundi</td>
+<td style="height: 22px; width: 21.9818%;">257</td>
+</tr>
+<tr style="height: 22px;">
+<td style="height: 22px; width: 13.8133%;">KH</td>
+<td style="height: 22px; width: 49.4677%;">Democratic Kampuchea / Cambodia</td>
+<td style="height: 22px; width: 21.9818%;">855</td>
+</tr>
+<tr style="height: 22px;">
+<td style="height: 22px; width: 13.8133%;">CM</td>
+<td style="height: 22px; width: 49.4677%;">Cameroon</td>
+<td style="height: 22px; width: 21.9818%;">237</td>
+</tr>
+<tr style="height: 22px;">
+<td style="height: 22px; width: 13.8133%;">CV</td>
+<td style="height: 22px; width: 49.4677%;">Cape Verde</td>
+<td style="height: 22px; width: 21.9818%;">238</td>
+</tr>
+<tr style="height: 22px;">
+<td style="height: 22px; width: 13.8133%;">KY</td>
+<td style="height: 22px; width: 49.4677%;">Cayman Islands</td>
+<td style="height: 22px; width: 21.9818%;">1345</td>
+</tr>
+<tr style="height: 22px;">
+<td style="height: 22px; width: 13.8133%;">CF</td>
+<td style="height: 22px; width: 49.4677%;">Central African Republic</td>
+<td style="height: 22px; width: 21.9818%;">236</td>
+</tr>
+<tr style="height: 22px;">
+<td style="height: 22px; width: 13.8133%;">TD</td>
+<td style="height: 22px; width: 49.4677%;">Chad</td>
+<td style="height: 22px; width: 21.9818%;">235</td>
+</tr>
+<tr style="height: 22px;">
+<td style="height: 22px; width: 13.8133%;">CL</td>
+<td style="height: 22px; width: 49.4677%;">Chile</td>
+<td style="height: 22px; width: 21.9818%;">56</td>
+</tr>
+<tr style="height: 22px;">
+<td style="height: 22px; width: 13.8133%;">KM</td>
+<td style="height: 22px; width: 49.4677%;">Comoros</td>
+<td style="height: 22px; width: 21.9818%;">269</td>
+</tr>
+<tr style="height: 22px;">
+<td style="height: 22px; width: 13.8133%;">CK</td>
+<td style="height: 22px; width: 49.4677%;">Cook Islands</td>
+<td style="height: 22px; width: 21.9818%;">682</td>
+</tr>
+<tr style="height: 22px;">
+<td style="height: 22px; width: 13.8133%;">CR</td>
+<td style="height: 22px; width: 49.4677%;">Costa Rica</td>
+<td style="height: 22px; width: 21.9818%;">506</td>
+</tr>
+<tr style="height: 22px;">
+<td style="height: 22px; width: 13.8133%;">HR</td>
+<td style="height: 22px; width: 49.4677%;">Croatia</td>
+<td style="height: 22px; width: 21.9818%;">385</td>
+</tr>
+<tr style="height: 22px;">
+<td style="height: 22px; width: 13.8133%;">CY</td>
+<td style="height: 22px; width: 49.4677%;">Cyprus</td>
+<td style="height: 22px; width: 21.9818%;">357</td>
+</tr>
+<tr style="height: 22px;">
+<td style="height: 22px; width: 13.8133%;">CD</td>
+<td style="height: 22px; width: 49.4677%;">Congo</td>
+<td style="height: 22px; width: 21.9818%;">243</td>
+</tr>
+<tr style="height: 22px;">
+<td style="height: 22px; width: 13.8133%;">DJ</td>
+<td style="height: 22px; width: 49.4677%;">Djibouti</td>
+<td style="height: 22px; width: 21.9818%;">253</td>
+</tr>
+<tr style="height: 22px;">
+<td style="height: 22px; width: 13.8133%;">DM</td>
+<td style="height: 22px; width: 49.4677%;">Dominica</td>
+<td style="height: 22px; width: 21.9818%;">1767</td>
+</tr>
+<tr style="height: 22px;">
+<td style="height: 22px; width: 13.8133%;">DO</td>
+<td style="height: 22px; width: 49.4677%;">Dominican Republic</td>
+<td style="height: 22px; width: 21.9818%;">1829</td>
+</tr>
+<tr style="height: 22px;">
+<td style="height: 22px; width: 13.8133%;">DO</td>
+<td style="height: 22px; width: 49.4677%;">Dominican Republic</td>
+<td style="height: 22px; width: 21.9818%;">1809</td>
+</tr>
+<tr style="height: 22px;">
+<td style="height: 22px; width: 13.8133%;">DO</td>
+<td style="height: 22px; width: 49.4677%;">Dominican Republic</td>
+<td style="height: 22px; width: 21.9818%;">1849</td>
+</tr>
+<tr style="height: 22px;">
+<td style="height: 22px; width: 13.8133%;">EC</td>
+<td style="height: 22px; width: 49.4677%;">Ecuador</td>
+<td style="height: 22px; width: 21.9818%;">593</td>
+</tr>
+<tr style="height: 22px;">
+<td style="height: 22px; width: 13.8133%;">EG</td>
+<td style="height: 22px; width: 49.4677%;">Egypt</td>
+<td style="height: 22px; width: 21.9818%;">20</td>
+</tr>
+<tr style="height: 22px;">
+<td style="height: 22px; width: 13.8133%;">SV</td>
+<td style="height: 22px; width: 49.4677%;">El Salvador</td>
+<td style="height: 22px; width: 21.9818%;">503</td>
+</tr>
+<tr style="height: 22px;">
+<td style="height: 22px; width: 13.8133%;">GQ</td>
+<td style="height: 22px; width: 49.4677%;">Equatorial Guinea</td>
+<td style="height: 22px; width: 21.9818%;">240</td>
+</tr>
+<tr style="height: 22px;">
+<td style="height: 22px; width: 13.8133%;">EE</td>
+<td style="height: 22px; width: 49.4677%;">Estonia</td>
+<td style="height: 22px; width: 21.9818%;">372</td>
+</tr>
+<tr style="height: 22px;">
+<td style="height: 22px; width: 13.8133%;">ET</td>
+<td style="height: 22px; width: 49.4677%;">Ethiopia</td>
+<td style="height: 22px; width: 21.9818%;">251</td>
+</tr>
+<tr style="height: 22px;">
+<td style="height: 22px; width: 13.8133%;">FO</td>
+<td style="height: 22px; width: 49.4677%;">Faroe Islands</td>
+<td style="height: 22px; width: 21.9818%;">298</td>
+</tr>
+<tr style="height: 22px;">
+<td style="height: 22px; width: 13.8133%;">FJ</td>
+<td style="height: 22px; width: 49.4677%;">Fiji</td>
+<td style="height: 22px; width: 21.9818%;">679</td>
+</tr>
+<tr style="height: 22px;">
+<td style="height: 22px; width: 13.8133%;">GF</td>
+<td style="height: 22px; width: 49.4677%;">French Guiana</td>
+<td style="height: 22px; width: 21.9818%;">594</td>
+</tr>
+<tr style="height: 22px;">
+<td style="height: 22px; width: 13.8133%;">GA</td>
+<td style="height: 22px; width: 49.4677%;">Gabon</td>
+<td style="height: 22px; width: 21.9818%;">241</td>
+</tr>
+<tr style="height: 22px;">
+<td style="height: 22px; width: 13.8133%;">GM</td>
+<td style="height: 22px; width: 49.4677%;">Gambia</td>
+<td style="height: 22px; width: 21.9818%;">220</td>
+</tr>
+<tr style="height: 22px;">
+<td style="height: 22px; width: 13.8133%;">GE</td>
+<td style="height: 22px; width: 49.4677%;">Georgia</td>
+<td style="height: 22px; width: 21.9818%;">995</td>
+</tr>
+<tr style="height: 22px;">
+<td style="height: 22px; width: 13.8133%;">GH</td>
+<td style="height: 22px; width: 49.4677%;">Ghana</td>
+<td style="height: 22px; width: 21.9818%;">233</td>
+</tr>
+<tr style="height: 22px;">
+<td style="height: 22px; width: 13.8133%;">GI</td>
+<td style="height: 22px; width: 49.4677%;">Gibraltar</td>
+<td style="height: 22px; width: 21.9818%;">350</td>
+</tr>
+<tr style="height: 22px;">
+<td style="height: 22px; width: 13.8133%;">GL</td>
+<td style="height: 22px; width: 49.4677%;">Greenland</td>
+<td style="height: 22px; width: 21.9818%;">299</td>
+</tr>
+<tr style="height: 22px;">
+<td style="height: 22px; width: 13.8133%;">GD</td>
+<td style="height: 22px; width: 49.4677%;">Grenada</td>
+<td style="height: 22px; width: 21.9818%;">1473</td>
+</tr>
+<tr style="height: 22px;">
+<td style="height: 22px; width: 13.8133%;">GP</td>
+<td style="height: 22px; width: 49.4677%;">Guadeloupe</td>
+<td style="height: 22px; width: 21.9818%;">590</td>
+</tr>
+<tr style="height: 22px;">
+<td style="height: 22px; width: 13.8133%;">GU</td>
+<td style="height: 22px; width: 49.4677%;">Guam</td>
+<td style="height: 22px; width: 21.9818%;">1671</td>
+</tr>
+<tr style="height: 22px;">
+<td style="height: 22px; width: 13.8133%;">GT</td>
+<td style="height: 22px; width: 49.4677%;">Guatemala</td>
+<td style="height: 22px; width: 21.9818%;">502</td>
+</tr>
+<tr style="height: 22px;">
+<td style="height: 22px; width: 13.8133%;">GN</td>
+<td style="height: 22px; width: 49.4677%;">Guinea</td>
+<td style="height: 22px; width: 21.9818%;">224</td>
+</tr>
+<tr style="height: 22px;">
+<td style="height: 22px; width: 13.8133%;">GW</td>
+<td style="height: 22px; width: 49.4677%;">Guinea-Bissau</td>
+<td style="height: 22px; width: 21.9818%;">245</td>
+</tr>
+<tr style="height: 22px;">
+<td style="height: 22px; width: 13.8133%;">GY</td>
+<td style="height: 22px; width: 49.4677%;">Guyana</td>
+<td style="height: 22px; width: 21.9818%;">592</td>
+</tr>
+<tr style="height: 22px;">
+<td style="height: 22px; width: 13.8133%;">HT</td>
+<td style="height: 22px; width: 49.4677%;">Haiti</td>
+<td style="height: 22px; width: 21.9818%;">509</td>
+</tr>
+<tr style="height: 22px;">
+<td style="height: 22px; width: 13.8133%;">HN</td>
+<td style="height: 22px; width: 49.4677%;">Honduras</td>
+<td style="height: 22px; width: 21.9818%;">504</td>
+</tr>
+<tr style="height: 22px;">
+<td style="height: 22px; width: 13.8133%;">HU</td>
+<td style="height: 22px; width: 49.4677%;">Hungary</td>
+<td style="height: 22px; width: 21.9818%;">36</td>
+</tr>
+<tr style="height: 22px;">
+<td style="height: 22px; width: 13.8133%;">IN</td>
+<td style="height: 22px; width: 49.4677%;">India</td>
+<td style="height: 22px; width: 21.9818%;">91</td>
+</tr>
+<tr style="height: 22px;">
+<td style="height: 22px; width: 13.8133%;">ID</td>
+<td style="height: 22px; width: 49.4677%;">Indonesia</td>
+<td style="height: 22px; width: 21.9818%;">62</td>
+</tr>
+<tr style="height: 22px;">
+<td style="height: 22px; width: 13.8133%;">IQ</td>
+<td style="height: 22px; width: 49.4677%;">Iraq</td>
+<td style="height: 22px; width: 21.9818%;">964</td>
+</tr>
+<tr style="height: 22px;">
+<td style="height: 22px; width: 13.8133%;">CI</td>
+<td style="height: 22px; width: 49.4677%;">Ivory Coast</td>
+<td style="height: 22px; width: 21.9818%;">225</td>
+</tr>
+<tr style="height: 22px;">
+<td style="height: 22px; width: 13.8133%;">JM</td>
+<td style="height: 22px; width: 49.4677%;">Jamaica</td>
+<td style="height: 22px; width: 21.9818%;">1876</td>
+</tr>
+<tr style="height: 22px;">
+<td style="height: 22px; width: 13.8133%;">JO</td>
+<td style="height: 22px; width: 49.4677%;">Jordan</td>
+<td style="height: 22px; width: 21.9818%;">962</td>
+</tr>
+<tr style="height: 22px;">
+<td style="height: 22px; width: 13.8133%;">KE</td>
+<td style="height: 22px; width: 49.4677%;">Kenya</td>
+<td style="height: 22px; width: 21.9818%;">254</td>
+</tr>
+<tr style="height: 22px;">
+<td style="height: 22px; width: 13.8133%;">KI</td>
+<td style="height: 22px; width: 49.4677%;">Kiribati</td>
+<td style="height: 22px; width: 21.9818%;">686</td>
+</tr>
+<tr style="height: 22px;">
+<td style="height: 22px; width: 13.8133%;">KW</td>
+<td style="height: 22px; width: 49.4677%;">Kuwait</td>
+<td style="height: 22px; width: 21.9818%;">965</td>
+</tr>
+<tr style="height: 22px;">
+<td style="height: 22px; width: 13.8133%;">KG</td>
+<td style="height: 22px; width: 49.4677%;">Kyrgyzstan</td>
+<td style="height: 22px; width: 21.9818%;">996</td>
+</tr>
+<tr style="height: 22px;">
+<td style="height: 22px; width: 13.8133%;">LA</td>
+<td style="height: 22px; width: 49.4677%;">Laos</td>
+<td style="height: 22px; width: 21.9818%;">856</td>
+</tr>
+<tr style="height: 22px;">
+<td style="height: 22px; width: 13.8133%;">LV</td>
+<td style="height: 22px; width: 49.4677%;">Latvia</td>
+<td style="height: 22px; width: 21.9818%;">371</td>
+</tr>
+<tr style="height: 22px;">
+<td style="height: 22px; width: 13.8133%;">LB</td>
+<td style="height: 22px; width: 49.4677%;">Lebanon</td>
+<td style="height: 22px; width: 21.9818%;">961</td>
+</tr>
+<tr style="height: 22px;">
+<td style="height: 22px; width: 13.8133%;">LS</td>
+<td style="height: 22px; width: 49.4677%;">Lesotho</td>
+<td style="height: 22px; width: 21.9818%;">266</td>
+</tr>
+<tr style="height: 22px;">
+<td style="height: 22px; width: 13.8133%;">LR</td>
+<td style="height: 22px; width: 49.4677%;">Liberia</td>
+<td style="height: 22px; width: 21.9818%;">231</td>
+</tr>
+<tr style="height: 22px;">
+<td style="height: 22px; width: 13.8133%;">LY</td>
+<td style="height: 22px; width: 49.4677%;">Libya</td>
+<td style="height: 22px; width: 21.9818%;">218</td>
+</tr>
+<tr style="height: 22px;">
+<td style="height: 22px; width: 13.8133%;">LI</td>
+<td style="height: 22px; width: 49.4677%;">Liechtenstein</td>
+<td style="height: 22px; width: 21.9818%;">423</td>
+</tr>
+<tr style="height: 22px;">
+<td style="height: 22px; width: 13.8133%;">LT</td>
+<td style="height: 22px; width: 49.4677%;">Lithuania</td>
+<td style="height: 22px; width: 21.9818%;">370</td>
+</tr>
+<tr style="height: 22px;">
+<td style="height: 22px; width: 13.8133%;">MO</td>
+<td style="height: 22px; width: 49.4677%;">Macao</td>
+<td style="height: 22px; width: 21.9818%;">853</td>
+</tr>
+<tr style="height: 22px;">
+<td style="height: 22px; width: 13.8133%;">MG</td>
+<td style="height: 22px; width: 49.4677%;">Madagascar</td>
+<td style="height: 22px; width: 21.9818%;">261</td>
+</tr>
+<tr style="height: 22px;">
+<td style="height: 22px; width: 13.8133%;">MW</td>
+<td style="height: 22px; width: 49.4677%;">Malawi</td>
+<td style="height: 22px; width: 21.9818%;">265</td>
+</tr>
+<tr style="height: 22px;">
+<td style="height: 22px; width: 13.8133%;">MV</td>
+<td style="height: 22px; width: 49.4677%;">Maldives</td>
+<td style="height: 22px; width: 21.9818%;">960</td>
+</tr>
+<tr style="height: 22px;">
+<td style="height: 22px; width: 13.8133%;">ML</td>
+<td style="height: 22px; width: 49.4677%;">Mali</td>
+<td style="height: 22px; width: 21.9818%;">223</td>
+</tr>
+<tr style="height: 22px;">
+<td style="height: 22px; width: 13.8133%;">MT</td>
+<td style="height: 22px; width: 49.4677%;">Malta</td>
+<td style="height: 22px; width: 21.9818%;">356</td>
+</tr>
+<tr style="height: 22px;">
+<td style="height: 22px; width: 13.8133%;">MQ</td>
+<td style="height: 22px; width: 49.4677%;">Martinique</td>
+<td style="height: 22px; width: 21.9818%;">596</td>
+</tr>
+<tr style="height: 22px;">
+<td style="height: 22px; width: 13.8133%;">MR</td>
+<td style="height: 22px; width: 49.4677%;">Mauritania</td>
+<td style="height: 22px; width: 21.9818%;">222</td>
+</tr>
+<tr style="height: 22px;">
+<td style="height: 22px; width: 13.8133%;">MU</td>
+<td style="height: 22px; width: 49.4677%;">Mauritius</td>
+<td style="height: 22px; width: 21.9818%;">230</td>
+</tr>
+<tr style="height: 22px;">
+<td style="height: 22px; width: 13.8133%;">MD</td>
+<td style="height: 22px; width: 49.4677%;">Moldova</td>
+<td style="height: 22px; width: 21.9818%;">373</td>
+</tr>
+<tr style="height: 22px;">
+<td style="height: 22px; width: 13.8133%;">MC</td>
+<td style="height: 22px; width: 49.4677%;">Monaco</td>
+<td style="height: 22px; width: 21.9818%;">377</td>
+</tr>
+<tr style="height: 22px;">
+<td style="height: 22px; width: 13.8133%;">MN</td>
+<td style="height: 22px; width: 49.4677%;">Mongolia</td>
+<td style="height: 22px; width: 21.9818%;">976</td>
+</tr>
+<tr style="height: 22px;">
+<td style="height: 22px; width: 13.8133%;">ME</td>
+<td style="height: 22px; width: 49.4677%;">Montenegro</td>
+<td style="height: 22px; width: 21.9818%;">382</td>
+</tr>
+<tr style="height: 22px;">
+<td style="height: 22px; width: 13.8133%;">MS</td>
+<td style="height: 22px; width: 49.4677%;">Montserrat</td>
+<td style="height: 22px; width: 21.9818%;">1664</td>
+</tr>
+<tr style="height: 22px;">
+<td style="height: 22px; width: 13.8133%;">MA</td>
+<td style="height: 22px; width: 49.4677%;">Morocco</td>
+<td style="height: 22px; width: 21.9818%;">212</td>
+</tr>
+<tr style="height: 22px;">
+<td style="height: 22px; width: 13.8133%;">MZ</td>
+<td style="height: 22px; width: 49.4677%;">Mozambique</td>
+<td style="height: 22px; width: 21.9818%;">258</td>
+</tr>
+<tr style="height: 22px;">
+<td style="height: 22px; width: 13.8133%;">MM</td>
+<td style="height: 22px; width: 49.4677%;">Myanmar (Burma)</td>
+<td style="height: 22px; width: 21.9818%;">95</td>
+</tr>
+<tr style="height: 22px;">
+<td style="height: 22px; width: 13.8133%;">NA</td>
+<td style="height: 22px; width: 49.4677%;">Namibia</td>
+<td style="height: 22px; width: 21.9818%;">264</td>
+</tr>
+<tr style="height: 22px;">
+<td style="height: 22px; width: 13.8133%;">NP</td>
+<td style="height: 22px; width: 49.4677%;">Nepal</td>
+<td style="height: 22px; width: 21.9818%;">977</td>
+</tr>
+<tr style="height: 22px;">
+<td style="height: 22px; width: 13.8133%;">AN</td>
+<td style="height: 22px; width: 49.4677%;">Netherlands Antilles</td>
+<td style="height: 22px; width: 21.9818%;">599</td>
+</tr>
+<tr style="height: 22px;">
+<td style="height: 22px; width: 13.8133%;">NC</td>
+<td style="height: 22px; width: 49.4677%;">New Caledonia</td>
+<td style="height: 22px; width: 21.9818%;">687</td>
+</tr>
+<tr style="height: 22px;">
+<td style="height: 22px; width: 13.8133%;">NI</td>
+<td style="height: 22px; width: 49.4677%;">Nicaragua</td>
+<td style="height: 22px; width: 21.9818%;">505</td>
+</tr>
+<tr style="height: 22px;">
+<td style="height: 22px; width: 13.8133%;">NE</td>
+<td style="height: 22px; width: 49.4677%;">Niger</td>
+<td style="height: 22px; width: 21.9818%;">227</td>
+</tr>
+<tr style="height: 22px;">
+<td style="height: 22px; width: 13.8133%;">NG</td>
+<td style="height: 22px; width: 49.4677%;">Nigeria</td>
+<td style="height: 22px; width: 21.9818%;">234</td>
+</tr>
+<tr style="height: 22px;">
+<td style="height: 22px; width: 13.8133%;">MK</td>
+<td style="height: 22px; width: 49.4677%;">North Macedonia</td>
+<td style="height: 22px; width: 21.9818%;">389</td>
+</tr>
+<tr style="height: 22px;">
+<td style="height: 22px; width: 13.8133%;">OM</td>
+<td style="height: 22px; width: 49.4677%;">Oman</td>
+<td style="height: 22px; width: 21.9818%;">968</td>
+</tr>
+<tr style="height: 22px;">
+<td style="height: 22px; width: 13.8133%;">PK</td>
+<td style="height: 22px; width: 49.4677%;">Pakistan</td>
+<td style="height: 22px; width: 21.9818%;">92</td>
+</tr>
+<tr style="height: 22px;">
+<td style="height: 22px; width: 13.8133%;">PW</td>
+<td style="height: 22px; width: 49.4677%;">Palau</td>
+<td style="height: 22px; width: 21.9818%;">680</td>
+</tr>
+<tr style="height: 22px;">
+<td style="height: 22px; width: 13.8133%;">PS</td>
+<td style="height: 22px; width: 49.4677%;">Palestine</td>
+<td style="height: 22px; width: 21.9818%;">970</td>
+</tr>
+<tr style="height: 22px;">
+<td style="height: 22px; width: 13.8133%;">PA</td>
+<td style="height: 22px; width: 49.4677%;">Panama</td>
+<td style="height: 22px; width: 21.9818%;">507</td>
+</tr>
+<tr style="height: 22px;">
+<td style="height: 22px; width: 13.8133%;">PG</td>
+<td style="height: 22px; width: 49.4677%;">Papua New Guinea</td>
+<td style="height: 22px; width: 21.9818%;">675</td>
+</tr>
+<tr style="height: 22px;">
+<td style="height: 22px; width: 13.8133%;">PY</td>
+<td style="height: 22px; width: 49.4677%;">Paraguay</td>
+<td style="height: 22px; width: 21.9818%;">595</td>
+</tr>
+<tr style="height: 22px;">
+<td style="height: 22px; width: 13.8133%;">PE</td>
+<td style="height: 22px; width: 49.4677%;">Peru</td>
+<td style="height: 22px; width: 21.9818%;">51</td>
+</tr>
+<tr style="height: 22px;">
+<td style="height: 22px; width: 13.8133%;">PH</td>
+<td style="height: 22px; width: 49.4677%;">Philippines</td>
+<td style="height: 22px; width: 21.9818%;">63</td>
+</tr>
+<tr style="height: 22px;">
+<td style="height: 22px; width: 13.8133%;">PR</td>
+<td style="height: 22px; width: 49.4677%;">Puerto Rico</td>
+<td style="height: 22px; width: 21.9818%;">1787</td>
+</tr>
+<tr style="height: 22px;">
+<td style="height: 22px; width: 13.8133%;">CG</td>
+<td style="height: 22px; width: 49.4677%;">Congo (Democratic Rep. of)</td>
+<td style="height: 22px; width: 21.9818%;">242</td>
+</tr>
+<tr style="height: 22px;">
+<td style="height: 22px; width: 13.8133%;">RE</td>
+<td style="height: 22px; width: 49.4677%;">Réunion</td>
+<td style="height: 22px; width: 21.9818%;">262</td>
+</tr>
+<tr style="height: 22px;">
+<td style="height: 22px; width: 13.8133%;">RO</td>
+<td style="height: 22px; width: 49.4677%;">Romania</td>
+<td style="height: 22px; width: 21.9818%;">40</td>
+</tr>
+<tr style="height: 22px;">
+<td style="height: 22px; width: 13.8133%;">RW</td>
+<td style="height: 22px; width: 49.4677%;">Rwanda</td>
+<td style="height: 22px; width: 21.9818%;">250</td>
+</tr>
+<tr style="height: 22px;">
+<td style="height: 22px; width: 13.8133%;">KN</td>
+<td style="height: 22px; width: 49.4677%;">Saint Kitts and Nevis</td>
+<td style="height: 22px; width: 21.9818%;">1869</td>
+</tr>
+<tr style="height: 22px;">
+<td style="height: 22px; width: 13.8133%;">LC</td>
+<td style="height: 22px; width: 49.4677%;">Saint Lucia</td>
+<td style="height: 22px; width: 21.9818%;">1758</td>
+</tr>
+<tr style="height: 22px;">
+<td style="height: 22px; width: 13.8133%;">VC</td>
+<td style="height: 22px; width: 49.4677%;">Saint Vincent and the Grenadines</td>
+<td style="height: 22px; width: 21.9818%;">1784</td>
+</tr>
+<tr style="height: 22px;">
+<td style="height: 22px; width: 13.8133%;">WS</td>
+<td style="height: 22px; width: 49.4677%;">Samoa</td>
+<td style="height: 22px; width: 21.9818%;">685</td>
+</tr>
+<tr style="height: 22px;">
+<td style="height: 22px; width: 13.8133%;">ST</td>
+<td style="height: 22px; width: 49.4677%;">São Tomé and Príncipe</td>
+<td style="height: 22px; width: 21.9818%;">239</td>
+</tr>
+<tr style="height: 22px;">
+<td style="height: 22px; width: 13.8133%;">SN</td>
+<td style="height: 22px; width: 49.4677%;">Senegal</td>
+<td style="height: 22px; width: 21.9818%;">221</td>
+</tr>
+<tr style="height: 22px;">
+<td style="height: 22px; width: 13.8133%;">RS</td>
+<td style="height: 22px; width: 49.4677%;">Serbia</td>
+<td style="height: 22px; width: 21.9818%;">381</td>
+</tr>
+<tr style="height: 22px;">
+<td style="height: 22px; width: 13.8133%;">SC</td>
+<td style="height: 22px; width: 49.4677%;">Seychelles</td>
+<td style="height: 22px; width: 21.9818%;">248</td>
+</tr>
+<tr style="height: 22px;">
+<td style="height: 22px; width: 13.8133%;">SL</td>
+<td style="height: 22px; width: 49.4677%;">Sierra Leone</td>
+<td style="height: 22px; width: 21.9818%;">232</td>
+</tr>
+<tr style="height: 22px;">
+<td style="height: 22px; width: 13.8133%;">SK</td>
+<td style="height: 22px; width: 49.4677%;">Slovakia</td>
+<td style="height: 22px; width: 21.9818%;">421</td>
+</tr>
+<tr style="height: 22px;">
+<td style="height: 22px; width: 13.8133%;">SI</td>
+<td style="height: 22px; width: 49.4677%;">Slovenia</td>
+<td style="height: 22px; width: 21.9818%;">386</td>
+</tr>
+<tr style="height: 22px;">
+<td style="height: 22px; width: 13.8133%;">SB</td>
+<td style="height: 22px; width: 49.4677%;">Solomon Islands</td>
+<td style="height: 22px; width: 21.9818%;">677</td>
+</tr>
+<tr style="height: 22px;">
+<td style="height: 22px; width: 13.8133%;">SO</td>
+<td style="height: 22px; width: 49.4677%;">Somalia</td>
+<td style="height: 22px; width: 21.9818%;">252</td>
+</tr>
+<tr style="height: 22px;">
+<td style="height: 22px; width: 13.8133%;">SS</td>
+<td style="height: 22px; width: 49.4677%;">South Sudan</td>
+<td style="height: 22px; width: 21.9818%;">211</td>
+</tr>
+<tr style="height: 22px;">
+<td style="height: 22px; width: 13.8133%;">LK</td>
+<td style="height: 22px; width: 49.4677%;">Sri Lanka</td>
+<td style="height: 22px; width: 21.9818%;">94</td>
+</tr>
+<tr style="height: 22px;">
+<td style="height: 22px; width: 13.8133%;">SR</td>
+<td style="height: 22px; width: 49.4677%;">Suriname</td>
+<td style="height: 22px; width: 21.9818%;">597</td>
+</tr>
+<tr style="height: 22px;">
+<td style="height: 22px; width: 13.8133%;">SZ</td>
+<td style="height: 22px; width: 49.4677%;">Swaziland</td>
+<td style="height: 22px; width: 21.9818%;">268</td>
+</tr>
+<tr style="height: 22px;">
+<td style="height: 22px; width: 13.8133%;">TW</td>
+<td style="height: 22px; width: 49.4677%;">Taiwan</td>
+<td style="height: 22px; width: 21.9818%;">886</td>
+</tr>
+<tr style="height: 22px;">
+<td style="height: 22px; width: 13.8133%;">TJ</td>
+<td style="height: 22px; width: 49.4677%;">Tajikistan</td>
+<td style="height: 22px; width: 21.9818%;">992</td>
+</tr>
+<tr style="height: 22px;">
+<td style="height: 22px; width: 13.8133%;">TZ</td>
+<td style="height: 22px; width: 49.4677%;">Tanzania</td>
+<td style="height: 22px; width: 21.9818%;">255</td>
+</tr>
+<tr style="height: 22px;">
+<td style="height: 22px; width: 13.8133%;">TL</td>
+<td style="height: 22px; width: 49.4677%;">Timor-Leste</td>
+<td style="height: 22px; width: 21.9818%;">670</td>
+</tr>
+<tr style="height: 22px;">
+<td style="height: 22px; width: 13.8133%;">TG</td>
+<td style="height: 22px; width: 49.4677%;">Togo</td>
+<td style="height: 22px; width: 21.9818%;">228</td>
+</tr>
+<tr style="height: 22px;">
+<td style="height: 22px; width: 13.8133%;">TO</td>
+<td style="height: 22px; width: 49.4677%;">Tonga</td>
+<td style="height: 22px; width: 21.9818%;">676</td>
+</tr>
+<tr style="height: 22px;">
+<td style="height: 22px; width: 13.8133%;">TT</td>
+<td style="height: 22px; width: 49.4677%;">Trinidad and Tobago</td>
+<td style="height: 22px; width: 21.9818%;">1868</td>
+</tr>
+<tr style="height: 22px;">
+<td style="height: 22px; width: 13.8133%;">TN</td>
+<td style="height: 22px; width: 49.4677%;">Tunisia</td>
+<td style="height: 22px; width: 21.9818%;">216</td>
+</tr>
+<tr style="height: 22px;">
+<td style="height: 22px; width: 13.8133%;">TM</td>
+<td style="height: 22px; width: 49.4677%;">Turkmenistan</td>
+<td style="height: 22px; width: 21.9818%;">993</td>
+</tr>
+<tr style="height: 22px;">
+<td style="height: 22px; width: 13.8133%;">TC</td>
+<td style="height: 22px; width: 49.4677%;">Turks and Caicos Islands</td>
+<td style="height: 22px; width: 21.9818%;">1649</td>
+</tr>
+<tr style="height: 22px;">
+<td style="height: 22px; width: 13.8133%;">UG</td>
+<td style="height: 22px; width: 49.4677%;">Uganda</td>
+<td style="height: 22px; width: 21.9818%;">256</td>
+</tr>
+<tr style="height: 22px;">
+<td style="height: 22px; width: 13.8133%;">UY</td>
+<td style="height: 22px; width: 49.4677%;">Uruguay</td>
+<td style="height: 22px; width: 21.9818%;">598</td>
+</tr>
+<tr style="height: 22px;">
+<td style="height: 22px; width: 13.8133%;">UZ</td>
+<td style="height: 22px; width: 49.4677%;">Uzbekistan</td>
+<td style="height: 22px; width: 21.9818%;">998</td>
+</tr>
+<tr style="height: 22px;">
+<td style="height: 22px; width: 13.8133%;">VU</td>
+<td style="height: 22px; width: 49.4677%;">Vanuatu</td>
+<td style="height: 22px; width: 21.9818%;">678</td>
+</tr>
+<tr style="height: 22px;">
+<td style="height: 22px; width: 13.8133%;">VE</td>
+<td style="height: 22px; width: 49.4677%;">Venezuela</td>
+<td style="height: 22px; width: 21.9818%;">58</td>
+</tr>
+<tr style="height: 22px;">
+<td style="height: 22px; width: 13.8133%;">VN</td>
+<td style="height: 22px; width: 49.4677%;">Vietnam</td>
+<td style="height: 22px; width: 21.9818%;">84</td>
+</tr>
+<tr style="height: 22px;">
+<td style="height: 22px; width: 13.8133%;">VG</td>
+<td style="height: 22px; width: 49.4677%;">British Virgin Islands</td>
+<td style="height: 22px; width: 21.9818%;">1284</td>
+</tr>
+<tr style="height: 22px;">
+<td style="height: 22px; width: 13.8133%;">VI</td>
+<td style="height: 22px; width: 49.4677%;">United States Virgin Islands</td>
+<td style="height: 22px; width: 21.9818%;">1340</td>
+</tr>
+<tr style="height: 22px;">
+<td style="height: 22px; width: 13.8133%;">YE</td>
+<td style="height: 22px; width: 49.4677%;">Yemen</td>
+<td style="height: 22px; width: 21.9818%;">967</td>
+</tr>
+<tr style="height: 22px;">
+<td style="height: 22px; width: 13.8133%;">ZM</td>
+<td style="height: 22px; width: 49.4677%;">Zambia</td>
+<td style="height: 22px; width: 21.9818%;">260</td>
+</tr>
+<tr style="height: 22px;">
+<td style="height: 22px; width: 13.8133%;">SG</td>
+<td style="height: 22px; width: 49.4677%;">Singapore</td>
+<td style="height: 22px; width: 21.9818%;">65</td>
+</tr>
+</tbody>
+</table>
+<p> </p>

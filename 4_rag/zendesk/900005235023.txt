@@ -1,0 +1,42 @@
+<h1>Release Notes Through 2021-01-27 - Zoom - Internal Reference</h1>
+<p>As of today, we launched Zoom as a new Communication Tool for both Students and Teachers.</p>
+<p><strong>This article includes:</strong></p>
+<ul>
+<li><a href="#h_01EX1NYHAFCTD5VB1E6TJPE2ZB" target="_self"><strong>New and updated FAQ Articles for all users</strong></a></li>
+<li><a href="#h_01EX1NYCDA49YSCNSQDN7ZQ0CN" target="_self"><strong>User Communication (TBD)</strong></a></li>
+<li><a href="#h_01EX1NYNVQ8VQ0W3YEA4HE9WTN" target="_self"><strong>Possible questions from users and teachers </strong></a></li>
+</ul>
+<p> </p>
+<h2 id="h_01EX1NYHAFCTD5VB1E6TJPE2ZB"><strong>New and updated FAQ Articles for all users:</strong></h2>
+<p><strong>For Students:</strong></p>
+<p><a href="https://support.italki.com/hc/en-us/articles/206353108" target="_blank" rel="noopener">What device/software do I need to take classes? </a>(Content, Screenshots <strong>updated</strong>)</p>
+<p><strong>For Teachers</strong></p>
+<p><strong><a href="https://support.italki.com/hc/en-us/articles/900004117546" target="_blank" rel="noopener">How do I find my personal Zoom link, ID and Passcode?</a>  (NEW)</strong></p>
+<p> </p>
+<h2 id="h_01EX1NYCDA49YSCNSQDN7ZQ0CN"><strong>User Communication (TBD)</strong></h2>
+<p>Via <strong>Tips and Promotions</strong>: <a href="https://www.italki.com/message/conversation/2">https://www.italki.com/message/conversation/2</a> </p>
+<p><strong>For Student:</strong> Click and direct to </p>
+<p><img src="https://support.italki.com/hc/article_attachments/900006683863/mceclip0.png" alt="mceclip0.png" width="446" height="259"></p>
+<p><strong>For Teachers:</strong> Click and direct to</p>
+<p><img src="https://support.italki.com/hc/article_attachments/900006683883/mceclip1.png" alt="mceclip1.png" width="342" height="184"></p>
+<p> </p>
+<h2 id="h_01EX1NYNVQ8VQ0W3YEA4HE9WTN"><strong>Possible Questions from users:</strong></h2>
+<p>1.<strong> I can't open the Zoom on my phone</strong> through the link in the italki App.</p>
+<p>The "auto-redirection" will not be supported until (possibly) our next New App version 3.30 by Feb 3rd.</p>
+<p> </p>
+<p><strong>From teachers: </strong></p>
+<p><strong>1. Where can I set it up? </strong></p>
+<p><strong><a href="https://teach.italki.com/console/basic%C2%A0" target="_blank" rel="noopener">Teacher Settings page</a> &gt; Communication Tools </strong></p>
+<p> </p>
+<p>2. I've set this up but I can't see the option when sending my student a <strong>Lesson invitation.</strong></p>
+<p>Lesson invitation currently not supported. </p>
+<p> </p>
+<p>3. Can I delete my Zoom information after I set it up?</p>
+<p>Yes, but please makes sure you have notified your student about this change if they have booked Zoom lessons with you. </p>
+<p> </p>
+<p>4. Someone else joined my lesson somehow without my permission! Why?</p>
+<p>Please enable passcode for your meetings to protect your privacy. </p>
+<p>See Zoom help page: <a href="https://support.zoom.us/hc/en-us/articles/360033559832-Meeting-and-webinar-passcodes">https://support.zoom.us/hc/en-us/articles/360033559832-Meeting-and-webinar-passcodes</a> </p>
+<p> </p>
+<p>5. It's not lesson time yet but I received a notification that someone entered my meeting room?</p>
+<p>After sharing your Zoom meeting links with your student, the meeting room is accessible anytime by your student. But if you're not online or you have set up a passcode, the meeting won't start without your permission. All you need to do is to conduct the lesson at the scheduled time. </p>

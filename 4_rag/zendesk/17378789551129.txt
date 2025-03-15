@@ -1,0 +1,14 @@
+<h1>Teacher Statistics: The Basics</h1>
+<h3><span style="color: #434343;">Some basics to keep in mind. </span></h3>
+<ul>
+<li>A month is defined, as the time from the first day of the month 00:00:00 UTC-0 to the last day of the month 23:59:59 UTC-0.</li>
+<li>As lesson confirmation, lesson declines, and other events can happen over the end of a month i.e. the lesson was on the 31st and confirmed on the 2nd, you can see monthly totals adjusted after the end of the month.</li>
+<li>Finally, remember that the latest month shown is “live” meaning that data can change frequently as the month progresses. The statistics are updated daily, around 02:30 UTC-0</li>
+</ul>
+<p>Find more in-depth explanations for each statistic below: </p>
+<ul>
+<li><a href="https://support.italki.com/hc/en-us/articles/17378840206489" target="_self" rel="undefined">Lessons Overview</a></li>
+<li><a href="https://support.italki.com/hc/en-us/articles/17378894636697" target="_self">My Popular Lessons</a></li>
+<li><a href="https://support.italki.com/hc/en-us/articles/17378944552089" target="_self">Students</a></li>
+<li><a href="https://support.italki.com/hc/en-us/articles/17379044730649" target="_self">Earnings</a></li>
+</ul>

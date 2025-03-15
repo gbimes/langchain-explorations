@@ -1,0 +1,143 @@
+<h1>Profile photo guidelines and requirements</h1>
+<p class="wysiwyg-text-align-left">Your picture is an important part of your profile because it gives students their first impression of you.</p>
+<p class="wysiwyg-text-align-left"> </p>
+<h4 class="wysiwyg-text-align-left"><span class="wysiwyg-font-size-large"><strong><span style="font-size: 1em; line-height: 1.45em;">Good examples</span></strong></span></h4>
+<table style="width: 579.796875px;">
+<tbody>
+<tr style="height: 144.671875px;">
+<td style="height: 144.671875px; width: 144px;"> <img src="https://support.italki.com/hc/article_attachments/36783622671257" alt="g3_3T013726782.png" width="130" height="130">
+</td>
+<td style="height: 144.671875px; width: 142px;"> <img src="https://support.italki.com/hc/article_attachments/36783607269017" alt="T028372657.png" width="130" height="130"> </td>
+<td style="height: 144.671875px; width: 141px;"> <img src="https://support.italki.com/hc/article_attachments/36783607260057" alt="T006004655.png" width="130" height="130"> </td>
+<td style="height: 144.671875px; width: 141.796875px;"> <img src="https://support.italki.com/hc/article_attachments/204707337" alt="g2_T013553042.png" width="130" height="130"> </td>
+</tr>
+<tr style="height: 135px;">
+<td style="height: 135px; width: 144px;"> <img src="https://support.italki.com/hc/article_attachments/36783622669977" alt="g4_2T009160333.png" width="130" height="130">
+</td>
+<td style="height: 135px; width: 142px;"> <img src="https://support.italki.com/hc/article_attachments/36783622668313" alt="12T011820409.png" width="130" height="129"> </td>
+<td style="height: 135px; width: 141px;"> <img src="https://support.italki.com/hc/article_attachments/36783607269913" alt="Good_1.png" width="130" height="130"> </td>
+<td style="height: 135px; width: 141.796875px;"> <img src="https://support.italki.com/hc/article_attachments/115005794754" alt="T030870188.png" width="130" height="130"> </td>
+</tr>
+</tbody>
+</table>
+<h4 class="wysiwyg-text-align-left"><span class="wysiwyg-font-size-large"><strong><br>Bad examples</strong></span></h4>
+<table class=" wysiwyg-text-align-center" style="width: 594.625px; height: 150px;">
+<tbody>
+<tr>
+<td style="width: 146px;"><strong><img src="https://support.italki.com/hc/article_attachments/36783607220761" alt="" width="127" height="127"></strong></td>
+<td style="width: 146px;"><strong><img src="https://support.italki.com/hc/article_attachments/36783607221529" alt="" width="127" height="127"></strong></td>
+<td style="width: 152px;"><img src="https://support.italki.com/hc/article_attachments/36783607253145" width="127" height="127"></td>
+<td style="width: 148.625px;"><img src="https://support.italki.com/hc/article_attachments/36783607275545" alt="b_7.png" width="127" height="127"></td>
+</tr>
+<tr>
+<td class="wysiwyg-text-align-center" style="width: 146px;">
+<p><span class="wysiwyg-color-red"><span class="wysiwyg-font-size-small"><img src="https://support.italki.com/hc/article_attachments/36783622676633" alt=""><br></span></span><span class="wysiwyg-color-red"><span class="wysiwyg-font-size-small">Not a picture of you</span></span></p>
+</td>
+<td class="wysiwyg-text-align-center" style="width: 146px;">
+<p><span class="wysiwyg-font-size-small wysiwyg-color-red"><img src="https://support.italki.com/hc/article_attachments/36783622676633" alt=""><br></span><span class="wysiwyg-font-size-small wysiwyg-color-red">Showing other people</span></p>
+</td>
+<td class="wysiwyg-text-align-center" style="width: 152px;">
+<p><span class="wysiwyg-font-size-small wysiwyg-color-red"><img src="https://support.italki.com/hc/article_attachments/36783622676633" alt=""><br></span><span class="wysiwyg-font-size-small wysiwyg-color-red">Face not clearly shown</span></p>
+</td>
+<td class="wysiwyg-text-align-center" style="width: 148.625px;">
+<p><span class="wysiwyg-font-size-small wysiwyg-color-red"><img src="https://support.italki.com/hc/article_attachments/36783622676633" alt=""><br></span><span class="wysiwyg-font-size-small wysiwyg-color-red">Wearing sunglasses</span></p>
+</td>
+</tr>
+</tbody>
+</table>
+<h4> </h4>
+<h4><strong style="font-size: large; text-align: center;">The good profile pictures are:</strong></h4>
+<p><strong><strong>Friendly and professional-looking </strong></strong></p>
+<table class=" wysiwyg-text-align-center">
+<tbody>
+<tr>
+<td class=" wysiwyg-text-align-center"> <img src="https://support.italki.com/hc/article_attachments/36783622679833" alt="" width="120" height="120"> </td>
+<td class=" wysiwyg-text-align-center"> <img src="https://support.italki.com/hc/article_attachments/36783607253529" alt="" width="120" height="120"> </td>
+<td class=" wysiwyg-text-align-center"> <img src="https://support.italki.com/hc/article_attachments/36783607267865" alt="bpro.png" width="120" height="120"> </td>
+</tr>
+<tr>
+<td class="wysiwyg-text-align-center">
+<p><strong><span class="wysiwyg-font-size-small"><img src="https://support.italki.com/hc/article_attachments/36783622675865" alt=""><br><span class="wysiwyg-color-green120"></span></span></strong><strong><span class="wysiwyg-font-size-small"><span class="wysiwyg-color-green120">Professional</span></span></strong></p>
+</td>
+<td class="wysiwyg-text-align-center">
+<p><span class="wysiwyg-font-size-small"><img src="https://support.italki.com/hc/article_attachments/36783622676633" alt=""><br><span class="wysiwyg-color-red"></span></span><span class="wysiwyg-font-size-small"><span class="wysiwyg-color-red">Selfie</span></span></p>
+</td>
+<td class="wysiwyg-text-align-center">
+<p><span class="wysiwyg-font-size-small"><img src="https://support.italki.com/hc/article_attachments/36783622676633" alt=""><br><span class="wysiwyg-color-red"></span></span><span class="wysiwyg-font-size-small"><span class="wysiwyg-color-red">Too casual</span></span></p>
+</td>
+</tr>
+</tbody>
+</table>
+<p> </p>
+<p><strong><strong>Clear with good lighting </strong></strong></p>
+<p>Do not take your photo at night and use a dark or blurry picture.</p>
+<table class=" wysiwyg-text-align-center">
+<tbody>
+<tr>
+<td class="wysiwyg-text-align-center"> <img src="https://support.italki.com/hc/article_attachments/36783607261209" alt="" width="120" height="120"> </td>
+<td class="wysiwyg-text-align-center"> <img src="https://support.italki.com/hc/article_attachments/36783622690969" alt="badlighting.png" width="120" height="120"> </td>
+<td class="wysiwyg-text-align-center"> <img src="https://support.italki.com/hc/article_attachments/36783622684313" alt="b_9.png" width="120" height="120"> </td>
+</tr>
+<tr>
+<td class="wysiwyg-text-align-center">
+<p><strong><span class="wysiwyg-font-size-small"><img src="https://support.italki.com/hc/article_attachments/36783622675865" alt=""><br><span class="wysiwyg-color-green120"></span></span></strong><strong><span class="wysiwyg-font-size-small"><span class="wysiwyg-color-green120">Good lighting</span></span></strong></p>
+</td>
+<td class="wysiwyg-text-align-center">
+<p><span class="wysiwyg-font-size-small"><img src="https://support.italki.com/hc/article_attachments/36783622676633" alt=""><br><span class="wysiwyg-color-red"></span></span><span class="wysiwyg-font-size-small"><span class="wysiwyg-color-red">Bad lighting</span></span></p>
+</td>
+<td class="wysiwyg-text-align-center">
+<p><span class="wysiwyg-font-size-small"><img src="https://support.italki.com/hc/article_attachments/36783622676633" alt=""><br></span><span class="wysiwyg-font-size-small"><span class="wysiwyg-color-red">B</span></span><span class="wysiwyg-font-size-small"><span class="wysiwyg-color-red">ad lighting</span></span></p>
+</td>
+</tr>
+</tbody>
+</table>
+<p> </p>
+<p><strong><strong>Close-up and recognizable</strong></strong></p>
+<table class=" wysiwyg-text-align-center">
+<tbody>
+<tr>
+<td class="wysiwyg-text-align-center"> <img src="https://support.italki.com/hc/article_attachments/36783622681753" alt="Recognizable.png" width="120" height="120"> </td>
+<td class="wysiwyg-text-align-center"> <img src="https://support.italki.com/hc/article_attachments/36783622677913" alt="" width="120" height="120"> </td>
+<td class="wysiwyg-text-align-center"> <img src="https://support.italki.com/hc/article_attachments/36783607252761" alt="" width="120" height="120"> </td>
+</tr>
+<tr>
+<td class="wysiwyg-text-align-center">
+<p><span class="wysiwyg-font-size-small"><strong><img src="https://support.italki.com/hc/article_attachments/36783622675865" alt=""><br><span class="wysiwyg-color-green120"></span></strong></span><span class="wysiwyg-font-size-small"><strong><span class="wysiwyg-color-green120">Recognizable</span></strong> </span></p>
+</td>
+<td class="wysiwyg-text-align-center">
+<p><span class="wysiwyg-font-size-small"><img src="https://support.italki.com/hc/article_attachments/36783622676633" alt=""><br><span class="wysiwyg-color-red"></span></span><span class="wysiwyg-font-size-small"><span class="wysiwyg-color-red">Too close</span></span></p>
+</td>
+<td class="wysiwyg-text-align-center">
+<p><span class="wysiwyg-font-size-small"><img src="https://support.italki.com/hc/article_attachments/36783622676633" alt=""><br><span class="wysiwyg-color-red"></span></span><span class="wysiwyg-font-size-small"><span class="wysiwyg-color-red">Too far away</span></span></p>
+</td>
+</tr>
+</tbody>
+</table>
+<p> </p>
+<h4><strong>Detailed guidelines and requirements</strong></h4>
+<p>Once uploaded, your profile picture will be <strong>circular</strong>.</p>
+<p class="wysiwyg-text-align-center"> <img src="https://support.italki.com/hc/article_attachments/36783607265177" alt="" width="202" height="201"></p>
+<ul>
+<li>Format: JPG, GIF, or PNG</li>
+<li>Maximum size: 2MB; Ideal size: at least 200 x 200 pixels</li>
+<li>
+<strong>Do not</strong> use blurry or unclear pictures</li>
+<li>
+<strong>Do not</strong> use pictures with a busy background that detracts from you</li>
+<li>
+<strong>Do not</strong> use pictures that contain other people</li>
+<li>
+<strong>Do not</strong> wear sunglasses</li>
+<li>
+<strong>Do not</strong> use pictures where you are too close to or far away from the camera</li>
+<li>
+<strong>Do not</strong> use pictures that are too bright or dark</li>
+<li>
+<strong>Do not</strong> use pictures that have commercial logos or personal contact information</li>
+<li>
+<strong>Do not </strong>edit pictures in a way that is misleading or obstructs your face</li>
+</ul>
+<h4> </h4>
+<p><strong>It will take upto 5 business days to review if you update the photo.</strong></p>
+<p><strong>If you need to take some time off or are unavailable for teaching</strong>, do not demonstrate this by removing or changing your profile picture to something that does not meet profile requirements. Please manage this in your <strong><a href="https://teach.italki.com/console/lessons" target="_blank" rel="noopener">availability settings</a></strong>.</p>
+<p> </p>

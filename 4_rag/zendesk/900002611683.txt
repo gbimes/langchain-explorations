@@ -1,0 +1,47 @@
+<h1>2020 Sep Language Challenge FAQ - internal reference</h1>
+<h2>FAQ Public for all users (available on LC web/app pages and translated)</h2>
+<p><strong>FAQ</strong></p>
+<p><strong>When does the Language Challenge start/end?</strong></p>
+<p><span style="font-weight: 400;">It starts at </span><span style="font-weight: 400;">6:00am UTC</span><span style="font-weight: 400;"> on </span><span style="font-weight: 400;">16 September</span><span style="font-weight: 400;">, and finishes at </span><span style="font-weight: 400;">6:00am UTC</span><span style="font-weight: 400;"> on</span><span style="font-weight: 400;"> 16 November</span><span style="font-weight: 400;">.  </span></p>
+<p><strong>Can I change my Language Challenge goal?</strong></p>
+<p><span style="font-weight: 400;">Yes. You can’t downgrade your goal, but you can upgrade to a higher goal on your dashboard and on the Language Challenge page.</span></p>
+<p><strong>What if I don’t reach my goal?  </strong></p>
+<p><span style="font-weight: 400;">As long as you reach a challenge goal, you will win rewards. For example, if you choose 19 hours but reach 18 instead, you will win the 16 hours tier rewards. This rule also applies if you hit a higher goal. </span></p>
+<p><strong>I’ve already taken some lessons but I haven’t signed up to the challenge yet. If I sign up, will they count toward my goal? </strong></p>
+<p><span style="font-weight: 400;">No, lessons only count toward the challenge from when you sign up.</span></p>
+<p><strong>Do Trial Lessons count?</strong></p>
+<p><span style="font-weight: 400;">Yes. But since Trial Lessons are only 30 minutes, you must complete 2 Trial Lessons for them to count as 1 completed lesson hour.</span></p>
+<p><strong>Do I have to pay for the lessons I take?</strong></p>
+<p><span style="font-weight: 400;">Yes, challengers must pay for all lessons taken on italki.</span></p>
+<p><strong>Do I have to take language lessons on italki?</strong></p>
+<p><span style="font-weight: 400;">Yes, all lessons must be taken on italki.</span></p>
+<p><strong>Can I win rewards from multiple tiers?</strong></p>
+<p><span style="font-weight: 400;">You can only win the rewards from a single tier. For example, if your goal was 12 hours but you reach 19 hours, you would only win the rewards from the 19 hours tier. Your final reward won’t include combined rewards from the 12 and 16 hours tiers.</span></p>
+<p><strong>How do I collect my rewards?</strong></p>
+<p><span style="font-weight: 400;">All awards will be available on the Language Challenge page on </span><span style="font-weight: 400;">23 November</span><span style="font-weight: 400;">. The digital badge will be added to your profile, and the voucher and coupon will be automatically sent to your Wallet after you hit your goal.</span></p>
+<p><span style="font-weight: 400;">Lucky Draw winners will be announced on the Language Challenge page and on social media on </span><span style="font-weight: 400;">23 November</span><span style="font-weight: 400;"> and contacted by email. Any winners who don’t respond to communication within 14 days will forfeit their prize and another winner will be drawn.</span></p>
+<p><strong>How do I know that my lessons have counted toward the challenge?</strong></p>
+<p><span style="font-weight: 400;">During the challenge your dashboard will have a progress bar that displays how many lessons you’ve taken. It will automatically update within 3 hours after you’ve confirmed a lesson as complete. </span></p>
+<p> </p>
+<p> </p>
+<h1>Trivia</h1>
+<p>1. <strong>Three entrances </strong>will be available to access the language challenge page:</p>
+<p><strong>        - italki IM Message (includes a link)</strong></p>
+<p><strong>       - Dashboard </strong></p>
+<p><strong><img src="https://support.italki.com/hc/article_attachments/900003574706/mceclip0.png" alt="mceclip0.png" width="249" height="217"></strong></p>
+<p><strong>       - italki App pop-up window (will pop up only twice)</strong></p>
+<p><strong><img src="https://support.italki.com/hc/article_attachments/900003574766/mceclip1.png" alt="mceclip1.png" width="353" height="375"></strong></p>
+<p><strong>2. Coupons and vouchers will be sent to users AUTOMATICALLY once the goal is achieved. (yayyy)</strong></p>
+<p><span class="wysiwyg-color-black40"><strong>3. Why the goals are 12, 16, 19, 20h?</strong></span></p>
+<p>- Based on the <a href="https://www.italki.com/article/1214/Just-19-Hours-Of-italki-Lessons-Is-Equivalent-To-A-College-Semester" target="_self">19 hours study</a> we thought it was an achievable milestone for many users since the LC is normally less than a month.</p>
+<p>4. Awards</p>
+<p><img src="https://support.italki.com/hc/article_attachments/900003574986/mceclip2.png" alt="mceclip2.png"></p>
+<p>5. There is a page available in italki App so that users can participate and keep track of their LC progress:</p>
+<p><img src="https://support.italki.com/hc/article_attachments/900003515443/mceclip3.png" alt="mceclip3.png"></p>
+<p> </p>
+<h1><span style="font-weight: 400;">Screenshots and preview</span></h1>
+<p><span style="font-weight: 400;">Not so many changes on the web. Check what it looks like in the italki App! Yes, FAQ provided. :)</span></p>
+<p><span style="font-weight: 400;"><img src="https://support.italki.com/hc/article_attachments/900003575046/mceclip4.png" alt="mceclip4.png"></span></p>
+<p> </p>
+<p> </p>
+<p> </p>

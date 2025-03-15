@@ -1,0 +1,37 @@
+<h1>How can I edit my introduction?</h1>
+<h2><iframe src="//www.youtube-nocookie.com/embed/zpQzk1ZPTIU" width="560" height="315" frameborder="0" allowfullscreen=""></iframe></h2>
+<h2>What should I write?</h2>
+<ul>
+<li>Details about how your background, experience, qualifications, or certificates prepares you to teach.</li>
+<li>Any specific teaching methods or materials that you typically use during your lessons.</li>
+<li>A description of what kind of students you are looking for, or usually work with. If the student feels that you are describing them, then they will know that you can help them!</li>
+<li>A sentence in another language that you speak. Seeing their own native language on your profile can help students feel more comfortable learning from you!</li>
+<li>If you offer Trial Lessons: A description of what a student can expect during a trial lesson.</li>
+<li>Prerequisites? Is there anything the student should have or should do in advance?</li>
+</ul>
+<p> </p>
+<h2>Please <strong>DO NOT</strong> write:</h2>
+<ul>
+<li>Private contact information. Students will contact you through italki messages or lesson requests.</li>
+<li>Links to sites or services where students can book lessons. You should keep your italki students learning on italki.</li>
+<li>Advertisements or links to other products or services. Your italki profile is for your italki lessons and not for advertising other things to students.</li>
+</ul>
+<p>These introductions are also used by italki to show to potential students and as a description for your teacher profile.</p>
+<p> </p>
+<h2>"About Me" Introduction</h2>
+<p>This one is important because this is what appears when students search for a teacher in "Find a Teacher".</p>
+<p>We feel that it is a great place to give students a fantastic <strong>first impression</strong>.  If the student is interested, then they will click on your profile to learn more about you and your lessons. If you aren’t sure what to write, you might try something like these starters:</p>
+<ul>
+<li>I specialize in …</li>
+<li>If you want to improve your … </li>
+<li>I can help students who ....</li>
+<li>My students ....</li>
+</ul>
+<p>We recommend that if you<strong> </strong><strong>specialize </strong>in a certain topic or in helping certain students, that you include this. It will help students that need this find you more quickly.</p>
+<p><img src="https://support.italki.com/hc/article_attachments/360029690353" alt="Screen_Shot_2019-03-19_at_3.59.09_PM.png" width="650" height="157"></p>
+<p> </p>
+<h2>How do I edit my introductions?</h2>
+<p>It is very easy to change your introductions. For the <strong>other sections</strong>, go to your <a href="https://www.teach.italki.com/console/basic" target="_blank" rel="noopener">Teaching Settings</a>.</p>
+<p>First, click on "Teaching Settings" on the top of the page. Next, click on "Teacher Profile" &gt;"Introduction".</p>
+<p><img src="https://support.italki.com/hc/article_attachments/360044277994" alt="Screenshot_2019-08-22_at_15.19.55.png"></p>
+<p> </p>

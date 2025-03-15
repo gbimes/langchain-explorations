@@ -1,0 +1,13 @@
+<h1>How to redeem a Readlang code</h1>
+<h2 id="h_01JG3G77G57M4F1F8ADG22R6VH">About Readlang</h2>
+<p>Readlang is the best way to practice reading in your target language. Choose stories from the growing library or bring your own texts. It translates and explains new words and phrases, and offers Duolingo-style practice exercises. Used by over 700,000 learners!</p>
+<h2 id="h_01JG3G77G5178E9AXSRRTN2FK3">Redeem your code</h2>
+<ol>
+<li>Click on your unique link and select “Redeem Coupon”.</li>
+</ol>
+<p><img src="https://support.italki.com/hc/article_attachments/41675214425881" width="698" height="396"></p>
+<ol start="2">
+<li>Complete your enrollment.</li>
+</ol>
+<p><img src="https://support.italki.com/hc/article_attachments/41675259336217" width="705" height="476"></p>
+<p>If you have issues with redeeming your code, please contact support at <a href="mailto:steve@readlang.com"><span class="wysiwyg-underline" style="color: #1155cc;">steve@readlang.com</span></a>.</p>

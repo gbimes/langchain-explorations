@@ -1,0 +1,15 @@
+<h1>Can I cancel or edit a “lesson problem” request?</h1>
+<p><span style="font-weight: 400;">The lesson problem submitted to italki, unfortunately, cannot be edited. However, a</span>s long as the other party hasn’t responded to your lesson problem request, you can click on “withdraw problem request” to cancel the lesson problem report. <strong>You have up to 3 days to withdraw your lesson problem request</strong> (starting from the lesson problem reporting day).</p>
+<p><strong><span><img src="https://support.italki.com/hc/article_attachments/4410907236249/Screen_Shot_2021-12-01_at_2.10.43_PM.png" alt="Screen_Shot_2021-12-01_at_2.10.43_PM.png" width="679" height="359"></span></strong></p>
+<p><span>If you withdraw the lesson problem request <strong>within 72 hours days after lesson time</strong>, you can:</span></p>
+<ul>
+<li aria-level="1"><span>Report a new lesson problem</span></li>
+<li aria-level="1">
+<span>Complete the lesson and leave lesson feedback normally </span><span></span>
+</li>
+</ul>
+<p><span><img src="https://support.italki.com/hc/article_attachments/4410907259161/Screen_Shot_2021-12-01_at_2.27.12_PM.png" alt="Screen_Shot_2021-12-01_at_2.27.12_PM.png" width="683" height="367"></span></p>
+<p> </p>
+<p><span>If you withdraw the lesson problem request <strong>72 hours after lesson time</strong>, the lesson will be <strong>marked as completed</strong> with lesson credits transferred to the teacher.  </span></p>
+<p><span><img src="https://support.italki.com/hc/article_attachments/4410907263641/Screen_Shot_2021-12-01_at_2.31.48_PM.png" alt="Screen_Shot_2021-12-01_at_2.31.48_PM.png" width="685" height="361"></span></p>
+<p><span><img src="https://support.italki.com/hc/article_attachments/4410885033113/Screen_Shot_2021-12-01_at_2.33.13_PM.png" alt="Screen_Shot_2021-12-01_at_2.33.13_PM.png" width="687" height="408"></span></p>

@@ -1,0 +1,28 @@
+<h1>What should I do if I'm being harassed?</h1>
+<h3 dir="ltr">italki does not tolerate harassment of italki members. </h3>
+<p dir="ltr"> </p>
+<p dir="ltr">If you experience inappropriate behavior from an italki user, please take these steps:</p>
+<ul>
+<li>Flag the comment</li>
+<li>Report the user</li>
+<li>Block the user</li>
+<li>Change your privacy settings (if desired)</li>
+</ul>
+<p> </p>
+<p><span style="font-weight: bolder;">Flag the comment</span></p>
+<p dir="ltr">If the inappropriate comment took place on an italki Answers, Notebook, or Discussions, please report the comment by clicking on "flag" this comment.  </p>
+<p dir="ltr"><strong>Report the user</strong></p>
+<p dir="ltr">You should also report the user to italki support by going to the user's profile, and clicking on the "Report Concern" button on the top right of the user's profile page.  This also helps signal to italki support that this user is a problem. </p>
+<p dir="ltr"><strong>Block the user</strong></p>
+<p dir="ltr">Blocking the user will prevent this user from starting chats and messages with you, adding you as a friend.  </p>
+<p dir="ltr"><strong>Change your privacy settings</strong></p>
+<p dir="ltr">If you do not want to be contacted by other members of the community, you can change your privacy settings.</p>
+<p dir="ltr"> </p>
+<p dir="ltr"><strong>Tips for contacting italki support</strong></p>
+<p dir="ltr">When you contact our support team, please provide as much information as possible:</p>
+<ul>
+<li>Link to the User’s italki Profile Page (or User ID).</li>
+<li>Evidence such as messages, emails, links and/or screenshots of the inappropriate comments and posts made by the user.</li>
+<li>When reporting problems that happened on Skype, please take screenshots. To take a screenshot, press your "Prnt Scrn" button on your keyboard, and paste the screenshot in a Microsoft Word document or other graphics program, and send it to support@italki.com.</li>
+</ul>
+<p><strong>We take any misconduct by users, teachers, and students, very seriously at italki.  Any italki user that is in violation of italki policies will be removed from the italki system.  </strong></p>

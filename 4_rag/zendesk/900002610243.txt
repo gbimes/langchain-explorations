@@ -1,0 +1,9 @@
+<h1>Useful ZenDesk H5+CSS cource codes </h1>
+<p>Where to find CSS settings</p>
+<p>Click <strong>Customize Design </strong>and then <strong>Customize </strong>to see all assets for ZenDesk's main page and article assets.</p>
+<p><img src="https://support.italki.com/hc/article_attachments/900003521823/mceclip0.png" alt="mceclip0.png"></p>
+<p>For testing purposes, make sure to select an idle them instead of the <span class="wysiwyg-color-green120"><strong>LIVE </strong></span>one in case of any problems. </p>
+<p><img src="https://support.italki.com/hc/article_attachments/900003580626/mceclip1.png" alt="mceclip1.png"></p>
+<p>Click <strong>Edit Code</strong> to see the source codes of different pages. The preview pages are also responsive. </p>
+<p><img src="https://support.italki.com/hc/article_attachments/900003580666/mceclip2.png" alt="mceclip2.png"></p>
+<p> </p>

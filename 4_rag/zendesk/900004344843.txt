@@ -1,0 +1,73 @@
+<h1>2020 Nov 17th - 30th Black Friday Campaign </h1>
+<p><strong>USER FAQ</strong></p>
+<p><strong>1. Why's my friend got a coupon and I don't?</strong></p>
+<p>Ask the User to top up 50$, too. We will manually generate a voucher (Leave transaction record in follow-up)</p>
+<p>Macro to be created. </p>
+<p><strong>2. I received the coupon email but I don't see the coupon in my account?</strong></p>
+<p>The user might have created different accounts.</p>
+<p>Ask them to check if they have logged in to the right one.</p>
+<p><strong>Macro</strong>: Black Friday double accounts</p>
+<p> </p>
+<p><strong>MONEY:</strong><span style="font-weight: 400;"> </span></p>
+<p><span style="font-weight: 400;">Buy $50, Get $10 Free (Pay $50 get $60 italki credits)</span></p>
+<p><span style="font-weight: 400;"><strong>TIME:</strong></span></p>
+<p><span style="font-weight: 400;">Posted date and time: Nov 17th - 30th</span></p>
+<p><span style="font-weight: 400;">Coupon valid from </span><strong>2020-11-11 00:00</strong> to <strong>2020-12-01 04:00 (UTC)</strong></p>
+<p> </p>
+<p><span style="font-weight: 400;"><strong>FOR WHOM?</strong></span></p>
+<p><span style="font-weight: 400;">New users</span><span style="font-weight: 400;">, </span><span style="font-weight: 400;">free users</span><span style="font-weight: 400;">, and </span><span style="font-weight: 400;">inactive users</span><span style="font-weight: 400;"></span></p>
+<p><strong>    Definition</strong></p>
+<table dir="ltr" border="1" cellspacing="0" cellpadding="0">
+<colgroup>
+<col width="153">
+<col width="190">
+<col width="221">
+<col width="364">
+</colgroup>
+<tbody>
+<tr>
+<td> </td>
+<td data-sheets-value='{"1":2,"2":"New Users"}'><strong>New Users</strong></td>
+<td data-sheets-value='{"1":2,"2":"Free Users"}'><strong>Free Users</strong></td>
+<td data-sheets-value='{"1":2,"2":"Inactive Users"}'><strong>Inactive Users</strong></td>
+</tr>
+<tr>
+<td data-sheets-value='{"1":2,"2":"Definition"}'><strong>Definition</strong></td>
+<td data-sheets-value='{"1":2,"2":"Signed up after Nov. 17th"}'>Signed up after Nov. 17th</td>
+<td data-sheets-value='{"1":2,"2":"- Not logged in within 7 days\n- No successful purchase record"}'>- Not logged in within 7 days<br>- No successful purchase record</td>
+<td data-sheets-value='{"1":2,"2":"- logged in within the last 7 days\n- successful purchases &lt; 2\n- No successful purchase record within 30 days"}'>- logged in within the last 7 days<br>- successful purchases &lt; 2<br>- No successful purchase record within 30 days</td>
+</tr>
+<tr>
+<td data-sheets-value='{"1":2,"2":"Possibly come from"}'><strong>Possibly come from</strong></td>
+<td data-sheets-value='{"1":2,"2":"Paid ads"}'>Paid ads</td>
+<td data-sheets-value='{"1":2,"2":"italki email/IM"}'>italki email/IM</td>
+<td data-sheets-value='{"1":2,"2":"italki email/IM"}'>italki email/IM</td>
+</tr>
+<tr>
+<td data-sheets-value='{"1":2,"2":"Only eligible when"}'><strong>Only eligible when</strong></td>
+<td data-sheets-value='{"1":2,"2":"Register via promo page"}'>Register via promo page</td>
+<td data-sheets-value='{"1":2,"2":"check their \"wallet\""}'>check their "wallet"</td>
+<td data-sheets-value='{"1":2,"2":"Click the email"}'>Click the email</td>
+</tr>
+</tbody>
+</table>
+<p> </p>
+<p><strong>ADS:</strong></p>
+<p><span style="font-weight: 400;">Facebook x 1 post</span></p>
+<p><span style="font-weight: 400;">IG x 1 post</span></p>
+<p><span style="font-weight: 400;">IG stories x 2 posts</span></p>
+<p><span style="font-weight: 400;">Twitter x 1 post</span></p>
+<p><span style="font-weight: 400;">(Eligible) User's dashboard </span></p>
+<p><strong>Pages/ads/communications to be updated here</strong></p>
+<p> </p>
+<p><strong>Purchase Page:</strong></p>
+<p><strong><img src="https://support.italki.com/hc/article_attachments/900004678886/mceclip0.png" alt="mceclip0.png"></strong></p>
+<p> </p>
+<p><strong>USER COMMUNICATION CHANNELS</strong></p>
+<p><strong>IM</strong></p>
+<p><strong><img src="https://support.italki.com/hc/article_attachments/900004678926/mceclip1.png" alt="mceclip1.png"></strong></p>
+<p><strong>Email</strong></p>
+<p><img src="https://support.italki.com/hc/article_attachments/900005621983/mceclip3.png" alt="mceclip3.png"></p>
+<p>Coupons in "My Wallet" </p>
+<p><img src="https://support.italki.com/hc/article_attachments/900005622003/mceclip4.png" alt="mceclip4.png"></p>
+<p> </p>

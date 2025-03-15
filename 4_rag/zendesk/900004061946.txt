@@ -1,0 +1,17 @@
+<h1>Release Notes through 2021-01-21 - Language Test and OOPT - Internal Reference</h1>
+<h2><strong>Overview</strong></h2>
+<p>Apart from OOPT, we have launched launching language tests for more languages on Jan 21st, including </p>
+<p><img src="https://support.italki.com/hc/article_attachments/900006336283/mceclip1.png" alt="mceclip1.png"></p>
+<h2><strong>CS operations</strong></h2>
+<p><img src="https://support.italki.com/hc/article_attachments/900005723606/Screen_Shot_2021-01-25_at_4.28.38_PM.png" alt="Screen_Shot_2021-01-25_at_4.28.38_PM.png"></p>
+<p>In OMS, go to <strong>Products - Emmersion - Purchase List, </strong>click "Cancel" to invalidate a test, and return Credits to the student's wallet. </p>
+<h3>When can we "Cancel"?</h3>
+<p>There are three statuses of a test and we can only cancel when it's "<strong>NOT STARTED</strong>"</p>
+<ul>
+<li><strong>Not started - Can refund</strong></li>
+<li>In Progress</li>
+<li>Completed </li>
+</ul>
+<h2><strong>Product Quick View</strong></h2>
+<p><strong><img src="https://support.italki.com/hc/article_attachments/900005413886/mceclip2.png" alt="mceclip2.png"></strong></p>
+<p> </p>

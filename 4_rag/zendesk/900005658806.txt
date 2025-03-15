@@ -1,0 +1,20 @@
+<h1>What is italki Referral Program? </h1>
+<h2 id="h_01HX6DCWQY9D0TEB0PQBC1APPF"><img src="https://support.italki.com/hc/article_attachments/32098698034329"></h2>
+<h2 id="h_01HX6DCWQYT9PJ9A96Q92FKXRR"><strong>Refer a Friend</strong></h2>
+<p><span style="font-weight: 400;">Refer a Friend is italki’s referral program where you can earn credits and coupons for inviting your friends to italki! Earn $10 for each friend you invite after they purchase $20 italki credits. </span></p>
+<p> </p>
+<p><span style="font-weight: 400;">If you already have an italki account, you can start inviting people from your Referral Dashboard located here: </span><a href="https://www.italki.com/referral" target="_blank" rel="noopener noreferrer">Link</a></p>
+<h2 id="h_01HX6DCWQY9J813Y23FR2K88RD"><strong>When will I get a referral bonus?</strong></h2>
+<p><span>When an invitee signs up a <strong>new</strong> italki account <strong>through an inviter’s referral link</strong> and <strong>then successfully</strong> <strong>purchased $20 italki credits or more</strong>, the inviter will get $10 and the invitee will receive $5 italki Credits in the Student Wallet as a referral bonus.</span></p>
+<p> </p>
+<h2 id="h_01HX6DCWQYG5F5ABDF30A7TCFB"><strong>Terms and Conditions</strong></h2>
+<div class="h-0 md:h-auto overflow-hidden transition-all ease-in-out duration-300">
+<ol>
+<li>After you invite a friend to italki and their purchases reach $20 italki Credits, you'll both earn a reward! You'll earn $10 while your friend will earn $5. Purchases are calculated starting from Jan 20, UTC0:00. <strong>Purchases made using gift cards or coupons do not count</strong> towards the $20 purchase requirement. If your friends have received referral rewards before, both of you will not be able to get new rewards. Each person can only enjoy this reward once.</li>
+<li>
+<span>Users who refer themselves are not eligible to take part in the referral program.</span><span><span> </span>Anyone who abuses the referral program will not receive the referral bonus and their accounts may be suspended.</span>
+</li>
+<li>Fraudulent purchases will not receive the referral bonus.</li>
+<li>All decisions made by italki are final.</li>
+</ol>
+</div>

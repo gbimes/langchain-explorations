@@ -1,0 +1,65 @@
+<h1>What is Opportunities?</h1>
+<p><span>Opportunities is a new feature that makes reaching out to students and gaining more lesson requests easier. This feature is still in its early stages, so for now we’re focusing on how teachers can manage their current students and encourage them to keep learning. </span></p>
+<p> </p>
+<p><img src="https://support.italki.com/hc/article_attachments/900008457123/image-20210317-082212.png" alt="image-20210317-082212.png"></p>
+<p> </p>
+<p><img src="https://support.italki.com/hc/article_attachments/900008457283/image-20210402-072313.png" alt="image-20210402-072313.png"></p>
+<p> </p>
+<p data-renderer-start-pos="313"><strong data-renderer-mark="true">How to use Opportunities</strong></p>
+<ol class="ak-ol" data-indent-level="1">
+<li>
+<p data-renderer-start-pos="341">Go to your teacher dashboard find the Opportunities module above the <strong data-renderer-mark="true">Statistics</strong>.</p>
+</li>
+<li>
+<p data-renderer-start-pos="425">Click the <strong data-renderer-mark="true">Message</strong> button.</p>
+</li>
+<li>
+<p data-renderer-start-pos="454">Select a message template and customize the message however you like.</p>
+</li>
+<li>
+<p data-renderer-start-pos="527">Check the checkbox to attach a “Book a Lesson” button if you want to encourage your student to book.</p>
+</li>
+<li>
+<p data-renderer-start-pos="631">Click <strong data-renderer-mark="true">Send</strong> to send the message.</p>
+</li>
+</ol>
+<p data-renderer-start-pos="666">The student will receive the message in their italki Messages.</p>
+<p data-renderer-start-pos="666"> </p>
+<p class="wysiwyg-text-align-center" data-renderer-start-pos="666"><img src="https://support.italki.com/hc/article_attachments/900007527346/image-20210402-072053.png" alt="image-20210402-072053.png" width="405" height="180"></p>
+<p data-renderer-start-pos="666"> </p>
+<p data-renderer-start-pos="733"><strong data-renderer-mark="true">What are message templates?</strong></p>
+<p data-renderer-start-pos="762">Message templates are pre-written sample messages that you can customize for each student. In total, there are 6 message templates. If you need a unique template, you can create your own. Templates can also be edited and deleted.</p>
+<p data-renderer-start-pos="762"><img src="https://support.italki.com/hc/article_attachments/900008457423/image-20210402-072505.png" alt="image-20210402-072505.png"></p>
+<p data-renderer-start-pos="762"><img src="https://support.italki.com/hc/article_attachments/900008457483/image-20210402-072518.png" alt="image-20210402-072518.png"></p>
+<p data-renderer-start-pos="762"> </p>
+<p data-renderer-start-pos="1001"><strong data-renderer-mark="true">How many students will appear in Opportunities?</strong></p>
+<p data-renderer-start-pos="1050">Don’t worry, we won’t show every student you’ve ever taught! Only recent students will appear in Opportunities after they confirm their latest lesson with you. If you don’t take any action within 7 days, they will disappear from Opportunities.</p>
+<p data-renderer-start-pos="1295"> </p>
+<p data-renderer-start-pos="1297"><strong data-renderer-mark="true">What does Lesson frequency mean?</strong></p>
+<p data-renderer-start-pos="1331">Lesson frequency shows how often a student learns with you.</p>
+<ul class="ak-ul" data-indent-level="1">
+<li>
+<p data-renderer-start-pos="1394"><strong data-renderer-mark="true">Very often</strong>: More than 2 lessons a week.</p>
+</li>
+<li>
+<p data-renderer-start-pos="1437"><strong data-renderer-mark="true">Regular: </strong>1-2 lessons per week.</p>
+</li>
+<li>
+<p data-renderer-start-pos="1471"><strong data-renderer-mark="true">Occasional: </strong>Less than 1 lesson per week.</p>
+</li>
+</ul>
+<p data-renderer-start-pos="1516"> </p>
+<p data-renderer-start-pos="1518"><strong data-renderer-mark="true">What do New Student Follow-Up, Regular Student Catch-Up, and Package Lesson Reminder mean?</strong></p>
+<ul class="ak-ul" data-indent-level="1">
+<li>
+<p data-renderer-start-pos="1612"><strong data-renderer-mark="true">New Student Follow-Up: </strong>Students listed here had their first lesson with you 1 day ago. This is a good opportunity to help them plan their next steps.</p>
+</li>
+<li>
+<p data-renderer-start-pos="1765"><strong data-renderer-mark="true">Regular Student Catch-Up: </strong>Students who learn with you regularly but haven’t taken a lesson in a week. Messaging them shows you care about their progress and what they can achieve next.</p>
+</li>
+<li>
+<p data-renderer-start-pos="1956"><strong data-renderer-mark="true">Package Lesson Reminder: </strong>Students who have active Lesson Packages but haven’t taken a lesson in a week. Your student is a serious learner, help them get the practice they need!</p>
+</li>
+</ul>
+<p data-renderer-start-pos="2145"> </p>
+<p data-renderer-start-pos="2147">For now, Opportunities is focused on helping you manage current students. In the future, it will be expanded and improved, so stay tuned!</p>

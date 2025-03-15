@@ -1,0 +1,13 @@
+<h1>Privacy settings on italki</h1>
+<p><span style="font-weight: 400;">Hover on your Profile Picture and click </span><strong>Settings </strong>to<span style="font-weight: 400;"> </span><strong><span style="font-weight: 400;">visit your italki </span></strong><a href="https://www.italki.com/settings/account" target="_blank" rel="noopener">Settings</a> page.</p>
+<p><span style="font-weight: 400;"><img src="https://support.italki.com/hc/article_attachments/900003600866" alt="1.4.1-Hoever-Settings.png"></span></p>
+<p id="h_01EQ08AMTHXVDMSR4SHKKDG8AM"><span>Select the </span><strong>Privacy </strong><span>tab. </span><span>You can</span></p>
+<ul>
+<li id="h_01EQ089T0HDHHYX23PEC11DYGK"><span style="font-weight: 400;">Update your <strong>Contact Permissions</strong> and decide who can send you messages.</span></li>
+<li><span>Edit your <strong>block list</strong></span></li>
+<li>
+<span style="font-weight: 400;">Disable </span><strong>Other Privacy settings</strong><span style="font-weight: 400;"> if you do not want your following, lesson feedback, or age to be public. </span>
+</li>
+</ul>
+<p><img src="https://support.italki.com/hc/article_attachments/900007737563" alt="mceclip1.png"></p>
+<p><span style="font-weight: 400;">You can check our other help pages if you would like to <span class="wysiwyg-underline"><strong><a href="https://support.italki.com/hc/en-us/articles/206353528-How-do-I-block-or-unblock-a-user" target="_blank" rel="noopener noreferrer">block a user</a></strong></span> </span><span style="font-weight: 400;">or <span class="wysiwyg-underline"><strong><a href="https://support.italki.com/hc/en-us/articles/206353478" target="_blank" rel="noopener">report inappropriate/abusive behavior</a></strong></span>.</span></p>

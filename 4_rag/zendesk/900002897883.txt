@@ -1,0 +1,41 @@
+<h1>How do I submit a lesson incomplete request?</h1>
+<p><span style="font-weight: 400;">If you encounter an issue with your lesson, such as you or the other party missing or being late to the lesson, or any of you facing technical issues, please communicate with each other and then use the <strong>“Lesson incomplete”</strong> button when the lesson time passes.</span></p>
+<p> </p>
+<p><span style="font-weight: 400;">Both the student and teacher can submit a lesson incomplete request <strong>within 3 days</strong> of the lesson finishing. If you would like to report that the student missed the lesson, please make sure that you have waited for your student for the entire booked lesson time. For details please refer to the <a href="https://support.italki.com/hc/en-us/articles/360020529954-Lesson-Policy" target="_blank" rel="noopener">Lesson Policy</a>.</span></p>
+<p> </p>
+<p><span style="font-weight: 400;">italki will only resolve issues in extreme cases where a student and teacher cannot agree on a resolution and it becomes a dispute.</span></p>
+<p> </p>
+<h2 id="h_01J2WSJ67HES3CJJHT92H84G21"><span style="font-weight: 400;">Here’s how to submit a lesson incomplete request:</span></h2>
+<ol>
+<li style="font-weight: 400;">
+<span style="font-weight: 400;">Click “Lesson incomplete” and then select a reason and the desired resolution.</span><span style="font-weight: 400;"></span>
+</li>
+</ol>
+<p><img src="https://lh7-us.googleusercontent.com/docsz/AD_4nXdmTxOdX_uVu3xxI3eIwmskPXbSt2HgekAvx8DVncy2LFLtgWD54TNn4UBM7ky38Uy-ifQnRk0HuJw160tvseTdkhlQVRFYEuW_coRKvVzKlhVt_HfCHNu130S5Z16P_NZOQio8FcZhDFhiXJiR6XgK5ufs?key=xFRnkVXgDChnllT3eojS1g" width="754" height="433"></p>
+<p><span style="font-weight: 400;"><img src="https://lh7-us.googleusercontent.com/docsz/AD_4nXddayV1WBgfFnFxn7VBZLrDGW7pr7b9oF3INW7_eeXx4ysbgf_8nB2OHZPljwZqtEbh8rjwzfBlN0-F39lA2RdBNDHkSSjvLXbl-d8PL9EwEnLNw8nOBhTemBFWu66zyBqxgkizyBTRQ_vFjitWrmL2vkh7?key=xFRnkVXgDChnllT3eojS1g" width="407" height="503"></span></p>
+<ol start="2">
+<li>
+<span style="font-weight: 400;"> After submitting, the </span>other party has <strong>up to 3 days</strong> to respond.</li>
+</ol>
+<ul>
+<li style="font-weight: 400;" aria-level="1"><span style="font-weight: 400;">If the other party accepts or does not respond, it will be resolved according to your request.</span></li>
+<li style="font-weight: 400;" aria-level="1">
+<p>If the other party declines, you will see the reason and solution submitted by the student. Then you get to choose either to accept or decline the request.</p>
+</li>
+</ul>
+<p><img src="https://lh7-us.googleusercontent.com/docsz/AD_4nXcjKgP45b1ktXSSL8H6v0STtYtqXssIGHSOAhXGhl7yFPV5QgFbsnbnBDSvTtkIeMSNcCfXhbXZaOm9XvLoQ8gx2qowTuk2E5GQIB6qSvC85wlDqr0EkvV-M3VKZZEjvX1tDqnTfUQtJqNo5DvD16nJKLtR?key=xFRnkVXgDChnllT3eojS1g" width="977" height="451"></p>
+<ul>
+<li style="font-weight: 400;" aria-level="1"><span style="font-weight: 400;">If you accept the request, it will be resolved.</span></li>
+<li style="font-weight: 400;" aria-level="1">
+<p>If you decline the request or take no action in 3 days, it will become a dispute and ditalki will make the final decision.</p>
+</li>
+</ul>
+<p><span style="font-weight: 400;">italki mediates disputes by taking a look at all the evidence and circumstances surrounding the dispute. italki makes their final decision based on supporting evidence including:</span></p>
+<p> </p>
+<p><strong>Lesson incomplete Request</strong></p>
+<p><span style="font-weight: 400;">The lesson incomplete request submitted by the party reporting the lesson issue.</span></p>
+<p><strong>Messages and Chats</strong></p>
+<p><span style="font-weight: 400;">In addition to the lesson incomplete request, we will also look into communications between the teacher and student in their messages and interactions on italki.</span></p>
+<p><span style="font-weight: 400;">Sources outside of the italki system (such as Skype chat, screenshots) will sometimes come into play if the above information is not sufficient.</span></p>
+<p><span style="font-weight: 400;">Based on the above evidence italki will arbitrate the dispute. Outcomes vary based on the specific situation. The Credits could be returned in full to the student, released in full to the teacher, split between the two parties.</span></p>
+<p><strong>All italki decisions are final.</strong></p>

@@ -1,0 +1,12 @@
+<h1>Can I take a lesson now or do I need to book in advance?</h1>
+<p><span style="font-weight: 400;">A <strong>Lesson Request</strong> needs to be <strong>sent</strong> and <strong>accepted</strong> to successfully book a lesson. </span></p>
+<p> </p>
+<h3><strong>A student sends a lesson request</strong></h3>
+<p>A student can send a lesson request to book a lesson <span><strong>2, 6, or 12 hours in advance depending on a teacher's Lesson Request settings</strong> for the lesson and package requests.</span></p>
+<p> </p>
+<h3><strong>A teacher sends a lesson invitation</strong></h3>
+<p><span style="font-weight: 400;">If you and your teacher have agreed with an instant lesson, your <strong>teacher</strong> can use the <span class="wysiwyg-underline"><a href="https://support.italki.com/hc/en-us/articles/900000107266-What-is-Lesson-Invitation-and-how-do-I-use-this-feature-">Lesson Invitation</a></span> feature to send you (student) a lesson invitation to start the lesson within <strong>15-30 minutes</strong>. </span>After you (student) accept the lesson invitation, you can start the lesson soon! </p>
+<p><span style="font-weight: 400;">Note that your lesson is only booked when a <strong>lesson request is accepted</strong>. <br></span></p>
+<p><span style="font-weight: 400;">You might want to know: </span><span class="wysiwyg-underline"></span></p>
+<p><span class="wysiwyg-underline"><a href="https://support.italki.com/hc/en-us/articles/360022944434" target="_blank" rel="noopener">How to search for a teacher that fits me most?</a> </span></p>
+<p><span class="wysiwyg-underline"><a href="https://support.italki.com/hc/en-us/articles/900004231283" target="_blank" rel="noopener">Why hasn’t my lesson request been accepted?</a></span></p>

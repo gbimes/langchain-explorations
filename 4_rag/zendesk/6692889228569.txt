@@ -1,0 +1,20 @@
+<h1>Parents, your guide to digital safety on italki!</h1>
+<p><span style="font-weight: 400;">Parents we know you are excited to get your child started learning. Before that, we would like to share some digital safety practices that might come in handy. We care about your child’s safety online just as much as you do!</span></p>
+<p> </p>
+<p><strong>1. Don’t let your child operate your italki account</strong></p>
+<p><span style="font-weight: 400;">It's important to remember that you are the key person responsible for using the italki account.  This means that you are the person who </span><strong>registers the account, makes purchases, schedules lessons</strong><span style="font-weight: 400;">, and does all other on-platform activities.</span></p>
+<p> </p>
+<p><strong>2. Monitor your child</strong></p>
+<p><span style="font-weight: 400;">Make sure an adult is present when your child is online.  For lessons, depending on the age, we recommend that parents are nearby and able to monitor the child.  Educate your child on the dos and don'ts of being online.</span></p>
+<p> </p>
+<p><strong>3. Keep your child's personal information private</strong></p>
+<p><span style="font-weight: 400;">italki does not store any information on your child. You should keep your child's personal information private.  Do not upload your child's picture or share your or your child's personal information like phone numbers, address, full name, etc. You should be present if there is any personal information shared with your teacher.</span></p>
+<p> </p>
+<p><strong>4. Be careful what you share in the community</strong></p>
+<p><span style="font-weight: 400;">The italki community is a friendly place where you can interact with other users.  However, italki’s community is not an appropriate place for children to interact with adults.  Make sure your child is not directly using the italki community. As always, be careful about what you post or share in order to keep your and your child's personal information private.</span></p>
+<p> </p>
+<p><strong>5. Choose strong and unique passwords</strong></p>
+<p><span style="font-weight: 400;">Remember to use different passwords for every website or application that you use. This means making sure your italki password is unique. Many services can help you manage your passwords (examples: LastPass, 1password, etc.). Be careful about sharing your password with your child, as this can lead to inappropriate use of italki.</span></p>
+<p> </p>
+<p><strong>6. Be careful with downloads</strong></p>
+<p><span style="font-weight: 400;">italki strives to be a safe space for all of its users.  However, it is your responsibility to check everything you download from the internet.  In addition, it is critical to keep your computer up-to-date.  Software patches often contain important security updates.</span></p>

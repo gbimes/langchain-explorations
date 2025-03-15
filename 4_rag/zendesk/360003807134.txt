@@ -1,0 +1,17 @@
+<h1>GDPR and Terms of Service Updates</h1>
+<p>We care about your data privacy and security. With this in mind, we've updated our <a href="https://www.italki.com/privacy">Privacy Policy</a> to be in compliance with the EU's <a href="https://gdpr-info.eu/">General Data Protection Regulation (GDPR)</a>.</p>
+<p>Here’s what we are doing:</p>
+<ul>
+<li>We updated our <a href="https://www.italki.com/privacy">Privacy Policy</a> to make it even more transparent so you know what information we’re collecting from you and how we use it to create a great learning experience on italki.<br><br>
+</li>
+<li>We’re giving you more control over the personal data you share with us, meaning you’ll be able to view and delete your account information at italki.<br><br>
+</li>
+<li>You choose which emails you want to receive from us. During the month of May 2018, we’ll get in touch with you and give you the chance to opt in to keep getting our emails or update your email preferences.</li>
+</ul>
+<p> We’ve also made some updates to your <a href="https://www.italki.com/paymentterms">Payment Terms of Service</a>, specifically:</p>
+<ul>
+<li>We've removed the one-year period of exclusivity where Teachers and Students must have lessons on italki. italki does not tolerate teachers trying to take italki students off of italki or accepting payments outside of the italki system period.<br><br>
+</li>
+<li>We've added prohibitive measures for Friendly Fraud. "Friendly Fraud" is when a person initiates a fraud dispute with a payment provider, claiming that their credit card (or other payment methods) was not intended to be used.</li>
+</ul>
+<p>Feel free to contact us if you have any questions by writing to <a href="mailto:support@italki.com">support@italki.com</a><br><br>We hope you appreciate these changes and look forward to continuing being part of your language learning journey! </p>

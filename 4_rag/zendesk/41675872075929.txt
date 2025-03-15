@@ -1,0 +1,12 @@
+<h1>How do I pay for a subscription and manage it?</h1>
+<h2 id="h_01JGJD2J01VPJT1AVTS3KN52Z1">What forms of payment are accepted?</h2>
+<p>You can pay for your subscription via Paypal, Credits Card, Apple Pay, and Google Play. The payments will be automatically charged from your selected payment method.</p>
+<p> </p>
+<h2 id="h_01JGJD31WYM097FEAEXXCCH85J">How do I update my payment information?</h2>
+<p>If you want to update your payment information, please cancel and renew your subscription.</p>
+<p> </p>
+<h2 id="h_01JGJD3PCGJKMF0Y7Z1PE7JP3Q">What should I do if the payment doesn't go through?</h2>
+<p>Please pay attention to the card expiration date and balance to make sure it can be charged successfully. If there is any issue with your subscription renewal payment, you can cancel your current subscription and use another payment method to subscribe to italki Plus.</p>
+<p> </p>
+<h2 id="h_01JGJD415Z6NVZEA4N2EV6DCER">How can I see my payments?</h2>
+<p>You can see your payments in "My wallet" &gt; "Transaction Detail" &gt; "italki Plus" tab.</p>

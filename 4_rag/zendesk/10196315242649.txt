@@ -1,0 +1,15 @@
+<h1>What is 100% Satisfaction Guarantee</h1>
+<p><span style="font-weight: 400;">We understand finding the right teacher can take a few trials and we want to be as helpful as possible.</span></p>
+<p><span style="font-weight: 400;">To ensure that you find a teacher who meets your needs, we offer a 100% Satisfaction Guarantee. You can have up to two times credit refund for your </span><span style="font-weight: 400;"><strong>trial lessons</strong> when: </span></p>
+<ul>
+<li style="font-weight: 400;" aria-level="1"><span style="font-weight: 400;">The Teacher didn’t show up</span></li>
+<li style="font-weight: 400;" aria-level="1"><span style="font-weight: 400;">The Teacher didn’t meet your expectations for the class</span></li>
+<li style="font-weight: 400;" aria-level="1"><span style="font-weight: 400;">The trial lesson was purchased &amp; paid for by you (*<em>Lessons bought using vouchers are not eligible</em>)</span></li>
+</ul>
+<p>To apply the 100% Satisfaction Guarantee on your trial lesson, please contact our customer success team within 48 hours after your trial lesson time is passed and provide the below information:</p>
+<ul>
+<li style="font-weight: 400;" aria-level="1"><span style="font-weight: 400;">Lesson ID</span></li>
+<li style="font-weight: 400;" aria-level="1"><span style="font-weight: 400;">The reasons that you are not satisfied</span></li>
+</ul>
+<p><span style="font-weight: 400;">Please note that any requests made after the lesson is marked complete will not be processed.</span></p>
+<p><span style="font-weight: 400;">Any violations of </span><a href="https://www.italki.com/en/tos" target="_blank" rel="noopener noreferrer">italki terms</a><span style="font-weight: 400;"> will not be covered by the 100% satisfaction guarantee.</span></p>

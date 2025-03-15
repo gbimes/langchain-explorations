@@ -1,0 +1,53 @@
+<h1>How much should I charge for my lessons?</h1>
+<p><span style="font-weight: 400;"><iframe src="//www.youtube-nocookie.com/embed/lPVyND94apU" width="560" height="315" frameborder="0" allowfullscreen=""></iframe></span></p>
+<p> </p>
+<p><span style="font-weight: 400;">As an italki teacher, you can set your own prices for individual Lessons and Packages. </span><span style="font-weight: 400;">The lowest price per lesson Professional Teachers can charge is $10 USD, and $5 USD for Community Tutors.</span></p>
+<p><span style="font-weight: 400;">The total price for the package can be set between “lowest price * number of lessons” and “single lesson price * number of lessons”.</span></p>
+<p><span class="wysiwyg-color-red" style="font-weight: 400;">Note: If a single lesson price is set to be $10 USD, then the package price can only be set to $10 * number of lessons, i.e. $50 USD or $100 USD.</span></p>
+<p><img src="https://support.italki.com/hc/article_attachments/900007823166" alt="new_price.png" width="674" height="464"></p>
+<p> </p>
+<h2><span style="font-weight: 400;">How much you charge will always be up to you, but there are a few things to consider:</span></h2>
+<ul>
+<li><strong>Best practice for new teachers </strong></li>
+</ul>
+<p><span style="font-weight: 400;">New teachers don’t have a positive teaching reputation yet, so raising your price after you’ve earned good lesson statistics and reviews is a good strategy. We recommend keeping your price competitive until you build up a loyal community of students.</span></p>
+<ul>
+<li><strong>What’s your occupancy status?</strong></li>
+</ul>
+<p><span style="font-weight: 400;">If your schedule is always fully booked and you’re always welcoming new students, you should consider raising your price. Make sure to check your calendar and note down your occupancy status. You can also check which times slots are popular with your students, and consider opening up more slots during these times. We’ve published the peak times for major student markets for each teaching language in the </span><strong><a href="https://support.italki.com/hc/en-us/articles/900000089723-Teacher-Handbook-for-Multiple-Teaching-Languages" target="_blank" rel="noopener">Teacher Handbook</a>.</strong></p>
+<ul>
+<li><strong>How do you compare to other teachers?</strong></li>
+</ul>
+<p><span style="font-weight: 400;">Now the question is: What’s a reasonable increase?</span></p>
+<p><span style="font-weight: 400;">Try comparing your prices with other teachers who have a similar background to you. This includes teaching language, teacher type, lesson category and tag, nationality, education, experience and qualifications. How much do they charge? Are their prices competitive? You can check their occupancy rate and see if their price is ideal.</span></p>
+<p><span style="font-weight: 400;">We recommend checking the average price for different teacher types and lesson categories in the </span><strong><a href="https://support.italki.com/hc/en-us/articles/900000089723-Teacher-Handbook-for-Multiple-Teaching-Languages" target="_blank" rel="noopener">Teacher Handbook</a>. </strong><span style="font-weight: 400;">(Multilingual versions available.)</span><strong> </strong></p>
+<p> </p>
+<p><span style="font-weight: 400;">Discounts are also important! For students who purchase Packages, here are the average discount rates:</span></p>
+<p><span style="font-weight: 400;">5 Lesson Package: 5-8% </span></p>
+<p><span style="font-weight: 400;">10 Lesson Package: 5-8% </span></p>
+<p><span style="font-weight: 400;">20 Lesson Package: 6-9%</span></p>
+<p> </p>
+<p><span style="font-weight: 400;">Teachers usually offer a lower </span><strong>Trial Lesson</strong><span style="font-weight: 400;"> price to attract new students. Here are the average prices in the most popular languages.</span></p>
+<p><span style="font-weight: 400;">German:  7-8 USD </span></p>
+<p><span style="font-weight: 400;">Korean:  6-7 USD</span></p>
+<p><span style="font-weight: 400;">French: 5-7 USD</span></p>
+<p><span style="font-weight: 400;">Japanese: 5-7 USD</span></p>
+<p><span style="font-weight: 400;">English: 5-6 USD</span></p>
+<p><span style="font-weight: 400;">Chinese: 5-6 USD </span></p>
+<p><span style="font-weight: 400;">Spanish: 5-6 USD</span></p>
+<p><span style="font-weight: 400;">Italian: 5-6 USD</span></p>
+<p><span style="font-weight: 400;">Portuguese: 5-6 USD</span></p>
+<p><span style="font-weight: 400;">Arabic: 5-6 USD</span></p>
+<ul>
+<li><strong>What do your students think?</strong></li>
+</ul>
+<p><span style="font-weight: 400;">When you tell your students about raising your price, what do they think? You can present the reasons for the raise and see what percentage of the increase is acceptable for them.</span></p>
+<ul>
+<li><strong>Examine your own financial situation </strong></li>
+</ul>
+<p><span style="font-weight: 400;">You can also look at your own financial situation and calculate an acceptable income.</span></p>
+<p> </p>
+<h2>How to lock prices for old students</h2>
+<p><span style="font-weight: 400;">If you decide to increase your price, please let your students know at least 1 month in advance. You can suggest your current students purchase a Package now so that the price of those Package lessons will be locked to the old price.</span></p>
+<p><span style="font-weight: 400;">You can also manually alter the price of a lesson request. When you receive a lesson request, you can modify it and send it back to the student to accept.</span></p>
+<p><span style="font-weight: 400;">Moreover,  sending a Lesson Invitation to students is another good option. (</span><span class="wysiwyg-underline"><a href="https://support.italki.com/hc/en-us/articles/900000107266-What-is-Lesson-Invitation-and-how-do-I-use-this-feature-video-subtitles-provided-in-English-Espa%C3%B1ol-Fran%C3%A7ais-Italiano-P%D1%83%D1%81%D1%81%D0%BA%D0%B8%D0%B9-%E4%B8%AD%E6%96%87-%E6%97%A5%E6%9C%AC%E8%AA%9E-" target="_blank" rel="noopener">Read more</a></span><span style="font-weight: 400;">)</span></p>

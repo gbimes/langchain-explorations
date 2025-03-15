@@ -1,0 +1,35 @@
+<h1>italki Classroom Guidance for teachers</h1>
+<h2><strong>Introduction</strong></h2>
+<p><span style="font-weight: 400;">italki Classroom is a video communication tool that is available to all italki students both on the italki website and the italki mobile app.</span></p>
+<p><span style="font-weight: 400;">Check the video introduction of italki Classroom </span><a href="https://filemanager-static01.italki.com/italki_classroom_tutorial_final_eng_subs.mp4" target="_blank" rel="noopener">here</a><span style="font-weight: 400;">.</span></p>
+<p><span style="font-weight: 400;">The benefits of italki Classroom include:</span></p>
+<ol>
+<li style="font-weight: 400;" aria-level="1"><span style="font-weight: 400;">Full-featured: File sharing and screen-sharing. </span></li>
+<li style="font-weight: 400;" aria-level="1"><span style="font-weight: 400;">Convenient: App download is not required on PC as italki Classroom is a built-in italki interface. italki Classroom can be accessed by clicking the “Enter Classroom” button on the lesson page.</span></li>
+<li style="font-weight: 400;" aria-level="1"><span style="font-weight: 400;">Easy to use: Adding your students as friends is not required. italki Classroom will connect teachers and students automatically.</span></li>
+<li style="font-weight: 400;" aria-level="1"><span style="font-weight: 400;">Fair: italki can track system record in case there is a dispute over a lesson problem, ie. absence and being late.</span></li>
+</ol>
+<p><strong>Supported browsers</strong></p>
+<ul>
+<li style="font-weight: 400;" aria-level="1"><a href="https://www.google.com/chrome/browser/features.html" target="_blank" rel="noopener">Google Chrome</a></li>
+<li style="font-weight: 400;" aria-level="1"><a href="https://www.mozilla.org/en-US/firefox/new/" target="_blank" rel="noopener">Mozilla Firefox</a></li>
+<li style="font-weight: 400;" aria-level="1"><a href="https://developer.apple.com/safari/" target="_blank" rel="noopener">Safari 13+ (including iPad)</a></li>
+</ul>
+<p> </p>
+<h2><strong>How to use italki Classroom?</strong></h2>
+<p><strong>Note: Please close all unrelated programs on your computer, otherwise it might have an impact on italki Classroom.</strong></p>
+<p>1. Click on "ENTER CLASSROOM" which will take you to the welcome screen (see below). If this is your first time using the Classroom, your browser will prompt you to allow italki.com to access your camera and microphone.</p>
+<p><img src="https://support.italki.com/hc/article_attachments/36784670236697" alt="Screen_Shot_2021-09-07_at_6.40.21_PM.png" width="663" height="470"></p>
+<p class="wysiwyg-text-align-left"><span style="font-weight: 400;">This is to provide </span><em><span style="font-weight: 400;">italki.com platform</span></em><span style="font-weight: 400;"> permission to access your camera and microphone to enter the italki Classroom. </span><strong> Your lesson content is private. italki does not have access to your video or audio content and we do not record video or audio of any part of a lesson in the italki Classroom.</strong><br><img src="https://support.italki.com/hc/article_attachments/36784670238105" alt="Screen_Shot_2021-09-07_at_6.41.09_PM.png" width="420" height="196"></p>
+<p> </p>
+<p class="wysiwyg-text-align-left">Google Chrome - Allow camera + microphone:<br><img src="https://support.italki.com/hc/article_attachments/36784670225817" alt="_____20190813140122.png" width="383" height="229"><br><br>Mozilla Firefox - Allow camera + microphone:<br><img src="https://support.italki.com/hc/article_attachments/36784670225177" alt="_____20190813140845.png" width="394" height="255"></p>
+<p> </p>
+<p>Safari - Allow camera + microphone:<br><img src="https://support.italki.com/hc/article_attachments/36784640237209" alt="Screenshot_2020-03-05_at_15.30.57.png" width="393" height="284"><br> </p>
+<p>2. <span style="font-weight: 400;">In case you experience connection problems with italki Classroom due to the Internet connections, we would recommend you always have a backup communication tool with your student so you can switch to when needed.</span></p>
+<p><img src="https://support.italki.com/hc/article_attachments/36784670239257" alt="Screen_Shot_2021-09-07_at_6.45.14_PM.png" width="630" height="450"></p>
+<p><strong>Note: Screen sharing currently only works on Google Chrome and Firefox.</strong></p>
+<p><img src="https://support.italki.com/hc/article_attachments/36784640243865" alt="Screen_Shot_2021-09-07_at_6.46.16_PM.png" width="529" height="93"><br><span class="confluence-embedded-file-wrapper"></span></p>
+<p> </p>
+<p>3. <span style="font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', Helvetica, Arial, sans-serif;">Now you could take a note in the Classroom, the note could only be seen by yourself and will be saved automatically.</span></p>
+<p><img src="https://support.italki.com/hc/article_attachments/36784640246041" alt="Screen_Shot_2021-09-07_at_6.47.37_PM.png" width="608" height="432"></p>
+<p><a href="https://support.italki.com/hc/en-us/articles/900005800623" target="_blank" rel="noopener">How to allow screen sharing on your Mac for italki Classroom lessons?</a></p>

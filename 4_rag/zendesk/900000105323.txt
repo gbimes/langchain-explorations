@@ -1,0 +1,30 @@
+<h1>Popular Communication Tools in China</h1>
+<p>We are listing the popular communication tools in China for teacher's reference</p>
+<p> </p>
+<p>1. WeChat</p>
+<p>1.1 Download here: https://www.wechat.com/en/</p>
+<p>1.2 You will need to create an account in the WeChat APP on a phone</p>
+<p><br>2. QQ</p>
+<p>2.1 Register your account here:</p>
+<p>https://ssl.zc.qq.com/v3/index-en.html</p>
+<p> </p>
+<p>2.2.1 QQ International:</p>
+<p>Click to download to PC: https://dldir1.qq.com/qqfile/QQIntl/QQi_PC/QQIntl2.11.exe</p>
+<p>For iOS/Android devices: https://www.imqq.com/English1033.html#download</p>
+<p>Not available on MacOS.</p>
+<p> </p>
+<p>2.2.2. QQ</p>
+<p>Click to download to Mac: http://dldir1.qq.com/qqfile/QQforMac/QQ_6.6.0.dmg</p>
+<p>Click to download to PC: https://qd.myapp.com/myapp/qqteam/pcqq/PCQQ2020.exe</p>
+<p>Check all available platforms and latest links to download (iOS, Android, Linux, etc. Scroll down to see more)</p>
+<p>https://im.qq.com/download/</p>
+<p> </p>
+<p>2.3 QQ collaborative doc</p>
+<p>https://docs.qq.com/desktop/</p>
+<p>Google Docs alternative. Can log in with QQ/WeChat account.</p>
+<p> </p>
+<p>3. Skype should also be working in China as long as it is downloaded and installed properly. You may ask the student to use this <br>link (in Chinese) to download skype https://www.skype.com/zh-Hans/get-skype/</p>
+<p><br>4. If you are both using Apple Devices, FaceTime could also be a video solution.</p>
+<p>4.1 FaceTime Support Doc</p>
+<p>4.1.1 in English:</p>
+<p>FaceTime on your iOS devices:<br>https://support.apple.com/en-us/HT204380<br>Facetime on Mac<br>https://support.apple.com/en-us/HT208176<br>4.1.2 in Chinese: <br>FaceTime on iOS (iPhone, iPad)<br>https://support.apple.com/zh-cn/HT204380<br>FaceTime on Mac<br>https://support.apple.com/zh-cn/guide/facetime/mchl390e9463/mac</p>

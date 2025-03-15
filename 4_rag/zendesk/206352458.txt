@@ -1,0 +1,34 @@
+<h1>italki Language Test</h1>
+<h2 id="h_01HXGM6X95NFV1GGSZGNBZDY4R"><strong>General Terms and Conditions:</strong></h2>
+<p><span style="font-weight: 400;">italki works with </span><span style="font-weight: 400;">Emmersion </span><span style="font-weight: 400;">to provide online language placement tests for language learners.</span></p>
+<p> </p>
+<p><strong>Test contents:</strong></p>
+<p><span style="font-weight: 400;">italki Language Test is powered by Emmersion, Emmersion offered two kinds of test contents, Emmersion Speaking test and Emmersion Grammar test. The Emmersion Speaking test is available for 7 languages: English, French, Spanish, German, Japanese, Portuguese and Italian, and </span><span style="font-weight: 400;">is designed to use neutral accents and not focus on a specific dialect. However, the Spanish test uses a Latin American accent, and the Portuguese test leans towards a Brazilian accent. The Emmersion Grammar test is available for 5 languages: </span><span style="font-weight: 400;"> English, French, Spanish, German, and Italian.</span></p>
+<p> </p>
+<p><strong>Expiration:</strong></p>
+<p><span style="font-weight: 400;">italki Language test is valid for 1 year after purchase, you can take up to 4 times tests within one purchase. To take the test, you need to activate it to start, italki Language Test won’t limit you to activate the same language for these 4 tests, you can choose any available language you want to activate each time. Once the test has been activated, it is valid for 30 days after the day it was activated. </span></p>
+<p><span style="font-weight: 400;"><img src="https://support.italki.com/hc/article_attachments/6473087709849" alt="Screen_Shot_2022-05-10_at_3.25.34_PM.png"></span></p>
+<p><span style="font-weight: 400;"><img src="https://support.italki.com/hc/article_attachments/6473045691033" alt="Screen_Shot_2022-05-10_at_3.26.23_PM.png"></span></p>
+<p> </p>
+<p><strong>Cancellation:</strong></p>
+<p><span style="font-weight: 400;">italki Credits need to be purchased to pay for the italki Language Test. </span><a href="https://support.italki.com/hc/en-us/articles/360023115453"><span style="font-weight: 400;">italki Credits Refund and Expiration Policies</span></a><span style="font-weight: 400;"> apply to any italki Credits purchase. Successful purchases of language tests </span><strong>cannot be canceled or refunded</strong><span style="font-weight: 400;">.</span></p>
+<p> </p>
+<h2 id="h_01HXGM6X9544BCA92DNGZ2GH78"><strong>What should I prepare before taking the italki Language Test?</strong></h2>
+<ul>
+<li style="font-weight: 400;" aria-level="1"><span style="font-weight: 400;">A stable internet connection</span></li>
+<li style="font-weight: 400;" aria-level="1">
+<span style="font-weight: 400;">An updated internet browser. Chrome is recommended, but at this link, you’ll find a list of compatible browsers and devices: </span><span style="font-weight: 400;"><a href="https://support.emmersion.ai/support/solutions/articles/60000703287-device-and-browser-requirements" target="_blank" rel="noopener noreferrer">https://support.emmersion.ai/support/solutions/articles/60000703287-device-and-browser-requirements</a></span><span style="font-weight: 400;"></span>
+</li>
+<li style="font-weight: 400;" aria-level="1"><span style="font-weight: 400;">A quiet environment with little or no background noise</span></li>
+<li style="font-weight: 400;" aria-level="1"><span style="font-weight: 400;">A headset with a built-in microphone(Optional)</span></li>
+</ul>
+<p> </p>
+<h2 id="h_01HXGM6X955GKZWMMK3T5TMAHB"><span style="font-weight: 400;"><strong>How long will the test take?</strong><br></span></h2>
+<p><span style="font-weight: 400;">The test will ask you about 40-45 questions, which should take about </span><span style="font-weight: 400;">15 minutes to 30 minutes</span><span style="font-weight: 400;">. </span></p>
+<p><span style="font-weight: 400;">However, it all depends on you. The computerized adaptive testing adapts to the examinee's ability level. There isn’t a set number of questions, and the questions won’t always be the same. For example, if you perform well on an item of intermediate difficulty, they will then be presented with a more difficult question. Or, if you performed not so well, you would be presented with a simpler question.</span></p>
+<p> </p>
+<p><span style="color: red;">*Please be kindly reminded that you have to share your entire screen to be able to do the italki language test on your PC</span></p>
+<p> </p>
+<h2 id="h_01HXGM6X95KVN8WXB45MSEZZKP"><strong>When and where can I see my result on the language test on italki?</strong></h2>
+<p><span style="font-weight: 400;">After successfully submitting your answers, you can find the test result on the <span class="wysiwyg-underline"><strong><a href="https://www.italki.com/languageassessment/mytest" target="_blank" rel="noopener">Language Test Page</a></strong></span> under “<strong>My Results</strong>”. </span></p>
+<p><span style="font-weight: 400;">You will get your result immediately after you finish the italki Language Test, and you’ll be able to find the test result on the Language Test Page under “My Results”. However, if you encounter connection issues, your score may be delayed by several minutes. </span><span style="font-weight: 400;"><img src="https://support.italki.com/hc/article_attachments/900007218643" alt="mceclip1.png"></span></p>

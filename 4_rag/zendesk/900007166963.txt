@@ -1,0 +1,203 @@
+<h1>2021 May Language Challenge (LC) FAQ - Internal Reference</h1>
+<div><img src="https://support.italki.com/hc/article_attachments/900009457323/mceclip2.png" alt="mceclip2.png"></div>
+<div></div>
+<h2><strong>General Information</strong></h2>
+<div><span class="wysiwyg-underline"><strong>When</strong></span></div>
+<div><span class="wysiwyg-color-red">S<span style="font-weight: 400;">tarts at 6:00 am UTC on 19 May, and finishes at 6:00 am UTC on 6 July.</span></span></div>
+<div><span style="font-weight: 400;"></span></div>
+<div>
+<table style="border-collapse: collapse; width: 100%;" border="1">
+<tbody>
+<tr>
+<td style="width: 13.1904%;"><strong>Stage 1</strong></td>
+<td style="width: 53.4762%;"><span>Sign-up. Start and end in working days, Prox 45 - 48 days.</span></td>
+<td style="width: 33.3333%;" rowspan="2">
+<time class="date-upcoming" datetime="2021-05-19">19 May 2021</time><span> 06:00(UTC+0) - </span><time class="date-future" datetime="2021-07-06">06 Jul 2021</time><span> 06:00(UTC+0)</span>
+</td>
+</tr>
+<tr>
+<td style="width: 13.1904%;"><strong>Stage 2</strong></td>
+<td style="width: 53.4762%;"><span>Game start. The learning hours start counting. </span></td>
+</tr>
+<tr>
+<td style="width: 13.1904%;"><strong>Stage 3</strong></td>
+<td style="width: 53.4762%;"><span>Spend 3-7 days to do statistical analysis of the game. </span></td>
+<td style="width: 33.3333%;">
+<time class="date-future" datetime="2021-07-06">06 Jul 2021</time><span> 06:00(UTC+0)) - </span><time class="date-future" datetime="2021-07-13">13 Jul 2021</time><span> 06:00(UTC+0)</span>
+</td>
+</tr>
+<tr>
+<td style="width: 13.1904%;"><strong>Stage 4</strong></td>
+<td style="width: 53.4762%;"><span>End of the game. Release the result, collect the information from the player, present the prizes</span></td>
+<td style="width: 33.3333%;">
+<time class="date-future" datetime="2021-07-13">13 Jul 2021</time><span> 06:00(UTC+0) - </span><time class="date-future" datetime="2021-07-20">20 Jul 2021</time><span> 06:00(UTC+0)</span>
+</td>
+</tr>
+</tbody>
+</table>
+</div>
+<p> </p>
+<p data-renderer-start-pos="842"><span class="wysiwyg-underline"><span class="wysiwyg-color-black"><strong>Target Audience</strong></span></span></p>
+<p data-renderer-start-pos="859">The campaign’s primary target audience is <strong data-renderer-mark="true">existing paying users who made their first purchase in the past 6-7 months</strong>. The secondary target audience is existing non-paying users. The target audience of Performance Mkt is visitors.</p>
+<p data-renderer-start-pos="859"> </p>
+<p><span class="wysiwyg-underline"><span class="wysiwyg-color-black" style="font-weight: 400;"><strong>Full details in confluence</strong></span></span></p>
+<p><span style="font-weight: 400;"><a href="https://italki.atlassian.net/wiki/spaces/PR/pages/3571843589/Language+Challenge+May+2021">https://italki.atlassian.net/wiki/spaces/PR/pages/3571843589/Language+Challenge+May+2021</a></span></p>
+<p> </p>
+<p><span class="wysiwyg-underline"><span class="wysiwyg-color-black"><strong>FAQ in language challenge page</strong></span></span></p>
+<p><span class="wysiwyg-color-black"><a href="https://docs.google.com/document/d/1mw4OX_Agh0tJhWuz2etTjeZMb67ZNYHbd_LeFSLAuos/edit">https://docs.google.com/document/d/1mw4OX_Agh0tJhWuz2etTjeZMb67ZNYHbd_LeFSLAuos/edit</a></span></p>
+<p data-renderer-start-pos="859"> </p>
+<h2><strong>Achievement &amp; Rewards</strong></h2>
+<table style="border-collapse: collapse; width: 100%; height: 84px;" border="1">
+<tbody>
+<tr style="height: 21px;">
+<td style="width: 15.2857%; height: 21px;"><strong>12 hours</strong></td>
+<td style="width: 84.7143%; height: 21px;">
+<ul>
+<li>Achievement Badge</li>
+</ul>
+</td>
+</tr>
+<tr style="height: 21px;">
+<td style="width: 15.2857%; height: 21px;"><strong>16 hours</strong></td>
+<td style="width: 84.7143%; height: 21px;">
+<ul>
+<li>Achievement Badge</li>
+<li>Certificate</li>
+</ul>
+</td>
+</tr>
+<tr style="height: 21px;">
+<td style="width: 15.2857%; height: 21px;"><strong>20 hours</strong></td>
+<td style="width: 84.7143%; height: 21px;">
+<ul>
+<li>Achievement Badge</li>
+<li>Certificate</li>
+<li>Coupon (Buy $50 Get $10 extra), valid till 20 Dec, 2021  (6 months)</li>
+</ul>
+</td>
+</tr>
+<tr style="height: 21px;">
+<td style="width: 15.2857%; height: 21px;"><strong>24 hours</strong></td>
+<td style="width: 84.7143%; height: 21px;">
+<ul>
+<li>Achievement Badge</li>
+<li>Certificate</li>
+<li>Coupon (Buy $50 Get $10 extra), valid till 20 Dec, 2021 (6 months)</li>
+<li>Free Language Test ($30 Credits)</li>
+</ul>
+</td>
+</tr>
+</tbody>
+</table>
+<div></div>
+<div></div>
+<h2><strong>Ranking Rewards</strong></h2>
+<div>
+<table style="border-collapse: collapse; width: 100%; height: 198px;" border="1">
+<tbody>
+<tr style="height: 44px;">
+<td style="width: 38.7143%; height: 44px;">
+<h3 id="LanguageChallengeMay2021-Top11-50intheglobalLC">Top 11-50 in the global LC</h3>
+</td>
+<td style="width: 61.2857%; height: 44px;">
+<ul>
+<li>
+<p>$50 credit</p>
+</li>
+<li>Top 50 Badge</li>
+</ul>
+</td>
+</tr>
+<tr style="height: 66px;">
+<td style="width: 38.7143%; height: 66px;">
+<h3 id="LanguageChallengeMay2021-Top4-10intheglobalLC">Top 4-10 in the global LC</h3>
+</td>
+<td style="width: 61.2857%; height: 66px;">
+<ul>
+<li>$50 credit</li>
+<li>Top 10 Badge</li>
+<li>
+<p>Physical Medal</p>
+</li>
+</ul>
+</td>
+</tr>
+<tr style="height: 88px;">
+<td style="width: 38.7143%; height: 88px;">
+<h3 id="LanguageChallengeMay2021-Top3intheglobalLC">Top 3 in the global LC</h3>
+</td>
+<td style="width: 61.2857%; height: 88px;">
+<ul>
+<li>$50 credit</li>
+<li>Top 3 Badge(Champion/Runner-up/3rd-place)</li>
+<li>
+<p>Physical Metal</p>
+</li>
+<li>$500 credit</li>
+</ul>
+</td>
+</tr>
+</tbody>
+</table>
+</div>
+<h2> </h2>
+<div><strong>What didn't change since the last LC</strong></div>
+<ul>
+<li>
+<div>Digital badges to the top 3 students</div>
+</li>
+<li>
+<div>Digital badges to the top 10 students</div>
+</li>
+<li>
+<div>Digital badges to the top 50 students</div>
+</li>
+<li>
+<div>Digital badges for the Lesson Hour Goals (12h, 16h, 20h, 24h).</div>
+</li>
+<li>
+<div>The certificate is sent to the users reaching 16 hours.</div>
+</li>
+<li>
+<div>The coupon (Buy $50 get $10 extra) is still automatic and for the users reaching 20 hours.</div>
+</li>
+</ul>
+<div><strong> </strong></div>
+<h2><strong>Please note:</strong></h2>
+<ul>
+<li>
+<div><span class="wysiwyg-color-red">Although this LC is based on the theme of the Olympics, there is no direct mention of the Olympics in the naming.</span></div>
+</li>
+<li>
+<div>Promotional marketing campaigns will launch on 19 May in the afternoon, a few hours after the product is launched.</div>
+</li>
+</ul>
+<p> </p>
+<h2><strong>FAQ:</strong></h2>
+<p><strong>1. What is the definition of a cheerleader?</strong></p>
+<p>When the user signs up for the language challenge and completed at least one lesson，after he/she successfully invites friends to sign up, the user is considered a cheerleader.</p>
+<p><img src="https://support.italki.com/hc/article_attachments/900008550586/mceclip0.png" alt="mceclip0.png"></p>
+<p> </p>
+<p><strong>2. How much can a cheerleader get for a successful referral?</strong></p>
+<p><span style="font-weight: 400;">One cheerleader will receive a $1 cheerleader reward for every friend he/she invites. If cheerleader took at least 1 lesson during the Language Challenge, we’ll sent $1 for each friend that cheerleader invited to their Wallet after the challenge has ended (6:00 AM UTC on 13 July). The maximum number of $1 signup rewards you can receive is 20. </span></p>
+<p> </p>
+<p><span style="font-weight: 400;">For referral bonus, cheerleaders will automatically receive $15 italki Credits for each friend that completes their first lesson and earn extra rewards as their friends take more lessons, and they can track their progress at https://www.italki.com/referral.</span></p>
+<p> </p>
+<p><strong>3. In which form will the winners receive the ranking rewards?</strong></p>
+<p>We're going to deposit $50 in credits to the top 50 students and $500 in credits to the top 3 students from <time class="date-future" datetime="2021-07-13">13 Jul 2021.</time></p>
+<p> </p>
+<p><strong>4. When will the top 10 winners get the physical medal?</strong></p>
+<p>There will be a link on the landing page with a survey where we'll be collecting the user's information. Shipping will starts<span> </span><strong>after 20 July, from China.</strong></p>
+<p> </p>
+<p><strong>5. Where can users who achieved 24 hours see the credit $30 for the language test?</strong></p>
+<p>The section with the Language Test will have the call-to-action <span class="wysiwyg-color-red">'GO TO WALLET' for the users using mobile'</span> and<span class="wysiwyg-color-red"> 'GO TO THE TEST' for the users using desktop</span>; this is because the Language Test landing page is currently available on desktop only. </p>
+<p> </p>
+<p><img src="https://support.italki.com/hc/article_attachments/900009471843/mceclip3.png" alt="mceclip3.png"></p>
+<p> </p>
+<p><strong>6. Can the user spent $30 reward for lesson purchase rather than language test purchase?</strong></p>
+<p>Yes. The $30 is basically a credit sent to users. They can use it for lesson purchases. However, if the user asks about the usage, please reply with the link of the language test: <a href="https://www.italki.com/languageassessment/ila">https://www.italki.com/languageassessment/ila</a></p>
+<p> </p>
+<p>7. Will winners for 24 hours get a notification for the $30 credits?</p>
+<p>Yes. Winners for 24 hours will get a message in "Account Notification", please refer to the template below.</p>
+<p><img src="https://support.italki.com/hc/article_attachments/900009525163/mceclip0.png" alt="mceclip0.png"></p>
+<p> </p>

@@ -1,0 +1,35 @@
+<h1>20210526 Value Your Money Campaign </h1>
+<p> </p>
+<h3><span><strong>Launched Time </strong></span></h3>
+<p>May 26th, 2021</p>
+<h3> </h3>
+<h3><strong>Campaign Owner:</strong></h3>
+<p><a id="m_-5271690564118575601gmail-m_4892812344583820223plusReplyChip-0" class="gmail_plusreply" href="mailto:ana.aranguez@italki.com" target="_blank" rel="noopener">Ana Aranguez</a><span> </span> - Global Marketing</p>
+<p> </p>
+<h3><strong>How:</strong></h3>
+<p><span>The global marketing team will run a test with paid advertisements （paid a</span><span>ds）<strong>in Europe</strong>. The test consists of running paid ads campaigns across Google / Youtube and Facebook featuring some profiles of teachers for the campaign top learning languages. </span></p>
+<p> </p>
+<h3><strong>What are the requirements of teachers to be selected :</strong></h3>
+<div>
+<ul>
+<li>teachers whose primary teaching language is any of these languages: English, German, French, Spanish, Italian, Japanese, Chinese</li>
+<li>their average lesson price is equal to or greater than $25 / hour</li>
+<li>they've given at least 500 lessons</li>
+<li>they have 5-star rating</li>
+<li>they're native speakers in their primary teaching language</li>
+<li>they're professional teachers</li>
+<li>they've given classes in any of the following categories: Conversation, Business, Test Prep</li>
+</ul>
+</div>
+<p> </p>
+<h3><strong>List of teachers we selected for the first batch:</strong></h3>
+<p><a href="https://docs.google.com/spreadsheets/d/1ICWH0xPliTf2ULJ_eU03yrxWiN-yiU3fkyW7Cv6rNKU/edit#gid=823074791">https://docs.google.com/spreadsheets/d/1ICWH0xPliTf2ULJ_eU03yrxWiN-yiU3fkyW7Cv6rNKU/edit#gid=823074791</a></p>
+<p> </p>
+<h3><strong>Preview of the paid ads on Facebook:</strong></h3>
+<p><img src="https://support.italki.com/hc/article_attachments/900009688703/mceclip0.png" alt="mceclip0.png"></p>
+<p> </p>
+<h3><span class="wysiwyg-color-red"><strong>*Noted</strong></span></h3>
+<p><strong>The global marketing team is going to exclude the list of italki teachers from the audience targeting so as to avoid teachers seeing these ads.<span> </span></strong><span>However, we noticed that only 50% of the teachers in the list </span><span>actually match with the email address available in the list, meaning there is a chance that some of the teachers see these ads and write to us asking how they can get featured in the future. Normally, we're able to exclude 70-80% of the audience targeting, but not in this case. </span></p>
+<p> </p>
+<p><span class="wysiwyg-underline">* You can apply a macro "General::EN::Value for Money Campaign" to reply to teachers who ask why they are not being selected.</span></p>
+<p> </p>

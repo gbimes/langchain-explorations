@@ -1,0 +1,25 @@
+<h1>How to book a Q&A Call?</h1>
+<h2><strong>What’s a Q&amp;A Call?</strong></h2>
+<p><span style="font-weight: 400;">If you’ve made it to the Q&amp;A call stage, well done! This call is an optional step in the teacher application process. The Q&amp;A call is an opportunity for you, along with other teachers, to meet with an italki representative and ask any further questions you may have about teaching on italki.</span></p>
+<p><span style="font-weight: 400;"> </span></p>
+<h2><strong>How do I book?</strong></h2>
+<p><span style="font-weight: 400;">Only applicants who have been pre-approved can book. You can book a Q&amp;A call by following these steps:</span></p>
+<ol>
+<li style="font-weight: 400;" aria-level="1">
+<span style="font-weight: 400;">Log in to </span><a href="https://teach.italki.com/"><span style="font-weight: 400;">https://teach.italki.com</span><span style="font-weight: 400;"><br><br></span></a>
+</li>
+<li style="font-weight: 400;" aria-level="1">
+<span style="font-weight: 400;">Complete ID verification as seen below (FAQ: </span><a href="https://support.italki.com/hc/en-us/articles/900002930163-How-to-pass-ID-verification-"><span style="font-weight: 400;">How to pass ID verification?</span></a><span style="font-weight: 400;">)</span><span style="font-weight: 400;"><br></span><span style="font-weight: 400;"><img src="https://support.italki.com/hc/article_attachments/36793189088537" alt="ID_Verification_Page.png"><br><br></span>
+</li>
+<li style="font-weight: 400;" aria-level="1">
+<span style="font-weight: 400;">Click 'Start'  to continue the onboarding process. After completing the process and passing the quizzes you can schedule the optional Q&amp;A call.</span><span style="font-weight: 400;"></span>
+</li>
+</ol>
+<p>         <img src="https://support.italki.com/hc/article_attachments/36793233610905" alt="Call_booking_portal.png"></p>
+<p><span style="font-weight: 400;">      4. Call booking page:</span><span style="font-weight: 400;"></span>  </p>
+<p>         <img src="https://support.italki.com/hc/article_attachments/36793233616025" alt="Booking_page.png" width="626" height="296"></p>
+<p><span style="font-weight: 400;">      5. Call confirmation page:</span><span style="font-weight: 400;"></span><span style="font-weight: 400;">            </span></p>
+<p><span style="font-weight: 400;">       <img src="https://support.italki.com/hc/article_attachments/36793233619609" alt="booking_confirmed_page.png"></span></p>
+<p> </p>
+<p><strong>Can I reschedule or cancel the call? </strong></p>
+<p><span style="font-weight: 400;">Yes. Just click the reschedule or cancel button at the bottom of your confirmation email.</span></p>

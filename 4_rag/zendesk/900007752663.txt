@@ -1,0 +1,4 @@
+<h1>How to schedule a lesson in a package?</h1>
+<p><span style="font-weight: 400;">Login to your italki account, go to</span><strong> My Lessons &gt; My lessons and packages - <a href="https://www.italki.com/lessons?lesson_type=package" target="_blank" rel="noopener noreferrer">Package</a></strong><span style="font-weight: 400;">, you can see a list of the package(s) you have purchased.</span></p>
+<p><span style="font-weight: 400;">Go to the package page and you can “</span><strong>Schedule</strong><span style="font-weight: 400;">” a lesson from your package. When a lesson in a package is confirmed complete, one lesson will be deducted from your package.</span></p>
+<p><img src="https://support.italki.com/hc/article_attachments/4402993525017" alt="Screen_Shot_2021-06-30_at_5.36.11_PM.png"></p>

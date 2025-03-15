@@ -1,0 +1,11 @@
+<h1>Lesson Review Policies</h1>
+<p>Sometimes, students or teachers ask us to change the reviews or "feedback" that has been left about a lesson.</p>
+<p>If a person needs to change or update their own feedback, that's probably fine. But sometimes people want us to update the other person's feedback. Often, this needs to be considered on a case-by-case basis, but these general rules should apply.</p>
+<p>italki will change a student's feedback/review if:</p>
+<ol>
+<li>if it's the will of the student</li>
+<li>if it's not true (it's hard to tell sometime, so it will be good if teacher can clarify the issue)</li>
+<li>If the feedback violates community guidelines (disrespectful, malicious, inappropriate, etc...)</li>
+<li>In case of extreme circumstances where service team determines that it is a better representation to remove the feedback than leave it.</li>
+</ol>
+<p><a href="https://wiki.italki.org/index.php?title=Service_Meeting_20160728" target="_blank" rel="nofollow noopener noreferrer">https://wiki.italki.org/index.php?title=Service_Meeting_20160728</a></p>

@@ -1,0 +1,23 @@
+<h1>I need to take a break from teaching. What do I do?</h1>
+<h3><strong>1. Update your calendar</strong></h3>
+<p>Teacher Settings -&gt; Lessons And Availability -&gt; <a href="https://teach.italki.com/console/lessons" target="_blank" rel="noopener">Teacher Calendar</a>.</p>
+<p>If you are going on vacation, make sure your available times are closed.</p>
+<p> </p>
+<h3><strong>2. Update your lesson request status</strong></h3>
+<p>Teacher Settings -&gt; Lessons And Availability -&gt; <span style="font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', Helvetica, Arial, sans-serif;"></span><a style="background-color: #ffffff; font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', Helvetica, Arial, sans-serif;" href="https://teach.italki.com/console/lessons" target="_blank" rel="noopener">Availability Settings</a></p>
+<p><strong>Set your lesson request status to "allow lesson requests from current students or nobody". </strong><span style="font-weight: 400;">This will prevent you from showing up in the "Find a Teacher" list.</span></p>
+<p><img src="https://support.italki.com/hc/article_attachments/360050624494" alt="_____20191118184447.png"></p>
+<p> </p>
+<div class="article-content">
+<h3><strong>3. Notifying your students</strong></h3>
+<ul>
+<li>Leave a message in your profile <a href="https://teach.italki.com/console/profile" target="_blank" rel="noopener">introduction</a>, letting students know when you will be gone, and that you will not be able to reply to lesson requests.<br><em style="font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', Helvetica, Arial, sans-serif;">For example: I will be away from April 3-17 and unable to reply to lesson requests.<br><br></em>
+</li>
+<li>Send <span style="font-weight: 400;">all</span><span style="font-weight: 400;"> your students a message that you are taking a break from teaching. If necessary, cancel the lessons or packages that you have with them.   </span>
+</li>
+</ul>
+<p> </p>
+<h3><strong>4. If you are away for a very long time</strong></h3>
+<p><span style="font-weight: 400;">If you </span><strong>do not log in once for more than 3 months</strong><span style="font-weight: 400;">, your profile will be automatically deactivated. If you wish to begin teaching again, you will need to </span><a href="https://teach.italki.com/application" target="_blank" rel="noopener">resubmit an application</a>. (A<span style="font-weight: 400;">ll your profile information and lesson history are saved.)</span></p>
+</div>
+<footer></footer>

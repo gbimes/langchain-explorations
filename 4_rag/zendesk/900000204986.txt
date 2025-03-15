@@ -1,0 +1,64 @@
+<h1>Teacher Uploading Video Workflow</h1>
+<div></div>
+<div><span class="wysiwyg-font-size-large"><strong>EASY Workflow:</strong></span></div>
+<div>1. A teacher uploads a video. If uploaded successfully, ↓</div>
+<div>2. Video stored on italki local server (<strong>Qiniu</strong>), <strong>pending for approval</strong>. <br>(<strong style="font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', Helvetica, Arial, sans-serif;">Decoding in Qiniu &gt; Decoded Succeed &gt; OMS to approve)</strong>If approved ↓</div>
+<div>3. Video's displayed on Teacher's Profile page. Pending to sync to <strong>italki YouTube Channel</strong>. <br>If Synced to YouTube ↓</div>
+<div>4. Video can be found both on teacher's <strong>Profile Page</strong> and <strong>YouTube</strong>. End of Workflow</div>
+<div></div>
+<div><strong><span class="wysiwyg-font-size-large">EXPLANATION:</span></strong></div>
+<div><strong>1&amp;2.</strong></div>
+<div>When a teacher uploads a video, it will be saved to our Chinese local server (<strong>Qiniu</strong>), pending to be approved/declined.</div>
+<div>Once successfully <strong>uploaded</strong>, the video link can be found on the Teacher Profile page here:</div>
+<div><img src="https://support.italki.com/hc/article_attachments/900000340706/mceclip1.png" alt="mceclip1.png"></div>
+<div>If a teacher <strong>claims</strong> he/she uploaded a video but is uncertain whether it's successfully uploaded, check if there is a link above or check status here:</div>
+<div><a href="https://omsv2.italki.com/teacher/uploaded-video">https://omsv2.italki.com/teacher/uploaded-video</a></div>
+<div><img src="https://support.italki.com/hc/article_attachments/900000340806/mceclip2.png" alt="mceclip2.png"></div>
+<div></div>
+<div>3. When the video is <strong>approved yet not synced to YouTube</strong>, the video looks like this on Teacher's Profile Page.</div>
+<p><img src="https://support.italki.com/hc/article_attachments/900000340666/mceclip0.png" alt="mceclip0.png"></p>
+<p> </p>
+<p>4. <strong>There are around 10 videos synced from Qiniu to YouTube daily. </strong></p>
+<p>When the video is synced from italki to YouTube, technically there are 2 copies of the video on both italki and YouTube. Users in China will be watching the video from italki (Local Server <strong>Qiniu</strong>), while overseas users are watching it on YouTube.</p>
+<p>OMS looks like this (uploaded to italki.cn first, then successfully synced to YouTube):</p>
+<p><img style="font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', Helvetica, Arial, sans-serif;" src="https://support.italki.com/hc/article_attachments/900000340906/mceclip4.png" alt="mceclip4.png">Now, videos are available to watch for both <strong>italki.com</strong> and <strong>italki.cn</strong> users.</p>
+<p>if you are<strong> italki.com</strong> user, the video looks like this on Teacher's Profile (with an italki icon and the YouTube link). </p>
+<p><img src="https://support.italki.com/hc/article_attachments/900000340826/mceclip3.png" alt="mceclip3.png"></p>
+<p><strong>P.S,</strong> if we are asked to change the <strong>thumbnail</strong> for a teacher, the video has to be <strong>synced to YouTube</strong> first so that we can edit it.</p>
+<p> </p>
+<p>There is an <span class="wysiwyg-font-size-large"><strong>exceptional</strong> case.</span></p>
+<p>For early joiners of italki, teachers were not asked to upload a video but to use their own video links (vimeo, YouTube, Youku etc.)</p>
+<p>Example A:</p>
+<p><img src="https://support.italki.com/hc/article_attachments/900000340946/mceclip5.png" alt="mceclip5.png"></p>
+<p>Example B:</p>
+<p><img src="https://support.italki.com/hc/article_attachments/900000346583/mceclip6.png" alt="mceclip6.png"></p>
+<p>The order of displaying a teacher's video on Profile page:</p>
+<p><strong>italki.com Users:</strong> <br>Teacher's own YouTube video (if applicable) &gt; italki YouTube video &gt; video on Qiniu</p>
+<p><strong>italki.cn Users:</strong> <br>video on Qiniu.</p>
+<p> </p>
+<p><strong><span class="wysiwyg-font-size-large">TROUBLESHOOTING:</span></strong></p>
+<p><strong>1. Videos</strong> that failed to be synced to YouTube will NOT be automatically pushed to sync again. Report Bug or contact Vincent Zhou / Issac Chen</p>
+<p><strong>2. An</strong> error message like this means the video HAS been uploaded to YouTube but due to some reasons not returning correct information to OMS.</p>
+<p><img src="https://support.italki.com/hc/article_attachments/900000341746/mceclip0.png" alt="mceclip0.png"></p>
+<p>Copy the 11-digit ID to YouTube you should be able to see the successfully uploaded video:</p>
+<p><img src="https://support.italki.com/hc/article_attachments/900000341806/mceclip1.png" alt="mceclip1.png"></p>
+<p>Manually paste it to OMS to force the video to be displayed on Teacher's Profile page.</p>
+<p><img src="https://support.italki.com/hc/article_attachments/900000341866/mceclip2.png" alt="mceclip2.png"></p>
+<p><strong>RISK:</strong></p>
+<p><strong>italki.cn</strong> user might not be able to see the YouTube video.</p>
+<p>This is a temp solution. NOT recommended if unnecessary. <strong>Report a bug and follow up, please.</strong></p>
+<p> </p>
+<p>3. <strong>Teachers </strong>see "100% Completed" only but don't know the actual status of the video. </p>
+<p> <img src="https://support.italki.com/hc/article_attachments/900000578643/_______15844574522364_1_.png" alt="_______15844574522364_1_.png"></p>
+<p>The status in the backend could be:</p>
+<p><strong>3.1 Decoding in Qiniu.</strong> Case Ticket: <span data-sheets-value='{"1":2,"2":"https://italki.zendesk.com/agent/tickets/352700"}' data-sheets-userformat='{"2":2689,"3":{"1":0},"10":1,"12":0,"14":{"1":2,"2":9961472}}' data-sheets-hyperlink="https://italki.zendesk.com/agent/tickets/352700"><a class="in-cell-link" href="https://support.italki.com/agent/tickets/352700" target="_blank" rel="noopener">https://italki.zendesk.com/agent/tickets/352700</a></span></p>
+<p><strong>3.2 Decoding failed</strong>. Case Ticket: <span data-sheets-value='{"1":2,"2":"https://italki.zendesk.com/agent/tickets/352984"}' data-sheets-userformat='{"2":2689,"3":{"1":0},"10":1,"12":0,"14":{"1":2,"2":9961472}}' data-sheets-hyperlink="https://italki.zendesk.com/agent/tickets/352984"><a class="in-cell-link" href="https://support.italki.com/agent/tickets/352984" target="_blank" rel="noopener">https://italki.zendesk.com/agent/tickets/352984</a></span></p>
+<p><strong>3.3 Decoded succeed. </strong> Case Ticket: <a href="https://support.italki.com/agent/tickets/352663">https://italki.zendesk.com/agent/tickets/352663</a></p>
+<p>All cases:</p>
+<p><a href="https://docs.google.com/spreadsheets/d/1X5Ul0wE-3DCHEOgVybQZXXnNRky4SMzIeDE9qnx1zLs/edit#gid=0">https://docs.google.com/spreadsheets/d/1X5Ul0wE-3DCHEOgVybQZXXnNRky4SMzIeDE9qnx1zLs/edit#gid=0</a></p>
+<p> </p>
+<p><span class="wysiwyg-font-size-large"><strong>REFERENCE: Tech Documents about Video Workflow</strong></span></p>
+<p><a href="https://xconfluence.italki.cn/pages/viewpage.action?pageId=31459171">https://xconfluence.italki.cn/pages/viewpage.action?pageId=31459171</a></p>
+<p> </p>
+<p> </p>
+<p> </p>

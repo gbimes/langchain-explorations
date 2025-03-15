@@ -1,0 +1,26 @@
+<h1>Release Notes Through 2021-02-03 - Cmnty Update - Internal Reference </h1>
+<div class="article-meta">Below is the content of <strong>Release Notes Public for all users:</strong>
+</div>
+<div class="article-meta">
+<a href="https://support.italki.com/hc/en-us/articles/900004054086">https://support.italki.com/hc/en-us/articles/900004054086</a> </div>
+<div class="article-meta"></div>
+<div class="article-meta">
+<h2><strong>on the italki Community Desktop Web version</strong></h2>
+<p><strong>User can Create &amp; delete Post/Exercise/Question</strong></p>
+<ul>
+<li style="font-weight: 400;" aria-level="1"><span style="font-weight: 400;">Entry points: For You, Exercises, Questions, Following page</span></li>
+<li style="font-weight: 400;" aria-level="1"><span style="font-weight: 400;">Web supports the same editing functions as App, except for audio recording</span></li>
+</ul>
+<p><span style="font-weight: 400;">User can use all responses (comment/correct/answer, reply, upvote) &amp; follow</span><span style="font-weight: 400;"></span></p>
+<p><strong>Where are "My Posts"?</strong></p>
+<p><span style="font-weight: 400;">Entry points: Dashboard, User Profile page</span></p>
+<p><strong>User Profile changes</strong></p>
+<p><span style="font-weight: 400;">replace old cmty section with new cmty activities</span></p>
+<p><strong>Added Event tracking</strong></p>
+<br>
+<h2><strong>on the italki Community Mobile Web version</strong></h2>
+<ul>
+<li style="font-weight: 400;" aria-level="1"><span style="font-weight: 400;">users can follow/upvote on mobile web</span></li>
+<li style="font-weight: 400;" aria-level="1"><span style="font-weight: 400;">when click to create content/add comment/reply, direct to open/download App</span></li>
+</ul>
+</div>

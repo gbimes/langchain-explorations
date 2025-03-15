@@ -1,0 +1,229 @@
+<h1>Introduction video guidelines and requirements </h1>
+<p class="wysiwyg-text-align-center" dir="ltr"><span style="font-weight: 400;"><iframe src="//www.youtube-nocookie.com/embed/FtQg9ltv7AM" width="560" height="315" frameborder="0" allowfullscreen=""></iframe></span></p>
+<p class="wysiwyg-text-align-center" dir="ltr"> </p>
+<h2 class="wysiwyg-text-align-left"><strong>Guidelines:</strong></h2>
+<ul>
+<li>You must appear in the video.</li>
+<li>Your video should be between 1 to 3 minutes.</li>
+<li>You must speak all the languages that you want to teach.</li>
+<li>DO NOT:
+<ul>
+<li>Provide personal contact information</li>
+<li>Advertise or promote other services</li>
+<li>Use copyrighted music or any media for which you do not have the rights</li>
+<li>Shoot vertical or square videos. The video aspect ratio should be 16:9 to achieve the best effect.</li>
+</ul>
+</li>
+</ul>
+<p> </p>
+<h2 class="wysiwyg-text-align-left"><span style="font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', Helvetica, Arial, sans-serif;"><strong>Detailed requirements:</strong></span></h2>
+<p><span class="wysiwyg-underline"><span class="wysiwyg-font-size-large"><strong style="font-size: large;">Video shape</strong></span></span></p>
+<p><strong style="font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', Helvetica, Arial, sans-serif;"><img src="https://support.italki.com/hc/article_attachments/36793315492121" alt="video_guide.jpg" width="702" height="351"></strong></p>
+<table dir="ltr" border="1" cellspacing="0" cellpadding="0">
+<colgroup>
+<col width="358">
+<col width="358">
+</colgroup>
+<tbody>
+<tr>
+<td data-sheets-value='{"1":2,"2":"GOOD:"}'><strong>Do:</strong></td>
+<td data-sheets-value='{"1":2,"2":"BAD:"}'><strong>Do not:</strong></td>
+</tr>
+<tr>
+<td data-sheets-value='{"1":2,"2":"Do: Shoot a horizontal video.\nDo: Put your camera/mobile phone on the level with your eyes and look into the camera/mobile phone.\nDo: Put the camera/mobile phone on a stable surface or use a tripod to keep the video still."}'>
+<ul>
+<li>Shoot a horizontal video</li>
+<li>Put your camera/mobile phone on the level with your eyes and look into the camera/mobile phone</li>
+<li>Put the camera/mobile phone on a stable surface or use a tripod to keep the video still</li>
+</ul>
+</td>
+<td data-sheets-value='{"1":2,"2":"Do not: Shoot a vertical or square video.\nDo not: Put the camera/mobile phone below your face and talk down to it.\nDo not: Hold the camera/mobile phone with your hands or allow the camera/mobile phone to shake."}'>
+<ul>
+<li>Shoot a vertical or square video</li>
+<li>Put the camera/mobile phone below your face and talk down to it</li>
+<li>Hold the camera/mobile phone with your hands or allow the camera/mobile phone to shake</li>
+</ul>
+</td>
+</tr>
+</tbody>
+</table>
+<p> </p>
+<p class="wysiwyg-text-align-left"><span class="wysiwyg-underline"><span class="wysiwyg-font-size-large"><strong style="font-size: large;">Lighting</strong></span></span></p>
+<table dir="ltr" border="1" cellspacing="0" cellpadding="0">
+<colgroup>
+<col width="358">
+<col width="358">
+</colgroup>
+<tbody>
+<tr>
+<td data-sheets-value='{"1":2,"2":"Do:"}'><strong>Do:</strong></td>
+<td data-sheets-value='{"1":2,"2":"Do not:"}'><strong>Do not:</strong></td>
+</tr>
+<tr>
+<td data-sheets-value='{"1":2,"2":"Do: Use natural daylight or powerful lamp lighting from the FRONTEven better: Complimentary light from behind + 45 degrees"}'>
+<ul>
+<li>Use natural daylight or powerful lamp lighting from the FRONT</li>
+<li>Even better: Complimentary light from behind + 45 degrees</li>
+</ul>
+</td>
+<td data-sheets-value='{"1":2,"2":"Do not: Record at night with poor lighting.Do not: Record with strong lights or lamps behind you."}'>
+<ul>
+<li>Record at night with poor lighting</li>
+<li>Record with strong lights or lamps behind you</li>
+</ul>
+</td>
+</tr>
+</tbody>
+</table>
+<p class="wysiwyg-text-align-left"> </p>
+<p class="wysiwyg-text-align-left"><span class="wysiwyg-underline"><span class="wysiwyg-font-size-large"><strong>Sound</strong></span></span></p>
+<table dir="ltr" border="1" cellspacing="0" cellpadding="0">
+<colgroup>
+<col width="358">
+<col width="358">
+</colgroup>
+<tbody>
+<tr>
+<td data-sheets-value='{"1":2,"2":"Do:"}'><strong>Do:</strong></td>
+<td data-sheets-value='{"1":2,"2":"Do not:"}'><strong>Do not:</strong></td>
+</tr>
+<tr>
+<td data-sheets-value='{"1":2,"2":"Do: Use quiet surroundings and speak in a clear voice.Even better: Using a field recorder or speak into a microphone."}'>
+<ul>
+<li>Use quiet surroundings and speak in a clear voice</li>
+<li>Even better: Using a field recorder or speak into a microphone</li>
+</ul>
+</td>
+<td data-sheets-value='{"1":2,"2":"Do not: Place microphone very close to mouth (causes \"beatboxy\" noises and distortion).Do not: Place microphone too far away from mouth (too quiet).Do not: Allow wind or any other distracting background noise."}'>
+<ul>
+<li>Place microphone very close to the mouth (causing "beatbox" noises and distortion)</li>
+<li>Place microphone too far away from mouth (too quiet)</li>
+<li>Allow wind or any other distracting background noise</li>
+</ul>
+</td>
+</tr>
+</tbody>
+</table>
+<p> </p>
+<p class="wysiwyg-text-align-left"><span class="wysiwyg-underline"><span class="wysiwyg-font-size-large"><strong>Background</strong></span></span></p>
+<table dir="ltr" border="1" cellspacing="0" cellpadding="0">
+<colgroup>
+<col width="358">
+<col width="358">
+</colgroup>
+<tbody>
+<tr>
+<td data-sheets-value='{"1":2,"2":"Do:"}'><strong>Do:</strong></td>
+<td data-sheets-value='{"1":2,"2":"Do not:"}'><strong>Do not:</strong></td>
+</tr>
+<tr>
+<td data-sheets-value='{"1":2,"2":"Do: Use a clean and tidy study room or classroomEven better: something that represents your language or country"}'>
+<ul>
+<li>Use a clean and tidy study room or classroom</li>
+<li>Even better: something that represents your language or country</li>
+</ul>
+</td>
+<td data-sheets-value='{"1":2,"2":"Do not: Show moving or distracting things ­in the background (other people, etc).Do not: Use An overly busy or “chaotic” backgroundDo not: Show any commercial logo in the background"}'>
+<ul>
+<li>Show moving or distracting things ­in the background (other people, etc)</li>
+<li>Use an overly busy or chaotic” background</li>
+<li>Show any commercial logo in the background</li>
+</ul>
+</td>
+</tr>
+</tbody>
+</table>
+<p> </p>
+<p class="wysiwyg-text-align-left"><span class="wysiwyg-font-size-large"><strong><span class="wysiwyg-underline">Editing (optional)</span></strong></span></p>
+<table dir="ltr" border="1" cellspacing="0" cellpadding="0">
+<colgroup>
+<col width="358">
+<col width="358">
+</colgroup>
+<tbody>
+<tr>
+<td data-sheets-value='{"1":2,"2":"Do:"}'><strong>Do:</strong></td>
+<td data-sheets-value='{"1":2,"2":"Do not:"}'><strong>Do not:</strong></td>
+</tr>
+<tr>
+<td data-sheets-value='{"1":2,"2":"Do: Add subtitles."}'>
+<ul>
+<li>Add subtitles</li>
+</ul>
+</td>
+<td data-sheets-value='{"1":2,"2":"Do not: Post your personal contact information in the video.Do not: Use logos or advertisements from other companies or services.Do not: Add loud music that makes it difficult to hear your voice."}'>
+<ul>
+<li>Post your personal contact information in the video</li>
+<li>Use logos or advertisements from other companies or services</li>
+<li>Add loud music that makes it difficult to hear your voice</li>
+</ul>
+</td>
+</tr>
+</tbody>
+</table>
+<p> </p>
+<h2><strong><span class="wysiwyg-font-size-x-large"><span style="font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', Helvetica, Arial, sans-serif;">How do I make a teacher introduction video?</span></span><span style="font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', Helvetica, Arial, sans-serif;"> </span></strong></h2>
+<h3><span class="wysiwyg-font-size-large">1. Watch some good examples</span></h3>
+<table style="border-collapse: collapse; width: 100%; height: 117px;" border="1">
+<tbody>
+<tr style="height: 51px;">
+<td style="width: 50%; height: 51px;">
+<p><a href="https://youtu.be/m3AKA5z4m8Q" target="_blank" rel="noopener noreferrer">Learn Italian on italki with Alice</a></p>
+<p><a href="https://www.youtube.com/watch?v=hB8FR7O4jzI&amp;feature=youtu.be" target="_blank" rel="noopener noreferrer">Learn Arabic on italki with Sara</a></p>
+</td>
+<td style="width: 50%; height: 51px;">It isn’t difficult to create a basic video that leaves a good impression.</td>
+</tr>
+<tr style="height: 44px;">
+<td style="width: 50%; height: 44px;">
+<p><a href="https://www.youtube.com/watch?v=nDJHwfOwf7U" target="_blank" rel="noopener noreferrer">Learn French on italki with Lucas</a></p>
+<p><a href="https://youtu.be/pWM1tgv_khk" target="_blank" rel="noopener noreferrer">Learn English on italki with Regan</a></p>
+</td>
+<td style="width: 50%; height: 44px;">Choosing a nice setting for your video or adding subtitles helps a lot! </td>
+</tr>
+<tr style="height: 22px;">
+<td style="width: 50%; height: 22px;">
+<p><a href="https://vimeo.com/173981570" target="_blank" rel="noopener noreferrer">Learn Portuguese on italki with Getulio</a></p>
+<p><a href="https://www.youtube.com/watch?v=s_MMyeS9PTk" target="_blank" rel="noopener noreferrer">Learn French on italki with Anaïs</a></p>
+</td>
+<td style="width: 50%; height: 22px;">Extra planning and editing can really make your video stand out to new students.</td>
+</tr>
+</tbody>
+</table>
+<p> </p>
+<h3><span class="wysiwyg-font-size-large">2. What should you say?</span></h3>
+<p>Create a script and practice.</p>
+<ul>
+<li>
+<strong>Who are you<br></strong>Introduce yourself. What is your name, and what languages do you speak? Your credentials, work experience, or other interesting backgrounds.</li>
+</ul>
+<ul>
+<li>
+<strong>What are your lessons like?<br></strong>What do you enjoy about teaching, do you have a preferred method, and what is your attitude towards language teaching? You might include specific details about the activities you do during lessons, show materials you use, or teach potential students their first word or phrase!</li>
+</ul>
+<ul>
+<li>
+<strong>Show your personality</strong>
+<ul>
+<li>
+<strong>Smile</strong> - Make students feel welcome to your online classes!</li>
+<li>
+<strong>Be yourself</strong> - Show or tell something interesting about yourself. Do you have special hobbies that students might enjoy discussing with you? Choose clothing or background that really represents you. </li>
+</ul>
+</li>
+</ul>
+<h3>3. Some other tips</h3>
+<ul>
+<li>
+<strong>Be natural</strong> - Do not read directly from a script! Look into the camera, make it as though you are speaking directly to your student.</li>
+<li>
+<strong>Speak in all the languages in which you are fluent</strong> - You don’t need to say the same thing again in every language, but you can move from one language to the next as you speak. We recommend adding subtitles so that students can more easily tell what you are saying in each language.</li>
+<li>
+<strong>Think of your students</strong> - The care you take in preparing for your video shows students not only what you think of yourself, but how they can expect you to prepare for your classes with them.</li>
+<li>
+<strong>Mention italki</strong> - Doing this and adding a link to your teacher profile in the description will help people find and book your classes on italki. </li>
+<li>
+<strong>Dress appropriately </strong>- Smart casual is acceptable, remember that 1st impressions count</li>
+</ul>
+<h3>
+<span class="wysiwyg-font-size-large">4. Record and upload your video to italki</span> </h3>
+<p>Read more: <a href="https://support.italki.com/hc/en-us/articles/212496758-How-do-I-record-and-upload-a-video-to-Youtube-" target="_blank" rel="noopener">How do I record and upload a video to italki?</a></p>

@@ -1,0 +1,29 @@
+<h1>I really need to get paid now! Can italki process my withdrawal quickly?</h1>
+<p>If you need to make an express withdrawal and you do not wish to proceed with the <span class="wysiwyg-underline"><a href="https://support.italki.com/hc/en-us/articles/206351868-I-ve-submitted-my-withdrawal-request-When-will-I-receive-my-payment-" target="_blank" rel="noopener">normal withdrawal process</a></span>, italki offers an option in which we will pay you quickly (usually within 24 hours to 48 hours) after making the request.  </p>
+<p><span class="wysiwyg-underline"><em><span class="wysiwyg-color-black">Please note: Express Withdrawal is only available for Payoneer (not Bank Transfer) and PayPal Payments.  You must have <strong>3 successful withdrawals</strong> <strong>under the same withdrawal method</strong> to be eligible to apply for express withdrawal <strong>with the same withdrawal account and method</strong>. We are currently unable to process Express Withdrawal requests for Bank Transfers or Bank Transfer(by Payoneer).</span></em></span></p>
+<p> </p>
+<p>You can only make an express withdrawal when your withdrawal status is <strong>P</strong><strong>ending Approval</strong>. If you want to make an express withdrawal when it is <strong>Payment Pending</strong>, please contact italki to cancel the withdrawal first and then you resubmit a new withdrawal on your own and make it an express one. </p>
+<div class="table-responsive">
+<table border="0">
+<tbody>
+<tr>
+<td>
+<p>There is a <strong>service charge of $10 USD </strong>in italki Credits for Express Withdrawals.  These credits will be deducted from the amount you have requested. All normal service charges from Payment Providers will also be applied.</p>
+<p>The express withdrawal for PayPal is using <strong>PayPal *Mass Pay </strong>to transfer the money. <a href="http://support.italki.com/hc/en-us/articles/206351818" target="_blank" rel="noopener noreferrer">Read more</a> </p>
+</td>
+</tr>
+</tbody>
+</table>
+</div>
+<h4> </h4>
+<h3>How to make an Express Withdrawal</h3>
+<p>1. <a style="background-color: #ffffff;" href="https://teach.italki.com/finance/withdraw" target="_self">Submit a withdrawal request</a> for the number of credits you would like to express withdraw, as normal.</p>
+<p><img src="https://support.italki.com/hc/article_attachments/360040126194/withdraw.jpeg" alt="withdraw.jpeg" width="534" height="129"></p>
+<p>2. Edit the amount, select the withdrawal type as "express withdrawal" and choose the withdrawal method (PayPal or Payoneer). Then click "Next".</p>
+<p><img src="https://support.italki.com/hc/article_attachments/360040955853/express_withdrawal_.jpeg" alt="express_withdrawal_.jpeg" width="527" height="212"></p>
+<p>* Please note that you can only make an express withdrawal when your withdrawal status is <strong>Pending Approval</strong>.</p>
+<p>If you want to make an express withdrawal when it is <strong>Payment Pending</strong>, please contact italki to cancel the withdrawal first and then resubmit a new withdrawal on your own and make it an express one. </p>
+<p> </p>
+<p>3. Check that you accept the terms below, tick the boxes, enter your italki password and submit your express withdrawal request.</p>
+<p><img src="https://support.italki.com/hc/article_attachments/360040126234/confirm.jpeg" alt="confirm.jpeg" width="521" height="388"></p>
+<p>After you have submitted your express withdrawal request, our payment team will process it and the money should be deposited into your account soon!</p>

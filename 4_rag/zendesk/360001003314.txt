@@ -1,0 +1,98 @@
+<h1>SOP of Handling TMS Reports and Tickets - Expired Lesson Requests</h1>
+<p>italki Teacher <span style="color: #333333; font-family: Arial, sans-serif; font-size: 14px; font-style: normal; font-variant-ligatures: normal; font-variant-caps: normal; font-weight: 400; letter-spacing: normal; orphans: 2; text-align: left; text-indent: 0px; text-transform: none; white-space: normal; widows: 2; word-spacing: 0px; -webkit-text-stroke-width: 0px; background-color: #ffffff; text-decoration-style: initial; text-decoration-color: initial; display: inline !important; float: none;">Missed Lessons and Lesson Requests</span> System Ticketing for Expired Lesson Requests by Tier 2 - Teachers group.</p>
+<p>Reference: <a href="https://xconfluence.italki.com/display/TEA/TMS+tickets+SOP">TMS ticketing SOP in Jira</a></p>
+<h2><strong>Procedure</strong></h2>
+<p>When a ticket comes in and it is in regards to Teachers have expired lesson requests and their profile has been hidden who been caught by the Teacher <span style="color: #333333; font-family: Arial, sans-serif; font-size: 14px; font-style: normal; font-variant-ligatures: normal; font-variant-caps: normal; font-weight: 400; letter-spacing: normal; orphans: 2; text-align: left; text-indent: 0px; text-transform: none; white-space: normal; widows: 2; word-spacing: 0px; -webkit-text-stroke-width: 0px; background-color: #ffffff; text-decoration-style: initial; text-decoration-color: initial; display: inline !important; float: none;">Missed Lessons and Lesson Requests</span> System (TMS):</p>
+<p>You need to <strong>first check the status of that teacher on OMSV2</strong>.</p>
+<ol>
+<li>Find teacher report by ID/email in the OMS list: <a href="https://omsv2.italki.com/teacher/reviewlist">https://omsv2.italki.com/teacher/reviewlist</a><br><br><img src="https://support.italki.com/hc/article_attachments/360001112193/1.png" alt="1.png" width="564" height="242">
+</li>
+</ol>
+<p> </p>
+<h2><strong>How to Solve out the Ticket for TMS First, Second, and Third Reports:</strong></h2>
+<p>Check the <strong>lesson details</strong> and <strong>message history</strong>.  Read what happened between the Student and the Teacher.  Did the Teacher leave any messages?<br><img src="https://support.italki.com/hc/article_attachments/360001112173/2.png" alt="2.png" width="566" height="173"></p>
+<p>You now have the option to:</p>
+<ul>
+<li>
+<strong>Dismiss the report:</strong>
+<ul>
+<li>If the teacher responded to the student in the lesson messages but didn't accept, decline, or change the lesson time or price<br><em>Use Macro: Teacher:: TMS Lesson Request Expiration (lesson message response only)</em>
+</li>
+<li>Health problems<br><em>Use Macro: Teacher:: TMS Lesson Request Expiration (Teacher Sick)</em>
+</li>
+<li>Was afraid to decline the request<br><em>Use Macro: Teacher:: TMS Lesson Request Expiration (Afraid to </em><em>Decline)</em>
+</li>
+</ul>
+</li>
+</ul>
+<ol>
+<li>Paste the ticket link to the admin log (in the popup window)</li>
+<li>Reply to the teacher using the<strong> Macros </strong>above. (adjust the email accordingly)</li>
+</ol>
+<p> </p>
+<ul>
+<li>
+<strong>Record the report:</strong>
+<ul>
+<li>If the teacher didn't respond to or message the student or communicate with the student before the request expired<br><em>Use Macro: Teacher: TMS Lesson Request Expiration (No Excuse)</em>
+</li>
+</ul>
+</li>
+</ul>
+<ol>
+<li>Paste the ticket link to the admin log (in the popup window)</li>
+<li>Reply to the teacher using the<strong> Macro</strong> above. (adjust the email accordingly)</li>
+</ol>
+<p> </p>
+<p><strong><span class="wysiwyg-font-size-large">Escalated TMS Tickets - Escalated Teachers - Fourth Reports</span></strong></p>
+<ul>
+<li>4th report (Teacher Status will be set to <em>"I'm not looking for new students"</em> and teacher won't be able to change it unless they contact Support): Escalate to Tier 2 - Teachers</li>
+<li>Teachers who are angry about having to respond in 48 hours<br><em>Use Macro: Teacher:: TMS Lesson Request Expiration (Angry - 48 hours unreasonable)</em>
+</li>
+</ul>
+<p> </p>
+<p><strong>Reset report number:<br></strong>If there is a situation that requires resetting all the report number for a teacher, Escalated Teachers Team can do it on this page: <a href="https://omsv2.italki.com/teacher/reviewlist">https://omsv2.italki.com/teacher/reviewlist</a>.<br><br>Click the three dots to find the option RESET #MISSED REQUEST or #MISSED ATTENDANCE<br><br> <img src="https://support.italki.com/hc/article_attachments/360002097373/reset.png" alt="reset.png" width="278" height="93"></p>
+<p>Please note, only after the reports that have been processed, then the total number can be reset.</p>
+<p> </p>
+<h2><strong>Templates</strong></h2>
+<p><strong>Template A: Teacher only responded to the lesson message</strong></p>
+<p><span style="font-weight: 400;">Thank you for reaching out to us. </span><span style="font-weight: 400;">Your response has been received. </span></p>
+<p><span style="font-weight: 400;">Please note, a teacher will need to</span></p>
+<ul>
+<li style="font-weight: 400;"><span style="font-weight: 400;">Accepting the lesson request</span></li>
+<li style="font-weight: 400;"><span style="font-weight: 400;">Declining the lesson request (please also send a message to the student to explain)</span></li>
+<li style="font-weight: 400;"><span style="font-weight: 400;">Modifying the details (the student must accept or decline the modification)</span></li>
+</ul>
+<p><span style="font-weight: 400;">within 48 hours (or the lesson start time, whichever comes sooner). Otherwise, the request will expire. The lesson message does not count as a response. </span></p>
+<ul>
+<li style="font-weight: 400;">
+<span style="font-weight: 400;">Expired Lesson Request Policy: </span><span style="font-weight: 400;"><a href="https://support.italki.com/hc/en-us/articles/115004765033-What-happens-if-I-did-not-respond-to-a-lesson-request-">What happens if I did not respond to a lesson request?</a></span>
+</li>
+</ul>
+<p><span style="font-weight: 400;">If you do not respond in any of these ways, then the lesson request will expire.</span></p>
+<p><span class="wysiwyg-color-black"><span style="font-weight: 400;">We have gone ahead and dismissed the report just for this time. </span></span>When you are ready to accept new requests, you can activate your teaching profile<span style="font-weight: 400;">: </span><strong>Teacher Profile</strong><span style="font-weight: 400;"> &gt; </span><strong>Teacher Status</strong><span style="font-weight: 400;"> &gt; click the “pencil” icon to edit your status to</span><strong> “I’m looking for new students”.</strong></p>
+<p><span style="font-weight: 400;">If you want to take a break from italki, please learn more: <a href="https://support.italki.com/hc/en-us/articles/206352188-I-need-to-take-a-break-from-teaching-on-italki-What-do-I-do-" target="_blank" rel="noopener">I need to take a break from teaching on italki. What do I do? </a></span></p>
+<p><span style="font-weight: 400;">Kind Regards,</span></p>
+<p> </p>
+<p><strong>Template B: Health issues</strong></p>
+<p><strong><span style="font-weight: 400;">Thank you for reaching out to us. </span><span style="font-weight: 400;">Your response has been received.</span></strong></p>
+<p><span style="font-weight: 400;">I have checked your reports. It shows you were unable to accept these students' lesson requests or attend the lessons because you were sick.</span><span style="font-weight: 400;"><br></span><span style="font-weight: 400;"><br></span><span style="font-weight: 400;">For lesson requests, if you are not able to accept them because of sickness or other reasons, you'll still need to decline them, otherwise they would expire and you'll receive a response mark.</span><span style="font-weight: 400;"><br></span></p>
+<p><span style="font-weight: 400;">Teachers receive notifications on italki and emails of new lesson requests, so italki expects that teachers will be attentive and respond promptly by:</span></p>
+<ul>
+<li style="font-weight: 400;"><span style="font-weight: 400;">Accepting the lesson request</span></li>
+<li style="font-weight: 400;"><span style="font-weight: 400;"><strong>Declining the lesson request</strong> (please also send a message to the student to explain)</span></li>
+<li style="font-weight: 400;"><span style="font-weight: 400;">Modifying the details (the student must accept or decline the modification)</span></li>
+</ul>
+<p><span style="font-weight: 400;">If you do not respond in any of these ways, then the lesson request will expire.</span></p>
+<p><span style="font-weight: 400;">For attendance, if you have already told your student beforehand that you would not be able to give the lesson, please choose (or ask your student to choose) the reason "Reached a prior agreement" instead of "The teacher did not attend the lesson", which will give you an attendance mark.</span></p>
+<p><span class="wysiwyg-color-black"><span style="font-weight: 400;">We have gone ahead and dismissed the report just for this time. </span></span>When you are ready to accept new requests, you can activate your teaching profile<span style="font-weight: 400;">: </span><strong>Teacher Profile</strong><span style="font-weight: 400;"> &gt; </span><strong>Teacher Status</strong><span style="font-weight: 400;"> &gt; click the “pencil” icon to edit your status to</span><strong> “I’m looking for new students”.</strong></p>
+<p>If you want to take a break on italki, please learn more: <a href="https://support.italki.com/hc/en-us/articles/206352188-I-need-to-take-a-break-from-teaching-on-italki-What-do-I-do-" target="_blank" rel="noopener">I need to take a break from teaching on italki. What do I do? </a></p>
+<p><span style="font-weight: 400;">Kind Regards,</span></p>
+<p><span style="font-weight: 400;"><br></span><strong>Template C: Technical issues</strong></p>
+<p><span style="font-weight: 400;">Thank you very much for your response.</span></p>
+<p><span style="font-weight: 400;">It seems your response to these two lesson requests didn't go through as the system shows both actually expired. I guess something was not perhaps working properly with the app.</span><span style="font-weight: 400;"><br></span><span style="font-weight: 400;"><br></span><span class="wysiwyg-color-black60"><em><span style="font-weight: 400;">#7378379087</span><span style="font-weight: 400;"><br></span><span style="font-weight: 400;">2018-02-10 20:36</span><span style="font-weight: 400;"><br></span><span style="font-weight: 400;">[2]This lesson request has expired.</span><span style="font-weight: 400;"><br></span><span style="font-weight: 400;">2018-02-08 20:33</span><span style="font-weight: 400;"><br></span><span style="font-weight: 400;">[0]Student sent a new lesson request.</span><span style="font-weight: 400;"><br></span></em></span><span style="font-weight: 400;"><br></span><span style="font-weight: 400;">This is a reminding message so it won't affect your profile visibility or status. I'm also going to dismiss this report as it looks like a technical issue. </span></p>
+<p><span style="font-weight: 400;"><br>In the future, we suggest that you may refresh the page after you responded to the lesson request just to double check. And hopefully this issue can be avoided. </span></p>
+<p><span style="font-weight: 400;"><br></span><strong>Template D: Bugs</strong></p>
+<p><span style="font-weight: 400;">Thank you very much for your response.</span><span style="font-weight: 400;"><br></span><span style="font-weight: 400;"><br></span><span style="font-weight: 400;">I've checked this lesson record. Yes, you responded to the student and didn't get a response to your lesson detail change request. It shouldn't be an expired lesson request for you.</span><span style="font-weight: 400;"><br></span><span style="font-weight: 400;"><br></span><span style="font-weight: 400;">I've just dismissed this report from your account and will ask our tech team to fix this issue.</span></p>
+<p><span style="font-weight: 400;">Our apologies for the inconvenience this caused you.</span></p>
+<p><span style="font-weight: 400;">Best regards,</span></p>

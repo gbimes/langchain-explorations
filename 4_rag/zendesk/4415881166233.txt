@@ -1,0 +1,13 @@
+<h1>Introducing: Vocabulary</h1>
+<h2><strong>What is italki Vocabulary</strong></h2>
+<p>italki <span style="font-weight: 400;">Vocabulary allows teachers to create and share vocabulary sets with their students. </span><span style="font-weight: 400;"></span></p>
+<h2><strong>How to create italki Vocabulary</strong></h2>
+<p><span style="font-weight: 400;">Currently, you can only create vocabulary sets<strong> on the website version</strong>. </span>To create your vocabulary set, you can visit the <a href="https://teach.italki.com/dashboard" target="_blank" rel="noopener">Teacher Dashboard</a></p>
+<p><img src="https://support.italki.com/hc/article_attachments/4416233559193" alt="Screen_Shot_2022-01-29_at_10.39.57_AM.png"></p>
+<p><img src="https://support.italki.com/hc/article_attachments/4416233565849" alt="Screen_Shot_2022-01-29_at_10.44.09_AM.png" width="584" height="247"></p>
+<p><span style="font-weight: 400;">You can create vocabulary sets from scratch or use an existing set as a template to work with. Add or remove vocabulary terms to create a set you’re happy with, and then share it with your students!</span><span style="font-weight: 400;"></span></p>
+<p><span style="font-weight: 400;">After you’ve finished creating/ editing your vocabulary set you can press the “Publish” button near the top right of the page. </span></p>
+<p><span style="font-weight: 400;"><img src="https://support.italki.com/hc/article_attachments/4416241412761" alt="Screen_Shot_2022-01-29_at_10.50.23_AM.png"></span></p>
+<p><span style="font-weight: 400;">Every vocabulary set you publish goes through an automated review. If your set has been rejected it may have failed the review for violating our </span><a href="https://support.italki.com/hc/en-us/articles/206353468-The-italki-Community-Guidelines"><span style="font-weight: 400;">community guidelines</span></a><span style="font-weight: 400;">. T</span><span style="font-weight: 400;"><span>he rejected content will show on the set, and you could edit them to republish. <strong>Rejected vocabulary set will not influence your teacher profile. </strong></span></span></p>
+<h2><span style="font-weight: 400;"><span><strong>How to share a vocabulary set</strong></span></span></h2>
+<p><span style="font-weight: 400;">Once your vocabulary set has been approved and published, you can share your set by pressing the “Share” icon located at the top of your set <strong>on italki website version</strong>. <strong>App is not supported for the sharing function.</strong> You can share your set with students via italki Message, social media, or by copying the link to your clipboard. </span></p>

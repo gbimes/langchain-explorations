@@ -1,0 +1,72 @@
+<h1>What’s Ask a Teacher?</h1>
+<h3>Ask A Teacher is a new Community feature designed to help learners get corrections and answers from teachers.</h3>
+<h2 data-renderer-start-pos="384"><strong data-renderer-mark="true">For Learners:</strong></h2>
+<ol class="ak-ol" data-indent-level="1">
+<li>
+<p data-renderer-start-pos="419">Learners will be given the option to ask a teacher when they finish publishing an exercise or a question.</p>
+</li>
+<li>
+<p data-renderer-start-pos="528">Each learner who just published their post will be shown a list of 5 teachers who teach their learning language. Learners can invite all 5 teachers to help them with their exercise or question.</p>
+<div class="rich-media-item mediaSingleView-content-wrap image-center sc-hrWEMg hGklhi sc-bwCtUz iLDooz" data-layout="center" data-node-type="mediaSingle">
+<div class="sc-iQKALj cxsSjp">
+<div class="sc-cqpYsc dGuFrK" data-context-id="3723919758" data-type="file" data-node-type="media" data-width="375" data-height="812" data-id="31853399-2345-4946-8ea0-2ff3e0931bff" data-collection="contentId-3723919758" data-file-name="post detail.png" data-file-size="241995" data-file-mime-type="image/png">
+<div class="sc-hgRTRy cXCHZM" data-testid="media-card-view">
+<div>
+<div class="media-file-card-view sc-iIHSe ixlptB" data-testid="media-file-card-view" data-test-media-name="post detail.png" data-test-status="complete" data-test-progress="1"></div>
+<div class="media-file-card-view sc-iIHSe ixlptB" data-testid="media-file-card-view" data-test-media-name="post detail.png" data-test-status="complete" data-test-progress="1"><img src="https://support.italki.com/hc/article_attachments/900008629326" alt="1.PNG" width="506" height="1095"></div>
+</div>
+</div>
+</div>
+</div>
+</div>
+</li>
+</ol>
+<h2 data-renderer-start-pos="729"><strong data-renderer-mark="true">For Teachers:</strong></h2>
+<ol class="ak-ol" data-indent-level="1">
+<li>
+<p data-renderer-start-pos="745">If a learner invites you to help, you will receive a private message.<img src="https://support.italki.com/hc/article_attachments/900008629306" alt="2.PNG"><img src="https://support.italki.com/hc/article_attachments/900008629346" alt="3.PNG"></p>
+</li>
+</ol>
+<div data-layout-section="true">
+<div data-layout-column="true" data-column-width="50"></div>
+<div data-layout-column="true" data-column-width="50">
+<div class="sc-kfGgVZ jkDYQF">
+<div></div>
+<div class="sc-ibxdXY kHcKFC"></div>
+<div class="rich-media-item mediaSingleView-content-wrap image-center sc-hrWEMg hGklhi sc-bwCtUz iLDooz" data-layout="center" data-node-type="mediaSingle">
+<div class="sc-iQKALj cxsSjp">
+<div class="sc-cqpYsc dGuFrK" data-context-id="3723919758" data-type="file" data-node-type="media" data-width="375" data-height="812" data-id="d3a04c6e-66f8-4eb4-a85f-9333012eb34b" data-collection="contentId-3723919758" data-file-name="chat.png" data-file-size="18008" data-file-mime-type="image/png">
+<div class="sc-hgRTRy ikUqrV" data-testid="media-card-view">
+<div>
+<div class="media-file-card-view sc-iIHSe ixlptB" data-testid="media-file-card-view" data-test-media-name="chat.png" data-test-status="complete" data-test-progress="1"></div>
+</div>
+</div>
+</div>
+</div>
+</div>
+</div>
+</div>
+</div>
+<p data-renderer-start-pos="830"> </p>
+<p data-renderer-start-pos="832">2. You can visit the question or exercise by clicking the message. Helping learners is optional, but if you do, your answer will be highlighted with an “Invitee“ tag to let people know you helped.</p>
+<div class="rich-media-item mediaSingleView-content-wrap image-center sc-hrWEMg hGklhi sc-bwCtUz ccoDVM" data-layout="center" data-width="50" data-node-type="mediaSingle">
+<div class="sc-iQKALj xRuHQ">
+<div class="sc-cqpYsc dGuFrK" data-context-id="3723919758" data-type="file" data-node-type="media" data-width="375" data-height="995" data-id="03d4d015-0cbe-48e7-9407-58259ff4e233" data-collection="contentId-3723919758" data-file-name="post resp.png" data-file-size="204203" data-file-mime-type="image/png">
+<div class="sc-hgRTRy gTZElJ" data-testid="media-card-view">
+<div>
+<div class="media-file-card-view sc-iIHSe ixlptB" data-testid="media-file-card-view" data-test-media-name="post resp.png" data-test-status="complete" data-test-progress="1"><img src="https://support.italki.com/hc/article_attachments/900009587543" alt="4.png" width="555" height="1472"></div>
+</div>
+</div>
+</div>
+</div>
+</div>
+<h2 data-renderer-start-pos="1033"> </h2>
+<h2 data-renderer-start-pos="1033"><strong data-renderer-mark="true">Important Information:</strong></h2>
+<ul class="ak-ul" data-indent-level="1">
+<li>
+<p data-renderer-start-pos="1058">There are a lot of teachers on italki! It’s very possible that you won’t get an invitation immediately after Ask a Teacher is released.</p>
+</li>
+<li>
+<p data-renderer-start-pos="1197">Teachers who help others in the Community usually have <strong data-renderer-mark="true">higher </strong>lesson request rates. Even if you’re not invited to help through Ask a Teacher, you’re still very welcome to answer questions and correct exercises in the italki Community!</p>
+</li>
+</ul>

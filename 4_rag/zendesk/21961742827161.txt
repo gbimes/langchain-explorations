@@ -1,0 +1,36 @@
+<h1>Group Course Policy</h1>
+<p><strong>Can a student cancel a course?</strong></p>
+<p>Yes, if it's more than 24 hours before the course starts a student can cancel their spot in a course and receive credits back. However, if it's less than 24 hours before the course starts, they won't be able to cancel it.</p>
+<p> </p>
+<p><strong>What happens if the minimum number of students isn't met?</strong></p>
+<p>If the minimum number of students isn't met, the system will automatically cancel the course and refund all credits. Both students and teachers will receive a notification about the cancellation.</p>
+<p> </p>
+<p><strong>As a teacher can I cancel a course if the minimum number of students isn't met?</strong></p>
+<p>Yes, as a teacher you can cancel a course if the minimum number of students is not met 24 hours or more before the course starts, and students will receive credits back. However, if the minimum number of students is already enrolled, the teacher won't have the option to cancel the course.</p>
+<p> </p>
+<p><strong>Can a student or teacher cancel or reschedule one of the classes before the start time?</strong></p>
+<p>No, a student or teacher can not cancel or reschedule the class. The course proceeds as scheduled.</p>
+<p> </p>
+<p><strong>What happens if a student doesn't show up for a class?</strong></p>
+<p>If a student doesn't show up for a class, including due to internet issues or sickness, there won't be any refunds for the class. The course will continue as scheduled.</p>
+<p> </p>
+<p><strong>What happens if a student misbehaves?</strong></p>
+<p>If there's proof of serious violation of the italki policy, the student will be removed immediately from the course. If there's no proof, the student will be removed after the second violation, and all unused balances will be given to the teacher. For other misbehaviors, the student will receive a warning for the first time and will be removed after the second violation. All unused balances will be given to the teacher.</p>
+<p> </p>
+<p><strong>Can a student request to terminate a course?</strong></p>
+<p>A student cannot terminate a course. However, if another student is causing the issue, they will be removed. Termination is also not allowed if the student isn't satisfied with the teacher's quality. </p>
+<p> </p>
+<p><strong>Can a teacher request to terminate a course?</strong></p>
+<p>A teacher can not request to terminate a course unless the remaining student count in the course is 1.</p>
+<p> </p>
+<p><strong>What options do students have if a teacher misbehaves, no-show, or violates italki policy?</strong></p>
+<p>Students can choose to terminate the entire course and get the unused balance refunded or get the affected class refunded and continue the course. </p>
+<p> </p>
+<p><strong>What happens if the remaining student counts in the course is under the minimum student requirements but more than 1 student?</strong></p>
+<p>The course cannot be terminated, and the teacher must continue with the course. </p>
+<p> </p>
+<p><strong>What happens if the remaining student count in the course is 1?</strong></p>
+<p>The teacher or student can request to terminate the course, and any unused credits will be refunded to the student. </p>
+<p> </p>
+<p><strong>How is the unused balance calculated?</strong></p>
+<p>The unused balance is calculated as (the total credit for the course)/(total # of classes in the course) *(# of upcoming classes). For example, if the entire course is $100 for 5 lessons, 4 lessons are completed, and 1 lesson is upcoming, the unused balance will be 100/5 *(5-4) = $20.</p>

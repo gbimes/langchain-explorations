@@ -1,0 +1,32 @@
+<h1>How do I block or unblock a user?</h1>
+<h4 id="h_01EQ7EYR2A8HBEJTM9QVGB7KKC" dir="ltr"><strong>How do I block a user?</strong></h4>
+<p><span style="font-weight: 400;"><span>To avoid unwanted interactions on italki, you can block other users.</span></span></p>
+<ol>
+<li style="font-weight: 400;"><span style="font-weight: 400;">Go to the user profile page</span></li>
+<li style="font-weight: 400;">
+<span style="font-weight: 400;">Click More <img src="https://support.italki.com/hc/article_attachments/36793189021721" alt="CHROME_DOT.png" width="25" height="25"></span><span style="font-weight: 400;"> </span>
+</li>
+<li style="font-weight: 400;">
+<span style="font-weight: 400;">Select </span><strong>Block<br><img src="https://support.italki.com/hc/article_attachments/900003602506/1.6.1-block_.png" alt="1.6.1-block_.png"><br></strong>
+</li>
+<li style="font-weight: 400;"><span style="font-weight: 400;">Click <strong>Block</strong> to Confirm </span></li>
+</ol>
+<p class="wysiwyg-text-align-center" dir="ltr"><img src="https://support.italki.com/hc/article_attachments/900003541403/1.6.2-block_confirm.png" alt="1.6.2-block_confirm.png" width="432" height="234"><br><br></p>
+<p dir="ltr">You can click <strong>M</strong><span><strong>ore</strong> <img src="https://support.italki.com/hc/article_attachments/36793189021721" alt="CHROME_DOT.png" width="22" height="22"></span><span> and select <strong>Unblock</strong> if you would like to remove a user from your block list. </span></p>
+<p dir="ltr"> </p>
+<h4 id="h_01EQ7F0AH8X2MMQ0TFNRN9W85V"><strong>What will happen if I block a user?</strong></h4>
+<p dir="ltr">A blocked user will not be able to:</p>
+<ul>
+<li>Follow you</li>
+<li>Send you italki messages</li>
+<li>Schedule lessons with you if you are a teacher</li>
+<li>Reply to your community exercise/question/post</li>
+</ul>
+<h4 id="h_01EY0Q37FVGWSDTE8XC95XMZES"><strong>Find blocked users and edit the block list</strong></h4>
+<p><span style="font-weight: 400;">You can find your <strong>Block list</strong> on the italki <span class="wysiwyg-underline"><a href="https://www.italki.com/settings/account" target="_self">Settings</a></span> page under the <strong>Privacy</strong> tab. </span></p>
+<p dir="ltr"><img src="https://support.italki.com/hc/article_attachments/4402915395609/Screen_Shot_2021-06-28_at_4.25.09_PM.png" alt="Screen_Shot_2021-06-28_at_4.25.09_PM.png"></p>
+<p dir="ltr">Click <strong>Edit list</strong> to manage your Block List.</p>
+<p dir="ltr">To remove a user from your block list, click “x” next to this user, and then "save". </p>
+<p dir="ltr"><img src="https://support.italki.com/hc/article_attachments/900003542023/1.6.4x_to_remove_blocked_user.png" alt="1.6.4x_to_remove_blocked_user.png"></p>
+<p dir="ltr"><span style="font-weight: 400;">Read more about <strong><span class="wysiwyg-underline"><a href="https://support.italki.com/hc/en-us/articles/206353508" target="_blank" rel="noopener">How do I change my Privacy Settings?</a></span></strong></span></p>
+<p dir="ltr"><span>if you believe there is a violation of <span class="wysiwyg-underline"><strong><a href="http://support.italki.com/hc/en-us/articles/206353468-italki-Community-Guidelines">italki Community Guidelines</a></strong></span>, check </span><a style="background-color: #ffffff;" href="https://support.italki.com/hc/en-us/articles/900002346046-How-to-report-violations" target="_blank" rel="noopener"><strong><span class="wysiwyg-underline">How to report violations</span></strong></a>.</p>

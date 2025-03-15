@@ -1,0 +1,27 @@
+<h1>How to allow screen sharing on your Mac for italki Classroom lessons?</h1>
+<p><strong>Step 1</strong></p>
+<p><span style="font-weight: 400;">When you try to share your screen during a lesson on macOS Catalina 10.15 or later, you’ll be asked to enable Screen Recording for Google Chrome by your computer.</span></p>
+<p><span style="font-weight: 400;">When you see the following screen, click </span><strong>Open System Preferences</strong><span style="font-weight: 400;">.</span></p>
+<p><span style="font-weight: 400;"><img src="https://support.italki.com/hc/article_attachments/36789684938905" alt="Screenshot_2021-03-09_at_14.50.13.png" width="493" height="214"></span></p>
+<p><span style="font-weight: 400;">If you don’t see the screen above and still can’t share your screen, manually open </span><strong>System Preferences </strong><span style="font-weight: 400;">on your Mac, click the</span><strong> Security and Privacy</strong><span style="font-weight: 400;"> icon, and then choose </span><strong>Screen Recording</strong><span style="font-weight: 400;"> in the sidebar.</span></p>
+<p><span style="font-weight: 400;"><img src="https://support.italki.com/hc/article_attachments/36789734239001" alt="Screenshot_2021-03-09_at_14.50.59.png"></span></p>
+<p> </p>
+<p><span style="font-weight: 400;"><strong>Step 2</strong></span></p>
+<p><span style="font-weight: 400;">In the <strong>Screen Recording</strong> section click the checkbox next to <strong>Your Browser Icon</strong> to allow screen sharing during your lessons. You may need to click the unlock icon in the bottom-left.</span></p>
+<p><span style="font-weight: 400;"><img src="https://support.italki.com/hc/article_attachments/36789684947993" alt="Screenshot_2021-03-09_at_14.51.47.png" width="694" height="595"></span></p>
+<p> </p>
+<p><strong>Step 3</strong></p>
+<p><span style="font-weight: 400;">Next, click </span><strong>Quit Now</strong><span style="font-weight: 400;">. You will not be able to share screen until you quit and restart your browser.</span></p>
+<p><span style="font-weight: 400;">Note that when you click </span><strong>Quit Now</strong><span style="font-weight: 400;">, you’ll quit the classroom as well and will be disconnected from your tutor or student for a couple of seconds.</span></p>
+<p><span style="font-weight: 400;"><img src="https://support.italki.com/hc/article_attachments/36789684951321" alt="Screenshot_2021-03-09_at_14.52.40.png" width="694" height="593"></span></p>
+<p> </p>
+<p><strong>Step 4</strong></p>
+<p><span style="font-weight: 400;">Open your browser and rejoin your call in the classroom. You should now be able to share your screen.</span></p>
+<p> </p>
+<p><span style="font-weight: 400;">Note: If you later disable the Screen Recording permission from System Preferences on your Mac, you'll need to re-enable it again in the future.</span></p>
+<p> </p>
+<p><span style="font-weight: 400;">Supported Browser and Browser Version:</span></p>
+<p><strong>Google Chrome</strong><span style="font-weight: 400;">: Version 72 and later</span></p>
+<p><strong>Safari</strong><span style="font-weight: 400;">: Version 13 and later (14, 14.0.1, and <span>15 </span>are not supported)</span></p>
+<p><strong>FireFox</strong><span style="font-weight: 400;">：Version 70 and later</span></p>
+<p><strong>Microsoft Edge</strong><span style="font-weight: 400;">: Version 80 and later</span></p>

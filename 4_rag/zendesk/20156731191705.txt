@@ -1,0 +1,45 @@
+<h1>AI Lesson Summary Walkthrough</h1>
+<p>We are currently testing a new AI Lesson Summary feature for you and your students!</p>
+<p>Here are some of the basics to help you get started. </p>
+<p> </p>
+<h3><strong>Tips</strong></h3>
+<p><strong>1. Aim for at least 25 words or 150 characters in English for optimal results. More will result in a better summary.</strong></p>
+<p><strong>2. You can cut and paste notes from google docs, word, and other sources to add to your summary.</strong></p>
+<p><strong>3. Add simple key points like "present continuous tense" instead of adding explanations, this saves you time as the AI can generate an explanation. </strong></p>
+<p><strong>4. You can also edit all the parts of the summary after it generates to make it perfect for your students.  </strong></p>
+<p> </p>
+<p> </p>
+<h3><strong>Where to Create an AI Lesson Summary? </strong></h3>
+<p>After finishing a lesson you can go to the lesson details, and find the button 'Create summary'.</p>
+<p>We will also prompt you at the end of the lessons in italki Classroom.   </p>
+<p><img src="https://support.italki.com/hc/article_attachments/20256367367577" alt="AI" width="494" height="329"></p>
+<h3><strong>How to create a summary:</strong></h3>
+<h4><strong>1. Select a Source</strong></h4>
+<p>You can include italki messages sent during class time, notes you took in the italki classroom, and additional text that you can copy and paste from other tools. </p>
+<p><img src="https://support.italki.com/hc/article_attachments/20256340514201" alt="AI" width="411" height="426"></p>
+<h4><strong>2. Edit the summary points list</strong></h4>
+<p>You can add, delete, and edit the different points. There is no need to give an explanation or examples for the grammar points or sentence structures, that is what the AI does!</p>
+<p><img src="https://support.italki.com/hc/article_attachments/20256340519449" alt="AI" width="418" height="486"></p>
+<p>If there is no content identified from the source, it could be that there is not enough information or the AI couldn't read it. You can always go back and edit the source. </p>
+<p><img src="https://support.italki.com/hc/article_attachments/20256367382681" alt="AI" width="416" height="474"></p>
+<h4><strong>3. Create and edit the summary</strong></h4>
+<p> The summary may encounter occasional errors when generating some of the language points. You can retry or remove the items if retry constantly fails. </p>
+<p><img src="https://support.italki.com/hc/article_attachments/20256367386777" alt="AI" width="513" height="542"></p>
+<p>You can also add or delete items in the summary, or edit its content. Just click 'edit' on each section to make changes. </p>
+<p>Don't worry about translation or anything either, the AI will take care of that. </p>
+<p><img src="https://support.italki.com/hc/article_attachments/20256340549913" alt="image-20230703-065849.png" width="448" height="478"></p>
+<p><img src="https://support.italki.com/hc/article_attachments/21385178756377" alt="20230803 Screenshot.png" width="447" height="596"></p>
+<h3><strong>Where can you find the Summary? </strong></h3>
+<p>Going to 'My lessons' and you will notice a green flag, clicking that flag will take you to the Lesson Summary. </p>
+<p><img src="https://support.italki.com/hc/article_attachments/20256367415577" alt="AI" width="502" height="401"></p>
+<h3><strong>Some things to keep in mind</strong></h3>
+<ul>
+<li>The summary can be created by either you or your student, and once one person creates it both can see it.</li>
+<li>Students will be notified when you have made a summary or edits to the summary. Students cannot currently edit the summaries. </li>
+<li>Currently, the AI works best with English, but please feel free to try other languages as well!</li>
+<li>This summary works with the italki classroom with notes and messages sent during class, or you can copy and paste your own notes. </li>
+</ul>
+<p>Please note that we are currently testing this AI feature if you have any feedback feel free to let us know in the <a href="https://support.italki.com/hc/en-us/community/posts/20278211367833-2023-Q2-Industry-and-Business-Insights" target="_self">Teacher Forum here</a>. </p>
+<p> </p>
+<p> </p>
+<p> </p>

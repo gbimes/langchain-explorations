@@ -1,0 +1,29 @@
+<h1>Ticket Merging Rules</h1>
+<p data-pm-slice="1 3 []">When you open a ticket, first, always click the user Zendesk profile/ticket history to check if there are multiple new tickets.</p>
+<p>If a user sends in several new tickets with the same content, we need to merge the tickets instead of replying to all of them separately, these are the merging rules:</p>
+<ol class="ak-ol" start="1">
+<li>
+<p>Two new tickets are all assigned to different agents (no reply provided yet by any of the agents), merging the old to the new ticket.</p>
+</li>
+<li>
+<p>Two new tickets (one assigned, one hasn’t), merge the old to the new ticket and take over. </p>
+</li>
+<li>
+<p>Two new tickets (all assigned to an agent, one replied), merge the old to the new ticket</p>
+</li>
+</ol>
+<p><strong>Exceptions:</strong></p>
+<ul class="ak-ul">
+<li>
+<p>If the old ticket is on hold, merge the new ticket into the on-hold one, and then submit the on-hold ticket as open.</p>
+</li>
+<li>
+<p>If the old ticket is being handled by Tier 2 - Escalated (can't be handled as Tier 1 according to <a href="https://italki.atlassian.net/wiki/spaces/SOT/pages/4446453865/Ticketing+Rules">Ticketing Rules</a>), merge the new one into the old one. </p>
+</li>
+<li>
+<p>Fraud<strong>: </strong>If there is already a ticket that's been handled by A, then assign the new ticket (from T or S) to A to handle together.</p>
+</li>
+<li>
+<p>Fraud<strong>:</strong> If there are 2 tickets (same fraud related from T and S) both tickets must be taken by the agent who has the newest ticket.</p>
+</li>
+</ul>

@@ -1,0 +1,43 @@
+<h1>What is italki Classroom and how do I use it?</h1>
+<p><span style="font-weight: 400;">This article will introduce:</span></p>
+<ul>
+<li><a href="#h_01ERYK1BZMNREQ4ZRMNB1FTZHF" target="_self"><strong>What is the italki Classroom?</strong></a></li>
+<li><a href="#h_01ERYK1WFEPD8TGWSV2Z65P4XT" target="_self"><strong>How can I select italki Classroom as a lesson communication tool?</strong></a></li>
+<li><a href="#h_01ERYK20S3CCPQ16AMYD6TBMJZ" target="_self"><strong>How do I use italki Classroom?</strong></a></li>
+</ul>
+<h2 id="h_01ERYK1BZMNREQ4ZRMNB1FTZHF"><strong>What is the italki Classroom?</strong></h2>
+<p><span style="font-weight: 400;">The Classroom is a video communication tool with a screen sharing feature on italki. On your computer, you don’t need to download another app, but simply login to italki with any <a href="#h_01ERYJM1C52TAJX4CXT6N8BV4N" target="_self">supported browsers</a> and click “Enter Classroom” to have lessons! </span></p>
+<p><span style="font-weight: 400;">It is also built in the italki app on mobile devices, which means you can have your lessons on the go.</span><span style="font-weight: 400;"></span></p>
+<h3 id="h_01ERYJM1C52TAJX4CXT6N8BV4N"><strong>Supported browsers</strong></h3>
+<ul>
+<li><a style="font-weight: 400; background-color: #ffffff; font-size: 15px;" href="https://www.google.com/chrome/browser/features.html"><span>Google Chrome</span></a></li>
+<li style="font-weight: 400;">
+<p><a href="https://www.mozilla.org/en-US/firefox/new/"><span style="font-weight: 400;">Mozilla Firefox</span></a></p>
+</li>
+<li style="font-weight: 400;">
+<p><span style="font-weight: 400;">Safari 13+ (on Mac and iPad. Screen sharing NOT supported on iPad. <a href="https://support.italki.com/hc/en-us/articles/4501511250329-italki-Classroom-Safari-Issue-Troubleshooting" target="_self">Safari version 15.x is not supported</a>)</span></p>
+</li>
+<li style="font-weight: 400;">
+<p><span style="font-weight: 400;">Edge (86.0.622.61+)</span></p>
+</li>
+</ul>
+<h2 id="h_01ERYK1WFEPD8TGWSV2Z65P4XT"><strong>How can I select italki Classroom as a lesson communication tool?</strong></h2>
+<p><span style="font-weight: 400;">When you are booking a lesson, after selecting the date and time, the Classroom can be selected as your lesson communication tool. (Find other applicable communication tools on italki </span><a href="https://support.italki.com/hc/en-us/articles/206353108"><span style="font-weight: 400;">here</span></a><span style="font-weight: 400;">)</span></p>
+<p><img src="https://support.italki.com/hc/article_attachments/900005499223/classroom2.gif" alt="classroom2.gif"></p>
+<p><span style="font-weight: 400;">If you are a teacher, you can select the italki Classroom as a communication tool by sending a </span><a href="https://support.italki.com/hc/en-us/articles/900000107266-What-is-Lesson-Invitation-and-how-do-I-use-this-feature-" target="_blank" rel="noopener">Lesson Invitation.</a></p>
+<h2 id="h_01ERYK20S3CCPQ16AMYD6TBMJZ"><strong>How do I use italki Classroom?</strong></h2>
+<p>1. Visit your <a href="https://www.italki.com/dashboard">Student Dashboard</a><span style="font-weight: 400;">, find the lesson is about to start and click “Enter Classroom”.</span></p>
+<p><span style="font-weight: 400;"><img src="https://support.italki.com/hc/article_attachments/900005508523/classroom.png" alt="classroom.png" width="680" height="244"></span></p>
+<p><span style="font-weight: 400;">(If you are a teacher, visit your </span><a href="https://teach.italki.com/dashboard"><span style="font-weight: 400;">Teacher Dashboard</span></a><span style="font-weight: 400;"> to find the lesson)</span></p>
+<p><span style="font-weight: 400;">2. We have launched the <strong>Pre-lesson check</strong> feature in the Classroom. By using this feature, either a student or a teacher can check if their device runs well or not. </span></p>
+<p><img src="https://support.italki.com/hc/article_attachments/4406085442585/Screen_Shot_2021-09-07_at_6.27.29_PM.png" alt="Screen_Shot_2021-09-07_at_6.27.29_PM.png" width="655" height="346"></p>
+<p><img src="https://support.italki.com/hc/article_attachments/4406085445657/Screen_Shot_2021-09-07_at_6.28.08_PM.png" alt="Screen_Shot_2021-09-07_at_6.28.08_PM.png" width="655" height="340"></p>
+<p><span style="font-weight: 400;">3. Here is your italki Classroom page!</span></p>
+<p><img src="https://support.italki.com/hc/article_attachments/4406080326425/Screen_Shot_2021-09-07_at_6.29.37_PM.png" alt="Screen_Shot_2021-09-07_at_6.29.37_PM.png" width="662" height="350"></p>
+<p><span style="font-weight: 400;">To <strong>share your screen</strong>, click the “Screen Sharing” button on the toolbar at the bottom of the page.</span></p>
+<p><span style="font-weight: 400;">A pop-up window will ask for sharing permission. Select the window or app you’d like to present and click “share”</span><span style="font-weight: 400;"></span></p>
+<p><span style="font-weight: 400;">Click the screen sharing button again to stop sharing. </span></p>
+<p><span style="font-weight: 400;">4. Now you could take a note in the Classroom, the note could only be seen by yourself and will be saved automatically.</span></p>
+<p><img src="https://support.italki.com/hc/article_attachments/4406085462169/Screen_Shot_2021-09-07_at_6.31.46_PM.png" alt="Screen_Shot_2021-09-07_at_6.31.46_PM.png" width="626" height="451"></p>
+<p><span style="font-weight: 400;">5. When the lesson is over, click END on the top left corner. Let us know how it was like and help us to improve! </span></p>
+<p><span style="font-weight: 400;"><img src="https://support.italki.com/hc/article_attachments/4406080348313/Screen_Shot_2021-09-07_at_6.32.45_PM.png" alt="Screen_Shot_2021-09-07_at_6.32.45_PM.png" width="665" height="343"></span></p>

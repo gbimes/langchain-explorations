@@ -1,0 +1,47 @@
+<h1>Difference between Professional Teacher and Community Tutor</h1>
+<p><span style="font-weight: 400;">There are two types of teaching profiles on italki - </span><span style="font-weight: 400;">Professional Teacher and Community Tutor.</span><span style="font-weight: 400;"> E</span><span style="font-weight: 400;">ach applicant can only choose </span><strong>one</strong><span style="font-weight: 400;"> teacher type. You cannot apply to be an English Professional Teacher and Italian Community Tutor for example. </span></p>
+<p> </p>
+<p><strong>Professional Teacher</strong></p>
+<ul>
+<li style="font-weight: 400;"><span style="font-weight: 400;">Professional teachers have training as educators and/or extensive professional teaching experience. They can provide students with resources, prepared materials, and structured lesson plans to help students reach their goals.</span></li>
+<li style="font-weight: 400;">
+<span style="font-weight: 400;">To apply for a professional teaching profile, you must upload </span><span style="font-weight: 400;">documents</span><span style="font-weight: 400;"> showing your training and experience as an educator. </span><span style="font-weight: 400;">Check the minimum requirements </span><a href="https://support.italki.com/hc/en-us/articles/206352058-What-types-of-certification-or-credentials-are-required-for-a-Professional-Teaching-Profile-" target="_blank" rel="noopener">here</a><span style="font-weight: 400;">.</span>
+</li>
+</ul>
+<p><strong>Community Tutor</strong></p>
+<ul>
+<li style="font-weight: 400;"><span style="font-weight: 400;">Community tutors are friendly, helpful, knowledgeable, and use their time to provide students with conversation practice. </span></li>
+</ul>
+<p> </p>
+<p><strong>What are the differences between Professional Teacher and Community Tutor?</strong></p>
+<table style="border-collapse: collapse; width: 100%; height: 154px;" border="1">
+<tbody>
+<tr style="height: 22px;">
+<td style="width: 33.3333%; height: 22px;"> </td>
+<td style="width: 33.3333%; height: 22px;">Professional Teacher</td>
+<td style="width: 33.3333%; height: 22px;">Community Tutor</td>
+</tr>
+<tr style="height: 44px;">
+<td style="width: 33.3333%; height: 44px;">Minimum &amp; maximum lesson price (including packages)</td>
+<td style="width: 33.3333%; height: 44px;">USD 10 - 120 per lesson</td>
+<td style="width: 33.3333%; height: 44px;">USD 5 - 120 per lesson</td>
+</tr>
+<tr style="height: 22px;">
+<td style="width: 33.3333%; height: 22px;">Maximum course number</td>
+<td style="width: 33.3333%; height: 22px;">6 for each teaching language</td>
+<td style="width: 33.3333%; height: 22px;">6 for each teaching language</td>
+</tr>
+<tr style="height: 22px;">
+<td style="width: 33.3333%; height: 22px;">Lesson category options</td>
+<td style="width: 33.3333%; height: 22px;">General, Conversation Practice, Business, Test Preparation, Kids</td>
+<td style="width: 33.3333%; height: 22px;">General, Conversation Practice, Business, Test Preparation, Kids</td>
+</tr>
+<tr style="height: 44px;">
+<td style="width: 33.3333%; height: 44px;">Credential on teacher profile options</td>
+<td style="width: 33.3333%; height: 44px;">Work experience, education, certificates</td>
+<td style="width: 33.3333%; height: 44px;">Work experience, certificates</td>
+</tr>
+</tbody>
+</table>
+<p> </p>
+<p><span style="font-weight: 400;">Want to upgrade from community tutor to professional teacher? Check <a href="https://support.italki.com/hc/en-us/articles/206352008-Can-a-Community-Tutor-apply-to-become-a-Professional-Teacher-" target="_blank" rel="noopener">here</a>. </span></p>

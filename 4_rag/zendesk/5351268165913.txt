@@ -1,0 +1,77 @@
+<h1>Group Class Policies</h1>
+<h1 data-pm-slice="1 3 []">Class Request Policy</h1>
+<ul class="ak-ul">
+<li>
+<p>Opening a Group Class constitutes an agreement to provide class at that time to all students that have registered for said class.</p>
+</li>
+</ul>
+<h1>Class Material Policy</h1>
+<ul class="ak-ul">
+<li>
+<p>Classroom teaching material needs to be uploaded<span class="fabric-editor-annotation" data-mark-type="annotation" data-mark-annotation-type="inlineComment" data-id="219bc1b2-7873-4410-bc8d-2ef86daa011c"> before the class starts time. </span>You will only be able to create a group class after the content is approved by italki.</p>
+</li>
+<li><strong>All materials must follow <a href="You%20can%20find%20the%20guidelines%20here:%20https://support.italki.com/hc/en-us/articles/206353468-The-italki-Community-Guidelines" target="_self">italki's Community Guidelines</a> </strong></li>
+</ul>
+<h1>Class Cancellation Policy</h1>
+<p>italki expects teachers to be professional and attend scheduled Group Classes on time. </p>
+<ul class="ak-ul">
+<li>
+<p>Teachers can cancel the Group Class 24 hours or more before the start of the class regardless of whether any students are registered for the class, and you will not be penalized. All teacher-initiated cancelations will trigger funds to be returned to students.</p>
+</li>
+<li>
+<p>Within 24 hours of the class start time, teachers can cancel the Group Class if no students have registered for the class, and you will not be penalized.</p>
+</li>
+<li>
+<p>Canceling a Group Class with registered students within 24 hours of the class start time can result in a warning from italki. Multiple canceled classes can result in further action by italki to protect the interests of students and teachers. Teachers can provide proof of the need for cancelation to dispute warnings or actions by italki.</p>
+</li>
+<li>
+<p>If there are no students registered for the class within 30 minutes before the start of the class, your class will be automatically canceled.</p>
+</li>
+<li>
+<p>Group class does not support rescheduling.</p>
+</li>
+</ul>
+<p> </p>
+<h1>Attendance Policy</h1>
+<p>The impact of a single missed class can impact multiple students. italki expects teachers to be professional and attend scheduled Group Classes, if a teacher is unable to attend they need to communicate to all students in a timely manner. Missed attendance and failure to communicate to the students, will negatively affect the students' experience and is taken seriously by italki.</p>
+<p>Absence without prior notice:</p>
+<ul>
+<li>1st missed report, Teacher will be warned. </li>
+<li>2nd missed report, Group Classes Hidden for 7 days. </li>
+<li>3rd missed report, Group Classes Hidden for 14 days. </li>
+<li>4th missed report, Group Classes Disable for Teacher.  </li>
+</ul>
+<h1>In-Class Policy</h1>
+<ul class="ak-ul">
+<li>
+<p>Teachers must be visible to their students during the whole class length, students are not required to turn on their cameras.</p>
+</li>
+<li>
+<p>You have the right to remove students who have inappropriate or disruptive behaviors during class to ensure a good learning experience for other students.</p>
+<ul class="ak-ul">
+<li>
+<p>inappropriate and disruptive behaviors include but are not limited to harassment; sexual/racial/religious discrimination and any other behaviors that will influence group class experience.</p>
+</li>
+</ul>
+</li>
+<li>
+<p>Teachers may record class if all attendees agree. When starting recording teachers need to inform the students before beginning.</p>
+</li>
+</ul>
+<p> </p>
+<h1>Credit Refund Policy</h1>
+<ul class="ak-ul">
+<li>
+<p><span class="fabric-editor-annotation" data-mark-type="annotation" data-mark-annotation-type="inlineComment" data-id="0214cafa-27b7-4280-98a3-d2f698bf2c83">Teachers will need to return the Group Class credits to students in the event that the class is not completed.</span></p>
+</li>
+<li>
+<p>If students report insufficient class time on the part of the teacher, including but not limited to entering late, leaving early, or not attending the class, or any behaviors that violate the teacher code of conduct, teachers may be required to return class credits to the student(s) upon the request of italki. Teachers can provide proof to dispute the warnings or actions taken by italki.</p>
+</li>
+</ul>
+<p> </p>
+<h1>Addition</h1>
+<ul class="ak-ul">
+<li>
+<p>italki reserves the sole right to assess, resolve, and make decisions regarding the above-mentioned rule violations as well as other disputes.</p>
+</li>
+</ul>

@@ -1,0 +1,51 @@
+<h1>Notification settings on italki</h1>
+<h2 id="h_01EQ0BQYX5271ZGHWVRFC731ZS"><span style="font-weight: 400;"><span><strong>italki Web B</strong><strong>rowser Notifications</strong></span></span></h2>
+<p><span>1. Hover on your Profile Picture and click </span><strong>Settings<span> </span></strong>to visit your italki <span class="wysiwyg-underline"><a href="https://www.italki.com/settings/account" target="_blank" rel="noopener">Settings</a> </span>page. </p>
+<h3><img src="https://support.italki.com/hc/article_attachments/900007796243/mceclip4.png" alt="mceclip4.png"></h3>
+<p><span style="font-weight: 400;">2. Select the </span><strong>Notifications </strong><span style="font-weight: 400;">tab </span></p>
+<p><span style="font-weight: 400;"><img src="https://support.italki.com/hc/article_attachments/900003540643/1.5.2-notification_tab.png" alt="1.5.2-notification_tab.png"></span></p>
+<p><span style="font-weight: 400;"><span>3. If your browser notification has been disabled, please check your </span></span>browser notification settings and allow italki to send notifications. Click <a href="https://support.google.com/chrome/answer/3220216?hl=en&amp;co=GENIE.Platform%3DDesktop" target="_blank" rel="noopener">here</a> and check what you can do to enable or disable italki notifications in <strong>Chrome.</strong></p>
+<h2> </h2>
+<h2 id="Web-notification-setting:" data-renderer-start-pos="26"><strong>Web notification setting:</strong></h2>
+<p><span style="font-weight: 400;">1. Important notifications via email have been enabled by default and cannot be disabled, including:</span></p>
+<ul>
+<li><span style="font-weight: 400;"><strong>Lesson Updates</strong></span></li>
+<li><span style="font-weight: 400;"><strong>Upcoming Lesson Reminders</strong></span></li>
+<li><span style="font-weight: 400;"><strong>italki Notifications</strong></span></li>
+</ul>
+<p class="wysiwyg-text-align-center"><span style="font-weight: 400;"><strong>  <img src="https://support.italki.com/hc/article_attachments/4413998933145/Screen_Shot_2022-01-06_at_5.00.37_PM.png" alt="Screen_Shot_2022-01-06_at_5.00.37_PM.png" width="576" height="205"></strong></span></p>
+<p class="wysiwyg-text-align-justify"><span style="font-weight: 400;">2. Other notifications </span>that you no longer want to receive can be turned off by clicking the checkbox next to them.</p>
+<p class="wysiwyg-text-align-center"><img src="https://support.italki.com/hc/article_attachments/4413982997529/Screen_Shot_2022-01-06_at_5.02.57_PM.png" alt="Screen_Shot_2022-01-06_at_5.02.57_PM.png" width="456" height="330"></p>
+<p class="wysiwyg-text-align-justify">3. <span>To receive emails in the language of your choosing, update your "email language" setting.</span></p>
+<p class="wysiwyg-text-align-center"><img src="https://support.italki.com/hc/article_attachments/4413983021977/Screen_Shot_2022-01-06_at_5.04.37_PM.png" alt="Screen_Shot_2022-01-06_at_5.04.37_PM.png" width="564" height="224"></p>
+<div class="rich-media-item mediaSingleView-content-wrap image-center sc-iAyFgw kXEeDN sc-kkGfuU bPqmdN" width="416" data-layout="center" data-node-type="mediaSingle">
+<div class="sc-kEYyzF hOnYRb">
+<div class="sc-qrIAp fEFubV" data-context-id="4178673819" data-type="file" data-node-type="media" data-width="416" data-height="280" data-id="ea1f00cb-9e08-4c36-9c33-c4667916f6c5" data-collection="contentId-4178673819" data-file-name="image-20211223-030847.png" data-file-size="46311" data-file-mime-type="image/png" data-alt="">
+<div class="new-file-experience-wrapper sc-dvCyap gLTvHG sc-dxZgTM hkygPE" data-testid="media-card-view">
+<div class="media-file-card-view sc-iomxrj brdqZR" data-testid="media-file-card-view" data-test-status="complete" data-test-media-name="image-20211223-030847.png" data-test-progress="1"><img draggable="false" src="blob:https://italki.atlassian.net/0264b499-6ad2-40d0-af1e-10177403aecf#media-blob-url=true&amp;id=ea1f00cb-9e08-4c36-9c33-c4667916f6c5&amp;collection=contentId-4178673819&amp;contextId=4178673819&amp;mimeType=image%2Fpng&amp;name=image-20211223-030847.png&amp;size=46311&amp;height=280&amp;width=416&amp;alt=" alt="" data-testid="media-image"></div>
+</div>
+</div>
+</div>
+</div>
+<h2 id="Mobile-notification-setting:" data-renderer-start-pos="469">
+<strong>Mobile notification setting</strong>:</h2>
+<p data-renderer-start-pos="37">To enable or disable italki App notification, please check the following steps:</p>
+<p data-renderer-start-pos="189">1. Click <img src="https://support.italki.com/hc/article_attachments/4413999005849/Screen_Shot_2022-01-06_at_5.05.53_PM.png" alt="Screen_Shot_2022-01-06_at_5.05.53_PM.png" width="31" height="30"> (Me icon), then find the setting button <img src="https://support.italki.com/hc/article_attachments/4405128995609/Screen_Shot_2021-08-17_at_4.12.32_PM.png" alt="Screen_Shot_2021-08-17_at_4.12.32_PM.png" width="30" height="31"> on the top right of this page.</p>
+<p class="wysiwyg-text-align-center" data-renderer-start-pos="273"><img src="https://support.italki.com/hc/article_attachments/4414001700505/Screen_Shot_2022-01-06_at_5.07.37_PM.png" alt="Screen_Shot_2022-01-06_at_5.07.37_PM.png" width="258" height="566"></p>
+<p data-renderer-start-pos="284">2. Select <span>“</span><strong data-renderer-mark="true">Notifications</strong><span>”</span></p>
+<p class="wysiwyg-text-align-center" data-renderer-start-pos="322"><img src="https://support.italki.com/hc/article_attachments/4414001742489/Screen_Shot_2022-01-06_at_5.09.02_PM.png" alt="Screen_Shot_2022-01-06_at_5.09.02_PM.png" width="280" height="635"></p>
+<ul class="ak-ul" data-indent-level="1">
+<li>
+<p data-renderer-start-pos="338">If your push notification has been disabled and you wish to turn it on, <span>click “</span><strong data-renderer-mark="true">turned on</strong><span>” to go to your phone’s settings page, and allow italki to send you push notifications. </span><strong data-renderer-mark="true">(Apps) Notifications -&gt; Allow Notifications.</strong></p>
+</li>
+<li>
+<p data-renderer-start-pos="589">Each kind of push notification can be turned off separately.  </p>
+</li>
+<li>
+<p data-renderer-start-pos="1008">You may choose to disable notifications for different channels.</p>
+</li>
+</ul>
+<p class="wysiwyg-text-align-center" data-renderer-start-pos="692"><img src="https://support.italki.com/hc/article_attachments/4413999109145/Screen_Shot_2022-01-06_at_5.11.59_PM.png" alt="Screen_Shot_2022-01-06_at_5.11.59_PM.png" width="313" height="689"></p>
+<p class="wysiwyg-text-align-center" data-renderer-start-pos="692"> </p>
+<p class="wysiwyg-text-align-left" data-renderer-start-pos="692"><strong>Please kindly note Lesson Updates and Account Updates cannot be turned off by default. </strong>The Lesson Updates and Account Updates cannot be disabled because it may cause you to miss lessons or it might require your immediate response.</p>
+<p class="wysiwyg-text-align-left" data-renderer-start-pos="692"><strong>Turning off italki App notification will not affect the notifications setting of italki messages and email notifications. </strong></p>

@@ -1,0 +1,30 @@
+<h1>SOP: Removing teachers' videos on italki's YouTube channel</h1>
+<h3><strong>Fact:</strong></h3>
+<p>When a teacher uploads their video to italki <a href="https://teach.italki.com/console/profile">https://teach.italki.com/console/profile</a>, italki will upload it to our YouTube channel: <a href="https://www.youtube.com/channel/UChzAZKfPXpmOAjMH6QkfF_g">https://www.youtube.com/channel/UChzAZKfPXpmOAjMH6QkfF_g</a>.</p>
+<p>It is stated in the <a href="https://teach.italki.com/instructorterms" target="_blank" rel="noopener">Teacher Terms of Service</a>.</p>
+<p class="wysiwyg-indent2">License Grant for Teacher Introduction Video<br>italki has the rights to use your Teacher Introduction video for marketing, advertising or promotional purposes. italki may publish teacher videos to our official channels in third-party video hosting and streaming services, such as Youtube, Vimeo, Youku, or others, as to ensure accessibility and visibility to italki students regardless of location.</p>
+<p class="wysiwyg-indent2">italki will remove Teacher Introduction videos published to our official channels in third-party video hosting and streaming services upon written notice sent to <a href="support.italki.com" target="_blank" rel="noopener">support.italki.com</a>.</p>
+<p> </p>
+<h3><strong>Problem:</strong></h3>
+<p>When a teacher sends a written notice to <a href="support.italki.com" target="_blank" rel="noopener">support.italki.com</a> and after we remove the video from our YouTube channel, the video on the teacher's profile will show as "Video unavailable". In that case, the teacher will have no available video on their profile, which will possibly violate the GDPR.</p>
+<p>In the meantime, our script will re-upload the teacher's video to our YouTube channel later, which mean the video we have removed will reappear on our YouTube channel.</p>
+<p> </p>
+<h3><strong>Concern:</strong></h3>
+<p>Possible violation of the GDPR.</p>
+<p><a href="https://support.italki.com/hc/en-us/community/posts/360033423694-Warning-Fellow-Teachers-Has-iTalki-violated-your-rights-READ-THIS-">https://support.italki.com/hc/en-us/community/posts/360033423694-Warning-Fellow-Teachers-Has-iTalki-violated-your-rights-READ-THIS-</a></p>
+<p>Britta Today at 11:03<br>@Tim Kung</p>
+<p>And in Art. 7 (4) GDPR you'll find this:</p>
+<p>When assessing whether consent is freely given, utmost account shall be taken of whether, inter alia, the performance of a contract, including the provision of a service, is conditional on consent to the processing of personal data that is not necessary for the performance of that contract.</p>
+<p>And in recital 43 (2) you'll find this in more detail:</p>
+<p>Consent is presumed not to be freely given if it does not allow separate consent to be given to different personal data processing operations despite it being appropriate in the individual case, or if the performance of a contract, including the provision of a service, is dependent on the consent despite such consent not being necessary for such performance.</p>
+<p>You do not give us the opportunity to still have a full teacher profile (with video), when not agreeing to uploading the video on your Youtube channel. So the consent is (imo) not freely given!</p>
+<p> </p>
+<h3><strong>Solution/Steps:</strong></h3>
+<ol>
+<li>Collect teacher's information: teacher ID; teacher's own YouTube or Vimeo link</li>
+<li>Send the information to Issac (Chen Kun 陈坤) on a weekly basis</li>
+<li>Issac (Chen Kun 陈坤) will then send to Vincent (Xiao Xing 周星甫) to batch process the videos.</li>
+</ol>
+<p> </p>
+<h3><strong>Tickets/Posts:</strong></h3>
+<p> </p>

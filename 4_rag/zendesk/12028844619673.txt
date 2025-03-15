@@ -1,0 +1,466 @@
+<h1>September 2022 italki Teacher Newsletter</h1>
+<p> </p>
+<!-- [if mso]><xml><o:OfficeDocumentSettings><o:PixelsPerInch>96</o:PixelsPerInch><o:AllowPNG/></o:OfficeDocumentSettings></xml><![endif]-->
+<table class="nl-container" style="mso-table-lspace: 0pt; mso-table-rspace: 0pt; background-color: #ffffff;" role="presentation" border="0" width="100%" cellspacing="0" cellpadding="0">
+<tbody>
+<tr>
+<td>
+<table class="row row-1" style="mso-table-lspace: 0pt; mso-table-rspace: 0pt; background-position: top center; background-repeat: repeat;" role="presentation" border="0" width="100%" cellspacing="0" cellpadding="0" align="center">
+<tbody>
+<tr>
+<td>
+<table class="row-content stack" style="mso-table-lspace: 0pt; mso-table-rspace: 0pt; color: #000000; width: 600px;" role="presentation" border="0" width="600" cellspacing="0" cellpadding="0" align="center">
+<tbody>
+<tr>
+<td class="column column-1" style="mso-table-lspace: 0pt; mso-table-rspace: 0pt; font-weight: 400; text-align: left; vertical-align: top; padding-top: 0px; padding-bottom: 10px; border: 0px dotted transparent;" width="100%">
+<table class="image_block block-1" style="mso-table-lspace: 0pt; mso-table-rspace: 0pt;" role="presentation" border="0" width="100%" cellspacing="0" cellpadding="0">
+<tbody>
+<tr>
+<td class="pad" style="width: 100%; padding-right: 0px; padding-left: 0px;">
+<div class="alignment" style="line-height: 10px;" align="center"><a style="outline: none;" tabindex="-1" href="https://teach.italki.com/dashboard" target="_blank" rel="noopener"><img class="fullMobileWidth" style="display: block; height: auto; border: 0; width: 600px; max-width: 100%;" src="https://cdn.getblueshift.com/bee/images/d76ed3c2-ff52-4b3b-b852-d04c8f6c8e0c/en_62.jpg" width="600"></a></div>
+</td>
+</tr>
+</tbody>
+</table>
+<table class="text_block block-2" style="mso-table-lspace: 0pt; mso-table-rspace: 0pt; word-break: break-word;" role="presentation" border="0" width="100%" cellspacing="0" cellpadding="0">
+<tbody>
+<tr>
+<td class="pad" style="padding-bottom: 20px; padding-left: 40px; padding-right: 40px;">
+<div style="font-family: sans-serif;">
+<div class="" style="font-size: 14px; mso-line-height-alt: 16.8px; color: #4d4d4d; line-height: 1.2; font-family: Arial, Helvetica Neue, Helvetica, sans-serif;">
+<p style="margin: 0; text-align: center; mso-line-height-alt: 16.8px; letter-spacing: normal;"><span style="font-size: 16px;"><strong>New Features and Developments:</strong> </span></p>
+</div>
+</div>
+</td>
+</tr>
+</tbody>
+</table>
+<table class="image_block block-3" style="mso-table-lspace: 0pt; mso-table-rspace: 0pt;" role="presentation" border="0" width="100%" cellspacing="0" cellpadding="0">
+<tbody>
+<tr>
+<td class="pad" style="padding-top: 10px; width: 100%; padding-right: 0px; padding-left: 0px;">
+<div class="alignment" style="line-height: 10px;" align="center"><a style="outline: none;" tabindex="-1" href="https://support.italki.com/hc/en-us/articles/9093027517849-Our-tips-for-getting-the-most-out-of-your-Students-First-Contact" target="_blank" rel="noopener"><img class="fullMobileWidth" style="display: block; height: auto; border: 0; width: 150px; max-width: 100%;" src="https://cdn.getblueshift.com/bee/images/d76ed3c2-ff52-4b3b-b852-d04c8f6c8e0c/contact.png" width="150"></a></div>
+</td>
+</tr>
+</tbody>
+</table>
+<table class="text_block block-4" style="mso-table-lspace: 0pt; mso-table-rspace: 0pt; word-break: break-word;" role="presentation" border="0" width="100%" cellspacing="0" cellpadding="0">
+<tbody>
+<tr>
+<td class="pad" style="padding: 20px 40px 20px 40px;">
+<div style="font-family: sans-serif;">
+<div class="" style="font-size: 14px; mso-line-height-alt: 16.8px; color: #4d4d4d; line-height: 1.2; font-family: Arial, Helvetica Neue, Helvetica, sans-serif;">
+<p style="margin: 0; text-align: center; mso-line-height-alt: 16.8px; letter-spacing: normal;"><span style="font-size: 20px;"><strong>Student First Contact </strong></span></p>
+</div>
+</div>
+</td>
+</tr>
+</tbody>
+</table>
+<table class="text_block block-5" style="mso-table-lspace: 0pt; mso-table-rspace: 0pt; word-break: break-word;" role="presentation" border="0" width="100%" cellspacing="0" cellpadding="0">
+<tbody>
+<tr>
+<td class="pad" style="padding-bottom: 15px; padding-left: 40px; padding-right: 40px;">
+<div style="font-family: sans-serif;">
+<div class="" style="font-size: 14px; mso-line-height-alt: 21px; color: #4d4d4d; line-height: 1.5; font-family: Arial, Helvetica Neue, Helvetica, sans-serif;">
+<p style="margin: 0; text-align: center; mso-line-height-alt: 24px; letter-spacing: normal;"><span style="font-size: 16px;">This new feature has been helping teachers to connect with and impress  potential students for some time now, if you haven’t set it up yet, click the link below and read our tips for starting your conversations off on the </span></p>
+<p style="margin: 0; text-align: center; mso-line-height-alt: 24px; letter-spacing: normal;"><span style="font-size: 16px;">right foot!</span></p>
+</div>
+</div>
+</td>
+</tr>
+</tbody>
+</table>
+<table class="text_block block-6" style="mso-table-lspace: 0pt; mso-table-rspace: 0pt; word-break: break-word;" role="presentation" border="0" width="100%" cellspacing="0" cellpadding="0">
+<tbody>
+<tr>
+<td class="pad" style="padding: 20px 40px 20px 40px;">
+<div style="font-family: sans-serif;">
+<div class="" style="font-size: 14px; mso-line-height-alt: 16.8px; color: #4d4d4d; line-height: 1.2; font-family: Arial, Helvetica Neue, Helvetica, sans-serif;">
+<p style="margin: 0; text-align: center; mso-line-height-alt: 16.8px; letter-spacing: normal;"><span style="font-size: 16px;"><strong><a style="text-decoration: none; color: #01b3bd;" href="https://support.italki.com/hc/en-us/articles/9093027517849-Our-tips-for-getting-the-most-out-of-your-Students-First-Contact" target="_blank" rel="noopener">LEARN MORE &gt;&gt;&gt;</a></strong></span></p>
+</div>
+</div>
+</td>
+</tr>
+</tbody>
+</table>
+<table class="divider_block block-7" style="mso-table-lspace: 0pt; mso-table-rspace: 0pt;" role="presentation" border="0" width="100%" cellspacing="0" cellpadding="10">
+<tbody>
+<tr>
+<td class="pad">
+<div class="alignment" align="center">
+<table style="mso-table-lspace: 0pt; mso-table-rspace: 0pt;" role="presentation" border="0" width="100%" cellspacing="0" cellpadding="0">
+<tbody>
+<tr>
+<td class="divider_inner" style="font-size: 1px; line-height: 1px; border-top: 1px solid #BBBBBB;"><span> </span></td>
+</tr>
+</tbody>
+</table>
+</div>
+</td>
+</tr>
+</tbody>
+</table>
+<table class="image_block block-8" style="mso-table-lspace: 0pt; mso-table-rspace: 0pt;" role="presentation" border="0" width="100%" cellspacing="0" cellpadding="0">
+<tbody>
+<tr>
+<td class="pad" style="padding-top: 10px; width: 100%; padding-right: 0px; padding-left: 0px;">
+<div class="alignment" style="line-height: 10px;" align="center"><a style="outline: none;" tabindex="-1" href="https://www.italki.com/teacher/8506781" target="_blank" rel="noopener"><img class="fullMobileWidth" style="display: block; height: auto; border: 0; width: 300px; max-width: 100%;" src="https://cdn.getblueshift.com/bee/images/d76ed3c2-ff52-4b3b-b852-d04c8f6c8e0c/avatar_EN_3.png" width="300"></a></div>
+</td>
+</tr>
+</tbody>
+</table>
+<table class="text_block block-9" style="mso-table-lspace: 0pt; mso-table-rspace: 0pt; word-break: break-word;" role="presentation" border="0" width="100%" cellspacing="0" cellpadding="0">
+<tbody>
+<tr>
+<td class="pad" style="padding-left: 40px; padding-right: 40px; padding-top: 10px;">
+<div style="font-family: sans-serif;">
+<div class="" style="font-size: 12px; mso-line-height-alt: 14.399999999999999px; color: #4d4d4d; line-height: 1.2; font-family: Arial, Helvetica Neue, Helvetica, sans-serif;">
+<p style="margin: 0; text-align: center; mso-line-height-alt: 14.399999999999999px; letter-spacing: normal;"><span style="font-size: 20px;"><strong>italki’s Expert Series for Teachers: </strong></span></p>
+</div>
+</div>
+</td>
+</tr>
+</tbody>
+</table>
+<table class="text_block block-10" style="mso-table-lspace: 0pt; mso-table-rspace: 0pt; word-break: break-word;" role="presentation" border="0" width="100%" cellspacing="0" cellpadding="0">
+<tbody>
+<tr>
+<td class="pad" style="padding: 15px 40px 15px 40px;">
+<div style="font-family: sans-serif;">
+<div class="" style="font-size: 14px; mso-line-height-alt: 21px; color: #4d4d4d; line-height: 1.5; font-family: Arial, Helvetica Neue, Helvetica, sans-serif;">
+<p style="margin: 0; text-align: center; mso-line-height-alt: 24px; letter-spacing: normal;"><span style="font-size: 16px;">There are a lot of different materials to choose from when it comes to learning English. It can be confusing and overwhelming to think about what materials to use in class. Our Expert Teacher <a style="text-decoration: underline; color: #01b3bd;" href="https://www.italki.com/teacher/8506781" target="_blank" rel="noopener">Henry</a> discusses the importance of authentic materials in class as a tool for insightful and engaging lessons.</span></p>
+</div>
+</div>
+</td>
+</tr>
+</tbody>
+</table>
+<table class="text_block block-11" style="mso-table-lspace: 0pt; mso-table-rspace: 0pt; word-break: break-word;" role="presentation" border="0" width="100%" cellspacing="0" cellpadding="0">
+<tbody>
+<tr>
+<td class="pad" style="padding: 15px 40px 20px 40px;">
+<div style="font-family: sans-serif;">
+<div class="" style="font-size: 14px; mso-line-height-alt: 16.8px; color: #4d4d4d; line-height: 1.2; font-family: Arial, Helvetica Neue, Helvetica, sans-serif;">
+<p style="margin: 0; text-align: center; mso-line-height-alt: 16.8px; letter-spacing: normal;"><span style="font-size: 16px;"><strong><a style="text-decoration: none; color: #01b3bd;" href="https://support.italki.com/hc/en-us/articles/10199046274201" target="_blank" rel="noopener">LEARN MORE &gt;&gt;&gt;</a></strong></span></p>
+</div>
+</div>
+</td>
+</tr>
+</tbody>
+</table>
+<table class="divider_block block-12" style="mso-table-lspace: 0pt; mso-table-rspace: 0pt;" role="presentation" border="0" width="100%" cellspacing="0" cellpadding="10">
+<tbody>
+<tr>
+<td class="pad">
+<div class="alignment" align="center">
+<table style="mso-table-lspace: 0pt; mso-table-rspace: 0pt;" role="presentation" border="0" width="100%" cellspacing="0" cellpadding="0">
+<tbody>
+<tr>
+<td class="divider_inner" style="font-size: 1px; line-height: 1px; border-top: 1px solid #BBBBBB;"><span> </span></td>
+</tr>
+</tbody>
+</table>
+</div>
+</td>
+</tr>
+</tbody>
+</table>
+<table class="text_block block-13" style="mso-table-lspace: 0pt; mso-table-rspace: 0pt; word-break: break-word;" role="presentation" border="0" width="100%" cellspacing="0" cellpadding="0">
+<tbody>
+<tr>
+<td class="pad" style="padding: 20px 40px 10px 40px;">
+<div style="font-family: sans-serif;">
+<div class="" style="font-size: 14px; text-align: center; mso-line-height-alt: 16.8px; color: #4d4d4d; line-height: 1.2; font-family: Arial, Helvetica Neue, Helvetica, sans-serif;">
+<p style="margin: 0; mso-line-height-alt: 16.8px; letter-spacing: normal;"><strong><span style="font-size: 20px;">Industry News:</span></strong></p>
+</div>
+</div>
+</td>
+</tr>
+</tbody>
+</table>
+<table class="image_block block-14" style="mso-table-lspace: 0pt; mso-table-rspace: 0pt;" role="presentation" border="0" width="100%" cellspacing="0" cellpadding="0">
+<tbody>
+<tr>
+<td class="pad" style="width: 100%; padding: 20px 0px 20px 0px;">
+<div class="alignment" style="line-height: 10px;" align="center"><a style="outline: none;" tabindex="-1" href="https://support.italki.com/hc/en-us/articles/10241232649625" target="_blank" rel="noopener"><img class="fullMobileWidth" style="display: block; height: auto; border: 0; width: 150px; max-width: 100%;" src="https://cdn.getblueshift.com/bee/images/d76ed3c2-ff52-4b3b-b852-d04c8f6c8e0c/news.png" width="150"></a></div>
+</td>
+</tr>
+</tbody>
+</table>
+<table class="text_block block-15" style="mso-table-lspace: 0pt; mso-table-rspace: 0pt; word-break: break-word;" role="presentation" border="0" width="100%" cellspacing="0" cellpadding="0">
+<tbody>
+<tr>
+<td class="pad" style="padding: 10px 40px 15px 40px;">
+<div style="font-family: sans-serif;">
+<div class="" style="font-size: 14px; mso-line-height-alt: 21px; color: #4d4d4d; line-height: 1.5; font-family: Arial, Helvetica Neue, Helvetica, sans-serif;">
+<p style="margin: 0; text-align: center; mso-line-height-alt: 24px; letter-spacing: normal;"><span style="font-size: 16px;">The annual <a style="text-decoration: underline; color: #01b3bd;" href="https://global.polyglotconference.com/organizers/" target="_blank" rel="noopener">Polyglot conference</a> will take place online in October and as always, language enthusiasts and polyglots from all over the world will join to learn and share. Learn more about its founder Richard Simcott and his journey of becoming a polyglot.</span></p>
+</div>
+</div>
+</td>
+</tr>
+</tbody>
+</table>
+<table class="text_block block-16" style="mso-table-lspace: 0pt; mso-table-rspace: 0pt; word-break: break-word;" role="presentation" border="0" width="100%" cellspacing="0" cellpadding="0">
+<tbody>
+<tr>
+<td class="pad" style="padding: 15px 40px 20px 40px;">
+<div style="font-family: sans-serif;">
+<div class="" style="font-size: 14px; mso-line-height-alt: 16.8px; color: #4d4d4d; line-height: 1.2; font-family: Arial, Helvetica Neue, Helvetica, sans-serif;">
+<p style="margin: 0; text-align: center; mso-line-height-alt: 16.8px; letter-spacing: normal;"><span style="font-size: 16px;"><strong><a style="text-decoration: none; color: #01b3bd;" href="https://support.italki.com/hc/en-us/articles/10241232649625" target="_blank" rel="noopener">LEARN MORE &gt;&gt;&gt;</a></strong></span></p>
+</div>
+</div>
+</td>
+</tr>
+</tbody>
+</table>
+<table class="divider_block block-17" style="mso-table-lspace: 0pt; mso-table-rspace: 0pt;" role="presentation" border="0" width="100%" cellspacing="0" cellpadding="10">
+<tbody>
+<tr>
+<td class="pad">
+<div class="alignment" align="center">
+<table style="mso-table-lspace: 0pt; mso-table-rspace: 0pt;" role="presentation" border="0" width="100%" cellspacing="0" cellpadding="0">
+<tbody>
+<tr>
+<td class="divider_inner" style="font-size: 1px; line-height: 1px; border-top: 1px solid #BBBBBB;"><span> </span></td>
+</tr>
+</tbody>
+</table>
+</div>
+</td>
+</tr>
+</tbody>
+</table>
+<table class="image_block block-18" style="mso-table-lspace: 0pt; mso-table-rspace: 0pt;" role="presentation" border="0" width="100%" cellspacing="0" cellpadding="0">
+<tbody>
+<tr>
+<td class="pad" style="width: 100%; padding: 30px 0px 20px 0px;">
+<div class="alignment" style="line-height: 10px;" align="center"><a style="outline: none;" tabindex="-1" href="https://support.italki.com/hc/en-us/sections/360006331013-Best-Teaching-Practices" target="_blank" rel="noopener"><img class="fullMobileWidth" style="display: block; height: auto; border: 0; width: 150px; max-width: 100%;" src="https://cdn.getblueshift.com/bee/images/d76ed3c2-ff52-4b3b-b852-d04c8f6c8e0c/tips_2.png" width="150"></a></div>
+</td>
+</tr>
+</tbody>
+</table>
+<table class="text_block block-19" style="mso-table-lspace: 0pt; mso-table-rspace: 0pt; word-break: break-word;" role="presentation" border="0" width="100%" cellspacing="0" cellpadding="0">
+<tbody>
+<tr>
+<td class="pad" style="padding: 20px 40px 20px 40px;">
+<div style="font-family: sans-serif;">
+<div class="" style="font-size: 14px; text-align: center; mso-line-height-alt: 16.8px; color: #4d4d4d; line-height: 1.2; font-family: Arial, Helvetica Neue, Helvetica, sans-serif;">
+<p style="margin: 0; mso-line-height-alt: 16.8px; letter-spacing: normal;"><span style="font-size: 20px;"><strong>Earn More in October With These Tips:</strong></span></p>
+</div>
+</div>
+</td>
+</tr>
+</tbody>
+</table>
+<table class="html_block block-20" style="mso-table-lspace: 0pt; mso-table-rspace: 0pt;" role="presentation" border="0" width="100%" cellspacing="0" cellpadding="0">
+<tbody>
+<tr>
+<td class="pad">
+<div style="font-family: Arial, Helvetica Neue, Helvetica, sans-serif; text-align: center;" align="center">
+<table style="background-color: #f5f6fa; padding: 10px 0; border-radius: 10px 10px 0 0;" width="100%" cellspacing="0" cellpadding="0" align="center">
+<tbody>
+<tr>
+<td width="20"> </td>
+<td align="left" width="350"><span style="line-height: 30px; color: #4d4d4d; font-family: Arial; font-size: 16px;"> <strong style="font-size: 16px;">✔ Gamify your lessons! You can design simple games on your slides or use external online lesson game providers!</strong><br></span></td>
+<td width="50"> </td>
+</tr>
+</tbody>
+</table>
+</div>
+</td>
+</tr>
+</tbody>
+</table>
+<table class="html_block block-21" style="mso-table-lspace: 0pt; mso-table-rspace: 0pt;" role="presentation" border="0" width="100%" cellspacing="0" cellpadding="0">
+<tbody>
+<tr>
+<td class="pad">
+<div style="font-family: Arial, Helvetica Neue, Helvetica, sans-serif; text-align: center;" align="center">
+<table style="background-color: #f5f6fa; padding: 10px 0;" width="100%" cellspacing="0" cellpadding="0" align="center">
+<tbody>
+<tr>
+<td width="20"> </td>
+<td align="left" width="350"><span style="line-height: 30px; color: #4d4d4d; font-family: Arial; font-size: 16px;"> <strong style="font-size: 16px;">✔ Start writing a book with your students, add a chapter or some sentences every class!</strong><br></span></td>
+<td width="50"> </td>
+</tr>
+</tbody>
+</table>
+</div>
+</td>
+</tr>
+</tbody>
+</table>
+<table class="html_block block-22" style="mso-table-lspace: 0pt; mso-table-rspace: 0pt;" role="presentation" border="0" width="100%" cellspacing="0" cellpadding="0">
+<tbody>
+<tr>
+<td class="pad">
+<div style="font-family: Arial, Helvetica Neue, Helvetica, sans-serif; text-align: center;" align="center">
+<table style="background-color: #f5f6fa; padding: 10px 0;" width="100%" cellspacing="0" cellpadding="0" align="center">
+<tbody>
+<tr>
+<td width="20"> </td>
+<td align="left" width="350"><span style="line-height: 30px; color: #4d4d4d; font-family: Arial; font-size: 16px;"> <strong style="font-size: 16px;">✔ Use mind mapping for better vocabulary retention of your students</strong><br></span></td>
+<td width="50"> </td>
+</tr>
+</tbody>
+</table>
+</div>
+</td>
+</tr>
+</tbody>
+</table>
+<table class="html_block block-23" style="mso-table-lspace: 0pt; mso-table-rspace: 0pt;" role="presentation" border="0" width="100%" cellspacing="0" cellpadding="0">
+<tbody>
+<tr>
+<td class="pad">
+<div style="font-family: Arial, Helvetica Neue, Helvetica, sans-serif; text-align: center;" align="center">
+<table style="background-color: #f5f6fa; padding: 10px 0; border-radius: 0 0 10px 10px;" width="100%" cellspacing="0" cellpadding="0" align="center">
+<tbody>
+<tr>
+<td width="20"> </td>
+<td align="left" width="350"><span style="line-height: 30px; color: #4d4d4d; font-family: Arial; font-size: 16px;"> <strong style="font-size: 16px;">✔ Record other speakers of the language with different accents (maybe your fellow teachers or friends) and let your students practice their listening </strong><br></span></td>
+<td width="50"> </td>
+</tr>
+</tbody>
+</table>
+</div>
+</td>
+</tr>
+</tbody>
+</table>
+<table class="text_block block-24" style="mso-table-lspace: 0pt; mso-table-rspace: 0pt; word-break: break-word;" role="presentation" border="0" width="100%" cellspacing="0" cellpadding="0">
+<tbody>
+<tr>
+<td class="pad" style="padding: 25px 40px 20px 40px;">
+<div style="font-family: sans-serif;">
+<div class="" style="font-size: 14px; mso-line-height-alt: 16.8px; color: #4d4d4d; line-height: 1.2; font-family: Arial, Helvetica Neue, Helvetica, sans-serif;">
+<p style="margin: 0; text-align: center; mso-line-height-alt: 16.8px; letter-spacing: normal;"><span style="font-size: 16px;"><strong><a style="text-decoration: none; color: #01b3bd;" href="https://support.italki.com/hc/en-us/sections/360006331013-Best-Teaching-Practices" target="_blank" rel="noopener">LEARN MORE &gt;&gt;&gt;</a></strong></span></p>
+</div>
+</div>
+</td>
+</tr>
+</tbody>
+</table>
+</td>
+</tr>
+</tbody>
+</table>
+</td>
+</tr>
+</tbody>
+</table>
+<table class="row row-2" style="mso-table-lspace: 0pt; mso-table-rspace: 0pt;" role="presentation" border="0" width="100%" cellspacing="0" cellpadding="0" align="center">
+<tbody>
+<tr>
+<td>
+<table class="row-content stack" style="mso-table-lspace: 0pt; mso-table-rspace: 0pt; color: #000000; width: 600px;" role="presentation" border="0" width="600" cellspacing="0" cellpadding="0" align="center">
+<tbody>
+<tr>
+<td class="column column-1" style="mso-table-lspace: 0pt; mso-table-rspace: 0pt; font-weight: 400; text-align: left; vertical-align: top; padding-top: 5px; padding-bottom: 5px; border: 0px;" width="100%">
+<table class="text_block block-1" style="mso-table-lspace: 0pt; mso-table-rspace: 0pt; word-break: break-word;" role="presentation" border="0" width="100%" cellspacing="0" cellpadding="0">
+<tbody>
+<tr>
+<td class="pad" style="padding: 20px 10px 10px 10px;">
+<div style="font-family: sans-serif;">
+<div class="" style="font-size: 14px; mso-line-height-alt: 25.2px; color: #9b9b9b; line-height: 1.8; font-family: Arial, Helvetica Neue, Helvetica, sans-serif;">
+<p style="margin: 0; font-size: 16px; text-align: center; mso-line-height-alt: 28.8px;"><span style="font-size: 16px;">Happy teaching,<br></span></p>
+<p style="margin: 0; font-size: 16px; text-align: center; mso-line-height-alt: 28.8px;"><span style="font-size: 16px;">The <span style="color: #ff554b;">italki <span style="color: #9b9b9b;">Team</span><br></span></span></p>
+</div>
+</div>
+</td>
+</tr>
+</tbody>
+</table>
+<table class="divider_block block-2" style="mso-table-lspace: 0pt; mso-table-rspace: 0pt;" role="presentation" border="0" width="100%" cellspacing="0" cellpadding="10">
+<tbody>
+<tr>
+<td class="pad">
+<div class="alignment" align="center">
+<table style="mso-table-lspace: 0pt; mso-table-rspace: 0pt;" role="presentation" border="0" width="100%" cellspacing="0" cellpadding="0">
+<tbody>
+<tr>
+<td class="divider_inner" style="font-size: 1px; line-height: 1px; border-top: 1px solid #BBBBBB;"><span> </span></td>
+</tr>
+</tbody>
+</table>
+</div>
+</td>
+</tr>
+</tbody>
+</table>
+</td>
+</tr>
+</tbody>
+</table>
+</td>
+</tr>
+</tbody>
+</table>
+<table class="row row-3" style="mso-table-lspace: 0pt; mso-table-rspace: 0pt;" role="presentation" border="0" width="100%" cellspacing="0" cellpadding="0" align="center">
+<tbody>
+<tr>
+<td>
+<table class="row-content stack" style="mso-table-lspace: 0pt; mso-table-rspace: 0pt; color: #000000; width: 600px;" role="presentation" border="0" width="600" cellspacing="0" cellpadding="0" align="center">
+<tbody>
+<tr>
+<td class="column column-1" style="mso-table-lspace: 0pt; mso-table-rspace: 0pt; font-weight: 400; text-align: left; vertical-align: top; padding-top: 5px; padding-bottom: 5px; border: 0px;" width="100%">
+<table class="social_block block-1" style="mso-table-lspace: 0pt; mso-table-rspace: 0pt;" role="presentation" border="0" width="100%" cellspacing="0" cellpadding="10">
+<tbody>
+<tr>
+<td class="pad">
+<div class="alignment" style="text-align: center;">
+<table class="social-table" style="mso-table-lspace: 0pt; mso-table-rspace: 0pt; display: inline-block;" role="presentation" border="0" width="208px" cellspacing="0" cellpadding="0">
+<tbody>
+<tr>
+<td style="padding: 0 10px 0 10px;"><a href="https://www.facebook.com/italkilanguages" target="_blank" rel="noopener"><img style="display: block; height: auto; border: 0;" title="Facebook" src="https://app-rsrc.getbee.io/public/resources/social-networks-icon-sets/t-circle-dark-gray/facebook@2x.png" alt="Facebook" width="32" height="32"></a></td>
+<td style="padding: 0 10px 0 10px;"><a href="https://twitter.com/italki" target="_blank" rel="noopener"><img style="display: block; height: auto; border: 0;" title="Twitter" src="https://app-rsrc.getbee.io/public/resources/social-networks-icon-sets/t-circle-dark-gray/twitter@2x.png" alt="Twitter" width="32" height="32"></a></td>
+<td style="padding: 0 10px 0 10px;"><a href="https://www.instagram.com/italki/" target="_blank" rel="noopener"><img style="display: block; height: auto; border: 0;" title="Instagram" src="https://app-rsrc.getbee.io/public/resources/social-networks-icon-sets/t-circle-dark-gray/instagram@2x.png" alt="Instagram" width="32" height="32"></a></td>
+<td style="padding: 0 10px 0 10px;"><a href="https://www.youtube.com/user/italkilanguage" target="_blank" rel="noopener"><img style="display: block; height: auto; border: 0;" title="YouTube" src="https://app-rsrc.getbee.io/public/resources/social-networks-icon-sets/t-circle-dark-gray/youtube@2x.png" alt="YouTube" width="32" height="32"></a></td>
+</tr>
+</tbody>
+</table>
+</div>
+</td>
+</tr>
+</tbody>
+</table>
+<table class="text_block block-2" style="mso-table-lspace: 0pt; mso-table-rspace: 0pt; word-break: break-word;" role="presentation" border="0" width="100%" cellspacing="0" cellpadding="0">
+<tbody>
+<tr>
+<td class="pad" style="padding: 20px 10px 10px 10px;">
+<div style="font-family: sans-serif;">
+<div class="" style="font-size: 14px; mso-line-height-alt: 16.8px; color: #9b9b9b; line-height: 1.2; font-family: Arial, Helvetica Neue, Helvetica, sans-serif;">
+<p style="margin: 0; font-size: 16px; text-align: center; mso-line-height-alt: 19.2px;"><span style="font-size: 11px;">italki, Suite 2004,20/F., Tower 5, China<br>Hong Kong City, 33 Canton Road, Tsim Sha Tsui, Kowloon, Hong Kong </span></p>
+</div>
+</div>
+</td>
+</tr>
+</tbody>
+</table>
+<table class="text_block block-3" style="mso-table-lspace: 0pt; mso-table-rspace: 0pt; word-break: break-word;" role="presentation" border="0" width="100%" cellspacing="0" cellpadding="10">
+<tbody>
+<tr>
+<td class="pad">
+<div style="font-family: sans-serif;">
+<div class="" style="font-size: 14px; mso-line-height-alt: 16.8px; color: #9b9b9b; line-height: 1.2; font-family: Arial, Helvetica Neue, Helvetica, sans-serif;">
+<p style="margin: 0; font-size: 14px; text-align: center; mso-line-height-alt: 16.8px;"><span style="font-size: 11px;"><a style="text-decoration: none; color: #9b9b9b;" href="{{unsubscribe_link}}" target="_blank" rel="noopener">Manage your email preferences</a> | <a style="text-decoration: none; color: #9b9b9b;" href="{{unsubscribe_link}}" target="_blank" rel="noopener">Unsubscribe</a></span></p>
+</div>
+</div>
+</td>
+</tr>
+</tbody>
+</table>
+</td>
+</tr>
+</tbody>
+</table>
+</td>
+</tr>
+</tbody>
+</table>
+</td>
+</tr>
+</tbody>
+</table>
+<!-- End -->

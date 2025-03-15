@@ -1,0 +1,76 @@
+<h1>Student Group Class Rules</h1>
+<h2 id="Notice" data-renderer-start-pos="2"><strong>What is Group Class？</strong></h2>
+<ul>
+<li data-renderer-start-pos="10">Group Classes are online classes for 2-6 students that focus on teacher-created topics. You can talk and interact with the teacher and fellow students from around the world to practice your speaking, listening, and other language skills.</li>
+<li data-renderer-start-pos="10">Please note that for now, Group Classes can only be booked through website: <a href="https://www.italki.com/en/group-class" target="_self">https://www.italki.com/group-class</a>
+</li>
+</ul>
+<h2 id="Class-Request-Policy" data-renderer-start-pos="160"><strong>Class Request Policy</strong></h2>
+<ul class="ak-ul" data-indent-level="1">
+<li>
+<p data-renderer-start-pos="235"><span id="790b1338-14ea-4a5d-8f74-f880e7b8b815" data-renderer-mark="true" data-mark-type="annotation" data-mark-annotation-type="inlineComment" data-id="790b1338-14ea-4a5d-8f74-f880e7b8b815">Students can <span id="a54bdf0e-3836-4c8d-b897-5187cd029f2a" data-renderer-mark="true" data-mark-type="annotation" data-mark-annotation-type="inlineComment" data-id="a54bdf0e-3836-4c8d-b897-5187cd029f2a">request the class as long as the class is available</span> or until the class reaches the maximum number of students.</span> Class requests will be accepted automatically, the class will show in the upcoming lesson list once booked.</p>
+</li>
+<li>
+<p data-renderer-start-pos="469">Once full, no additional students can request this Group Class, no matter how long it is before class starts.</p>
+</li>
+</ul>
+<h2 id="Class-Material-Policy" data-renderer-start-pos="679"><strong>Class Material Policy</strong></h2>
+<ul class="ak-ul" data-indent-level="1">
+<li>
+<p data-renderer-start-pos="704">Class material can be viewed or downloaded only after purchasing the class.</p>
+</li>
+</ul>
+<h2 id="Class-Cancellation-Policy" data-renderer-start-pos="785"><strong>Class Cancellation Policy</strong></h2>
+<ul class="ak-ul" data-indent-level="1">
+<li>
+<p data-renderer-start-pos="814">Students can canc<span id="8c2e41cc-a617-43e3-94a6-dc0afc96475e" class="inline-highlight" data-renderer-mark="true" data-mark-type="annotation" data-mark-annotation-type="inlineComment" data-id="8c2e41cc-a617-43e3-94a6-dc0afc96475e">el the class up to 24 hours before the </span>start of the <span id="b41af027-c0b2-400a-b69e-635c6eac1311" data-renderer-mark="true" data-mark-type="annotation" data-mark-annotation-type="inlineComment" data-id="b41af027-c0b2-400a-b69e-635c6eac1311">class.</span></p>
+</li>
+</ul>
+<h2 id="In-Class-Policy" data-renderer-start-pos="895"><strong>In-Class Policy</strong></h2>
+<ul class="ak-ul" data-indent-level="1">
+<li>
+<p data-renderer-start-pos="915">Group Classes are taught via Zoom, and the Zoom meeting ID and password information will appear 10 minutes before the class time.</p>
+</li>
+<li>
+<p data-renderer-start-pos="1048">Make sure to attend the class on time, there is no cancellation/reschedule/refund if students are late for the class. However, students are able to enter an ongoing class after the start time.</p>
+</li>
+<li>
+<p data-renderer-start-pos="1244">The class length is based on the Class Settings, regardless of whether you interact with the teacher or other students during class time.</p>
+</li>
+<li>
+<p data-renderer-start-pos="1385">Inappropriate behaviors are unacceptable and may result in students being warned or removed from class. Inappropriate behaviors include but are not limited to: harassment; sexual/racial/religious discrimination and any other behaviors that negatively influence the group class experience.</p>
+</li>
+<li>
+<p data-renderer-start-pos="1678">Teachers have the right to remove students from class if they misbehave. Once removed students are not allowed to enter the Group Class again.</p>
+</li>
+<li>
+<p data-renderer-start-pos="1824">Students may turn off their cameras if they choose.</p>
+</li>
+</ul>
+<h2 id="Credit-Refund-Policy" data-renderer-start-pos="1882"><strong>Credit Refund Policy</strong></h2>
+<ul class="ak-ul" data-indent-level="1">
+<li>
+<p data-renderer-start-pos="1906">Students can cancel the class request up to 24 hour<span id="c821ca75-be3a-489c-b421-6508849c743b" class="inline-highlight" data-renderer-mark="true" data-mark-type="annotation" data-mark-annotation-type="inlineComment" data-id="c821ca75-be3a-489c-b421-6508849c743b">s before the start of class, and receive a full refund of class credits back to their student wallet. Students are not allowed to cancel the class within 24 hours of the class start time.</span></p>
+</li>
+<li>
+<p data-renderer-start-pos="2150">Students who apply for full or partial <span id="721feb74-d667-4af7-b336-72d8dbe6f896" data-renderer-mark="true" data-mark-type="annotation" data-mark-annotation-type="inlineComment" data-id="721feb74-d667-4af7-b336-72d8dbe6f896">credit refund</span>s are required to provide evidence, such as screen recordings or chat records to support their request.</p>
+</li>
+<li>
+<p data-renderer-start-pos="2310">Students will not get a credit refund if they have been warned or removed from class for inappropriate behaviors.</p>
+</li>
+<li>
+<p data-renderer-start-pos="2427">Students have 24 hours to request a credit refund before the Group Class is automatically marked as “completed”.</p>
+</li>
+</ul>
+<h2 id="After-Class-Policy" data-renderer-start-pos="2543"><strong>After Class Policy</strong></h2>
+<ul class="ak-ul" data-indent-level="1">
+<li>
+<p data-renderer-start-pos="2565"><span id="ac4bc5b8-328b-4988-8e81-8c35fb185cec" data-renderer-mark="true" data-mark-type="annotation" data-mark-annotation-type="inlineComment" data-id="ac4bc5b8-328b-4988-8e81-8c35fb185cec">Group Classes will be automatically confirmed to a completion status 24 hours after the class ends.</span> Currently, Group Class has no feedback function.</p>
+</li>
+</ul>
+<h2 id="Addition" data-renderer-start-pos="2719"><strong>Addition</strong></h2>
+<ul class="ak-ul" data-indent-level="1">
+<li>
+<p data-renderer-start-pos="2731">italki reserves the sole right to assess, resolve, and make decisions regarding the above-mentioned rule violations as well as other disputes.</p>
+</li>
+</ul>

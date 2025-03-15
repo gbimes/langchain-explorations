@@ -1,0 +1,83 @@
+<h1>Withdraw using Bank Transfer via Payoneer</h1>
+<p>All bank transfer requests <strong>require a Payoneer account. </strong>If Payoneer is not available in your country, please consider a different Payment Provider or contact italki support for help.</p>
+<p> </p>
+<h3>Bank Transfer (by Payoneer)</h3>
+<ul>
+<li>Bank Transfer by Payoneer is available only for withdrawals of<strong> $30 USD in italki Credits or more</strong>. If this is a problem, please contact support directly.</li>
+<li>If you have not yet created a Payoneer account, please begin this process at least 1 week before you want to make your withdrawal request, since Payoneer may take at least a few days to verify your account.</li>
+<li>Requests for Bank Transfer via Payoneer are collected twice a month, on the 15th and on the last day (30th / 31st) of each month. Requests are collected according to UTC+0 time, so please plan accordingly.</li>
+<li>All payments will be sent out during the following 10 days, so your payment will be sent by the 26th (if submitted before the 15th) or by the 10th of the following month (if submitted at the end of the month). It may take a few extra days for the payment to be received by your bank. You can get more details about italki's payment schedule here: <a href="http://support.italki.com/hc/en-us/articles/206351868-I-ve-submitted-my-withdrawal-request-When-will-I-receive-my-payment-" target="_blank" rel="noopener noreferrer">When will I receive my payment?</a> </li>
+</ul>
+<h4> </h4>
+<h3>What are the fees?</h3>
+<p>italki sends funds in USD. Depending on what country you are in and what currency you are requesting, different fees will apply. There are three different situations as shown below: <strong>$1.5 in total</strong>, <strong>$3+conversion rate</strong> and <strong>$15+intermediary bank fees</strong>. </p>
+<h4>
+<strong>For USD transfers to the United States (ACH)</strong>: </h4>
+<ul>
+<li>$ 1.5 USD flat fee</li>
+<li>No exchange fee</li>
+<li>Receiving currency in USD </li>
+</ul>
+<p><strong>Example:</strong> A teacher withdraws italki Credits in USD to a bank account in the USA. </p>
+<ul>
+<li>Withdraw amount: $100 USD in italki Credits</li>
+<li>Payoneer fee: $1.50 USD</li>
+<li>Teacher receives: $98.50 </li>
+</ul>
+<p> </p>
+<h3>Local Bank Transfers</h3>
+<p>If a payee wishes to receive bank transfers to their local bank account in their local currency, the <strong>transfer fee is $ 3.00. A currency exchange fee of about 2% of the amount (depending on the currency needed) will apply.</strong></p>
+<ul>
+<li>Applies for transfers to countries with the local currency route(local transfer).</li>
+<li>Receiving currency in l<strong>ocal currency</strong>, <strong>NOT USD</strong>.  </li>
+</ul>
+<p><strong>Example:</strong> A teacher with a Japanese bank account wishes to receive funds in JPY.  </p>
+<ul>
+<li>Withdraw amount: $100 USD in italki Credits</li>
+<li>Payoneer fee: $3 </li>
+<li>Payoneer currency exchange fee: 2% for example</li>
+<li>Teacher receives:  [100 - (100-3)*2%] - 3 = $95.06. </li>
+</ul>
+<h4> </h4>
+<h3>SWIFT (wire) bank transfers</h3>
+<p>If a payee wishes to receive bank transfers to their local bank account in USD currency, the <strong>transfer fee is $15</strong>. Additional intermediary bank fees or loading fees may apply. </p>
+<ul>
+<li>Receiving currency in USD.</li>
+<li>Not valid for countries with local currency route.</li>
+</ul>
+<p><strong>Example 1:</strong> A teacher with a bank account in Nepal must request payment in USD because local currency transfers via Payoneer are not available in Nepal.</p>
+<p><strong>Example 2:</strong> A teacher in Japan cannot receive payment in USD, but only JPY because there is a local currency route available.  </p>
+<ul>
+<li>Withdraw amount: $100 USD in italki Credits</li>
+<li>Payoneer fee: $15 </li>
+<li>Payoneer currency exchange fee: none</li>
+<li>Teacher receives: $85, minus any intermediary fees or loading fees applied by other banks.</li>
+</ul>
+<p>For detailed information about different currencies or Payoneer in different countries, please consult <a href="https://payoneer.custhelp.com/app/home" target="_blank" rel="noopener">Payoneer customer support.</a> </p>
+<h4> </h4>
+<h3>How do I connect a Payoneer account to my Wallet?</h3>
+<p dir="ltr">If you have already connected your Payoneer account, please go to the instructions on <strong><a href="#h_01FE3GFCN7FYKAFDJYWZCY8ADH" target="_self">how to request a bank transfer by Payoneer</a></strong> below.</p>
+<p dir="ltr">When your bank transfer withdrawal request is processed by italki, Payoneer will use the bank details in your Payoneer account to send your payment.</p>
+<p dir="ltr"> </p>
+<h3 dir="ltr">How to connect (or create) a Payoneer Account</h3>
+<p dir="ltr">1. Go to your Withdrawal Settings.</p>
+<p dir="ltr">2. If you already have a Payoneer account, click "Connect".</p>
+<ul>
+<li>You will be taken to the Payoneer website. Follow the instructions to create or connect your account. When your account is connected, italki will be able to send your payment.</li>
+</ul>
+<p dir="ltr">3. If you do not have a Payoneer account yet, click "Create an Account". </p>
+<ul>
+<li>You will need to enter your bank information. Payoneer will use this bank information to process your withdrawal request from italki. In some situations, you may be asked to provide extra details such as a copy of your ID, bank statement, or other documents.</li>
+<li>New applications take up to several business days to be reviewed. Once reviewed, you will receive an email confirmation with further details. </li>
+<li>Once you have submitted your Payoneer application, you can view your account status and transaction history at any time by logging in to your Payoneer Account - My Account (<a href="http://myaccount.payoneer.com/" target="_blank" rel="noopener">http://myaccount.payoneer.com</a>).</li>
+</ul>
+<p>Once your account is verified and connected, you will be ready to make a withdrawal request from italki.</p>
+<p> </p>
+<h3 id="h_01FE3GFCN7FYKAFDJYWZCY8ADH">How do I Request a Bank Transfer (by Payoneer)?</h3>
+<p>1. Go to My Wallet and click "Withdraw".</p>
+<p><img src="https://support.italki.com/hc/article_attachments/36781810233497" alt="Screenshot_2020-06-22_at_11.07.25.png"></p>
+<p> </p>
+<p>2. Choose "Bank Transfer (by Payoneer)". If you do not have this option, then choose "+ use another withdrawal method" and create or connect your Payoneer account. Instructions on how to do that are below.</p>
+<p><img src="https://support.italki.com/hc/article_attachments/4405686012185" alt="Screen_Shot_2021-08-30_at_2.08.51_PM.png" width="676" height="365"></p>
+<p>3. Review the details and enter your password to confirm your request.</p>
+<p><img src="https://support.italki.com/hc/article_attachments/4405686022425" alt="Screen_Shot_2021-08-30_at_2.09.35_PM.png" width="673" height="379"></p>

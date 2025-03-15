@@ -1,0 +1,15 @@
+<h1>How to redeem a Migaku code</h1>
+<h2 id="h_01JG3FF6RYMZY9WJ2KE96ZEM3G">About Migaku</h2>
+<p>Migaku is your ultimate language learning companion. Learn from real-world content like Netflix movies, YouTube videos, articles, and even conversations. AI-powered tools make it easy to understand new words, create flashcards, and track your progress. Say goodbye to boring textbooks and hello to a fun, personalized learning experience.</p>
+<h2 id="h_01JG3FF6RY1NT2YXH6GKZ7AGWY">Redeem your code</h2>
+<p>1. Create your Migaku account: <a href="https://migaku.com/signup" target="_blank" rel="noopener noreferrer">Sign up</a> for a Migaku account using your email address. Enrollment is only available on the web.</p>
+<p><img src="https://support.italki.com/hc/article_attachments/41674754673049" width="2048" height="1241"></p>
+<p>2. Click on the “Pricing” button in the upper left corner.</p>
+<p><img src="https://support.italki.com/hc/article_attachments/41674707622553" width="725" height="435"></p>
+<p>3. Scroll down, enter your code, and click “<strong>APPLY</strong>”.</p>
+<p><img src="https://support.italki.com/hc/article_attachments/41674754678425" width="735" height="423"></p>
+<p>4. The discount is automatically applied, so you'll see the 3 months of free access on the Standard Package reflected in the price. Click “<strong>START EXPLORING</strong>”.</p>
+<p><img src="https://support.italki.com/hc/article_attachments/41674707627801" width="698" height="487"></p>
+<p>5. You'll need to enter your payment details to start the promotion. But don't worry, you won't be charged for the first 3 months, and you can cancel the subscription anytime before the next payment date.</p>
+<p><img src="https://support.italki.com/hc/article_attachments/41674707629465" width="700" height="489"></p>
+<p>If you have issues with redeeming your code, please contact support at <a href="mailto:support@migaku.com"><span class="wysiwyg-underline" style="color: #1155cc;">support@migaku.com</span></a>.</p>

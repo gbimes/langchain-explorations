@@ -1,0 +1,10 @@
+<h1>italki Credits & Processing Fee</h1>
+<p><span style="font-weight: 400;">The italki Credits are a virtual currency purchased from italki, which can be used solely on italki to purchase lessons or tests,  join our activities, and Language Challenges.  </span></p>
+<p><span style="font-weight: 400;">Your final payment of italki Credits will be made in USD. When you choose another currency, you will get an estimation as exchange rates vary.</span></p>
+<p><span style="font-weight: 400;"><img src="https://support.italki.com/hc/article_attachments/900003702906" alt="2.1.1-Estimated_CNY.png"></span></p>
+<h2><strong>Processing Fees while purchasing credits</strong></h2>
+<p>When purchasing italki Credits, you will be charged additional fees by a third party that provides the applicable Payment Method. <strong>This processing fee is not charged by italki.</strong></p>
+<p>After you select a payment method, the processing fee will be listed on the payment page so that you can check before completing your purchase.</p>
+<p><img src="https://support.italki.com/hc/article_attachments/900003664543" alt="2.2.4-Processing_fee_-cc.png"></p>
+<p><span style="font-weight: 400;">If you would like to pay in your local currency, please check with your bank or local payment service provider if they support the currency exchange to USD. Exchange fees might apply.</span></p>
+<p><span style="font-weight: 400;">Read more about </span><strong><a href="https://support.italki.com/hc/en-us/articles/217489907" target="_blank" rel="noopener">Which payment methods can I use to purchase italki Credits? </a></strong>and our <span class="wysiwyg-underline"><strong><a href="https://support.italki.com/hc/en-us/articles/360023115453" target="_blank" rel="noopener">Credits</a><a href="https://support.italki.com/hc/en-us/articles/360023115453" target="_blank" rel="noopener"> Policies</a></strong></span><strong>.</strong></p>

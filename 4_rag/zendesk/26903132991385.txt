@@ -1,0 +1,51 @@
+<h1>The Teacher Management System</h1>
+<p><strong>What is the Teacher Management System?</strong></p>
+<p>italki expects teachers to be professional and provide quality service to their students. To this end, the Teacher Management System enforces italki’s policies and code of conduct. </p>
+<p> </p>
+<p>We understand that even the best teachers will get bad reviews, miss an occasional class, or have a student complain about them. In moderation, none of those are likely to raise concerns or impact the Teacher Management System. However, when we see repeated or extremely unprofessional conduct we may restrict teachers.</p>
+<p> </p>
+<p><strong>What actions are monitored by the Teacher Management System?</strong> </p>
+<p>We have identified a series of actions that will greatly affect the students’ experiences and therefore impact your student rebook rate. These actions will be monitored closely and trigger different levels of discipline. </p>
+<p>The behaviors below are listed based on their severity:</p>
+<p>Being absent from a lesson without giving notice </p>
+<p>Missing or Not replying to lesson requests</p>
+<p>Being absent from a lesson with notice </p>
+<p>Canceling a lesson  </p>
+<p>Declining a lesson request </p>
+<p> </p>
+<p>Details of our Lesson Policy, Lesson Request Policy, and Attendance Policy can be found through the links below. </p>
+<p> </p>
+<p><strong>There are five Severity Levels with different consequences for reaching each:</strong></p>
+<p>Severity Level 5:  </p>
+<ul>
+<li>Warning</li>
+</ul>
+<p>Severity Level 4:  </p>
+<ul>
+<li>Hidden from Teacher Recommendation for 7 days, </li>
+<li>Instant lesson disabled for 7 days,  </li>
+<li>Account set to Accepting “Current Student” for 7 days</li>
+</ul>
+<p>Severity Level 3: </p>
+<ul>
+<li>Hidden from Teacher Recommendation for 14 days, </li>
+<li>Instant lesson disabled for 14 days,  </li>
+<li>Account set to Accepting “Current Student” for 14 days</li>
+</ul>
+<p>Severity Level 2: </p>
+<ul>
+<li>Hidden from Teacher Recommendation for 30 days, </li>
+<li>Instant lesson disabled for 30 days,  </li>
+<li>Account set to Accepting “Nobody” for 30 days</li>
+</ul>
+<p>Severity Level 1:</p>
+<ul>
+<li>Account Deactivation</li>
+</ul>
+<p><strong>Can I appeal?</strong> </p>
+<p>We understand there are emergencies and you should take advantage of our calendar settings to alter your availability and settings so that you won't get lesson requests. </p>
+<p>In any rare case where you cannot do so, you can always contact us for help. You can appeal actions, when you are able please contact Customer Service and they can assist you in managing the situation and restoring your account with proof.</p>
+<p> </p>
+<p>You can find detailed information about our Lesson Policy here: </p>
+<p><a href="https://support.italki.com/hc/en-us/articles/360020529954-Lesson-Policy"><span class="wysiwyg-underline" style="color: #1155cc;">https://support.italki.com/hc/en-us/articles/360020529954-Lesson-Policy</span></a>  </p>
+<p> </p>

@@ -1,0 +1,21 @@
+<h1>What is Practice?</h1>
+<p>Practice is a series of tailored exercises based on your lesson content, designed to reinforce what you’ve learned.</p>
+<p> </p>
+<h2 id="h_01J8PH5CGJNT3T9NRJDNMDXD9E"><strong>How does it work?</strong></h2>
+<p>When you generate lesson summaries from your lessons, knowledge points learned in the lessons will be recorded, such as vocabulary, phrases, and grammar. The practice system will create a variety of exercises targeting these knowledge points, and organize these exercises into bite-sized sessions, so that you can practice the right knowledge at the best time.</p>
+<p>Currently, the practice focuses on vocabulary and phrases. Grammar practice will be available soon.</p>
+<p><img src="https://support.italki.com/hc/article_attachments/38175130538521" width="698" height="309"></p>
+<p><img src="https://support.italki.com/hc/article_attachments/38175106673305" width="325" height="285"><img src="https://support.italki.com/hc/article_attachments/38175130551577" width="358" height="284"><img src="https://support.italki.com/hc/article_attachments/38175106709145" width="346" height="251"></p>
+<p> </p>
+<h2 id="h_01J8PHA5ET738GMAE3AK9R4VD9"><strong>Where can I see the mastery level of my knowledge point?</strong></h2>
+<p>Every time you answer an exercise correctly, your mastery level for that knowledge point increases. <span style="color: #0e0e0e;">The mastery level can be viewed in the report after each practice session or in the Learning Journal.</span></p>
+<p><span style="color: #0e0e0e;">In addition, you</span> can mark a knowledge point as ‘mastered’ in the Learning Journal if you feel confident and <span style="color: #0e0e0e;">prefer not to practice it again in the near future.</span></p>
+<p><span style="color: #0e0e0e;"><img src="https://support.italki.com/hc/article_attachments/38175106712217" width="350" height="370"></span><span style="color: #0e0e0e;"><img src="https://support.italki.com/hc/article_attachments/38175130565273" width="699" height="339"></span></p>
+<p> </p>
+<h2 id="h_01J8PHCN04FNQMYN143T5QR6DC"><strong>Why is there no practice available sometimes?</strong></h2>
+<p><span style="color: #0e0e0e;">Our system uses spaced repetition to improve long-term retention and reduce forgetting. If your knowledge points are in the review interval, practice exercises might not be available at that moment.</span></p>
+<p><span style="color: #0e0e0e;">Another possibility is that all your knowledge points have reached mastery, so no further practice is required. In this case, continuing lessons and generating new lesson summaries will introduce new knowledge points.</span></p>
+<p> </p>
+<h2 id="h_01J8PHD9KJ35R2Z8ZH9M94HSAD"><strong>How do I set my practice schedule and reminders?</strong></h2>
+<p><span style="color: #0e0e0e;">You can set your practice schedule and reminders on the practice page. If you don’t want to receive notification, you can turn it off in ‘setting’. Check details here: </span><a href="https://support.italki.com/hc/en-us/articles/206353148-Notification-settings-on-italki" target="_blank" rel="noopener noreferrer">Notification settings on italki</a>.</p>
+<p><span style="color: #0e0e0e;"><img src="https://support.italki.com/hc/article_attachments/38175106729241" width="699" height="393"></span></p>

@@ -1,0 +1,22 @@
+<h1>How do I deactivate my italki account?</h1>
+<h2><strong>Things you need to know before deactivating your account</strong></h2>
+<ul>
+<li dir="ltr">Your profile will disappear from the italki service immediately.  </li>
+<li dir="ltr">You will not receive any more emails from italki.</li>
+<li dir="ltr"><strong>Messages you sent to other users, questions you answered, corrections you made, or discussions you posted in Community, will remain visible.</strong></li>
+<li dir="ltr">Search engines such as Google may still have links to your italki profile for a few weeks. As the i<span>nformation on your profile page will be updated (removed), the search engine will remove these results by itself upon regular updates.</span>
+</li>
+</ul>
+<h2><strong>How do I delete my italki account?</strong></h2>
+<ol>
+<li>
+<span>Hover on your Profile Picture and click </span><strong>Settings<span> </span></strong>to visit your italki <span class="wysiwyg-underline"><strong><a href="https://www.italki.com/settings/account" target="_blank" rel="noopener">Settings</a></strong></span> Page.<br><img src="https://support.italki.com/hc/article_attachments/900003540603/1.4.1-Hoever-Settings.png" alt="1.4.1-Hoever-Settings.png">
+</li>
+</ol>
+<p>2. Select the <strong>Privacy</strong> tab and click "<strong>DEACTIVATE</strong>".</p>
+<p><img src="https://support.italki.com/hc/article_attachments/900007801383" alt="mceclip0.png"></p>
+<p class="wysiwyg-text-align-left">3. Click <strong>Next</strong> if you have previously completed lessons with your teachers but would like to proceed.</p>
+<p>4. Let us know why you have decided to leave and click DEACTIVATE.</p>
+<p dir="ltr"><strong>If you are a teacher on italki, you will need to contact support to cancel your teacher account first so that you can deactivate your italki user account. </strong></p>
+<p dir="ltr"> </p>
+<p dir="ltr"><strong>If you are just looking to change your italki login account, check <span class="wysiwyg-underline"><a href="https://support.italki.com/hc/en-us/articles/206352948" target="_blank" rel="noopener">How do I change my italki login email?</a></span></strong></p>

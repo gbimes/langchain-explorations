@@ -1,0 +1,52 @@
+<h1>SOP: Teacher/Company who take students/teachers off of italki</h1>
+<h3>Message Templates</h3>
+<p><strong>Situation 1: Teacher takes students off of italki</strong></p>
+<p><span style="font-weight: 400;">&lt;p&gt;Hi {teacher's name},&lt;/p&gt;</span></p>
+<p><span style="font-weight: 400;">&lt;p&gt;Greetings from italki! Hope you're doing great.&lt;/p&gt;</span></p>
+<p><span style="font-weight: 400;">&lt;p&gt;We've recently noticed you've sent the following message to some users.&lt;/p&gt;</span></p>
+<p><span style="font-weight: 400;">&lt;p&gt;{the message}&lt;/p&gt;</span></p>
+<p><span style="font-weight: 400;">&lt;p class="p1"&gt;&lt;strong&gt;It suggests you were trying to take students off of italki, which violates the&amp;nbsp;&lt;a href="https://support.italki.com/hc/en-us/articles/215325898-italki-Teacher-Policies-Teacher-Code-of-Conduct"&gt;italki Teacher Policies &amp;amp; Teacher Code of Conduct&lt;/a&gt;.&lt;/strong&gt;&lt;/p&gt;</span></p>
+<p><span style="font-weight: 400;">&lt;p class="p1"&gt;Specifically,&lt;/p&gt;</span></p>
+<p><span style="font-weight: 400;">&lt;blockquote&gt;</span></p>
+<p><span style="font-weight: 400;">&lt;p class="p1"&gt;&lt;strong&gt;Do not take students off of italki or accept payment outside of the italki system&lt;/strong&gt;&lt;/p&gt;</span></p>
+<p><span style="font-weight: 400;">&lt;p class="p1"&gt;italki does not tolerate teachers trying to take italki students off of italki or accepting payments outside of the italki system. &lt;strong&gt;Advertising lessons outside of the system or avoiding the italki scheduling and payment systems may be grounds for your account being suspended or deactivated. italki will also confiscate any earned italki Credits, and you may lose access to your lesson and teaching history on italki.&lt;/strong&gt; Do not do this.&lt;/p&gt;</span></p>
+<p><span style="font-weight: 400;">&lt;/blockquote&gt;</span></p>
+<p><span style="font-weight: 400;">&lt;p&gt;Because of this violation,your teacher profile will be hidden for one week. Meanwhile, your Teacher Wallet will be temporarily frozen for one month, which means you can't withdraw your money at this moment.&lt;/p&gt;</span></p>
+<p><span style="font-weight: 400;">&lt;p class="p1"&gt;Please respect italki's&amp;nbsp;policies and do not take students off of italki again. &lt;strong&gt;If there's a second violation, your profile may be deactivated and your earned credits may be confiscated.&lt;/strong&gt;&lt;/p&gt;</span></p>
+<p><span style="font-weight: 400;">&lt;p class="p1"&gt;Please write to&amp;nbsp;&lt;a href="mailto:support@</span><a href="http://italki.com/"><span style="font-weight: 400;">italki.com</span></a><span style="font-weight: 400;">"&gt;support@</span><a href="http://italki.com/"><span style="font-weight: 400;">italki.com</span></a><span style="font-weight: 400;">&lt;/a&gt;&amp;nbsp;if you have any question. Thanks for&amp;nbsp;your understanding and support.&lt;/p&gt;</span></p>
+<p><span style="font-weight: 400;">&lt;p class="p1"&gt;italki Teacher Services&lt;/p&gt;</span></p>
+<p><strong>Situation 2: Teacher takes other teachers off of italki</strong></p>
+<p><span style="font-weight: 400;">&lt;p&gt;Hi Andressa,&lt;/p&gt;</span></p>
+<p><span style="font-weight: 400;">&lt;p&gt;Greetings from italki!&lt;/p&gt;</span></p>
+<p><span style="font-weight: 400;">&lt;p&gt;We would like to contact you regarding the following message you've sent to other teachers.&lt;/p&gt;</span></p>
+<p><span style="font-weight: 400;">&lt;p style="margin-left: 25px;"&gt;&lt;span style="font-style: italic;"&gt;look for immerse.online and take a look at it!&lt;/span&gt;&lt;/p&gt;</span></p>
+<p><span style="font-weight: 400;">&lt;p style=""&gt;&lt;strong&gt;It suggests you were trying to take teachers off of italki, which violates the &lt;a href="https://support.italki.com/hc/en-us/articles/215325898-italki-Teacher-Policies-Teacher-Code-of-Conduct"&gt;italki&amp;nbsp;Teacher Policies &amp;amp; Teacher Code of Conduct&lt;/a&gt;.&lt;/strong&gt;&lt;/p&gt;</span></p>
+<p><span style="font-weight: 400;">&lt;p&gt;Specifically,&lt;/p&gt;</span></p>
+<p><span style="font-weight: 400;">&lt;p style="margin-left: 25px;"&gt;&lt;span style="font-weight: bold;"&gt;3. italki System Policy Violations&lt;/span&gt;&lt;/p&gt;</span></p>
+<p><span style="font-weight: 400;">&lt;p style="margin-left: 25px;"&gt;&lt;span style="font-weight: bold;"&gt;DO NOT&amp;nbsp;&lt;/span&gt;&lt;span style="font-weight: bold;"&gt;Advertise or promote competing services&lt;/span&gt;&lt;/p&gt;</span></p>
+<p><span style="font-weight: 400;">&lt;p&gt;&lt;span style="color: rgb(255, 0, 0); font-weight: bold;"&gt;italki understands and accepts that teachers may not teach exclusively on italki and may work full or part-time at other language training companies. However, when teaching on italki, teachers are not allowed to promote or represent these other companies. If you are promoting another company, particularly a competing company, this will lead to your account being deactivated, forfeiture of your earned italki Credits, and deletion of your history.&lt;/span&gt;&lt;/p&gt;</span></p>
+<p><span style="font-weight: 400;">&lt;p&gt;Because of this violation, your Teacher Profile will be hidden for one week and your Teacher Wallet will be temporarily frozen for one month, which means you can't make a&amp;nbsp;withdrawal request within one month.&lt;/p&gt;</span></p>
+<p><span style="font-weight: 400;">&lt;p&gt;Please respect italki's policies and do not promote these companies again. If there's a second violation, your profile may be deactivated and your earned credits may be confiscated.&lt;/p&gt;</span></p>
+<p><span style="font-weight: 400;">&lt;p class="p1"&gt;Please write to&amp;nbsp;&lt;a href="mailto:teacherhelp@italki.com" target="_blank"&gt;teacherhelp@italki.com&lt;/a&gt;&amp;nbsp;if you have any question.&lt;/p&gt;</span></p>
+<p><span style="font-weight: 400;">&lt;p class="p1"&gt;Thanks for&amp;nbsp;your understanding and support!&lt;/p&gt;</span></p>
+<p><span style="font-weight: 400;">&lt;p&gt;italki Teacher Services&lt;/p&gt;</span></p>
+<p> </p>
+<h3>Policy</h3>
+<p><strong>1st violation:</strong></p>
+<ul>
+<li style="font-weight: 400;"><span style="font-weight: 400;">Set their teacher profile unable to book lesson for one month + Freeze their teacher wallet for one month. Frozen $50 USD from their teacher wallet for 3 month and they can withdraw the rest (if the teacher still wishes to teach), if not then deduct $50 USD from their total amount and they can withdraw the rest. </span></li>
+<li style="font-weight: 400;"><span style="font-weight: 400;">If it's really serious (had asked many students to paid out and it's already happened), deactivate their teacher account directly and confiscate their earned credits.</span></li>
+</ul>
+<p><span style="font-weight: 400;">Case study: https://italki.zendesk.com/agent/tickets/238020</span></p>
+<p><strong>2nd violation:</strong></p>
+<ul>
+<li style="font-weight: 400;"><span style="font-weight: 400;">Deactivate their teacher account (as well as user account if necessary) + Confiscate their earned credits available in their teacher wallet</span></li>
+</ul>
+<p><span style="font-weight: 400;">For Company who's trying to steal teacher from italki, here's a previous response from Kevin Chen as a reference:</span></p>
+<p>---</p>
+<p><span style="font-weight: 400;">Hi Tyler,</span></p>
+<p><span style="font-weight: 400;">My name is Kevin Chen, and I'm a co-founder of italki.  I'm sorry about introducing myself in this way, but our support team has let me know that you're trying to recruit teachers on our site.  This violates our terms of service, among other things. It's pretty inappropriate for a company like Lingo-live to behave this way, and it borders on being ethically questionable.</span></p>
+<p><span style="font-weight: 400;">We don't want any bad relationships, so I'm going to directly ask you and your team to stop this type of behaviour.  We think language learning is a very big market, and It shouldn't be necessary for startups to use underhanded methods to compete.  There are big opportunities for all edtech companies, and I hope we all can work to improve education for students everywhere.</span></p>
+<p><span style="font-weight: 400;">Best regards,</span></p>
+<p><span style="font-weight: 400;">Kevin Chen</span></p>
+<p><span style="font-weight: 400;">Co-founder, </span><a href="http://italki.com/"><span style="font-weight: 400;">italki.com</span></a></p>

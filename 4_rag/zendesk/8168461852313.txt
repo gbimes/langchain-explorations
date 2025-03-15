@@ -1,0 +1,49 @@
+<h1>针对9-12岁学生, 如何准备一节中文课？</h1>
+<p class="p1">        在教学过程中，我们遇到大部分9-12岁学生都是华裔学生，因为家里有语言环境，所以他们都会有些汉语基础，这部分学生的学习需求不光是中文的听、说、读，写也颇为重要。另外，也会有少量的外国孩子学习中文，但学习需求更像是培养一门兴趣爱好，家长更关注课堂的趣味性，老师的课程是否能吸引孩子学习的兴趣。所以针对不同学生我们的课程安排和教材选择也是不同的。</p>
+<p class="p2"> </p>
+<h1 class="p3">怎样安排课程？</h1>
+<p class="p1">        这个年龄段的学生注意力集中的时间大概在30-40分钟左右，所以我们在设计课程时需要根据学生我接受能力来安排时间。课程前半段可以教授当天的生词、语法，这些需要记忆的知识。后半节课要利用儿歌、游戏来反复操练，以此保持学生对课堂的专注度。此外，可以利用奖励机制刺激学生主动思考、回答你的问题，比如答对问题奖励一颗星星，集齐30颗可以玩游戏之类。</p>
+<p class="p2"> </p>
+<h1 class="p3">那我该用什么样的教材？</h1>
+<p>        下面推荐的三本教材，根据整体的难度从易到难做了排列。学生水平如果是完全零基础，建议 使用《YCT标准教程》第一、二册或者《轻松学中文》的第一册，如果学生有一定基础，则要老师根据学生水平挑选适合的教材。</p>
+<table style="border-collapse: collapse; height: 93px; border-color: transparent; width: 100.143%;">
+<tbody>
+<tr style="height: 172px;">
+<td style="width: 83.9879%; height: 93px;">
+<p class="p1"><span class="Apple-converted-space"> </span>《YCT标准教程》共有六册，配套包括课本（附音频）、练习册。教材整体插图丰富，色彩鲜艳，有配套儿歌和小游戏，每节课一个贴近生活类的话题，课堂教学以交际方式为主。这套教材难度系数低，不仅适合零基础的学生，也适合年龄小的学生。这本教材也是YCT考级官方的指定教材，更注重培养学生的听说能力，汉字部分则需要老师自己补充。</p>
+</td>
+<td style="width: 16.0121%; height: 93px;">
+<p class="p1"><img src="https://support.italki.com/hc/article_attachments/8168145278105" alt="_______97921a9d-048d-4bdb-8b36-e0dcfeac576a.png" width="102" height="139"></p>
+</td>
+</tr>
+</tbody>
+</table>
+<table style="border-collapse: collapse; height: 103px; width: 100%;">
+<tbody>
+<tr style="height: 103px;">
+<td style="width: 17.1428%; height: 103px;"><img src="https://support.italki.com/hc/article_attachments/8168177431705" alt="_______e670a887-5d8e-4e2c-90c0-e7fb8f59bc22.png" width="115" height="150"></td>
+<td style="width: 82.8572%; height: 103px;">《轻松学中文》（第一版）共有八册，配套包括课本（附音频）、练习册、教师用书、ppt。这套教材适合母语为非汉语的中、小学生。教材共分为三个阶段。第一阶段为第一、二册（适合零基础学生）；第二阶段为第三、四、五、六册；第三阶段为第七、八册。这套教材的词汇丰富，主题也很贴近生活，配套的练习册可以更加深入的操练当课学到的内容。听、说、读、写四项技能都可以得到锻炼。<span class="Apple-converted-space"> </span>
+</td>
+</tr>
+</tbody>
+</table>
+<table style="font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', Helvetica, Arial, sans-serif; height: 51px; width: 100%;">
+<tbody>
+<tr style="height: 118px;">
+<td style="width: 83.4286%; height: 51px;">《中文》共有12册，配套包括课本、练习册、教师用书。这套教材主要为欧美地区周末制中文学校编写，风格类似国内语文教材，更适合有汉语基础的华裔学生，与其他两套教材相比，汉字的读、写比重更多。这套教材的字、词、句、篇章则是由浅入深、循序渐进的提高学生运用中文的能力。使用这套不仅可以学习中文听、说、读、写的基本能力，更能了解中华文化常识。</td>
+<td style="width: 16.5714%; height: 51px;">    <img src="https://support.italki.com/hc/article_attachments/8168176610841" alt="_______5afd8b53-b07a-4b3d-8fdc-09b43e6dd4be.png" width="106" height="145">
+</td>
+</tr>
+</tbody>
+</table>
+<h1 class="p3"> </h1>
+<h1 class="p3">在哪里可以找到这些教材？</h1>
+<p class="p1">以上三本教材都可以通过下面这两个网站获得。</p>
+<p class="p1"><span class="Apple-converted-space">        </span>Cchatty：《YCT标准教程》和《轻松学中文》都可在 Cchatty的“PDF课件”中找到。<span class="Apple-converted-space"> </span></p>
+<p class="p1"><span class="Apple-converted-space"><img src="https://support.italki.com/hc/article_attachments/8168144799641" alt="_______12a43744-a919-4ccd-9114-bc45b924a680.png"></span></p>
+<p class="p5"><span class="Apple-converted-space">                </span>中国华文教育网：《中文》可在中国华文教育网的“华文教材”中找到。<span class="Apple-converted-space"> </span></p>
+<p class="p5"><span class="Apple-converted-space"><img src="https://support.italki.com/hc/article_attachments/8168177080729" alt="_______c03e6f9c-e180-474d-ad0d-55c08d1e0d28.png"></span></p>
+<p class="p5"> </p>
+<p class="p5">        以上就是我的一些小经验，我们的教学目的都是让学生在自然环境下，愉快的学习中文。</p>
+<p class="p5"> </p>
+<p class="p1"><span class="Apple-tab-span"> </span><span class="Apple-tab-span"> </span><span class="Apple-tab-span"> </span><span class="Apple-tab-span"> </span>作者: italki教师 <a href="https://www.italki.com/teacher/8350109" target="_self">薛铭鑫</a></p>

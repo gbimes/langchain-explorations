@@ -1,0 +1,93 @@
+<h1>Tickets Assignment Rules</h1>
+<table style="width: 554px; border-color: #000000; margin-left: auto; margin-right: auto;" border="1" cellpadding="1">
+<caption> </caption>
+<tbody>
+<tr style="height: 29px;">
+<td class="wysiwyg-text-align-center" style="width: 212px; height: 29px;" data-sheets-value='{"1":2,"2":"Ticket Type"}'><span class="wysiwyg-color-red90"><strong>Ticket Type</strong></span></td>
+<td class="wysiwyg-text-align-center" style="width: 180.667px; height: 29px;" data-sheets-value='{"1":2,"2":"New"}'><span class="wysiwyg-color-red90"><strong>Escalated to</strong></span></td>
+<td class="wysiwyg-text-align-center" style="width: 152.333px; height: 29px;" data-sheets-value='{"1":2,"2":"Example"}'><span class="wysiwyg-color-red90"><strong>Example</strong></span></td>
+</tr>
+<tr style="height: 20px;">
+<td class="wysiwyg-text-align-center" style="width: 212px; height: 20px;" data-sheets-value='{"1":2,"2":"User did not receive credit"}'>User did not receive credit</td>
+<td class="wysiwyg-text-align-center" style="width: 180.667px; height: 202px;" rowspan="5" data-sheets-value='{"1":2,"2":"Payment"}'>Tier 2 - Payment</td>
+<td class="wysiwyg-text-align-center" style="width: 152.333px; height: 20px;">　</td>
+</tr>
+<tr style="height: 20px;">
+<td class="wysiwyg-text-align-center" style="width: 212px; height: 20px;" data-sheets-value='{"1":2,"2":"User Purchase Related"}'>User Purchase Related</td>
+<td class="wysiwyg-text-align-center" style="width: 152.333px; height: 20px;">　</td>
+</tr>
+<tr style="height: 20px;">
+<td class="wysiwyg-text-align-center" style="width: 212px; height: 20px;" data-sheets-value='{"1":2,"2":"Teacher Withdrawal Related"}'>Teacher Withdrawal Related</td>
+<td class="wysiwyg-text-align-center" style="width: 152.333px; height: 20px;">　</td>
+</tr>
+<tr style="height: 82px;">
+<td class="wysiwyg-text-align-center" style="width: 212px; height: 82px;" data-sheets-value='{"1":2,"2":"User Referral"}'>User Referral</td>
+<td class="wysiwyg-text-align-center" style="width: 152.333px; height: 82px;">Get $10 when refer others to sign up the website and buy at $10</td>
+</tr>
+<tr style="height: 20px;">
+<td class="wysiwyg-text-align-center" style="width: 212px; height: 20px;" data-sheets-value='{"1":2,"2":"Gift Card"}'>Gift Card</td>
+<td class="wysiwyg-text-align-center" style="width: 152.333px; height: 20px;">　</td>
+</tr>
+<tr style="height: 20px;">
+<td class="wysiwyg-text-align-center" style="width: 212px; height: 20px;" data-sheets-value='{"1":2,"2":"OOPT"}'>OOPT</td>
+<td class="wysiwyg-text-align-center" style="width: 180.667px; height: 100px;" rowspan="6" data-sheets-value='{"1":2,"2":"Jo"}'>Tier 2 - Escalated - Polaris</td>
+<td class="wysiwyg-text-align-center" style="width: 152.333px; height: 20px;">　</td>
+</tr>
+<tr style="height: 20px;">
+<td class="wysiwyg-text-align-center" style="width: 212px; height: 20px;" data-sheets-value='{"1":2,"2":"Vassar Credit Related"}'>BOS</td>
+<td class="wysiwyg-text-align-center" style="width: 152.333px; height: 20px;"> </td>
+</tr>
+<tr style="height: 20px;">
+<td class="wysiwyg-text-align-center" style="width: 212px; height: 20px;" data-sheets-value='{"1":2,"2":"Vassar Credit Related"}'>Vassar Credit Related</td>
+<td class="wysiwyg-text-align-center" style="width: 152.333px; height: 20px;">　</td>
+</tr>
+<tr style="height: 20px;">
+<td class="wysiwyg-text-align-center" style="width: 212px; height: 20px;" data-sheets-value='{"1":2,"2":"Marketing Promotion"}'>Marketing Promotion</td>
+<td class="wysiwyg-text-align-center" style="width: 152.333px; height: 20px;" data-sheets-value='{"1":2,"2":"Groupon"}'>Groupon</td>
+</tr>
+<tr style="height: 20px;">
+<td class="wysiwyg-text-align-center" style="width: 212px; height: 20px;" data-sheets-value='{"1":2,"2":"Marketing Affiliate"}'>Marketing Affiliate</td>
+<td class="wysiwyg-text-align-center" style="width: 152.333px; height: 20px;">　</td>
+</tr>
+<tr style="height: 20px;">
+<td class="wysiwyg-text-align-center" style="width: 212px; height: 20px;" data-sheets-value='{"1":2,"2":"Global Marketing Campaign"}'>Global Marketing Campaign</td>
+<td class="wysiwyg-text-align-center" style="width: 152.333px; height: 20px;">　</td>
+</tr>
+<tr style="height: 20px;">
+<td class="wysiwyg-text-align-center" style="width: 212px; height: 20px;" data-sheets-value='{"1":2,"2":"China Marketing Campaign"}'>China Marketing Campaign</td>
+<td class="wysiwyg-text-align-center" style="width: 180.667px; height: 20px;" rowspan="2" data-sheets-value='{"1":2,"2":"Polaris"}'>Tier 2 - Escalated</td>
+<td class="wysiwyg-text-align-center" style="width: 152.333px; height: 20px;">　</td>
+</tr>
+<tr style="height: 20px;">
+<td class="wysiwyg-text-align-center" style="width: 212px; height: 20px;">Refund Request</td>
+<td class="wysiwyg-text-align-center" style="width: 152.333px; height: 20px;"> </td>
+</tr>
+<tr style="height: 20px;">
+<td class="wysiwyg-text-align-center" style="width: 212px; height: 20px;">Disputes</td>
+<td class="wysiwyg-text-align-center" style="width: 180.667px; height: 20px;">Tier 2 - Disputes</td>
+<td class="wysiwyg-text-align-center" style="width: 152.333px; height: 20px;">　</td>
+</tr>
+<tr style="height: 40px;">
+<td class="wysiwyg-text-align-center" style="width: 212px; height: 40px;">Teacher Application/Profile change - Approve/Decline</td>
+<td class="wysiwyg-text-align-center" style="width: 180.667px; height: 124.667px;" rowspan="5">Tier 2 - Teachers</td>
+<td class="wysiwyg-text-align-center" style="width: 152.333px; height: 40px;">　</td>
+</tr>
+<tr style="height: 20px;">
+<td class="wysiwyg-text-align-center" style="width: 212px; height: 20px;">Teacher Profile Hidden</td>
+<td class="wysiwyg-text-align-center" style="width: 152.333px; height: 20px;">　</td>
+</tr>
+<tr style="height: 20px;">
+<td class="wysiwyg-text-align-center" style="width: 212px; height: 20px;">Cannot Upload Video</td>
+<td class="wysiwyg-text-align-center" style="width: 152.333px; height: 20px;">　</td>
+</tr>
+<tr style="height: 20px;">
+<td class="wysiwyg-text-align-center" style="width: 212px; height: 20px;">Explain why is absent</td>
+<td class="wysiwyg-text-align-center" style="width: 152.333px; height: 20px;">　</td>
+</tr>
+<tr style="height: 24.6667px;">
+<td class="wysiwyg-text-align-center" style="width: 212px; height: 24.6667px;">Explain why is lesson expired</td>
+<td class="wysiwyg-text-align-center" style="width: 152.333px; height: 24.6667px;">　</td>
+</tr>
+</tbody>
+</table>
+<p> </p>

@@ -1,0 +1,25 @@
+<h1>AI Lesson Preparation Tool</h1>
+<h3 id="h_01HJNVJKH0TF0632MQA4VN2K5V">What is the AI Lesson Preparation Tool? </h3>
+<p>This tool uses AI to develop lesson activities based on your requests. Currently, five types of activities are supported: Talking points, vocabulary exercises, grammar exercises, reading exercises, and writing exercises.   </p>
+<p>The Preparation tool generates text that can be cut and pasted into your files or synched to the italki classroom, and used in your lesson. </p>
+<p> </p>
+<h3 id="h_01HJNW2CY22YAPG4XV6HQVKB99">How do I use the tool? </h3>
+<h4 id="h_01HJNWD99PXJYE260QDVNMKHS5">Find the AI Lesson Preparation Tool</h4>
+<p>To find the tool, go to any of your upcoming lesson's detail pages and find the button on the right: </p>
+<p><img src="https://support.italki.com/hc/article_attachments/27126660291225" alt="AILT 1.png"></p>
+<h4 id="h_01HJNWDTAKZ35WEZ9CMV6GDZC1">Create your Activities</h4>
+<p>Select the type of activity you want to create, set your requirements, and add any additional requests. </p>
+<p><img src="https://support.italki.com/hc/article_attachments/27126714264473" alt="AILT 2.png"></p>
+<p><img src="https://support.italki.com/hc/article_attachments/27126660307737" alt="AILT 3.png"></p>
+<p>Click Generate to create the activities. </p>
+<h4 id="h_01HK4WK4ETX495NKPKM9Y2Q2F8"> </h4>
+<h4 id="h_01HJNWCBV5C9ZE0QJZ9SZCZJ9N">Was there an issue or want to make a change? </h4>
+<p>You can click to retry or make edits yourself!</p>
+<p><img src="https://support.italki.com/hc/article_attachments/27126660310809" alt="AILT 4.png"></p>
+<p> </p>
+<h3 id="h_01HJNWFMPDN5BZFV46GCX0Y005">Where is the content and how do I use it? </h3>
+<p>The activities are auto-saved and synched to the italki classroom every time you create a new activity or when you close the tool. You can find the content on the lesson's detail page before the lesson starts. </p>
+<p><img src="https://support.italki.com/hc/article_attachments/27127032877465" alt="AILT 5.png"></p>
+<p> </p>
+<p>While in the italki classroom, you can find the content in the Note Section, but it is only visible to you, the teacher. </p>
+<p><img src="https://support.italki.com/hc/article_attachments/27126714302361" alt="AILT 6.png"></p>

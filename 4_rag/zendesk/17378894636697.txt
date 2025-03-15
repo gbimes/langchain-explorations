@@ -1,0 +1,12 @@
+<h1>Teacher Statistics: My Popular Lessons</h1>
+<p>My Popular lessons in your Statistics at the bottom of your teacher dashboard can help you see trends and guide you in making decisions and managing your lesson types. This Article is specifically for the My Popular Lessons. Find the other statistics below:</p>
+<ul>
+<li><a href="https://support.italki.com/hc/en-us/articles/17378840206489" target="_self">Lesson Overview</a></li>
+<li><a href="https://support.italki.com/hc/en-us/articles/17378944552089" target="_self">Students</a></li>
+<li><a href="https://support.italki.com/hc/en-us/articles/17379044730649" target="_self">Earnings</a></li>
+<li><a href="https://support.italki.com/hc/en-us/articles/17378789551129" target="_self">The Basics</a></li>
+</ul>
+<h3><span style="color: #434343;">My popular lessons</span></h3>
+<p>My popular lessons is a list of <strong>your lessons in order of their popularity based on the number of lesson requests</strong> for the month.           </p>
+<p><img src="https://lh3.googleusercontent.com/vriJ6wzlYRSszVhXG3UE9_8rdF58IXyr-BACOd8-emDfbGhA35ZbdKbQfrIakzqjgjv2ebnkTVMHzJLO7Eq2zva8Nk_4rymD74RsIH1h5SU0VSPwyCCZ5ZnWBcsnaeA2ON6KDP1_i8vbpf53RiAi6Aw"></p>
+<p>Is there a type of lesson that is most popular with students looking for your class, could you do more to offer similar types of lessons? Are there types of lessons you should look to phase out? This statistic can help you see what is appealing from a student's standpoint about your lessons.</p>

@@ -1,0 +1,32 @@
+<h1>How to help a teacher upload their video</h1>
+<p>Often, teachers cannot upload their video to italki for some reason. If there is an error, then the error message tells them to contact us for help.</p>
+<p>If a teacher cannot upload their video,</p>
+<h3>1. Reply with a message like this:</h3>
+<div>In fact, a few other teachers are having the same problem. Would you mind uploading your video to a file-sharing site and sending me the link?</div>
+<div> </div>
+<div>I can download it and try to upload it for you in our system. Other teachers have done this successfully using Google Drive, Dropbox, or WeTransfer, but any file-sharing site for uploading large files should work.</div>
+<div> </div>
+<div>Really sorry about this technical issue!</div>
+<div> </div>
+<h3>2. When they give you the file-sharing link,<strong> download their video</strong>
+</h3>
+<div>If they just uploaded their video to YouTube or something, you can also get the download using <a href="http://www.clipconverter.cc/">http://www.clipconverter.cc/</a>
+</div>
+<div> </div>
+<div>It's super easy to use, and comes recommended by Arjun</div>
+<div> </div>
+<div>
+<strong> (choose MP4 format)</strong> </div>
+<div></div>
+<h3>3. Go to <strong>simulated user </strong> and log in as the teacher </h3>
+<h3>4. If they are already a teacher, <strong>upload the video</strong> to their <a href="https://www.italki.com/settings/profile" target="_blank" rel="noopener">teacher settings</a>
+</h3>
+<div>If they are applying, upload the video to <a href="https://www.italki.com/teacher/apply/step/3" target="_blank" rel="noopener">step 3 of the application process</a>
+</div>
+<div>(click the link to avoid having to fill in the application information. Seems like once the video uploads, you don't need to save the page)</div>
+<div> </div>
+<div>Note: It will take about 5 minutes for the server to process the video, so you will see the updates in OMS in 5 minutes.</div>
+<div></div>
+<h3>5. Check that it uploaded properly and then <strong>write back to the teacher!</strong>
+</h3>
+<div> </div>

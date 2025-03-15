@@ -1,0 +1,89 @@
+<h1> I can’t join italki Classroom or I have internet connection problems. What do I do?</h1>
+<h2><strong>Possible Reasons for Connection Issues</strong></h2>
+<p><span style="font-weight: 400;">The connection quality of your lesson depends on a combination of factors, including:</span></p>
+<ul>
+<li><span style="font-weight: 400;">Device quality</span></li>
+<li><span style="font-weight: 400;">Operating system</span></li>
+<li><span style="font-weight: 400;">Internet environment</span></li>
+<li><span style="font-weight: 400;">Internet connection strength</span></li>
+</ul>
+<p><span style="font-weight: 400;">When you use italki Classroom, you’re directly connected to the other user to protect the safety and privacy of your data.</span></p>
+<p><span style="font-weight: 400;">With direct connections, we can’t guarantee that your connection won’t be blocked by the other user’s setup (Firewall, ISP policy, etc.). This is unfortunately out of our control and isn’t related to italki not working or being unstable. You can write to us at support and we’ll try out best to help.</span></p>
+<p><span style="font-weight: 400;">Video calls take up quite a lot of data and CPU power, so the less powerful the computer the more CPU resources it has to use to establish a connection.</span></p>
+<h4> </h4>
+<h4><strong>Having difficulties with connecting in the italki Classroom? If so, check out the following troubleshooting that may help with your situation:</strong></h4>
+<ol>
+<li style="font-weight: 400;" aria-level="1"><span style="font-weight: 400;">Make sure all other applications which may use audio and video are completely closed (such as Skype or Zoom).</span></li>
+<li style="font-weight: 400;" aria-level="1"><span style="font-weight: 400;">Make sure that your browser has permissions to use your camera and microphone and that you’re using the latest browser versions</span></li>
+<li style="font-weight: 400;" aria-level="1"><span style="font-weight: 400;">Make sure your computer or device is fully charged or connected to a charger.</span></li>
+<li style="font-weight: 400;" aria-level="1"><span style="font-weight: 400;">Switch browsers: if you are using Google Chrome, try connecting with Firefox. If you’re using Firefox, try connecting with Google Chrome.</span></li>
+<li style="font-weight: 400;" aria-level="1"><span style="font-weight: 400;">Restart your computer/device</span></li>
+<li style="font-weight: 400;" aria-level="1"><span style="font-weight: 400;">If you have another computer or device, try switching devices</span></li>
+<li style="font-weight: 400;" aria-level="1"><span style="font-weight: 400;"><span style="font-weight: 400;">Disable any Windows Firewall, Windows Defender AntiVirus programs (McAfee, Symantec, Norton, Kaspersky, Avast, etc) as these programs can sometimes block access to the other user.</span></span></li>
+</ol>
+<p><strong style="font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', Helvetica, Arial, sans-serif;">How to exclude a link from the scan scope in Kaspersky Internet Security</strong></p>
+<ol>
+<li>
+<span style="font-weight: 400;"> Open the settings in Kaspersky Internet Security and choose </span><em><span style="font-weight: 400;">Protection –&gt; Web Anti-Virus.</span></em><em><span style="font-weight: 400;"><img src="https://support.italki.com/hc/article_attachments/36783623039769" alt="Screen_Shot_2021-06-02_at_3.29.58_PM.png" width="589" height="438"></span></em>
+</li>
+<li>
+<span style="font-weight: 400;"> In the Web Anti-Virus settings window, select </span><em><span style="font-weight: 400;">Advanced Settings</span></em><span style="font-weight: 400;">.</span><span style="font-weight: 400;"><img src="https://support.italki.com/hc/article_attachments/36783607657881" alt="Screen_Shot_2021-06-02_at_3.31.01_PM.png" width="589" height="438"></span><span style="font-weight: 400;"></span>
+</li>
+<li>
+<span style="font-weight: 400;"> Click </span><em><span style="font-weight: 400;">Configure trusted URLs</span></em><span style="font-weight: 400;"> and specify the link or links (rtc.italki.com) you want Kaspersky Internet Security not to check.</span><span style="font-weight: 400;"></span>
+</li>
+</ol>
+<p>         <img style="font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', Helvetica, Arial, sans-serif;" src="https://support.italki.com/hc/article_attachments/36783607659033" alt="Screen_Shot_2021-06-02_at_3.31.51_PM.png" width="590" height="440"></p>
+<p><span style="font-weight: 400;">For more information, see the detailed <a style="background-color: #ffffff; font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', Helvetica, Arial, sans-serif;" href="http://support.kaspersky.com/12675?cid=blog&amp;utm_source=blog.kaspersky.com&amp;utm_medium=social&amp;utm_campaign=olga_f_on_blog&amp;utm_content=make_scan_exclusions_en"><span>article in our Knowledge Base</span></a><span style="font-weight: 400;"> devoted to checking Web pages for threats in Kaspersky Internet Security.</span></span></p>
+<p><strong>Other problems with using the italki classroom? </strong></p>
+<ol>
+<li><strong> No video or Mic source</strong></li>
+</ol>
+<ul>
+<li style="font-weight: 400;" aria-level="1">
+<span style="font-weight: 400;">Check if your browser has enabled italki to access your camera or microphone</span><span style="font-weight: 400;"><br></span><span style="font-weight: 400;"><img src="https://support.italki.com/hc/article_attachments/36783607660441" alt="Screen_Shot_2021-06-02_at_3.35.17_PM.png" width="343" height="342"></span>
+</li>
+<li style="font-weight: 400;" aria-level="1"><span style="font-weight: 400;">Check if you have turned on other video software such as Skype or Zoom. Turn them off first and re-enter Classroom.</span></li>
+<li style="font-weight: 400;" aria-level="1"><span style="font-weight: 400;">If you have connected with an external camera or microphone, make sure you have selected the correct input source. </span></li>
+</ul>
+<ol start="2">
+<li><strong> My teacher and I have both entered the classroom, but we can’t see each other.</strong></li>
+</ol>
+<p><span style="font-weight: 400;">The classroom is only available for the lesson time. If you are having this problem during the lesson, please quit your browser and log in to italki to try again.</span></p>
+<ol start="3">
+<li><strong> I have selected Skype as a communication tool for my lesson/package. But I want to switch to italki Classroom. How can I do that?</strong></li>
+</ol>
+<p><span style="font-weight: 400;">The communication tool cannot be changed once a lesson/package is booked. You will need to book again to select the new communication tool.</span></p>
+<p><span style="font-weight: 400;">If you are unfamiliar with the booking process, ask your teacher to send you a lesson invitation by selecting the italki Classroom.</span></p>
+<p> </p>
+<h2><strong>Tips for Troubleshooting Connection Issues</strong></h2>
+<p><strong>Your Devices</strong></p>
+<ul>
+<li><span style="font-weight: 400;">If you’re using a mobile device, we recommend switching to a computer for a more stable connection.</span></li>
+<li><span style="font-weight: 400;">Make sure your device is fully charged or connected to a charger.</span></li>
+<li><span style="font-weight: 400;">Restart your device or switch devices.</span></li>
+<li><span style="font-weight: 400;">Update your computer operating system.</span></li>
+</ul>
+<p><strong>Programs and Applications</strong></p>
+<ul>
+<li><span style="font-weight: 400;">Make sure all other background apps and programs which use audio or video (such as Skype, iTunes, VLC media player, etc.) are closed.</span></li>
+<li>
+<span style="font-weight: 400;">Switch browsers (Chrome, Firefox, or Safari) or update and reinstall the app on mobile. Make sure your Chrome or Firefox browsers are updated. If you’re not sure, find out with </span><strong><a href="https://www.whatismybrowser.com/" target="_self">this link</a></strong>.</li>
+<li><span style="font-weight: 400;">Lower the quality of the call by clicking the button in the header.</span></li>
+<li><span style="font-weight: 400;">Disable Windows Firewall, Windows Defender, or other antivirus programs such as McAfee, Norton, Avast, etc.</span></li>
+<li><span style="font-weight: 400;">If you’re using the italki app, you can switch to italki Classroom.</span></li>
+<li><span style="font-weight: 400;">Switch to another wifi network.</span></li>
+</ul>
+<p><strong>italki Classroom</strong></p>
+<ul>
+<li><span style="font-weight: 400;">Leave then re-enter italki Classroom.</span></li>
+<li>
+<span style="font-weight: 400;">If you’re using Chrome, go to </span><strong>chrome://settings/content/camera</strong><span style="font-weight: 400;"> and </span><strong>chrome://settings/content/microphone </strong><span style="font-weight: 400;">to make sure italki Classroom isn’t listed as blocked.</span>
+</li>
+</ul>
+<p><strong>Important:</strong><span style="font-weight: 400;"> If the issue still hasn’t been solved and you’re using a computer, please enter your lesson using the Chrome browser. When the issue occurs, take a screenshot.</span></p>
+<p> </p>
+<h2><strong>How to Take a Screenshot</strong></h2>
+<p><strong>Windows: </strong><span style="font-weight: 400;">Press the “PrtSc” key and paste the screenshot into a document and then right-click the screenshot and click “Save as Picture.”</span></p>
+<p><strong>Mac: </strong><span style="font-weight: 400;">Press “Cmd+shift+3” for a full-screen screenshot, or “Cmd+shift+4” to control what you screenshot. The screenshot will appear automatically on your desktop.</span></p>
+<p><span style="font-weight: 400;">Send the screenshots along with the link to your lesson with a short explanation of the problem to support@italki.com.</span></p>

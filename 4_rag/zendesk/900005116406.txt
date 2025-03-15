@@ -1,0 +1,37 @@
+<h1>Opportunities</h1>
+<p> </p>
+<h1><strong>Product Background:</strong></h1>
+<p><span>The main problem to solve is how might we help the teacher to gain more requests from existing students via sending messages. (Data: more than </span><a class="external-link" href="https://italki.jp.looker.com/explore/italki_main/teacher?qid=1hcDCfhuBHGW6jm8dYh70P&amp;origin_space=162&amp;toggle=fil" rel="nofollow">30%</a><span> of current teachers have no upcoming lesson.)</span></p>
+<p> </p>
+<p><img src="https://api.media.atlassian.com/file/9f8138c9-5d3c-4d4d-acf1-ae98a9d37f21/image?mode=full-fit&amp;client=9d3b2b68-25db-4cb4-b379-36d02dc3b6af&amp;token=eyJhbGciOiJIUzI1NiJ9.eyJpc3MiOiI5ZDNiMmI2OC0yNWRiLTRjYjQtYjM3OS0zNmQwMmRjM2I2YWYiLCJhY2Nlc3MiOnsidXJuOmZpbGVzdG9yZTpmaWxlOjlmODEzOGM5LTVkM2MtNGQ0ZC1hY2YxLWFlOThhOWQzN2YyMSI6WyJyZWFkIl19LCJleHAiOjE2MTc5NzEwNzMsIm5iZiI6MTYxNzk2NzcxM30.zuvMjaoewyWFJnfj02VM41rR3kepouPXjaOrWPWPXIY" alt="image2021-1-29_10-47-2.png"></p>
+<p> </p>
+<h4 id="Opportunities1联系老学生-2.1ThelogicofReminder提醒的逻辑"><span class="wysiwyg-underline wysiwyg-color-red90"><strong>Product Launch Time: 22nd, March, 2021</strong></span></h4>
+<p> </p>
+<h1 id="Opportunities1联系老学生-2.0ProductScope/FeatureList功能列表"><strong>Product Scope / Feature List:</strong></h1>
+<h3 id="Opportunities1联系老学生-2.1ThelogicofReminder提醒的逻辑"><strong>1. The logic of Reminder</strong></h3>
+<p><strong>1）<span class="inline-comment-marker" data-ref="023a4c9e-3d52-43e5-ac85-9992dd82d265">Reminder Generation</span></strong></p>
+<p><img src="https://support.italki.com/hc/article_attachments/900007868683/mceclip0.png" alt="mceclip0.png"></p>
+<div class="table-wrap">
+<p> </p>
+</div>
+<p><strong>2) Invalidation of reminder</strong></p>
+<p>In principle, the reminder will last for 7 days.<br>Within 7 days, if a scheduled lesson occurs, the reminder will become invalid.</p>
+<p><br><strong>3) Re-triggered reminder</strong></p>
+<p>In principle, as long as there are completed class hours, the reminder will be triggered indefinitely.</p>
+<p><br><strong>4) List sorting</strong></p>
+<p>Sort according to the time of the trigger timing, the order is reverse.</p>
+<p> </p>
+<p><span class="wysiwyg-color-red90">- The reminder and/or entry point will be expired after 7 days if the teacher doesn't take any action. </span></p>
+<p><span class="wysiwyg-color-red90">- The reminder and/or entry point is invisible if the prompt message sent once.</span></p>
+<p> </p>
+<h3>
+<strong>2. </strong><strong>Quick response</strong>
+</h3>
+<p><strong>1）Once click "Message" button on the reminder, it will direct teacher to Quick Message. There are existing templates we offered to tutors. Tutors can edit and delete the templates here.</strong></p>
+<p><strong><img src="https://italki.atlassian.net/wiki/download/thumbnails/2369890293/image2021-1-22_10-24-5.png?version=1&amp;modificationDate=1611282248668&amp;cacheVersion=1&amp;api=v2&amp;width=400&amp;height=356" width="580" height="518"></strong></p>
+<p><strong>2）Other than use the existing ones, tutors and also create their own template through "Add New" button. </strong></p>
+<p><strong><img src="https://italki.atlassian.net/wiki/download/thumbnails/2369890293/image2021-1-22_10-24-5.png?version=1&amp;modificationDate=1611282248668&amp;cacheVersion=1&amp;api=v2&amp;width=400&amp;height=356"></strong></p>
+<p><strong>3）An A/B testing is inserted here. Some tutors have "Attach the booking button", some tutors don't. T</strong><strong>he teacher is allowed to check and attach a link to the class after the message. </strong><strong>The default is not checked, the user can actively check.</strong></p>
+<p><img src="https://italki.atlassian.net/wiki/download/thumbnails/2369890293/image2021-2-9_14-20-57.png?version=1&amp;modificationDate=1612851659254&amp;cacheVersion=1&amp;api=v2&amp;width=400&amp;height=356"></p>
+<p><strong>4) Students will see the messages here:</strong></p>
+<p><img src="https://italki.atlassian.net/wiki/download/thumbnails/2369890293/image2021-2-9_14-36-39.png?version=1&amp;modificationDate=1612852602164&amp;cacheVersion=1&amp;api=v2&amp;width=500&amp;height=397"></p>

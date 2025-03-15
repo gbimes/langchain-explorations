@@ -1,0 +1,36 @@
+<h1>italki Teacher Code of Conduct</h1>
+<p><strong>1. Be Culturally Sensitive</strong></p>
+<p><span style="font-weight: 400;">Respect the values and traditions of your students and keep in mind that stereotypical assumptions can be offensive. </span></p>
+<p><span style="font-weight: 400;">We recommend avoiding conversations about marital status, politics, religion, etc.</span></p>
+<p><span style="font-weight: 400;">All students should be treated equally. Picking a student based on their race, nationality, ethnic origin, age, religion, disability, sexual orientation, gender, or any other characteristic is not tolerable. </span></p>
+<p> </p>
+<p><strong>2. Be Professional and Empathetic</strong></p>
+<p><span style="font-weight: 400;">Always remember to maintain a high level of professionalism: </span></p>
+<ul>
+<li style="font-weight: 400;" aria-level="1"><span style="font-weight: 400;">Be prompt in replying to all student questions, messages, and lesson requests (within 2 to 48 hours depending on the lesson start time). </span></li>
+<li style="font-weight: 400;" aria-level="1"><span style="font-weight: 400;">Actively manage your profile, updating your calendar to accurately reflect your availability, and try to minimize rescheduling, canceling, and declining lesson requests.</span></li>
+<li style="font-weight: 400;" aria-level="1"><span style="font-weight: 400;">Take the initiative in communicating with and managing students. Make every effort to help them. Always be patient and polite.</span></li>
+<li style="font-weight: 400;" aria-level="1"><span style="font-weight: 400;">Provide a suitable learning environment for students, which includes proper lighting and quietness of the room, and fast internet speed.</span></li>
+<li style="font-weight: 400;" aria-level="1"><span style="font-weight: 400;">Respect for student’s privacy. Always ask for students’ prior written or recorded consent for recording student’s video or audio.</span></li>
+<li style="font-weight: 400;" aria-level="1"><span style="font-weight: 400;">Be available to teach during the entire booked lesson time if a student is late.</span></li>
+</ul>
+<p> </p>
+<p><strong style="font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', Helvetica, Arial, sans-serif;">3. Attend All Classes and Arrive On Time</strong></p>
+<p><span style="font-weight: 400;">italki expects that teachers will responsibly attend lessons at the scheduled time. Rescheduling or cancellation should be your last resort.</span></p>
+<p><span style="font-weight: 400;"><br></span><span style="font-weight: 400;"></span><strong>4. Be an italki Ambassador</strong></p>
+<p><span style="font-weight: 400;">Maintain a positive attitude towards italki and never make negative comments about italki.</span></p>
+<p><span style="font-weight: 400;"> </span></p>
+<p><strong>Bannable Offenses</strong></p>
+<p><span style="font-weight: 400;">The following actions are not permitted on italki and may lead to account deactivation and removal from the platform.</span></p>
+<ol>
+<li style="font-weight: 400;" aria-level="1"><span style="font-weight: 400;">Taking students/teachers off italki or accepting payment outside of the italki system.</span></li>
+<li style="font-weight: 400;" aria-level="1"><span style="font-weight: 400;">Promoting competing language services.</span></li>
+<li style="font-weight: 400;" aria-level="1">
+<span style="font-weight: 400;">Engaging in spamming, disrespectful language, obscenities, theft of personal information, etc. Click </span><a href="https://www.italki.com/communitypolicy" target="_blank" rel="noopener">here</a><span style="font-weight: 400;"> to read the complete italki Community Policy.</span>
+</li>
+<li style="font-weight: 400;" aria-level="1"><span style="font-weight: 400;">Providing or posting false, misleading, or inaccurate information (including profile, teacher application form, course content, lesson history, feedback, etc).</span></li>
+<li style="font-weight: 400;" aria-level="1"><span style="font-weight: 400;">Scheduling and starting lessons with yourself or with fake students.</span></li>
+<li style="font-weight: 400;" aria-level="1"><span style="font-weight: 400;">Posting private contact information which includes social media accounts and channels, email addresses, blogs, websites, IDs, and usernames.</span></li>
+<li style="font-weight: 400;" aria-level="1"><span style="font-weight: 400;">Engaging in extremely negative and defamatory behavior toward others and italki. </span></li>
+</ol>
+<div id="KSFIND_MASK" style="background: #000000; opacity: 0.22; position: absolute !important; left: 0px !important; top: 0px !important; border: 0px none !important; padding: 0px !important; z-index: 100000; height: 4988px; width: 803px; display: none; cursor: auto;"> </div>

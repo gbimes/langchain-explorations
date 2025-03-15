@@ -1,0 +1,50 @@
+<h1>About Teacher's Calendar Settings - Test</h1>
+<p><strong>Key Facts:</strong></p>
+<p>Only <strong>ONE</strong> Time Zone can exist on italki, which applies to availability settings everywhere.</p>
+<p><a href="https://www.italki.com/settings/account">https://www.italki.com/settings/account</a></p>
+<p>Once you have set up your Time Zone here:</p>
+<p><img src="https://support.italki.com/hc/article_attachments/360052389773/mceclip3.png" alt="mceclip3.png"></p>
+<p>it is in accordance with the following places (and potentially more)</p>
+<p><strong>1. Your dashboard and upcoming lessons <a href="https://teach.italki.com/dashboard">https://teach.italki.com/dashboard</a></strong></p>
+<p><img src="https://support.italki.com/hc/article_attachments/360051510254/mceclip6.png" alt="mceclip6.png"></p>
+<p><strong>2. Teacher's Calendar (Scheduled Lesson Page) <a href="https://teach.italki.com/calendar">https://teach.italki.com/calendar</a></strong></p>
+<p><img src="https://support.italki.com/hc/article_attachments/360052390273/mceclip7.png" alt="mceclip7.png"></p>
+<p><strong>3. Teacher Calendar Settings <a href="https://teach.italki.com/console/lessons">https://teach.italki.com/console/lessons</a></strong></p>
+<p><img src="https://support.italki.com/hc/article_attachments/360051509994/mceclip5.png" alt="mceclip5.png"></p>
+<p>Again, bear in mind, all these places are using the same Time Zone, set up in the first place.</p>
+<p>Therefore, the following situation is impossible when a user says: </p>
+<p>I have set up my Holiday Time Zone.... - No you haven't. Sorry, no future time zone </p>
+<p> </p>
+<p><strong>Teacher Calendar Settings</strong></p>
+<p>Now how do we set up the Calendar if the teacher's daily schedules are different? Or when it involves traveling or time zone changes? </p>
+<p>The first question is simple. Use the<strong> Apply to {date} Only</strong> or<strong> Apply to All {X}day</strong> buttons.</p>
+<p>Example of <strong>Apply to all Monday or Friday. It loops. </strong></p>
+<p><img src="https://support.italki.com/hc/article_attachments/360051515734/mceclip3.png" alt="mceclip3.png"></p>
+<p>Examples of <strong>Apply to all One specific day.</strong></p>
+<p> <img src="https://support.italki.com/hc/article_attachments/360052393593/mceclip4.png" alt="mceclip4.png"></p>
+<p>The Calendar Setting becomes a little tricky when it involves <strong>Time Zone changes.</strong></p>
+<p>We assume here, the user's time zone change requirement is temporary, that they would still need to change it back after a certain period of time - otherwise, I mean, don't you even need a few days as a buffer if you are permanently moving to another Time Zone? ┓( ´∀` )┏</p>
+<p><strong>So simple suggestion: </strong><strong>DO NOT CHANGE THE TIME ZONE.<br></strong></p>
+<p>...unless specifically advised in the following content.</p>
+<p>So we are assuming some teachers will travel to a different Time Zone for a short time but rather keep the same daily teaching routine. Let's call it holiday time here. You may replace it with "trips" or other terms in your context.</p>
+<p>Here are things to do if you are to travel:</p>
+<p><strong>Before the holiday</strong></p>
+<p>1. Clear the time slots on your Holiday dates. </p>
+<p>2. Do a conversion of the target teaching ours of the holiday time.</p>
+<p>3. Input the converted time on the holiday dates in your Calendar.</p>
+<p>Remember, if you are using a calculation website or something, make sure you are inputting <strong>Target Time</strong>  (holiday time) first, converting to your current time zone &amp; time, then input the result in your Calendar.</p>
+<p> </p>
+<p><strong>During the holiday</strong></p>
+<p><strong>First thing to do - when italki App pops a window, asking if you want to change the time zone setting to your local time (according to your device). DON'T.</strong></p>
+<p><strong>Then how are you gonna know when to take the classes at the right time? - </strong>Now that the timezone on italki is no longer in accordance with your actual time zone.</p>
+<p><br>We would suggest that you use the world clock on your phone or Google, referring to the time of the original time zone. Plus we do have <strong>EMAIL</strong> notifications set up to remind you - this ignores your time zone as it's fixed time based on the GMT in our system. So emails will only be sent right before the lesson starts no matter where you are.</p>
+<p>If you have a long list of scheduled lessons and you really need italki as a reference of the right scheduled time (adjusted per your new time zone), sure, go to the settings, change your Time Zone. <strong>Meanwhile</strong>, <strong>turn on the vacation mode just in case anyone books the wrong time AFTER your holiday.</strong></p>
+<p> </p>
+<p><strong>You can find an example here:</strong></p>
+<p><a href="https://support.italki.com/knowledge/articles/360039670973/en-us?brand_id=66104" target="_self"><strong>How do I set up my calendar if there are different Time zones -TEST</strong></a></p>
+<p> </p>
+<p> </p>
+<p> </p>
+<p> </p>
+<p> </p>
+<p> </p>

@@ -1,0 +1,169 @@
+<h1>2021 Oct Language Challenge (LC) FAQ - Internal Reference</h1>
+<div><img src="https://support.italki.com/hc/article_attachments/4407039569433/mceclip0.png" alt="mceclip0.png"></div>
+<div></div>
+<h2><strong>General Information</strong></h2>
+<div><span class="wysiwyg-underline"><strong>When</strong></span></div>
+<div><span style="font-weight: 400;">Oct 1st 2021 06:00(UTC+0) - Nov 19th 2021 06:00(UTC+0)</span></div>
+<div><span></span></div>
+<div>
+<table style="height: 176px;" border="1">
+<tbody>
+<tr style="height: 44px;">
+<td style="height: 44px; width: 51.2188px;"><strong>Stage 1</strong></td>
+<td style="height: 44px; width: 351.891px;"><span style="font-weight: 400;">Sign-up. Start and end on working days,  total 50 days.</span></td>
+<td style="height: 88px; width: 262.875px;" rowspan="2"><span style="font-weight: 400;">Oct 1st 2021 06:00(UTC+0) - Nov 19th 2021 06:00(UTC+0) </span></td>
+</tr>
+<tr style="height: 44px;">
+<td style="height: 44px; width: 51.2188px;"><strong>Stage 2</strong></td>
+<td style="height: 44px; width: 351.891px;"><span style="font-weight: 400;">Game start. The learning hours start counting. </span></td>
+</tr>
+<tr style="height: 44px;">
+<td style="height: 44px; width: 51.2188px;"><strong>Stage 3</strong></td>
+<td style="height: 44px; width: 351.891px;"><span style="font-weight: 400;">Spend 3-7 days to do statistical analysis of the game. </span></td>
+<td style="height: 44px; width: 262.875px;"><span style="font-weight: 400;">Nov 19th 2021 06:00(UTC+0)) - Nov 26th 2021 06:00(UTC+0)</span></td>
+</tr>
+<tr style="height: 44px;">
+<td style="height: 44px; width: 51.2188px;"><strong>Stage 4</strong></td>
+<td style="height: 44px; width: 351.891px;"><span style="font-weight: 400;">End of the game. Release the result, collect the information from the player, present the prizes</span></td>
+<td style="height: 44px; width: 262.875px;"><span style="font-weight: 400;">Nov 26 2021 06:00(UTC+0) - Dec 3 2021 06:00(UTC+0)</span></td>
+</tr>
+</tbody>
+</table>
+</div>
+<p> </p>
+<p data-renderer-start-pos="842"><span class="wysiwyg-underline"><span class="wysiwyg-color-black"><strong>Target Audience</strong></span></span></p>
+<ul class="ak-ul" data-indent-level="1">
+<li>
+<p data-renderer-start-pos="854">The campaign’s primary target audience is <strong data-renderer-mark="true">existing paying users who made their FP in the past 6 months</strong>.</p>
+</li>
+<li>
+<p data-renderer-start-pos="962">The secondary target audience is existing non-paying users.</p>
+</li>
+<li>
+<p data-renderer-start-pos="1026">The target audience of Performance Mkt is visitors.</p>
+</li>
+</ul>
+<p data-renderer-start-pos="859"> </p>
+<p><span class="wysiwyg-underline"><span class="wysiwyg-color-black"><strong>Full details in confluence</strong></span></span></p>
+<p>https://italki.atlassian.net/wiki/spaces/IBR/pages/3993797317/Oct+2021+Language+Challenge</p>
+<p> </p>
+<p><span class="wysiwyg-underline"><span class="wysiwyg-color-black"><strong>FAQ in language challenge page</strong></span></span></p>
+<p><img src="https://support.italki.com/hc/article_attachments/4407236920217/mceclip2.png" alt="mceclip2.png"></p>
+<h2><strong>Achievement &amp; Rewards</strong></h2>
+<p><strong><img src="https://support.italki.com/hc/article_attachments/4407039652633/mceclip1.png" alt="mceclip1.png"></strong></p>
+<table border="1">
+<tbody>
+<tr>
+<td><strong>12 hours</strong></td>
+<td>
+<ul>
+<li>Achievement Badge</li>
+</ul>
+</td>
+</tr>
+<tr>
+<td><strong>16 hours</strong></td>
+<td>
+<ul>
+<li>Achievement Badge</li>
+<li>Certificate</li>
+</ul>
+</td>
+</tr>
+<tr>
+<td><strong>20 hours</strong></td>
+<td>
+<ul>
+<li>Achievement Badge</li>
+<li>Certificate</li>
+<li>Coupon (Buy $50 Get $10 extra)</li>
+</ul>
+</td>
+</tr>
+<tr>
+<td><strong>24 hours</strong></td>
+<td>
+<ul>
+<li>Achievement Badge</li>
+<li>Certificate</li>
+<li>Coupon (Buy $50 Get $10 extra) </li>
+<li>Language Test coupon ($30 off)</li>
+</ul>
+</td>
+</tr>
+</tbody>
+</table>
+<div></div>
+<div></div>
+<div></div>
+<h2><strong>Ranking Rewards</strong></h2>
+<div>
+<table border="1">
+<tbody>
+<tr>
+<td style="width: 205px;">
+<h3 id="LanguageChallengeMay2021-Top11-50intheglobalLC">Top 11-50 in the global LC</h3>
+</td>
+<td style="width: 203px;">
+<ul>
+<li>
+<p>$50 voucher (credit)</p>
+</li>
+<li>Top 50 Badge</li>
+<li>
+<p><span style="font-weight: 400;">italki tote bag </span></p>
+</li>
+</ul>
+</td>
+</tr>
+<tr>
+<td style="width: 205px;">
+<h3 id="LanguageChallengeMay2021-Top4-10intheglobalLC">Top 4-10 in the global LC</h3>
+</td>
+<td style="width: 203px;">
+<ul>
+<li>$50 voucher (credit)</li>
+<li>Top 10 Badge</li>
+<li>
+<p><span style="font-weight: 400;">italki tote bag </span></p>
+</li>
+</ul>
+</td>
+</tr>
+<tr>
+<td style="width: 205px;">
+<h3 id="LanguageChallengeMay2021-Top3intheglobalLC">Top 3 in the global LC</h3>
+</td>
+<td style="width: 203px;">
+<ul>
+<li>$50 voucher (credit)</li>
+<li>Top 3 Badge</li>
+<li>
+<p><span style="font-weight: 400;">italki tote bag </span></p>
+</li>
+<li>$500 voucher (credit)</li>
+</ul>
+</td>
+</tr>
+</tbody>
+</table>
+<p> </p>
+<h2><strong>FAQ:</strong></h2>
+<p><strong>1. When will the participants get the voucher if they achieve 12,16,20,24 hrs?</strong></p>
+<p>The 12,16,20,24 hrs reward is the system awards, the system calculates once an hour. For example: if someone arrives at "20h" at 12:05 pm, they will receive the voucher between 13:00 pm-14:00 pm.</p>
+<p> </p>
+<p><strong>2. When will the top 3-50 winners get the prize?</strong></p>
+<p>The top 3-50 prizes need to be counted and then distributed after the campaign ends. The corresponding credits are expected to be distributed on Nov 26th <span>6:00 am (UTC+0)</span>. $50 credit will be topped up to the winner's student wallet directly.</p>
+<p> </p>
+<p><strong>3. Where can I check the participants' info for LC in OMS?</strong></p>
+<p>Please go to the language challenge - Challenge participants and insert user ID for checking.</p>
+<p><img src="https://support.italki.com/hc/article_attachments/4407081150233/mceclip0.png" alt="mceclip0.png"></p>
+<p> </p>
+<p><strong>4. What is the validation period of the each coupon?</strong></p>
+<div><span>Coupon validated until</span></div>
+<ul>
+<li><font color="#000000"><font face="Arial"><span>Language test coupon: </span></font><span> </span><span>2022-01-31 </span></font></li>
+<li><font color="#000000"><span>$50 vouchers: </span><span>2021-12-31 </span></font></li>
+<li><font color="#000000"><span>Buy $50 get $10 extra: </span><span>2022-04-01</span></font></li>
+</ul>
+</div>

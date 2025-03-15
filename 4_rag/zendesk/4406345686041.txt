@@ -1,0 +1,91 @@
+<h1>How to use instant lesson to have a lesson now? </h1>
+<h2 data-renderer-start-pos="93"><strong>What are Instant Lessons?</strong></h2>
+<p data-renderer-start-pos="120">Instant Lessons allow you to start a lesson with a teacher right away! After purchasing an Instant Lesson, you’ll be able to start learning within 5 minutes.</p>
+<p><strong>Things you should know about Instant Lessons:</strong></p>
+<ol class="ak-ol" data-indent-level="1">
+<li>
+<p data-renderer-start-pos="329">Instant Lessons are <strong>available for 30/45/60 minutes trial lessons</strong>.</p>
+</li>
+<li>
+<p data-renderer-start-pos="407">These lessons are automatically accepted and start 5 minutes after purchase.</p>
+</li>
+<li>
+<p data-renderer-start-pos="487">If you have an upcoming lesson within the next 40/55/70 minutes, <span id="342e15a9-09c1-423a-bcd2-efdf41f07a95" class="inline-highlight" data-renderer-mark="true" data-mark-type="annotation" data-mark-annotation-type="inlineComment" data-id="342e15a9-09c1-423a-bcd2-efdf41f07a95">you can't book an Instant Lesson.</span></p>
+</li>
+<li>
+<p data-renderer-start-pos="583">All Instant Lessons must be taken in italki Classroom.</p>
+</li>
+<li>
+<p data-renderer-start-pos="641">You must arrive at your Instant lesson on time and your Instant lessons cannot be canceled or rescheduled.</p>
+</li>
+</ol>
+<p data-renderer-start-pos="752"> </p>
+<h2 data-renderer-start-pos="754"><strong>How can I find Instant Lessons?</strong></h2>
+<ol class="ak-ol" data-indent-level="1">
+<li>
+<p data-renderer-start-pos="789">Teachers with the “available now“ tag are open to teaching Instant Lessons.<br><img src="https://support.italki.com/hc/article_attachments/36792123785497" alt="Screen_Shot_2021-09-13_at_2.11.38_PM.png"><br><img src="https://support.italki.com/hc/article_attachments/36792169437081" alt="Screen_Shot_2021-09-13_at_2.11.48_PM.png" width="271" height="333"></p>
+</li>
+<li>
+<div class="rich-media-item mediaSingleView-content-wrap image-center sc-jzJRlG hwqOqW sc-fjdhpX hHjIus" data-layout="center" data-node-type="mediaSingle">
+<div class="sc-jTzLTM hxNHeJ">
+<div class="sc-eInJlc hbIzfU" data-context-id="4013359118" data-type="file" data-node-type="media" data-width="798" data-height="579" data-id="3d7bfaf3-cc03-4dd7-97ed-9b391ec7a049" data-collection="contentId-4013359118" data-file-name="WeChatWorkScreenshot_573d4e82-9493-44e0-9e0b-0f93b4f96c1c-20210907-093024.png" data-file-size="665232" data-file-mime-type="image/png" data-alt="">
+<div class="new-file-experience-wrapper sc-hUfwpO fvxEZY" data-testid="media-card-view">
+<div class="media-file-card-view sc-imABML fEFZwf" data-testid="media-file-card-view" data-test-status="complete" data-test-media-name="WeChatWorkScreenshot_573d4e82-9493-44e0-9e0b-0f93b4f96c1c-20210907-093024.png" data-test-progress="1">
+<img class="sc-hmzhuo jmSNcU" draggable="false" src="blob:https://italki.atlassian.net/e7a0a4fb-bb8a-4265-84e6-fbcd8e0dfda8#media-blob-url=true&amp;id=3d7bfaf3-cc03-4dd7-97ed-9b391ec7a049&amp;collection=contentId-4013359118&amp;contextId=4013359118&amp;mimeType=image%2Fpng&amp;name=WeChatWorkScreenshot_573d4e82-9493-44e0-9e0b-0f93b4f96c1c-20210907-093024.png&amp;size=665232&amp;width=798&amp;height=579&amp;alt=" alt="" data-testid="media-image"><span style="font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', Helvetica, Arial, sans-serif;">Lessons with the Instant Lesson tag can be booked and started within 5 minutes after purchase.</span>
+</div>
+</div>
+</div>
+</div>
+</div>
+<div class="rich-media-item mediaSingleView-content-wrap image-center sc-jzJRlG hwqOqW sc-fjdhpX hHjIus" data-layout="center" data-node-type="mediaSingle">
+<div class="sc-jTzLTM bhVZDz">
+<div class="sc-eInJlc hbIzfU" data-context-id="4013359118" data-type="file" data-node-type="media" data-width="897" data-height="120" data-id="6f5fa921-d67f-4ce9-8b21-4c229eddaeed" data-collection="contentId-4013359118" data-file-name="image-20210830-032856.png" data-file-size="123422" data-file-mime-type="image/png" data-alt="">
+<div class="new-file-experience-wrapper sc-hUfwpO gofMEl" data-testid="media-card-view">
+<div class="media-file-card-view sc-imABML fEFZwf" data-testid="media-file-card-view" data-test-status="complete" data-test-media-name="image-20210830-032856.png" data-test-progress="1">
+<img class="sc-hmzhuo jmSNcU" draggable="false" src="blob:https://italki.atlassian.net/6df4a6b5-7325-4f8a-bc30-045fe31a7b38#media-blob-url=true&amp;id=6f5fa921-d67f-4ce9-8b21-4c229eddaeed&amp;collection=contentId-4013359118&amp;contextId=4013359118&amp;mimeType=image%2Fpng&amp;name=image-20210830-032856.png&amp;size=123422&amp;width=897&amp;height=120&amp;alt=" alt="" data-testid="media-image"><img src="https://support.italki.com/hc/article_attachments/36792169437721" alt="Screen_Shot_2021-09-13_at_2.13.03_PM.png">
+</div>
+</div>
+</div>
+</div>
+</div>
+</li>
+<li>
+<p data-renderer-start-pos="976"><span id="8ab346f4-e3f3-458c-b5fc-a5afdf989687" class="inline-highlight" data-renderer-mark="true" data-mark-type="annotation" data-mark-annotation-type="inlineComment" data-id="8ab346f4-e3f3-458c-b5fc-a5afdf989687">Click on「Book an instant lesson」and it will bring you directly to the payment page.</span></p>
+<div class="rich-media-item mediaSingleView-content-wrap image-center sc-jzJRlG hwqOqW sc-fjdhpX bDGhoC" data-layout="center" data-width="95" data-node-type="mediaSingle">
+<div class="sc-jTzLTM dFWaDf">
+<div class="sc-eInJlc hbIzfU" data-context-id="4013359118" data-type="file" data-node-type="media" data-width="738" data-height="691" data-id="6350ef3d-910e-4a56-b0a8-8ca2ccfb0447" data-collection="contentId-4013359118" data-file-name="WeChatWorkScreenshot_35d44ca8-45ad-4535-94dc-d5e02c4fb772-20210907-093143.png" data-file-size="348277" data-file-mime-type="image/png" data-alt="">
+<div class="new-file-experience-wrapper sc-hUfwpO dtpboa" data-testid="media-card-view">
+<div class="media-file-card-view sc-imABML fEFZwf" data-testid="media-file-card-view" data-test-status="complete" data-test-media-name="WeChatWorkScreenshot_35d44ca8-45ad-4535-94dc-d5e02c4fb772-20210907-093143.png" data-test-progress="1">
+<img src="https://support.italki.com/hc/article_attachments/36792169438489" alt="Screen_Shot_2021-09-13_at_2.15.11_PM.png"><img class="sc-hmzhuo jmSNcU" draggable="false" src="blob:https://italki.atlassian.net/ea249c6a-7f38-4d47-a8aa-71d8ca301f9a#media-blob-url=true&amp;id=6350ef3d-910e-4a56-b0a8-8ca2ccfb0447&amp;collection=contentId-4013359118&amp;contextId=4013359118&amp;mimeType=image%2Fpng&amp;name=WeChatWorkScreenshot_35d44ca8-45ad-4535-94dc-d5e02c4fb772-20210907-093143.png&amp;size=348277&amp;width=738&amp;height=691&amp;alt=" alt="" data-testid="media-image">
+</div>
+</div>
+</div>
+</div>
+</div>
+<p data-renderer-start-pos="1064"><img src="https://support.italki.com/hc/article_attachments/36792123797785" alt="Screen_Shot_2021-09-13_at_2.15.54_PM.png" width="260" height="314"></p>
+</li>
+</ol>
+<p data-renderer-start-pos="1068">4. After you book an instant lesson successfully, you will be directly lead to “italki classroom“ or enter the classroom through the dashboard lesson detail card.</p>
+<div class="rich-media-item mediaSingleView-content-wrap image-align-start sc-jzJRlG hwqOqW sc-fjdhpX jnoKdW" data-layout="align-start" data-width="50" data-node-type="mediaSingle">
+<div class="sc-jTzLTM eQZFCj">
+<div class="sc-eInJlc hbIzfU" data-context-id="4013359118" data-type="file" data-node-type="media" data-width="494" data-height="469" data-id="11e3945d-f06c-4e20-9fb0-3ca5e4724848" data-collection="contentId-4013359118" data-file-name="WeChatWorkScreenshot_dea36b68-320b-445d-99dc-d245d30f98b3-20210908-065255.png" data-file-size="109093" data-file-mime-type="image/png" data-alt="">
+<div class="new-file-experience-wrapper sc-hUfwpO gaQTDe" data-testid="media-card-view">
+<div class="media-file-card-view sc-imABML fEFZwf" data-testid="media-file-card-view" data-test-status="complete" data-test-media-name="WeChatWorkScreenshot_dea36b68-320b-445d-99dc-d245d30f98b3-20210908-065255.png" data-test-progress="1">
+<img src="https://support.italki.com/hc/article_attachments/36792123799321" alt="Screen_Shot_2021-09-13_at_2.16.44_PM.png" width="384" height="367"><img class="sc-hmzhuo jmSNcU" draggable="false" src="blob:https://italki.atlassian.net/6d024257-8c16-4afe-9bb4-9f609801c9f9#media-blob-url=true&amp;id=11e3945d-f06c-4e20-9fb0-3ca5e4724848&amp;collection=contentId-4013359118&amp;contextId=4013359118&amp;mimeType=image%2Fpng&amp;name=WeChatWorkScreenshot_dea36b68-320b-445d-99dc-d245d30f98b3-20210908-065255.png&amp;size=109093&amp;width=494&amp;height=469&amp;alt=" alt="" data-testid="media-image">
+</div>
+</div>
+</div>
+</div>
+</div>
+<p data-renderer-start-pos="1235">5. You could also get into the class in the dashboard card.</p>
+<div class="rich-media-item mediaSingleView-content-wrap image-align-start sc-jzJRlG hwqOqW sc-fjdhpX jnoKdW" data-layout="align-start" data-width="50" data-node-type="mediaSingle">
+<div class="sc-jTzLTM hABAcb">
+<div class="sc-eInJlc hbIzfU" data-context-id="4013359118" data-type="file" data-node-type="media" data-width="657" data-height="141" data-id="1f5cc072-b9cf-45e4-ae46-3fc6cdd47f3b" data-collection="contentId-4013359118" data-file-name="image-20210908-070159.png" data-file-size="31129" data-file-mime-type="image/png" data-alt="">
+<div class="new-file-experience-wrapper sc-hUfwpO gjekNa" data-testid="media-card-view">
+<div class="media-file-card-view sc-imABML fEFZwf" data-testid="media-file-card-view" data-test-status="complete" data-test-media-name="image-20210908-070159.png" data-test-progress="1">
+<img src="https://support.italki.com/hc/article_attachments/36792123802521" alt="Screen_Shot_2021-09-13_at_2.18.09_PM.png" width="586" height="128"><img class="sc-hmzhuo jmSNcU" draggable="false" src="blob:https://italki.atlassian.net/075f4c5d-9e10-4614-be69-390554ae6c4a#media-blob-url=true&amp;id=1f5cc072-b9cf-45e4-ae46-3fc6cdd47f3b&amp;collection=contentId-4013359118&amp;contextId=4013359118&amp;mimeType=image%2Fpng&amp;name=image-20210908-070159.png&amp;size=31129&amp;width=657&amp;height=141&amp;alt=" alt="" data-testid="media-image">
+</div>
+</div>
+</div>
+</div>
+</div>

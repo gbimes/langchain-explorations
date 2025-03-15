@@ -1,0 +1,32 @@
+<h1>SOP: italki teacher insults or harasses italki staff</h1>
+<p>In the italki Teacher Policies &amp; Teacher Code of Conduct, it is stated:</p>
+<ul>
+<li>
+<strong>Do not berate, yell or insult students  </strong>Do not tell them they are dumb or insult their current level of language ability</li>
+<li>
+<strong>Do not use rude or foul language</strong>  Teach using respectful language and professional courtesy</li>
+<li>
+<strong>Do not lose your temper with a student</strong>  If you are not sure that you will be able to handle a situation with composure, you are welcome to contact italki Support (<a href="mailto:support@italki.com">support@italki.com</a>) or to suggest that the student contact italki Support to resolve the issue.</li>
+</ul>
+<p>However, these policies should apply to teacher's attitude towards italki staff. Since we deal with a lot of tickets to help teachers resolve their problems, they should also respect us. If in any emails a teacher sends insulting, harassing or abusive messages, this is regarded as bad behaviour and we will warn them or if it's very serious then they should be suspended or deactivated.</p>
+<p>Examples:</p>
+<p><img src="https://support.italki.com/hc/article_attachments/360007344594/Screen_Shot_2018-06-13_at_2.41.52_PM.png" alt="Screen_Shot_2018-06-13_at_2.41.52_PM.png" width="647" height="345"></p>
+<p><img src="https://support.italki.com/hc/article_attachments/360007344694/Screen_Shot_2018-06-13_at_2.43.20_PM.png" alt="Screen_Shot_2018-06-13_at_2.43.20_PM.png" width="651" height="141"></p>
+<p>Depending on the level of teacher's bad behaviour, we can decide either suspend the teacher for 3 months or send a warning message first.</p>
+<p> </p>
+<h3>Zendesk message template for first warning:</h3>
+<p>Hi xxx,</p>
+<p>You seem like a nice teacher on italki and you have excellent reviews from students but the below language that you are using to our staff is very concerning.  If you wrote to an italki student in this manner, we would immediately remove you from italki as a teacher.  No questions - instant removal.  <br><br>Please be aware that italki does not tolerate harassment in any form - to students and to our staff. </p>
+<p>Please respond to this email and agree that this will not be happening again in the future! If you fail to comply with our policies, your teacher account will be suspended.</p>
+<p>italki Teacher Services</p>
+<p> </p>
+<h3>Zendesk message template for direct 3-month profile suspension:</h3>
+<p>Hi xxx,</p>
+<p>We have a zero-tolerance policy for harassment at italki.   ------reasons------</p>
+<p>We won't be outright deactivating your teacher profile but <strong>we will be suspending your right to teach on italki for 3 months</strong>.  While you have apologized profusely, it is important to know that actions have consequences. This happened to one of our staff but if this had happened to one of our / your students, it could have been much worse.  Especially in this day and age where anything one writes on the internet can follow you around forever - you should be very thankful that this did not appear in a more public forum.<br><br>Oe xxxx xxxx write back to us again and we'll lift this suspension and restore your right to teach on italki.  If you have another incident like this in the future, there will be no more second chances as you've used yours up with this.</p>
+<div class="signature">
+<p>italki Teacher Services</p>
+</div>
+<p>Then leave a sticky note and change the teacher's "Accepting students status" to "Students cannot request lessons (admin-only)".</p>
+<p><img src="https://support.italki.com/hc/article_attachments/360007402873/Screen_Shot_2018-06-13_at_3.09.36_PM.png" alt="Screen_Shot_2018-06-13_at_3.09.36_PM.png" width="638" height="386"></p>
+<p>3 months later when the teacher contacts us then we can change it back. Also, let the teacher know if this happens again then they will be removed permanently.</p>

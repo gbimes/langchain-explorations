@@ -1,0 +1,24 @@
+<h1>How do I record and upload a video to italki?</h1>
+<h3 id="h_01JCHTM54SQPDYPKSXM0XZ8YCX">How to record your video</h3>
+<p><strong>Basic equipment</strong></p>
+<ul>
+<li><span style="font-weight: 400;">Be sure that the video is steady and the sound is clear.</span></li>
+<li><span style="font-weight: 400;">Video: Smartphone/tablet </span></li>
+<li><span style="font-weight: 400;">Audio: Separate microphone</span></li>
+<li><span style="font-weight: 400;">Extra tip: <a href="https://ca.edubirdie.com/blog/shooting-video-with-an-iphone" target="_blank" rel="noopener noreferrer">Shooting Video with an iPhone</a></span></li>
+</ul>
+<p><strong>Professional equipment</strong></p>
+<ul>
+<li>Professional equipment is not necessary, but it does help!</li>
+<li><span style="font-weight: 400;">Video: Professional camera</span></li>
+<li><span style="font-weight: 400;">Audio: Field recorder windscreen</span></li>
+</ul>
+<h4 id="h_01JCHTM54S2R4E3HCY6JY672Y9"> </h4>
+<h3 id="h_01JCHTM54S2D6Y5NR263T36WGS">How to upload your video to italki</h3>
+<p>Once your video is ready, you can upload it in the application form <a href="https://teach.italki.com/apply/step/3" target="_blank" rel="noopener">https://teach.italki.com/apply/step/3</a> - 3.2 Video Introduction</p>
+<p>If you have previously uploaded a video on YouTube, you can <a href="https://support.google.com/youtube/answer/56100" target="_blank" rel="noopener">download</a> it as an MP4 file and then upload it to italki.</p>
+<p> </p>
+<h3 id="h_01JCHTM54TT6WPZXX3PM4XAY5A">What if I want to update my video later?</h3>
+<p>If you decide later that you want to update the video, you just need to go to <a href="https://teach.italki.com/console/basic" target="_blank" rel="noopener">Teacher Settings</a> &gt; Teacher Profile &gt; Video to change it.</p>
+<p>After you have uploaded the video, it may take some time to process. After that, you will see a preview of the video.</p>
+<p>Once the processing is complete, it will be sent to<strong> italki staff for approval</strong> before the change appears on your profile page. This may take 5 business days.</p>

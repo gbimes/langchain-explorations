@@ -1,0 +1,60 @@
+<h1>Teacher Communications</h1>
+<h3>References:</h3>
+<ul>
+<li><a href="https://docs.google.com/spreadsheets/d/1nj5WyuJbbJtUXEpsR1jetjofT3W4_Ci4-NXnGktPa_M/edit#gid=1027877648" target="_blank" rel="noopener">Teacher Communications Calendar</a></li>
+<li><a href="https://docs.google.com/document/d/1rzu8iT9qryExykxSPjw_R9v6ee5SVRAwnU77w6kx5BI/edit">Teacher Communications Guidelines / Best Practices</a></li>
+<li>Easy HTML editor: <a href="https://html-online.com/editor/" target="_blank" rel="noopener">https://html-online.com/editor/</a>
+</li>
+</ul>
+<h3>Teacher Zendesk Community Post</h3>
+<p>Official italki Community Posts:</p>
+<ul>
+<li>We have an update, announcement, request, invitation, or other official communication for the teacher community from italki. This must be approved by the Community Manager and should be posted by a Zendesk agent account.</li>
+</ul>
+<p>Replying to posts:</p>
+<ul>
+<li>Anyone can reply to posts from their own individual account. It should either be an account that meets teacher profile standards or very obviously an italki moderator account.</li>
+</ul>
+<p>Posting unofficially:</p>
+<ul>
+<li>Anyone can make a post if they are speaking as themselves and not as a representative of italki. It should be an account that meets teacher profile standards.</li>
+</ul>
+<h3>Email (from our @italki email)</h3>
+<p>We contact teachers from our own work emails about:</p>
+<ul>
+<li>New projects where we need to approach the teacher as a consultant, freelancer, volunteer, etc. (Especially if it's just one or a small number of teachers.)</li>
+<li>The person who needs the information should be the one to send the email, since often teachers forget to "reply all".</li>
+<li>Teacher Services can help write the email to make sure it is framed in a way that will get a positive and cooperative response from teachers (they often don't understand "marketing" type messages very easily)</li>
+<li>Teachers usually like us and are excited to work with us. This helps them feel like they are part of italki, just from outside of the office :) </li>
+</ul>
+<h3>Mass Messages</h3>
+<p>For announcements, updates, etc. where we need to send the same message to a lot of teachers.</p>
+<h3>Internal Message</h3>
+<p>Internal messages are used to communicate with teachers about:</p>
+<ul>
+<li>Admin announcements</li>
+<li>Status updates to their profile</li>
+<li>Anything that should be part of an "official record" of communications between italki and the teacher</li>
+<li>Use <a href="https://omsv2.italki.com/omsc4/messagesender" target="_blank" rel="noopener">OMS Mass Message Sender</a>
+</li>
+</ul>
+<p>Note that you can only send a couple thousand at once. If you send too many, then some people will just not get the message. We think that 2000-3000 seems to be ok to send at once.</p>
+<p><strong>Template:</strong></p>
+<p>&lt;p&gt;&lt;img style="width: 100%; height: auto; resize: none; position: center; top: 0px; left: 0px;" src="https://01d04dc66b4e3a4c4c93-ed7165fd755afd5811f5d7ebed3ff477.ssl.cf1.rackcdn.com/default2863_0.jpg" alt="" /&gt;[Greeting]&lt;/p&gt;<br>&lt;p&gt;[Type message here]&lt;/p&gt;<br>&lt;p&gt;[Something friendly]&lt;/p&gt;<br>&lt;p&gt;&lt;img src="https://support.italki.com/hc/user_images/Nfxkt77U20ZokA4LRCd8Mw.png" alt="" /&gt;&lt;/p&gt;<br>&lt;p&gt;[Name optional]&lt;/p&gt;<br>&lt;p&gt;italki Teacher Services&lt;/p&gt;</p>
+<h3>Email</h3>
+<p>Email is used to communicate with teachers about:</p>
+<ul>
+<li>A copy of something we sent to their internal italki message inbox</li>
+<li>Something that we need to get teachers' attention about even if they don't log in and check.</li>
+</ul>
+<p><strong>From Zetahub &lt;-- use this</strong></p>
+<p>This is helpful because we can see click-through rates, open rates, and other metrics to help us know if the teachers are interested in the emails.</p>
+<p>1. Write and check draft</p>
+<p>2. Prepare Boomtrain Template</p>
+<p>3. Check and Schedule with Roberta</p>
+<p>4. Check open and click rates later</p>
+<p><strong>(from </strong><a href="https://omsv2.italki.com/omsc4/emailsender" target="_blank" rel="noopener"><strong>OMS Email Sender)</strong></a></p>
+<p><strong>Hisun says we shouldn't use this anymore for emails</strong></p>
+<p>Note that you can only send a couple thousand at once. If you send too many, then some people will just not get the message. We think that 2000-3000 seems to be ok to send at once.</p>
+<p><strong>Template:</strong> (feel free to make it nicer)</p>
+<p>&lt;table style="border-collapse: collapse; background: #ddd; min-width: 620px; table-layout: fixed;" width="100%" cellspacing="0" cellpadding="0"&gt;<br>&lt;tbody&gt;<br>&lt;tr&gt;<br>&lt;td style="padding: 10px;" align="center"&gt;<br>&lt;div style="width: auto; color: #000; font-family: Arial; font-size: 12px; line-height: 150%; margin: 0 auto 0 auto;"&gt;<br>&lt;table style="width: 100%; border-collapse: separate; table-layout: fixed;" cellspacing="0" cellpadding="0"&gt;<br>&lt;tbody&gt;<br>&lt;tr&gt;<br>&lt;td align="center"&gt;<br>&lt;table style="border-collapse: separate; border-spacing: 0px; table-layout: fixed; width: 600px; background: #ffffff;" width="600" cellspacing="0" cellpadding="0"&gt;<br>&lt;tbody&gt;<br>&lt;tr&gt;<br>&lt;td&gt;<br>&lt;table style="width: 600px; border-collapse: collapse; table-layout: fixed;" cellspacing="0" cellpadding="0"&gt;<br>&lt;tbody&gt;<br>&lt;tr&gt;<br>&lt;td style="vertical-align: top;" width="100%"&gt;<br>&lt;div&gt;<br>&lt;table style="width: 100%; border-collapse: separate; table-layout: fixed;" cellspacing="0" cellpadding="0"&gt;<br>&lt;tbody&gt;<br>&lt;tr&gt;<br>&lt;td style="background: #ffffff;"&gt;<br>&lt;table style="border-collapse: separate; border-spacing: 0px; table-layout: fixed;" width="100%" cellspacing="0" cellpadding="0"&gt;<br>&lt;tbody&gt;<br>&lt;tr&gt;<br>&lt;td style="vertical-align: top;" align="center"&gt;<br>&lt;div&gt;&lt;img style="width: 600px; height: auto; resize: none; position: relative; display: block; top: 0px; left: 0px;" src="https://01d04dc66b4e3a4c4c93-ed7165fd755afd5811f5d7ebed3ff477.ssl.cf1.rackcdn.com/default2863_0.jpg" alt="" width="600" height="auto" /&gt;&lt;/div&gt;<br>&lt;/td&gt;<br>&lt;/tr&gt;<br>&lt;/tbody&gt;<br>&lt;/table&gt;<br>&lt;/td&gt;<br>&lt;/tr&gt;<br>&lt;/tbody&gt;<br>&lt;/table&gt;<br>&lt;/div&gt;<br>&lt;div&gt;<br>&lt;table style="border-collapse: separate; border-spacing: 0px; table-layout: fixed;" cellspacing="5" cellpadding="0"&gt;<br>&lt;tbody&gt;<br>&lt;tr&gt;<br>&lt;td&gt;&amp;nbsp;&lt;/td&gt;<br>&lt;/tr&gt;<br>&lt;/tbody&gt;<br>&lt;/table&gt;<br>&lt;table style="width: 100%; border-collapse: separate; table-layout: fixed; background: #ffffff;" cellspacing="25" cellpadding="0"&gt;<br>&lt;tbody&gt;<br>&lt;tr&gt;<br>&lt;td style="background: #ffffff;"&gt;<br>&lt;table style="border-collapse: separate; border-spacing: 0px; table-layout: fixed;" width="100%" cellspacing="0" cellpadding="0"&gt;<br>&lt;tbody&gt;<br>&lt;tr&gt;<br>&lt;td style="vertical-align: top;"&gt;<br>&lt;div style="word-wrap: break-word; line-height: 140%; text-align: center;"&gt;<br>&lt;p style="text-align: left;"&gt;[Greeting]&lt;/p&gt;<br>&lt;p style="text-align: left;"&gt;[Message]&lt;/p&gt;<br>&lt;p style="text-align: left;"&gt;[Something nice],&lt;/p&gt;<br>&lt;p style="text-align: left;"&gt;&lt;img src="https://support.italki.com/hc/user_images/Nfxkt77U20ZokA4LRCd8Mw.png" alt="" /&gt;&lt;/p&gt;<br>&lt;p style="text-align: left;"&gt;[Optional Name]&lt;/p&gt;<br>&lt;p style="text-align: left;"&gt;italki Teacher Services&lt;/p&gt;<br>&lt;/div&gt;<br>&lt;/td&gt;<br>&lt;/tr&gt;<br>&lt;/tbody&gt;<br>&lt;/table&gt;<br>&lt;/td&gt;<br>&lt;/tr&gt;<br>&lt;/tbody&gt;<br>&lt;/table&gt;<br>&lt;/div&gt;<br>&lt;div&gt;<br>&lt;table style="width: 100%; border-collapse: separate; table-layout: fixed; background: #f1f1f1;" cellspacing="15" cellpadding="0"&gt;<br>&lt;tbody&gt;<br>&lt;tr&gt;<br>&lt;td style="background: #f1f1f1;"&gt;<br>&lt;table style="border-collapse: separate; border-spacing: 0px; table-layout: fixed;" width="100%" cellspacing="0" cellpadding="0"&gt;<br>&lt;tbody&gt;<br>&lt;tr&gt;<br>&lt;td style="vertical-align: middle; font-size: 11px; padding: 10px;"&gt;<br>&lt;div style="word-wrap: break-word; line-height: 140%;"&gt;<br>&lt;p style="font-size: 11px; margin: 0px; text-align: center;"&gt;italki, Units 903-906A, 9/F, Kowloon Centre, 33 Ashley Road, Tsimshatsui, Hong Kong&lt;/p&gt;<br>&lt;/div&gt;<br>&lt;/td&gt;<br>&lt;/tr&gt;<br>&lt;/tbody&gt;<br>&lt;/table&gt;<br>&lt;/td&gt;<br>&lt;/tr&gt;<br>&lt;/tbody&gt;<br>&lt;/table&gt;<br>&lt;/div&gt;<br>&lt;/td&gt;<br>&lt;/tr&gt;<br>&lt;/tbody&gt;<br>&lt;/table&gt;<br>&lt;/td&gt;<br>&lt;/tr&gt;<br>&lt;/tbody&gt;<br>&lt;/table&gt;<br>&lt;/td&gt;<br>&lt;/tr&gt;<br>&lt;/tbody&gt;<br>&lt;/table&gt;<br>&lt;/div&gt;<br>&lt;/td&gt;<br>&lt;/tr&gt;<br>&lt;/tbody&gt;<br>&lt;/table&gt;</p>

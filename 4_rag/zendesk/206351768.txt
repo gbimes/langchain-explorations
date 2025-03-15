@@ -1,0 +1,13 @@
+<h1>Can I transfer Credits from my Teacher Wallet to my Student Wallet?</h1>
+<h3>Yes!</h3>
+<p>Many italki Teachers use their italki Credits to learn a language.</p>
+<p>To do this, you need to move your italki Credits from your Teacher Wallet to your Student Wallet.</p>
+<ol>
+<li>Log in as a teacher</li>
+<li>Go to "<span class="wysiwyg-underline"><a href="https://teach.italki.com/finance/overview" target="_blank" rel="noopener">My Wallet</a></span>" </li>
+<li>Click "<strong>Transfer Credits</strong>"<img src="https://support.italki.com/hc/article_attachments/900005888326" alt="mceclip0.png">
+</li>
+<li>Enter the amount of italki Credits you'd like to transfer and your italki password to confirm.</li>
+</ol>
+<p><strong>Please note: You cannot transfer the Credits back from your Student Wallet to your Teacher Wallet. </strong></p>
+<p class="wysiwyg-text-align-center"><img src="https://support.italki.com/hc/article_attachments/23248294671257" alt="Screen_Shot_2019-03-19_at_2.00.28_PM.png" width="636" height="310"></p>

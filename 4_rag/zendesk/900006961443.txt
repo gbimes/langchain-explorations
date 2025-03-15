@@ -1,0 +1,40 @@
+<h1>Mauritania +Algeria Sign up Issue</h1>
+<p><strong style="font-size: 1.5em;">Mauritania</strong></p>
+<section class="article-info">
+<div class="article-content">
+<div class="article-body">
+<div>
+<p><strong>Deploy time: Apr 16, 2021, 20:00pm+</strong></p>
+<p>Summary: Users from Mauritania will not sign up with Mobile, can only sign up using a third party or using email. This is because we are receiving 2,000+ SMS requests from Mauritania each week, but the actual amount of "real" users is only 3.</p>
+<p> </p>
+<p><strong>Affected amount of users: </strong></p>
+<p>Around 2-3 users every week</p>
+</div>
+<div></div>
+<div><img src="https://support.italki.com/hc/article_attachments/900008201886/mceclip1.png" alt="mceclip1.png"></div>
+<div></div>
+<h2> </h2>
+<h2>
+<strong>Al</strong><strong>geria</strong>
+</h2>
+<div><strong>Deploy time: May 4, 2021 </strong></div>
+<div></div>
+<div><strong>Summary:</strong></div>
+<div></div>
+<div>Users from Algeria will not sign up with Mobile, can only sign up using a third party or using email. This is because we are receiving 10,000+ SMS requests from Mauritania every 14 days, but the actual amount of "real" users is only 1.</div>
+<div></div>
+<div><strong>Affected amount of users: </strong></div>
+<div>Around 1 user (or less) every week</div>
+<div></div>
+<div>
+<div>
+<div><img src="https://support.italki.com/hc/article_attachments/900008201846/mceclip0.png" alt="mceclip0.png"></div>
+<div></div>
+<h2><strong>Action Plan:</strong></h2>
+<div>Team 1 will hotfix the issue by today (2021/5/4), just like the last time Mauritania, Algeria will also be blocked by mobile phone verification code registration. This is because 13,378 SMS messages were sent to Algeria in the last 14 days, but only one person registered.</div>
+</div>
+</div>
+</div>
+<div class="article-attachments"></div>
+</div>
+</section>

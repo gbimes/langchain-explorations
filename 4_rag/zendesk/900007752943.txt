@@ -1,0 +1,13 @@
+<h1>Package Dispute</h1>
+<p><span style="font-weight: 400;">When</span><span style="font-weight: 400;"> a package is requested to be terminated but declined by the other party, the package is </span><strong>disputed</strong><span style="font-weight: 400;">. </span><span style="font-weight: 400;">Make sure you have talked with the other party about your termination decision to avoid any package dispute.</span></p>
+<p><strong>The one who initiates the termination will receive an email</strong><span style="font-weight: 400;"> from italki asking for a reason and explanation. It is optional for the other party to also contact support explaining the reason for declining the termination request. Our support team will settle the italki credits based on the materials provided in 3 days from the date of the dispute. </span><strong>All italki decisions are final. </strong></p>
+<ul>
+<li style="font-weight: 400;" aria-level="1"><span style="font-weight: 400;">If the student did not want to continue: the package will be terminated in a single lesson price (unit price) for the completed lessons. </span></li>
+<li style="font-weight: 400;" aria-level="1">
+<span style="font-weight: 400;">If the teacher did not want to continue/could not fulfill the lesson: the package will be terminated in package lessons price (average price)</span> <span style="font-weight: 400;">for the completed lessons. </span>
+</li>
+<li style="font-weight: 400;" aria-level="1">
+<span style="font-weight: 400;">The student will receive the incompleted lesson credits in their </span><strong><a href="https://www.italki.com/finance/overview" target="_blank" rel="noopener noreferrer">Student Wallet</a></strong><span style="font-weight: 400;"> after termination. </span>
+</li>
+</ul>
+<p><strong>If no reply is received from either party for the dispute within 3 days, the termination request will be resolved in accordance with who initiates the termination.</strong></p>

@@ -1,0 +1,17 @@
+<h1>How to terminate a package?</h1>
+<p><span style="font-weight: 400;">To terminate a package lesson, either a teacher or a student can go to My Lessons, find the </span><a href="https://www.italki.com/lessons?lesson_type=package"><strong>Package list</strong></a><span style="font-weight: 400;">, check the Package page, and click </span><strong>Request to Terminate Package. </strong></p>
+<p><span style="font-weight: 400;"><img src="https://support.italki.com/hc/article_attachments/900004359646" alt="3.4_Package_termination_-_1.png"></span></p>
+<p><span style="font-weight: 400;">We would highly recommend you communicate with the teacher prior to the termination request. Please be aware that the italki Credits refund amount is dependent on the reason for the Package termination. Teachers are offering Packages often at a discounted price. Therefore,</span></p>
+<p><strong>1. Select your desired solution: </strong></p>
+<ul>
+<li style="font-weight: 400;" aria-level="1"><span style="font-weight: 400;">Pay the completed lessons in single lesson price (unit price) - if you (student) are the one who didn’t want to continue </span></li>
+<li style="font-weight: 400;" aria-level="1"><span style="font-weight: 400;">Pay the completed lessons in package lesson price (average price) - if your teacher is the one who couldn’t fulfill the lesson</span></li>
+</ul>
+<p><strong>2. Waiting for response - The other party who receives the Termination Request has 3 days to respond: </strong></p>
+<ul>
+<li style="font-weight: 400;" aria-level="1">
+<span style="font-weight: 400;">When the other side agrees, the package will be terminated accordingly and the credit will be back to your </span><a href="https://www.italki.com/finance/overview"><strong>Student Wallet</strong></a><strong>.</strong><span style="font-weight: 400;"> </span>
+</li>
+<li style="font-weight: 400;" aria-level="1"><span style="font-weight: 400;">When the other side rejects, the package will turn to <strong><a href="https://support.italki.com/hc/en-us/articles/900007752943-Package-Dispute" target="_self">Package Dispute</a></strong>.</span></li>
+<li style="font-weight: 400;" aria-level="1"><span style="font-weight: 400;">If there is no response from the other side after 3 days, the package will be terminated in the requester's favor.</span></li>
+</ul>

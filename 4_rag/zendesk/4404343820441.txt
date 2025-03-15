@@ -1,0 +1,21 @@
+<h1>July 2021 italki Teacher Newsletter</h1>
+<p class="wysiwyg-text-align-center"><img src="https://support.italki.com/hc/article_attachments/4404611354905/July_newsletter.png" alt="July_newsletter.png"></p>
+<h1 class="wysiwyg-text-align-center"><span><strong>Ask a Teacher Recap</strong></span></h1>
+<h2 class="wysiwyg-text-align-center">
+<span><strong> </strong></span><span>After launching Ask a Teacher, we found that teachers who responded to questions received were significantly more likely to receive new lesson requests. If you’re invited, make sure to respond, or visit the Community directly to help potential students!</span>
+</h2>
+<p class="wysiwyg-text-align-center"><span> </span></p>
+<h1 class="wysiwyg-text-align-center"><span><strong>Lesson Request Window</strong></span></h1>
+<p><span><strong> </strong></span></p>
+<h2 class="wysiwyg-text-align-center">
+<span>Want to teach a lesson in less than 12 hours? With </span><strong>Lesson Request Window</strong><span>, you can teach lessons in 12, 6, or 2 hours. Fill in your calendar and impress new students on the same day. Now available under </span><strong>Availability Settings</strong><span>.</span>
+</h2>
+<p><span> </span></p>
+<h3 class="wysiwyg-text-align-center"><a href="https://teach.italki.com/console/lessons"><span class="wysiwyg-color-red">ADJUST NOW &gt;&gt;</span></a></h3>
+<h1 class="wysiwyg-text-align-center">
+<span><strong>The Language Challenge has ended!</strong></span><strong><br><span>How did teachers do?</span></strong>
+</h1>
+<h2 class="wysiwyg-text-align-center">
+<span>The total number of hours taught was equivalent to </span><span><span class="wysiwyg-color-red">5,455</span> days</span><span>!</span><br><span>Number of Community Tutors who helped students in the challenge: </span><span class="wysiwyg-color-red">8,842</span><br><span>Number of Professional Teachers who helped students in the challenge: </span><span class="wysiwyg-color-red">8,604</span><br><span>Number of languages learned: </span><span class="wysiwyg-color-red">136</span><br><span>Thanks for helping our students learn during this challenge!</span>
+</h2>
+<p> </p>

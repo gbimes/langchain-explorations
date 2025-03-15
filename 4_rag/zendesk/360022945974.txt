@@ -1,0 +1,15 @@
+<h1>How to cancel a lesson?</h1>
+<p><strong>On italki, a lesson can only be canceled or rescheduled 24 hours before the lesson start time.</strong> <span style="font-weight: 400;">If your lesson takes place after 24 hours, you can go to the lesson page and request to "change date/time" of the lesson or "cancel the lesson".</span></p>
+<p><img src="https://support.italki.com/hc/article_attachments/25785492378009"></p>
+<ul>
+<li style="font-weight: 400;" aria-level="1"><span style="font-weight: 400;">The lesson will be canceled directly after submitting the cancellation request.</span></li>
+<li style="font-weight: 400;" aria-level="1">
+<span style="font-weight: 400;">The lesson credits will be transferred back to the </span><strong><a href="https://www.italki.com/finance/overview" target="_blank" rel="noopener noreferrer">Student Wallet</a></strong>. For the package lesson, a lesson will be added back to the package.</li>
+<li style="font-weight: 400;" aria-level="1"><strong>If you request "change date/time", the lesson will only be rescheduled when the other party agrees to the request. Otherwise, the lesson will proceed at the originally scheduled time.</strong></li>
+</ul>
+<p><span style="font-weight: 400;">If a lesson is about to start within 24 hours, it can NOT be changed to a new time or canceled. </span></p>
+<p><span style="font-weight: 400;"><span>If you can't take a lesson, make sure you notify your teacher at your earliest convenience. Talk with your teacher and see if a refund can be arranged. </span></span><strong>If your refund request is not agreed upon, your teacher is entitled to receive full payment.</strong></p>
+<p><span style="font-weight: 400;">After any lesson, a "Lesson incomplete" button will be available for both teacher and student to propose a lesson refund within 72 hrs. Check </span><strong><a href="https://support.italki.com/hc/en-us/articles/360023118333#h_01ER28D3TR19VGJJ14Y42DCT0S" target="_blank" rel="noopener noreferrer">How to submit a lesson incomplete request?</a></strong></p>
+<p><span style="font-weight: 400;">Read more:</span></p>
+<p><strong><a href="https://support.italki.com/hc/en-us/articles/360023116413" target="_blank" rel="noopener noreferrer">Can I take a lesson now or do I need to book in advance?</a></strong></p>
+<p><strong><a href="https://support.italki.com/hc/en-us/articles/900004231283" target="_blank" rel="noopener noreferrer">Why hasn’t my lesson request been accepted?</a></strong></p>

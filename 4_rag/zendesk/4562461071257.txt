@@ -1,0 +1,86 @@
+<h1>Updates on Russian payments related issues</h1>
+<p data-renderer-start-pos="117">Due to the increased number of requests from users related to payment problems and withdrawal difficulties, we have decided to create a special page where we will post the latest news about changes in payment systems operations in Russia and their impact on italki.</p>
+<p data-renderer-start-pos="384"> </p>
+<p data-renderer-start-pos="387">italki is not imposing any restrictions on transactions with Russia.  However, italki works with payment system providers to make and receive payments. At the moment, international financial policies are changing quickly. The estimated arrival time and the processing fees of payment may be subject to different banks.</p>
+<p data-renderer-start-pos="707"> </p>
+<p data-renderer-start-pos="710">We will do our best to find solutions to these problems. Please stay with us so as not to miss any important information!</p>
+<p data-renderer-start-pos="710"> </p>
+<h2 id="May-18,-2022-12:00-AM-UTC" data-renderer-start-pos="840">May 18, 2022 12:00 AM UTC</h2>
+<p data-renderer-start-pos="867"><span>We now support UnionPay as a payment method </span><span id="726a7e1d-a514-4832-9b24-46a1f7d7d0d0" data-renderer-mark="true" data-mark-type="annotation" data-mark-annotation-type="inlineComment" data-id="726a7e1d-a514-4832-9b24-46a1f7d7d0d0">for Russian users! Now you can go to the italki website to top up the credits. However,</span><span> it should be noted that this payment method takes around 48 hours to process, and then you can use the credit to book lessons!</span></p>
+<p data-renderer-start-pos="867"><img src="https://support.italki.com/hc/article_attachments/36784635025561" alt="mceclip0.png"></p>
+<p data-renderer-start-pos="1132"><span>We will notify you via email of the result of your purchase. If your top-up purchase is successful, the credits will be added to your wallet. If your purchase is not successful, the money will be returned to your card. Refunds depend on the processing time of your bank. It takes up to 3-5 working days for the fund transferred back to your original payment provider. In rare cases, it can take up to two weeks. it usually depends on your Payment provider. if you haven't received your fund after 2 weeks, please feel free to contact us.</span></p>
+<p data-renderer-start-pos="1132"> </p>
+<p data-renderer-start-pos="1702">Please be aware that the following Russian banks do not support UnionPay purchases:</p>
+<ul class="ak-ul" data-indent-level="1">
+<li>
+<p data-renderer-start-pos="1789">Credit Ural Bank</p>
+</li>
+<li>
+<p data-renderer-start-pos="1809">Gazprombank(Open Joint-stock Company)</p>
+</li>
+<li>
+<p data-renderer-start-pos="1850">Joint Stock Company Russian Regional Development Bank</p>
+</li>
+<li>
+<p data-renderer-start-pos="1907">PJSC \"Promsvyazbank\"</p>
+</li>
+<li>
+<p data-renderer-start-pos="1933">Public joint stock company Post Bank</p>
+</li>
+<li>
+<p data-renderer-start-pos="1973">Russian Agricultural Bank</p>
+</li>
+<li>
+<p data-renderer-start-pos="2002">VTB Bank (public joint-stock company)</p>
+</li>
+</ul>
+<div class="rich-media-item mediaSingleView-content-wrap image-center sc-epnACN jKBFzx sc-iyvyFf gIImwV" width="1481" data-layout="center" data-node-type="mediaSingle">
+<div class="sc-gzOgki kJDXqg">
+<div class="sc-esjQYD ikJPMC" data-type="file" data-node-type="media" data-width="1481" data-height="750" data-id="b7dda3d5-1722-4dc0-a8d0-7635ffe19f98" data-collection="contentId-4336222234" data-file-name="WeChatWorkScreenshot_66bde41d-b864-4a0f-818a-73b45b02b9b6-20220516-093009.png" data-file-size="235308" data-file-mime-type="image/png" data-alt="" data-context-id="4336222234">
+<div class="new-file-experience-wrapper sc-gJWqzi kSLMvz" data-testid="media-card-view">
+<div class="media-file-card-view sc-rBLzX kuVLkH" data-testid="media-file-card-view" data-test-status="complete" data-test-media-name="WeChatWorkScreenshot_66bde41d-b864-4a0f-818a-73b45b02b9b6-20220516-093009.png" data-test-progress="1"><img draggable="false" src="blob:https://italki.atlassian.net/d8bee7b9-f7e6-46b0-9b5e-631d3642dbee#media-blob-url=true&amp;id=b7dda3d5-1722-4dc0-a8d0-7635ffe19f98&amp;collection=contentId-4336222234&amp;contextId=4336222234&amp;height=750&amp;width=1481&amp;alt=" alt="" data-testid="media-image"></div>
+</div>
+</div>
+</div>
+</div>
+<h2>March 23rd, 2022 12:00 AM UTC</h2>
+<p><strong>Payment Related</strong></p>
+<p> </p>
+<p><span style="font-weight: 400;">Starting from March 10, Visa and MasterCard will suspend operations in Russia by blocking all transactions outside of Russia for cards issued by Russian banks. It will influence all international payments including Google Play, Apple Pay, and any direct online payments. Therefore, it won’t be possible to pay in italki as well.</span></p>
+<p> </p>
+<p><span style="font-weight: 400;">In case of a problem with payment, please contact the customer service of this bank to clarify whether it is related to sanctions and disconnection from SWIFT.</span></p>
+<p> </p>
+<p><span style="font-weight: 400;">For now, the credits that you have purchased are safe in your account.  The credits will not disappear and of course, you are free to use them in the system.  We are truly sorry as we understand the situation our users from Russia are in.  We are actively working on this problem. We hope that everything will be back to normal soon!</span></p>
+<p> </p>
+<p><strong>For Teachers: Withdrawals</strong></p>
+<p><span style="font-weight: 400;">At the moment, we know that PayPal and Payoneer have stopped working in the territory of the Russian Federation, therefore these withdrawal methods will be temporarily unavailable.</span></p>
+<p> </p>
+<p><span style="font-weight: 400;">We want to emphasize that all the credits you have earned on italki are safe in your teacher's wallet. Your italki credits will not be frozen or confiscated. We will do everything possible to protect your funds and ensure the safe withdrawal of your credits.</span></p>
+<p> </p>
+<p><span style="font-weight: 400;">We will post information to the webpage as soon as we receive it.  We will notify you of the possible options as they become clearer.</span></p>
+<p> </p>
+<p><span style="font-weight: 400;">If you have any questions and need further assistance, please contact our support team via support@italki.com.</span></p>
+<p> </p>
+<p><span style="font-weight: 400;">We will keep searching for solutions so that you can continue your journey with us!</span></p>
+<h2> </h2>
+<h2>March 1st, 2022 9:00 AM UTC </h2>
+<h3>Payment Related</h3>
+<p><span style="font-weight: 400;">If your payment had a problem, first try contacting your bank's customer support to find out if additional charges or blocks are related to the recent sanctions.</span></p>
+<p> </p>
+<p><span style="font-weight: 400;">We have noticed that the transactions from the following banks may be canceled:</span></p>
+<p><span style="font-weight: 400;">Sberbank</span></p>
+<p><span style="font-weight: 400;">VTB Bank</span></p>
+<p><span style="font-weight: 400;">Alfa-Bank</span></p>
+<p><span style="font-weight: 400;">Otkritie</span></p>
+<p><span style="font-weight: 400;">Sovcombank</span></p>
+<p><span style="font-weight: 400;">Novikombank</span></p>
+<p><span style="font-weight: 400;">Alfa-Bank</span></p>
+<p> </p>
+<h3>For Teachers: Withdrawals</h3>
+<p><span style="font-weight: 400;">We want to emphasize that all the credits you have earned on italki are safe in your teacher's wallet. Your italki credits will not be frozen or confiscated. We will do everything possible to protect your funds and ensure the safe withdrawal of your credits.</span></p>
+<p> </p>
+<p><span style="font-weight: 400;">We will post information to the webpage as soon as we receive it.  We will notify you of the possible options as they become clearer.</span></p>
+<p> </p>
+<p><span style="font-weight: 400;">If you have any questions and need further assistance, please contact our support team via support@italki.com.</span></p>
+<p><span style="font-weight: 400;"> </span></p>
+<p><span style="font-weight: 400;">We will keep searching for solutions so that you can continue your journey with us!</span></p>

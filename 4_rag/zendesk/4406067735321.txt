@@ -1,0 +1,78 @@
+<h1>How to enable instant lesson as a teacher?</h1>
+<p><span>Instant Lesson allows you to teach lessons at any time regardless of your teaching schedule and increase the number of lesson opportunities available to you. </span></p>
+<p> </p>
+<h2 id="h_01J873GR9T7Y7GFE87CTFYFG45" data-renderer-start-pos="134"><strong>What is Instant Lesson?</strong></h2>
+<p data-renderer-start-pos="159">Instant Lessons allow students to start a lesson with you right away! After purchasing an Instant Lesson, Students can start learning with you in 5 minutes.</p>
+<p data-renderer-start-pos="159"> </p>
+<p data-renderer-start-pos="319"><strong>Things you should know about Instant Lessons:</strong></p>
+<ol class="ak-ol" data-indent-level="1">
+<li>
+<p data-renderer-start-pos="1517"><span data-renderer-mark="true">Instant Lessons are independent of your available time slots.</span></p>
+</li>
+<li>
+<p data-renderer-start-pos="368">Instant Lessons are currently only available for 30 minutes <strong data-renderer-mark="true">trial lessons</strong>.</p>
+</li>
+<li>
+<p data-renderer-start-pos="446">These lessons are automatically accepted for you and will start 5 minutes after purchase.</p>
+</li>
+<li>
+<p data-renderer-start-pos="539">If you have a lesson within the next 40 minutes, you <span id="326d2e04-f88c-448e-bfb5-26f93746dc01" data-renderer-mark="true" data-mark-type="annotation" data-mark-annotation-type="inlineComment" data-id="326d2e04-f88c-448e-bfb5-26f93746dc01">can't be booked for an In</span>stant Lesson.</p>
+</li>
+<li>
+<p data-renderer-start-pos="634">All Instant Lessons must be taken in italki Classroom.</p>
+</li>
+<li>
+<p data-renderer-start-pos="692">Instant lessons cannot be<strong> canceled</strong> or <strong>rescheduled</strong>.</p>
+</li>
+</ol>
+<p> </p>
+<h2 id="h_01J873GR9T3WFQKDN57C69CH3Q" data-renderer-start-pos="805"><strong data-renderer-mark="true">How do I enable Instant Lesson?</strong></h2>
+<p data-renderer-start-pos="926"><strong>To enable Instant Lesson you’ll need to complete the following steps:</strong></p>
+<ol class="ak-ol" data-indent-level="1">
+<li>
+<p data-renderer-start-pos="999">Offer a trial lesson</p>
+</li>
+<li>
+<p data-renderer-start-pos="1023">Enable lesson requests from all students</p>
+</li>
+<li>
+<p data-renderer-start-pos="1067">Turn on system notifications</p>
+</li>
+</ol>
+<p data-renderer-start-pos="838"><strong><span id="005637b0-5f46-4ca3-b1f5-756d02950eae" data-renderer-mark="true" data-mark-type="annotation" data-mark-annotation-type="inlineComment" data-id="005637b0-5f46-4ca3-b1f5-756d02950eae">You can enable Instant Lesson via your Teacher Dashboard or Teacher Settings:</span></strong></p>
+<p data-renderer-start-pos="838"> </p>
+<p data-renderer-start-pos="838"><span class="wysiwyg-underline wysiwyg-color-cyan120"><strong>Teacher Dashboard</strong></span></p>
+<p data-renderer-start-pos="838"><img src="https://support.italki.com/hc/article_attachments/4407184809881" alt="mceclip0.png"></p>
+<p data-renderer-start-pos="838">                        <img src="https://support.italki.com/hc/article_attachments/4407184366873" alt="mceclip1.png" width="440" height="270"></p>
+<p data-renderer-start-pos="838"><span class="wysiwyg-underline wysiwyg-color-cyan120"><span id="005637b0-5f46-4ca3-b1f5-756d02950eae" data-renderer-mark="true" data-mark-type="annotation" data-mark-annotation-type="inlineComment" data-id="005637b0-5f46-4ca3-b1f5-756d02950eae"><strong>Teacher Settings</strong></span></span></p>
+<p data-renderer-start-pos="838"><span data-renderer-mark="true" data-mark-type="annotation" data-mark-annotation-type="inlineComment" data-id="005637b0-5f46-4ca3-b1f5-756d02950eae"><img src="https://support.italki.com/hc/article_attachments/4406430365465" alt="Screen_Shot_2021-09-14_at_5.36.21_PM.png" width="621" height="324"></span></p>
+<p data-renderer-start-pos="926"> </p>
+<p data-renderer-start-pos="926"><span>Instant Lessons do not require an open time slot on your teacher calendar and can be booked at any time. Once you no longer want to offer Instant Lessons, make sure that you press the “Disable” button, as Instant Lesson requests cannot be declined or canceled. </span></p>
+<p data-renderer-start-pos="1265"> </p>
+<p data-renderer-start-pos="1609"><strong>Instant Lesson function will be disabled in the following situations:</strong></p>
+<ul class="ak-ul" data-indent-level="1">
+<li>
+<p data-renderer-start-pos="1673">You are inactive for 3 hours</p>
+</li>
+<li>
+<p data-renderer-start-pos="1705">After receiving an instant lesson request.</p>
+</li>
+<li>
+<p data-renderer-start-pos="1705"><span data-renderer-mark="true">Having upcoming lessons for the next 40 minutes.</span><span data-renderer-mark="true"></span></p>
+</li>
+</ul>
+<p data-renderer-start-pos="2070"> </p>
+<p data-renderer-start-pos="1105"><strong data-renderer-mark="true">While Instant Lesson is enabled you’ll NOT be able to change the following features:</strong></p>
+<ul class="ak-ul" data-indent-level="1">
+<li>
+<p data-renderer-start-pos="1210">Lesson request settings</p>
+</li>
+<li>
+<p data-renderer-start-pos="1237">Trial lesson settings</p>
+</li>
+</ul>
+<p> </p>
+<h2 id="h_01J873GR9TXDS948Z3K6ERW8JP" data-renderer-start-pos="1265"><strong data-renderer-mark="true"><span id="" data-renderer-mark="true" data-mark-type="annotation" data-mark-annotation-type="inlineComment" data-id="">How will I be notified when a student books a lesson?</span></strong></h2>
+<p data-renderer-start-pos="1320"><span id="0f7f8306-f045-495d-ac9b-a9048f1cae42" data-renderer-mark="true" data-mark-type="annotation" data-mark-annotation-type="inlineComment" data-id="0f7f8306-f045-495d-ac9b-a9048f1cae42">When a student books a lesson, you will receive an App push, and a Pop-up with sound.</span></p>
+<p data-renderer-start-pos="1428"><span id="0f7f8306-f045-495d-ac9b-a9048f1cae42" data-renderer-mark="true" data-mark-type="annotation" data-mark-annotation-type="inlineComment" data-id="0f7f8306-f045-495d-ac9b-a9048f1cae42">To receive the notification in time, we strongly recommend you </span><strong data-renderer-mark="true"><span id="0f7f8306-f045-495d-ac9b-a9048f1cae42" data-renderer-mark="true" data-mark-type="annotation" data-mark-annotation-type="inlineComment" data-id="0f7f8306-f045-495d-ac9b-a9048f1cae42">turn on the push notification</span></strong><span id="0f7f8306-f045-495d-ac9b-a9048f1cae42" data-renderer-mark="true" data-mark-type="annotation" data-mark-annotation-type="inlineComment" data-id="0f7f8306-f045-495d-ac9b-a9048f1cae42"> on your italki App, so you won’t miss any potential lesson requests.</span></p>
+<p data-renderer-start-pos="1428"><span data-renderer-mark="true" data-mark-type="annotation" data-mark-annotation-type="inlineComment" data-id="0f7f8306-f045-495d-ac9b-a9048f1cae42"><img src="https://support.italki.com/hc/article_attachments/4406430379673" alt="Screen_Shot_2021-09-14_at_5.38.55_PM.png" width="296" height="349"></span></p>

@@ -1,0 +1,4 @@
+<h1>Size limit for documents in Education and Certificates</h1>
+<p>There's a limit on the document size in Education and Certificates when teachers apply or update their degrees or certificates.</p>
+<p>It seems the size cannot exceed 1MB.</p>
+<p><img src="https://support.italki.com/hc/article_attachments/360000884373/Screen_Shot_2018-02-08_at_11.48.42.png" alt="Screen_Shot_2018-02-08_at_11.48.42.png"></p>

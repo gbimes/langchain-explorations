@@ -1,0 +1,34 @@
+<h1>What is italki Business Account?</h1>
+<h3>The full Manual can be downloaded <a href="https://support.italki.com/hc/article_attachments/34297894407961">here</a>.</h3>
+<h3 id="h_01J1CC7B583MK7S75P3CV4FH09">How to log in Business Account?</h3>
+<p>1. When the BOS account is ready, administrators can log in to <a href="https://www.italki.com/business" target="_self">italki Business</a> with the admin account. <br>2. After login, administrators can use the following functions:</p>
+<ul>
+<li>Have an overview of all members' <a href="https://www.italki.com/organization/overview" target="_self">lesson details</a>
+</li>
+<li>Download <strong>individual</strong> reports and <strong>all members'</strong> report</li>
+<li>Top up the credits and create Invoices</li>
+<li>Distribute the credits between members</li>
+</ul>
+<h3 id="h_01J1CC7B59TWY0QCBFQZ5DFM22">
+<br>How to download the report for all members each month:</h3>
+<p><strong>Go to <a href="https://www.italki.com/bos/reports">https://www.italki.com/bos/reports</a> </strong></p>
+<p><img src="https://support.italki.com/hc/article_attachments/34297297243673" width="560" height="273"></p>
+<p> </p>
+<h3 id="h_01J1CC7B596NJXTJVECCDAX4F3">How to download the learning report of each individual:</h3>
+<p><strong>Go to <a href="https://www.italki.com/en/bos/members">https://www.italki.com/bos/members</a></strong></p>
+<p><img src="https://support.italki.com/hc/article_attachments/34297297251481"></p>
+<p> </p>
+<h3 id="h_01J1CC7B59H2PC6PE68Z6KGNSP">Buy Credits for BOS account</h3>
+<p>Administrators can buy the credits <strong>via bank transfer or credit/debit card</strong> when click "Buy Credits" button on the <a href="https://www.italki.com/en/bos/finance">Finance</a> page.</p>
+<h3 id="h_01J1CC7B59N5F3PM48BN9F3C5T">
+<br>Add/Remove Credits</h3>
+<p>Only Super Administrators can remove credits from members, regular admins can add credits.</p>
+<h3 id="h_01J1CC7B59GDJ5GFK539ABZYQK">
+<br>Add a new member</h3>
+<p>Go to the Members page and click on Add a New Member to invite your employees to join the account. They will receive an email with the link to join.</p>
+<p> </p>
+<h3 id="h_01J1CC7B5995MB6N0FRY3H0MDZ">Super Admin vs Regular Administrator</h3>
+<p>Each account can have only one Super Administrator with full rights to the account. Only the Super Admin can make other members Admins and remove these rights, and only the Super Admin can pass the Super Admin privilege to another Admin. Contact us if your account doesn't have a Super Admin yet.</p>
+<p> </p>
+<h3 id="h_01J1CC7B5902AWJB2XVM1HDRP5">Settings</h3>
+<p>The administrator can edit the company profile at <a href="https://www.italki.com/organization/settings">https://www.italki.com/organization/settings</a>. This includes Display Name, Legal Name, VAT ID Number, Country, Billing Address, Contact, Phone.<br>After the edit is done, please click “save”.</p>

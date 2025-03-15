@@ -1,0 +1,218 @@
+<h1>Is my language open for application?</h1>
+<h3 id="h_01F20V9GPB2SH3MPWAA66EF65W"><strong>Must read</strong></h3>
+<p>Please check if all the languages you intend to teach are open for application.<br>e.g. You intend to teach 2 languages - English and Korean. If English is closed and Korean is open this week, you can only teach Korean.</p>
+<p> </p>
+<h3 id="h_01EV8BHVC07JQH3J2JQYFMAHMC"><strong>List of open languages</strong></h3>
+<ul>
+<li class="wysiwyg-text-align-left">Languages not listed in the table below are all open</li>
+<li class="wysiwyg-text-align-left">There is no definite time frame for when a language will reopen</li>
+<li class="wysiwyg-text-align-left">The list updates every Monday (UTC +8), <strong>but languages may close at any time if enough applicants have applied.</strong> </li>
+</ul>
+<p><strong>24th February - 2nd March</strong></p>
+<p><a href="https://support.italki.com/hc/en-us/articles/900002978766-Difference-between-Professional-Teacher-and-Community-Tutor" target="_blank" rel="noopener">Difference between Professional Teachers and Community Tutors</a></p>
+<table dir="ltr" style="width: 425px; height: 832px;" border="1" cellspacing="0" cellpadding="0">
+<colgroup> <col width="100"> <col width="128"> <col width="128"> </colgroup>
+<tbody>
+<tr style="height: 10px;">
+<td style="width: 123px; height: 10px;" data-sheets-value='{"1":2,"2":"Language"}'><strong>Language</strong></td>
+<td style="width: 152px; height: 10px;" data-sheets-value='{"1":2,"2":"Professional Teacher"}'><span class="wysiwyg-color-black"><strong>Professional Teacher</strong></span></td>
+<td style="height: 10px; width: 150px;" data-sheets-value='{"1":2,"2":"Community Tutor"}'><span class="wysiwyg-color-black"><strong>Community Tutor</strong></span></td>
+</tr>
+<tr style="height: 22px;">
+<td style="width: 123px; height: 22px;" data-sheets-value='{"1":2,"2":"Chinese"}'>Chinese</td>
+<td style="width: 152px; height: 22px;" data-sheets-value='{"1":2,"2":"Reject"}'><span class="wysiwyg-color-black">Closed</span></td>
+<td style="width: 150px; height: 22px;" data-sheets-value='{"1":2,"2":"Reject"}'><span class="wysiwyg-color-black">Closed</span></td>
+</tr>
+<tr style="height: 22px;">
+<td style="width: 123px; height: 22px;" data-sheets-value='{"1":2,"2":"English"}'>English</td>
+<td style="box-sizing: border-box; padding: 0px; width: 152px; height: 22px;" data-sheets-value='{"1":2,"2":"Reject"}'><span class="wysiwyg-color-black" style="box-sizing: border-box; color: #000000;">Closed</span></td>
+<td style="box-sizing: border-box; padding: 0px; width: 150px; height: 22px;" data-sheets-value='{"1":2,"2":"Reject"}'><span class="wysiwyg-color-black" style="box-sizing: border-box; color: #000000;">Closed</span></td>
+</tr>
+<tr style="height: 22px;">
+<td style="width: 123px; height: 22px;" data-sheets-value='{"1":2,"2":"French"}'>French</td>
+<td style="width: 152px; height: 22px;" data-sheets-value='{"1":2,"2":"Reject"}'><span class="wysiwyg-color-black">Closed</span></td>
+<td style="width: 150px; height: 22px;" data-sheets-value='{"1":2,"2":"Reject"}'><span class="wysiwyg-color-black">Closed</span></td>
+</tr>
+<tr style="height: 22px;">
+<td style="width: 123px; height: 22px;" data-sheets-value='{"1":2,"2":"German"}'>German</td>
+<td style="box-sizing: border-box; padding: 0px; width: 152px; height: 22px;" data-sheets-value='{"1":2,"2":"Reject"}'><span class="wysiwyg-color-black">Closed</span></td>
+<td style="box-sizing: border-box; padding: 0px; width: 150px; height: 22px;" data-sheets-value='{"1":2,"2":"Reject"}'><span class="wysiwyg-color-black">Closed</span></td>
+</tr>
+<tr style="height: 22px;">
+<td style="width: 123px; height: 22px;" data-sheets-value='{"1":2,"2":"Italian"}'>Italian</td>
+<td style="width: 152px; height: 22px;" data-sheets-value='{"1":2,"2":"Reject"}'><span class="wysiwyg-color-black">Closed</span></td>
+<td style="width: 150px; height: 22px;" data-sheets-value='{"1":2,"2":"Reject"}'><span class="wysiwyg-color-black">Closed</span></td>
+</tr>
+<tr style="height: 22px;">
+<td style="width: 123px; height: 22px;" data-sheets-value='{"1":2,"2":"Japanese"}'>Japanese</td>
+<td style="width: 152px; height: 22px;" data-sheets-value='{"1":2,"2":"Accept"}'><span class="wysiwyg-color-black">Closed</span></td>
+<td style="width: 150px; height: 22px;" data-sheets-value='{"1":2,"2":"Accept"}'><span class="wysiwyg-color-black">Closed</span></td>
+</tr>
+<tr style="height: 22px;">
+<td style="width: 123px; height: 22px;" data-sheets-value='{"1":2,"2":"Korean"}'>Korean</td>
+<td style="width: 152px; height: 22px;" data-sheets-value='{"1":2,"2":"Accept"}'><span class="wysiwyg-color-black">Closed</span></td>
+<td style="width: 150px; height: 22px;" data-sheets-value='{"1":2,"2":"Accept"}'><span class="wysiwyg-color-black">Closed</span></td>
+</tr>
+<tr style="height: 22px;">
+<td style="width: 123px; height: 22px;" data-sheets-value='{"1":2,"2":"Portuguese"}'>Portuguese</td>
+<td style="width: 152px; height: 22px;" data-sheets-value='{"1":2,"2":"Reject"}'><span class="wysiwyg-color-black">Closed</span></td>
+<td style="width: 150px; height: 22px;" data-sheets-value='{"1":2,"2":"Reject"}'><span class="wysiwyg-color-black">Closed</span></td>
+</tr>
+<tr style="height: 22px;">
+<td style="width: 123px; height: 22px;" data-sheets-value='{"1":2,"2":"Russian"}'>Russian</td>
+<td style="width: 152px; height: 22px;" data-sheets-value='{"1":2,"2":"Reject"}'>Closed</td>
+<td style="width: 150px; height: 22px;" data-sheets-value='{"1":2,"2":"Reject"}'>Closed</td>
+</tr>
+<tr style="height: 22px;">
+<td style="width: 123px; height: 22px;" data-sheets-value='{"1":2,"2":"Spanish"}'><span class="wysiwyg-color-black" style="box-sizing: border-box; color: #000000;"><span class="wysiwyg-color-black">Spanish</span></span></td>
+<td style="width: 152px; height: 22px;" data-sheets-value='{"1":2,"2":"Reject"}'><span class="wysiwyg-color-black">Closed</span></td>
+<td style="width: 150px; height: 22px;" data-sheets-value='{"1":2,"2":"Reject"}'><span class="wysiwyg-color-black">Closed</span></td>
+</tr>
+<tr style="height: 22px;">
+<td style="width: 123px; height: 22px;">Afrikaans</td>
+<td style="width: 152px; height: 22px;" data-sheets-value='{"1":2,"2":"Reject"}'><span class="wysiwyg-color-black">Closed</span></td>
+<td style="width: 150px; height: 22px;" data-sheets-value='{"1":2,"2":"Reject"}'><span class="wysiwyg-color-black">Closed</span></td>
+</tr>
+<tr style="height: 22px;">
+<td style="width: 123px; height: 22px;" data-sheets-value='{"1":2,"2":"Arabic"}'>Arabic</td>
+<td style="width: 152px; height: 22px;" data-sheets-value='{"1":2,"2":"Reject"}'><span class="wysiwyg-color-black">Closed</span></td>
+<td style="width: 150px; height: 22px;" data-sheets-value='{"1":2,"2":"Reject"}'><span class="wysiwyg-color-black">Closed</span></td>
+</tr>
+<tr style="height: 22px;">
+<td style="width: 123px; height: 22px;">Cantonese</td>
+<td style="width: 152px; height: 22px;"><span class="wysiwyg-color-black">Closed</span></td>
+<td style="width: 150px; height: 22px;"><span class="wysiwyg-color-black">Closed</span></td>
+</tr>
+<tr style="height: 22px;">
+<td style="width: 123px; height: 22px;">Catalan</td>
+<td style="width: 152px; height: 22px;"><span class="wysiwyg-color-black">Open</span></td>
+<td style="width: 150px; height: 22px;"><span class="wysiwyg-color-black">Open</span></td>
+</tr>
+<tr style="height: 22px;">
+<td style="width: 123px; height: 22px;">Cebuano</td>
+<td style="width: 152px; height: 22px;"><span class="wysiwyg-color-black">Closed</span></td>
+<td style="width: 150px; height: 22px;"><span class="wysiwyg-color-black">Closed</span></td>
+</tr>
+<tr style="height: 22px;">
+<td style="width: 123px; height: 22px;">Czech</td>
+<td style="width: 152px; height: 22px;"><span class="wysiwyg-color-black">Open</span></td>
+<td style="width: 150px; height: 22px;"><span class="wysiwyg-color-black">Open</span></td>
+</tr>
+<tr style="height: 22px;">
+<td style="width: 123px; height: 22px;" data-sheets-value='{"1":2,"2":"Dutch"}'>Dutch</td>
+<td style="width: 152px; height: 22px;" data-sheets-value='{"1":2,"2":"Accept"}'><span class="wysiwyg-color-black">Open</span></td>
+<td style="width: 150px; height: 22px;" data-sheets-value='{"1":2,"2":"Accept"}'><span class="wysiwyg-color-black">Open</span></td>
+</tr>
+<tr style="height: 10px;">
+<td style="width: 123px; height: 10px;" data-sheets-value='{"1":2,"2":"Filipino (Tagalog)"}'>Filipino (Tagalog)</td>
+<td style="width: 152px; height: 10px;" data-sheets-value='{"1":2,"2":"Reject"}'><span class="wysiwyg-color-black">Closed</span></td>
+<td style="width: 150px; height: 10px;" data-sheets-value='{"1":2,"2":"Reject"}'><span class="wysiwyg-color-black">Closed</span></td>
+</tr>
+<tr style="height: 10px;">
+<td style="width: 123px; height: 10px;" data-sheets-value='{"1":2,"2":"Cebuano"}'>Greek</td>
+<td style="width: 152px; height: 10px;" data-sheets-value='{"1":2,"2":"Reject"}'><span class="wysiwyg-color-black">Open</span></td>
+<td style="width: 150px; height: 10px;" data-sheets-value='{"1":2,"2":"Reject"}'><span class="wysiwyg-color-black">Open</span></td>
+</tr>
+<tr style="height: 22px;">
+<td style="width: 123px; height: 22px;">Hausa</td>
+<td style="width: 152px; height: 22px;" data-sheets-value='{"1":2,"2":"Reject"}'><span class="wysiwyg-color-black">Closed</span></td>
+<td style="width: 150px; height: 22px;" data-sheets-value='{"1":2,"2":"Reject"}'><span class="wysiwyg-color-black">Closed</span></td>
+</tr>
+<tr style="height: 22px;">
+<td style="width: 123px; height: 22px;">Hebrew</td>
+<td style="width: 152px; height: 22px;">Open</td>
+<td style="width: 150px; height: 22px;">Open</td>
+</tr>
+<tr style="height: 22px;">
+<td style="width: 123px; height: 22px;" data-sheets-value='{"1":2,"2":"Hindi"}'>Hindi</td>
+<td style="width: 152px; height: 22px;" data-sheets-value='{"1":2,"2":"Reject"}'>Open</td>
+<td style="width: 150px; height: 22px;" data-sheets-value='{"1":2,"2":"Reject"}'>Open</td>
+</tr>
+<tr style="height: 22px;">
+<td style="width: 123px; height: 22px;">Hungarian</td>
+<td style="width: 152px; height: 22px;">Open</td>
+<td style="width: 150px; height: 22px;">Open</td>
+</tr>
+<tr style="height: 22px;">
+<td style="width: 123px; height: 22px;">Igbo</td>
+<td style="width: 152px; height: 22px;" data-sheets-value='{"1":2,"2":"Reject"}'>Closed</td>
+<td style="height: 22px; width: 150px;" data-sheets-value='{"1":2,"2":"Reject"}'>Closed</td>
+</tr>
+<tr style="height: 22px;">
+<td style="width: 123px; height: 22px;">Indonesian</td>
+<td style="width: 152px; height: 22px;">Closed</td>
+<td style="height: 22px; width: 150px;">Closed</td>
+</tr>
+<tr style="height: 22px;">
+<td style="width: 123px; height: 22px;">Kanuri</td>
+<td style="width: 152px; height: 22px;" data-sheets-value='{"1":2,"2":"Reject"}'>Closed</td>
+<td style="height: 22px; width: 150px;" data-sheets-value='{"1":2,"2":"Reject"}'>Closed</td>
+</tr>
+<tr style="height: 22px;">
+<td style="width: 123px; height: 22px;">Nigerian Pidgin</td>
+<td style="width: 152px; height: 22px;" data-sheets-value='{"1":2,"2":"Reject"}'>Closed</td>
+<td style="height: 22px; width: 150px;" data-sheets-value='{"1":2,"2":"Reject"}'>Closed</td>
+</tr>
+<tr style="height: 22px;">
+<td style="width: 123px; height: 22px;">Norwegian</td>
+<td style="width: 152px; height: 22px;">Open</td>
+<td style="width: 150px; height: 22px;">Open</td>
+</tr>
+<tr style="height: 22px;">
+<td style="width: 123px; height: 22px;" data-sheets-value='{"1":2,"2":"Persian (Farsi)"}'>Persian (Farsi)</td>
+<td style="width: 152px; height: 22px;" data-sheets-value='{"1":2,"2":"Reject"}'>Open</td>
+<td style="width: 150px; height: 22px;" data-sheets-value='{"1":2,"2":"Reject"}'>Open</td>
+</tr>
+<tr style="height: 22px;">
+<td style="width: 123px; height: 22px;" data-sheets-value='{"1":2,"2":"Polish"}'>Polish</td>
+<td style="width: 152px; height: 22px;" data-sheets-value='{"1":2,"2":"Reject"}'>Open</td>
+<td style="width: 150px; height: 22px;" data-sheets-value='{"1":2,"2":"Reject"}'>Open</td>
+</tr>
+<tr style="height: 22px;">
+<td style="width: 123px; height: 22px;">Romanian</td>
+<td style="width: 152px; height: 22px;">Open</td>
+<td style="width: 150px; height: 22px;">Open</td>
+</tr>
+<tr style="height: 22px;">
+<td style="width: 123px; height: 22px;">Serbian</td>
+<td style="width: 152px; height: 22px;">Open</td>
+<td style="width: 150px; height: 22px;">Open</td>
+</tr>
+<tr style="height: 10px;">
+<td style="width: 123px; height: 10px;">Swedish</td>
+<td style="width: 152px; height: 10px;">Open</td>
+<td style="width: 150px; height: 10px;">Open</td>
+</tr>
+<tr style="height: 22px;">
+<td style="width: 123px; height: 22px;">Thai</td>
+<td style="width: 152px; height: 22px;" data-sheets-value='{"1":2,"2":"Reject"}'>Open</td>
+<td style="width: 150px; height: 22px;" data-sheets-value='{"1":2,"2":"Reject"}'>Open</td>
+</tr>
+<tr style="height: 22px;">
+<td style="width: 123px; height: 22px;" data-sheets-value='{"1":2,"2":"Turkish"}'>Turkish</td>
+<td style="width: 152px; height: 22px;" data-sheets-value='{"1":2,"2":"Reject"}'>Open</td>
+<td style="width: 150px; height: 22px;" data-sheets-value='{"1":2,"2":"Reject"}'>Open</td>
+</tr>
+<tr style="height: 22px;">
+<td style="width: 123px; height: 22px;">Ukrainian</td>
+<td style="width: 152px; height: 22px;">Open</td>
+<td style="width: 150px; height: 22px;">Open</td>
+</tr>
+<tr style="height: 22px;">
+<td style="width: 123px; height: 22px;">Urdu</td>
+<td style="width: 152px; height: 22px;">Closed</td>
+<td style="width: 150px; height: 22px;">Closed</td>
+</tr>
+<tr style="height: 22px;">
+<td style="width: 123px; height: 22px;" data-sheets-value='{"1":2,"2":"Vietnamese"}'>Vietnamese</td>
+<td style="width: 152px; height: 22px;" data-sheets-value='{"1":2,"2":"Reject"}'>Closed</td>
+<td style="width: 150px; height: 22px;" data-sheets-value='{"1":2,"2":"Reject"}'>Closed</td>
+</tr>
+<tr style="height: 22px;">
+<td style="width: 123px; height: 22px;">Yoruba</td>
+<td style="width: 152px; height: 22px;" data-sheets-value='{"1":2,"2":"Reject"}'>Closed</td>
+<td style="height: 22px; width: 150px;" data-sheets-value='{"1":2,"2":"Reject"}'>Closed</td>
+</tr>
+</tbody>
+</table>
+<p>* It includes all the varieties of a given language. e.g. German includes Austrian German and Swiss German.</p>

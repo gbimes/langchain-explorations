@@ -1,0 +1,208 @@
+<h1>Ticket Drivers </h1>
+<p>We are implementing ticket drivers in Zendesk to analyze tickets further. The current "About" section is for users to choose when they contact support, and ticket drivers are only for <strong>internal use</strong>, but also <strong>mandatory</strong> to choose for all tickets. </p>
+<p>Ticket drivers have 2 tiers and below are the details and applicable situations: </p>
+<table dir="ltr" style="height: 1602px; width: 1094px;" border="2" cellspacing="0" cellpadding="0">
+<colgroup> <col width="309"> <col width="214"> <col width="677"> </colgroup>
+<tbody>
+<tr style="height: 21px;">
+<td class="wysiwyg-text-align-center" style="height: 21px; width: 270.434px;" data-sheets-value='{"1":2,"2":"Tier 1"}'><strong>Tier 1</strong></td>
+<td class="wysiwyg-text-align-center" style="height: 21px; width: 196.753px;" data-sheets-value='{"1":2,"2":"Tier 2"}'><strong>Tier 2</strong></td>
+<td class="wysiwyg-text-align-center" style="vertical-align: middle; text-align: left; width: 592.361px; height: 21px;" data-sheets-value='{"1":2,"2":"Applicable Situation"}'><strong>Applicable Situation</strong></td>
+</tr>
+<tr style="height: 21px;">
+<td style="height: 281px; width: 270.434px;" rowspan="8" data-sheets-value='{"1":2,"2":"General Enquiry\r"}'>
+<div class="wysiwyg-text-align-center">General Enquiry</div>
+<div class="wysiwyg-text-align-center"></div>
+</td>
+<td class="wysiwyg-text-align-center" style="height: 43px; width: 196.753px; text-align: center; vertical-align: middle;" data-sheets-value='{"1":2,"2":"How italki Works"}'>How italki Works</td>
+<td style="vertical-align: middle; text-align: left; width: 592.361px; height: 43px;" data-sheets-value='{"1":2,"2":"How/where to book/pay/search/post etc."}'>How/where to book/pay/search/post etc.</td>
+</tr>
+<tr style="height: 43px;">
+<td class="wysiwyg-text-align-center" style="height: 43px; width: 196.753px; text-align: center; vertical-align: middle;" data-sheets-value='{"1":2,"2":"Test/OOPT"}'>OOPT</td>
+<td style="vertical-align: middle; text-align: left; width: 592.361px; height: 43px;" data-sheets-value='{"1":2,"2":"Questions related to italki assessment and OOPT test "}'>Questions related to OOPT test</td>
+</tr>
+<tr>
+<td style="width: 196.753px; text-align: center; vertical-align: middle;">Language Test (Emmersion)</td>
+<td style="vertical-align: middle; text-align: left; width: 592.361px;">Questions related to Language Test</td>
+</tr>
+<tr style="height: 43px;">
+<td class="wysiwyg-text-align-center" style="height: 43px; width: 196.753px; text-align: center; vertical-align: middle;" data-sheets-value='{"1":2,"2":"Report Violations"}'>Report Violations</td>
+<td style="vertical-align: middle; text-align: left; width: 592.361px; height: 43px;" data-sheets-value='{"1":2,"2":"Report users/community content that violates TOS/community guidelines"}'>Report users/community content that violates TOS/community guidelines</td>
+</tr>
+<tr style="height: 43px;">
+<td class="wysiwyg-text-align-center" style="height: 43px; width: 196.753px; text-align: center; vertical-align: middle;" data-sheets-value='{"1":2,"2":"Campaign/Cooperation"}'>Campaign/Cooperation</td>
+<td style="vertical-align: middle; text-align: left; width: 592.361px; height: 43px;" data-sheets-value='{"1":2,"2":"About marketing campaigns /seeking for marketing cooperation"}'>About marketing campaigns /seeking for marketing cooperation</td>
+</tr>
+<tr style="height: 21px;">
+<td class="wysiwyg-text-align-center" style="height: 43px; width: 196.753px; text-align: center; vertical-align: middle;" data-sheets-value='{"1":2,"2":"BOS"}'>BOS</td>
+<td style="vertical-align: middle; text-align: left; width: 592.361px; height: 43px;" data-sheets-value='{"1":2,"2":"BOS inquires/actions"}'>BOS inquires/actions</td>
+</tr>
+<tr style="height: 21px;">
+<td class="wysiwyg-text-align-center" style="height: 43px; width: 196.753px; text-align: center; vertical-align: middle;" data-sheets-value='{"1":2,"2":"Referral/Affiliate"}'>Referral/Affiliate</td>
+<td style="vertical-align: middle; text-align: left; width: 592.361px; height: 43px;" data-sheets-value='{"1":2,"2":"About Referral/Affiliate status/rules/bonus"}'>About Referral/Affiliate status/rules/bonus</td>
+</tr>
+<tr style="height: 23px;">
+<td style="width: 196.753px; text-align: center; vertical-align: middle; height: 23px;">Language Challenge</td>
+<td style="vertical-align: middle; text-align: left; width: 592.361px; height: 23px;">About language challenge related inquires </td>
+</tr>
+<tr style="height: 43px;">
+<td style="height: 249px; width: 270.434px;" rowspan="6" data-sheets-value='{"1":2,"2":" Payment Related"}'>
+<div class="wysiwyg-text-align-center">Payment Related</div>
+</td>
+<td class="wysiwyg-text-align-center" style="height: 43px; width: 196.753px; text-align: center; vertical-align: middle;" data-sheets-value='{"1":2,"2":"Payment Problems "}'>Payment Problems</td>
+<td style="vertical-align: middle; text-align: left; width: 592.361px; height: 43px;" data-sheets-value='{"1":2,"2":"Failed transaction/cannot pay/double payment/processing fee"}'>Failed transaction/cannot pay/double payment/processing fee</td>
+</tr>
+<tr style="height: 21px;">
+<td class="wysiwyg-text-align-center" style="height: 43px; width: 196.753px; text-align: center; vertical-align: middle;" data-sheets-value='{"1":2,"2":"Cash Refund"}'>Cash Refund</td>
+<td style="vertical-align: middle; text-align: left; width: 592.361px; height: 43px;" data-sheets-value='{"1":2,"2":"Credits to cash refund requests"}'>Credits to cash refund requests</td>
+</tr>
+<tr style="height: 43px;">
+<td class="wysiwyg-text-align-center" style="height: 43px; width: 196.753px; text-align: center; vertical-align: middle;" data-sheets-value='{"1":2,"2":"Gift Card/Coupon/Invoice"}'>Gift Card/Coupon/Invoice</td>
+<td style="vertical-align: middle; text-align: left; width: 592.361px; height: 43px;" data-sheets-value='{"1":2,"2":"About gift cards, transfer credits to friends, coupon, invoice"}'>About gift cards, transfer credits to friends, coupons, invoice</td>
+</tr>
+<tr style="height: 65px;">
+<td class="wysiwyg-text-align-center" style="height: 43px; width: 196.753px; text-align: center; vertical-align: middle;" data-sheets-value='{"1":2,"2":"Chargeback/Fraud"}'>Chargeback/Fraud</td>
+<td style="vertical-align: middle; text-align: left; width: 592.361px; height: 43px;" data-sheets-value='{"1":2,"2":"Email from chargeback/payment fraud user(check oms sticky notes &amp; oms Wallet status)"}'>Email from chargeback/payment fraud user(check oms sticky notes &amp; oms Wallet status)</td>
+</tr>
+<tr style="height: 34px;">
+<td style="width: 196.753px; text-align: center; vertical-align: middle; height: 34px;">Hack</td>
+<td style="vertical-align: middle; text-align: left; width: 592.361px; height: 34px;">Account hacked issues</td>
+</tr>
+<tr style="height: 21px;">
+<td class="wysiwyg-text-align-center" style="height: 43px; width: 196.753px; text-align: center; vertical-align: middle;" data-sheets-value='{"1":2,"2":"Other"}'>Other</td>
+<td style="vertical-align: middle; text-align: left; width: 592.361px; height: 43px;" data-sheets-value='{"1":2,"2":"Other payment related issue "}'>Other payment-related issues</td>
+</tr>
+<tr style="height: 65px;">
+<td style="height: 215px; width: 270.434px;" rowspan="5" data-sheets-value='{"1":2,"2":"Lesson/Package Related\n"}'>
+<div class="wysiwyg-text-align-center">Lesson/Package Related</div>
+</td>
+<td class="wysiwyg-text-align-center" style="height: 43px; width: 196.753px; text-align: center; vertical-align: middle;" data-sheets-value='{"1":2,"2":"General Question "}'>General Question</td>
+<td style="vertical-align: middle; text-align: left; width: 592.361px; height: 43px;" data-sheets-value="{&quot;1&quot;:2,&quot;2&quot;:&quot;General questions for specific lesson/package (with ID), e.g. what to do when teacher didn't show up&quot;}">General questions for specific lesson/package (with ID), e.g. what to do when the teacher didn't show up</td>
+</tr>
+<tr style="height: 43px;">
+<td class="wysiwyg-text-align-center" style="height: 43px; width: 196.753px; text-align: center; vertical-align: middle;" data-sheets-value='{"1":2,"2":"Modify/Cancel"}'>Modify/Cancel</td>
+<td style="vertical-align: middle; text-align: left; width: 592.361px; height: 43px;" data-sheets-value='{"1":2,"2":"About (how to) modify or cancel lesson/packages, terminate packages "}'>About (how to) modify or cancel lesson/packages, terminate packages</td>
+</tr>
+<tr style="height: 21px;">
+<td class="wysiwyg-text-align-center" style="height: 43px; width: 196.753px; text-align: center; vertical-align: middle;" data-sheets-value='{"1":2,"2":"Dispute"}'>Dispute</td>
+<td style="vertical-align: middle; text-align: left; width: 592.361px; height: 43px;" data-sheets-value='{"1":2,"2":"Tickets about lesson/package dispute"}'>Tickets about lesson/package dispute</td>
+</tr>
+<tr style="height: 43px;">
+<td class="wysiwyg-text-align-center" style="height: 43px; width: 196.753px; text-align: center; vertical-align: middle;" data-sheets-value='{"1":2,"2":"Review"}'>Review</td>
+<td style="vertical-align: middle; text-align: left; width: 592.361px; height: 43px;" data-sheets-value='{"1":2,"2":"About lesson review: delete/edit/add requests"}'>About lesson review: delete/edit/add requests</td>
+</tr>
+<tr style="height: 43px;">
+<td class="wysiwyg-text-align-center" style="height: 43px; width: 196.753px; text-align: center; vertical-align: middle;" data-sheets-value='{"1":2,"2":"Lesson Related Complaint"}'>Lesson Related Complaint</td>
+<td style="vertical-align: middle; text-align: left; width: 592.361px; height: 43px;" data-sheets-value='{"1":2,"2":"Lesson Related Complaint from teacher or student, e.g. poor lesson quality etc"}'>Lesson Related Complaint from teacher or student, e.g. poor lesson quality, etc</td>
+</tr>
+<tr style="height: 21px;">
+<td style="height: 129px; width: 270.434px;" rowspan="3" data-sheets-value='{"1":2,"2":"Account/Profile Questions"}'>
+<div class="wysiwyg-text-align-center">Account/Profile Questions</div>
+</td>
+<td class="wysiwyg-text-align-center" style="height: 43px; width: 196.753px; text-align: center; vertical-align: middle;" data-sheets-value='{"1":2,"2":"Settings"}'>Settings</td>
+<td style="vertical-align: middle; text-align: left; width: 592.361px; height: 43px;" data-sheets-value='{"1":2,"2":"About change settings/profile information"}'>About change settings/profile information</td>
+</tr>
+<tr style="height: 43px;">
+<td class="wysiwyg-text-align-center" style="height: 43px; width: 196.753px; text-align: center; vertical-align: middle;" data-sheets-value='{"1":2,"2":"Blocked/Ghosted"}'>Blocked/Ghosted</td>
+<td style="vertical-align: middle; text-align: left; width: 592.361px; height: 43px;" data-sheets-value='{"1":2,"2":"Blocked/Ghosted user ask for detailed reason or apply for release "}'>Blocked/Ghosted user ask for a detailed reason or apply for release</td>
+</tr>
+<tr style="height: 21px;">
+<td class="wysiwyg-text-align-center" style="height: 43px; width: 196.753px; text-align: center; vertical-align: middle;" data-sheets-value='{"1":2,"2":"Delete/GDPR"}'>Delete/GDPR</td>
+<td style="vertical-align: middle; text-align: left; width: 592.361px; height: 43px;" data-sheets-value='{"1":2,"2":"Delete account/GDPR request or enquiry"}'>Delete account/GDPR request or inquiry</td>
+</tr>
+<tr style="height: 65px;">
+<td style="height: 258px; width: 270.434px;" rowspan="6" data-sheets-value='{"1":2,"2":"Teacher Related"}'>
+<div class="wysiwyg-text-align-center">Teacher Related</div>
+</td>
+<td class="wysiwyg-text-align-center" style="height: 43px; width: 196.753px; text-align: center; vertical-align: middle;" data-sheets-value='{"1":2,"2":"Application"}'>Application</td>
+<td style="vertical-align: middle; text-align: left; width: 592.361px; height: 43px;" data-sheets-value='{"1":2,"2":"Application process: requirements/language status/submit or fill in application/decline reason/pre-approval call/ID verification "}'>Application process: requirements/language status/submit or fill in application/decline reason/pre-approval call/ID verification</td>
+</tr>
+<tr style="height: 43px;">
+<td class="wysiwyg-text-align-center" style="height: 43px; width: 196.753px; text-align: center; vertical-align: middle;" data-sheets-value='{"1":2,"2":"Upgrade"}'>Upgrade</td>
+<td style="vertical-align: middle; text-align: left; width: 592.361px; height: 43px;" data-sheets-value='{"1":2,"2":"Upgrade related questions: requirements, declined reasons, status"}'>Upgrade related questions: requirements, declined reasons, status</td>
+</tr>
+<tr style="height: 43px;">
+<td class="wysiwyg-text-align-center" style="height: 43px; width: 196.753px; text-align: center; vertical-align: middle;" data-sheets-value='{"1":2,"2":"Ranking/No Lesson"}'>Ranking/No Lesson</td>
+<td style="vertical-align: middle; text-align: left; width: 592.361px; height: 43px;" data-sheets-value='{"1":2,"2":"About teacher search ranking/seeking advise for no lesson/students"}'>About teacher search ranking/seeking advice for no lesson/students</td>
+</tr>
+<tr style="height: 21px;">
+<td class="wysiwyg-text-align-center" style="height: 43px; width: 196.753px; text-align: center; vertical-align: middle;" data-sheets-value='{"1":2,"2":"TMS"}'>TMS</td>
+<td style="vertical-align: middle; text-align: left; width: 592.361px; height: 43px;" data-sheets-value='{"1":2,"2":"Questions about TMS "}'>Questions about TMS</td>
+</tr>
+<tr style="height: 43px;">
+<td class="wysiwyg-text-align-center" style="height: 43px; width: 196.753px; text-align: center; vertical-align: middle;" data-sheets-value='{"1":2,"2":"Profile/Setting"}'>Profile/Setting</td>
+<td style="vertical-align: middle; text-align: left; width: 592.361px; height: 43px;" data-sheets-value='{"1":2,"2":"Questions about teacher profile/settings change/how to use set up profile"}'>Questions about teacher profile/settings change/set up the calendar, etc</td>
+</tr>
+<tr style="height: 21px;">
+<td class="wysiwyg-text-align-center" style="height: 43px; width: 196.753px; text-align: center; vertical-align: middle;" data-sheets-value='{"1":2,"2":"Other"}'>Other</td>
+<td style="vertical-align: middle; text-align: left; width: 592.361px; height: 43px;" data-sheets-value='{"1":2,"2":"Other teacher related questions"}'>Other teacher-related questions</td>
+</tr>
+<tr style="height: 39px;">
+<td style="width: 270.434px; height: 99px;" rowspan="3">
+<div class="wysiwyg-text-align-center"></div>
+<div class="wysiwyg-text-align-center">Teacher Withdrawal</div>
+<div class="wysiwyg-text-align-center"></div>
+<div class="wysiwyg-text-align-center"></div>
+</td>
+<td class="wysiwyg-text-align-center" style="height: 39px; width: 196.753px; text-align: center; vertical-align: middle;" data-sheets-value='{"1":2,"2":"Withdrawal "}'>Hyperwallet </td>
+<td style="vertical-align: middle; text-align: left; width: 592.361px; height: 39px;" data-sheets-value='{"1":2,"2":"Withdrawal timeline/methods/failed withdrawal/manual request/amount &lt;30/processing fee"}'>Hyperwallet withdrawal timeline/methods/failed withdrawal/manual request/amount &lt;30/processing fee</td>
+</tr>
+<tr style="height: 22px;">
+<td style="width: 196.753px; text-align: center; vertical-align: middle; height: 22px;">Payoneer/Payoneer Bank Transfer</td>
+<td style="vertical-align: middle; text-align: left; width: 592.361px; height: 22px;">Payoneer/Payoneer Bank transfer withdrawal timeline/methods/failed withdrawal/manual request/amount &lt;30/processing fee</td>
+</tr>
+<tr style="height: 38px;">
+<td style="width: 196.753px; text-align: center; vertical-align: middle; height: 38px;">Other Withdrawal Method</td>
+<td style="vertical-align: middle; text-align: left; width: 592.361px; height: 38px;">Webmoney, skrill withdrawal, etc., related questions</td>
+</tr>
+<tr style="height: 32px;">
+<td style="width: 270.434px; height: 221px;" rowspan="6">
+<div class="wysiwyg-text-align-center"></div>
+<div class="wysiwyg-text-align-center"></div>
+<div class="wysiwyg-text-align-center">Community</div>
+<div class="wysiwyg-text-align-center"></div>
+<div class="wysiwyg-text-align-center"></div>
+</td>
+<td style="width: 196.753px; text-align: center; vertical-align: middle; height: 32px;">General Question</td>
+<td style="vertical-align: middle; text-align: left; width: 592.361px; height: 32px;">Community-related general inquires. </td>
+</tr>
+<tr style="height: 40px;">
+<td style="width: 196.753px; text-align: center; vertical-align: middle; height: 40px;">Violations</td>
+<td style="vertical-align: middle; text-align: left; width: 592.361px; height: 40px;">When a user is questioning about specific community violations, reports or complaints</td>
+</tr>
+<tr style="height: 37px;">
+<td style="width: 196.753px; text-align: center; vertical-align: middle; height: 37px;">Vocabulary</td>
+<td style="vertical-align: middle; text-align: left; width: 592.361px; height: 37px;">Questions about vocabulary</td>
+</tr>
+<tr style="height: 33px;">
+<td style="width: 196.753px; text-align: center; vertical-align: middle; height: 33px;">Quiz</td>
+<td style="vertical-align: middle; text-align: left; width: 592.361px; height: 33px;">Questions about quiz</td>
+</tr>
+<tr style="height: 40px;">
+<td style="width: 196.753px; text-align: center; vertical-align: middle; height: 40px;">Podcast</td>
+<td style="vertical-align: middle; text-align: left; width: 592.361px; height: 40px;">Inquires about podcast creation or publishing related problems.</td>
+</tr>
+<tr style="height: 39px;">
+<td style="width: 196.753px; text-align: center; vertical-align: middle; height: 39px;">Language Test</td>
+<td style="vertical-align: middle; text-align: left; width: 592.361px; height: 39px;">Inquires about language test setting or violations</td>
+</tr>
+<tr style="height: 43px;">
+<td style="height: 129px; width: 270.434px;" rowspan="3" data-sheets-value='{"1":2,"2":"Feedback &amp; Suggestions"}'>
+<div class="wysiwyg-text-align-center">Feedback &amp; Suggestions</div>
+</td>
+<td class="wysiwyg-text-align-center" style="height: 43px; width: 196.753px; text-align: center; vertical-align: middle;" data-sheets-value='{"1":2,"2":"Bug"}'>Bug</td>
+<td style="vertical-align: middle; text-align: left; width: 592.361px; height: 43px;" data-sheets-value='{"1":2,"2":"Feature or function is not working as it supposes to be"}'>Feature or function is not working as it supposes to be</td>
+</tr>
+<tr style="height: 43px;">
+<td class="wysiwyg-text-align-center" style="height: 43px; width: 196.753px; text-align: center; vertical-align: middle;" data-sheets-value='{"1":2,"2":"Feedback"}'>Feedback</td>
+<td style="vertical-align: middle; text-align: left; width: 592.361px; height: 43px;" data-sheets-value='{"1":2,"2":"Users’ suggestions on improving certain feature or function or related to our product"}'>Users’ suggestions on improving certain features or functions or related to our product</td>
+</tr>
+<tr style="height: 21px;">
+<td class="wysiwyg-text-align-center" style="height: 43px; width: 196.753px; text-align: center; vertical-align: middle;" data-sheets-value='{"1":2,"2":"Classroom"}'>Classroom</td>
+<td style="vertical-align: middle; text-align: left; width: 592.361px; height: 43px;" data-sheets-value='{"1":2,"2":"Classroom issue/feedback"}'>Classroom issue/feedback</td>
+</tr>
+</tbody>
+</table>
+<p> </p>
+<p>If there are tickets that don't fall into any of the above ones and it's frequently mentioned, please raise it to the team and we can always add new drivers. </p>
+<p>If you are not sure which driver a ticket falls to, feel free to ask in the team group too. </p>

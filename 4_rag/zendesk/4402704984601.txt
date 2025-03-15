@@ -1,0 +1,84 @@
+<h1>4 useful tools to help you manage your business and increase your lesson request rate</h1>
+<p><span style="font-weight: 400;">Improving your students’ learning experience and managing your teaching business go hand in hand. Here are 4 useful tools that will provide valuable insights on your students and teaching.</span></p>
+<h2><strong>1. Dashboard</strong></h2>
+<p><span class="wysiwyg-font-size-small"><span style="font-weight: 400;">(</span><a href="https://teach.italki.com/dashboard"><span style="font-weight: 400;">https://teach.italki.com/dashboard</span></a><span style="font-weight: 400;">)</span></span></p>
+<h3><strong>1.1 Teacher Knowledge Base (TKB)</strong></h3>
+<p><span style="font-weight: 400;"><img style="font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', Helvetica, Arial, sans-serif;" src="https://support.italki.com/hc/article_attachments/4402705020057" alt="Screen_Shot_2021-06-23_at_6.21.59_PM.png"></span></p>
+<ul>
+<li><span style="font-weight: 400;">For best teaching practices, success stories, and advice on the lesson and student management, the Teacher Knowledge Base is a great place to boost your knowledge.</span></li>
+</ul>
+<h3><strong>1.2 Teacher Forum</strong></h3>
+<p><span class="wysiwyg-font-size-small"><span style="font-weight: 400;"><img src="https://support.italki.com/hc/article_attachments/4402705051417" alt="TF.png"></span></span><span class="wysiwyg-font-size-small"><span style="font-weight: 400;"></span></span></p>
+<p><span class="wysiwyg-font-size-small"><span style="font-weight: 400;">(</span><a href="https://support.italki.com/hc/en-us/community/topics"><span style="font-weight: 400;">https://support.italki.com/hc/en-us/community/topics</span></a><span style="font-weight: 400;">)</span></span></p>
+<ul>
+<li style="font-weight: 400;" aria-level="1"><span style="font-weight: 400;">Connect with other teachers and get advice on teaching and more. </span></li>
+</ul>
+<h2><strong>2. My Teacher Profile</strong></h2>
+<h2><strong><img src="https://support.italki.com/hc/article_attachments/4402705073817" alt="L.png"></strong></h2>
+<h2><strong>2.1 Lessons</strong></h2>
+<ul>
+<li style="font-weight: 400;" aria-level="1"><span style="font-weight: 400;">You might not think of your profile as a tool, but it is! Your profile is one of the first things students see, so it’s important to make it clear and easy to understand.</span></li>
+<li style="font-weight: 400;" aria-level="1"><span style="font-weight: 400;">Try offering a larger variety of classes and target students of different levels.</span></li>
+<li style="font-weight: 400;" aria-level="1"><span style="font-weight: 400;">Try adjusting your Lesson Request Window during peak times. </span></li>
+<li style="font-weight: 400;" aria-level="1"><span style="font-weight: 400;">For very popular classes (like conversation classes) you can try taking them to the next level and offer higher/advanced levels.</span></li>
+<li style="font-weight: 400;" aria-level="1"><span style="font-weight: 400;">Translate the names of your lessons into the most popular languages (English, Spanish, German, Russian, etc.) or the language of your target student.</span></li>
+</ul>
+<h3><strong>2.2 Reviews:</strong></h3>
+<ul>
+<li style="font-weight: 400;" aria-level="1"><span style="font-weight: 400;">Reviews aren’t just an afterthought after a completed lesson! Try searching through your older reviews and see who left positive ones. Why not contact some older students who haven’t taken a lesson in a while?</span></li>
+<li style="font-weight: 400;" aria-level="1"><span style="font-weight: 400;">Ask your current students to leave reviews on their progress and what they’ve learned so far with you. This is a great way to show potential new students that you teach different levels effectively. </span></li>
+</ul>
+<h2>
+<strong>3. My Students</strong><span style="font-weight: 400;">  </span>
+</h2>
+<p><span style="font-weight: 400;">After clicking on “My Students” you will be given two options to choose from. </span></p>
+<p> </p>
+<p><span style="font-weight: 400;"><img src="https://support.italki.com/hc/article_attachments/4402705111065" alt="MS.png"></span></p>
+<p><span style="font-weight: 400;"><img src="https://support.italki.com/hc/article_attachments/4402705100185" alt="S.png" width="720" height="106"></span></p>
+<h3>
+<strong>3.1 Total lessons</strong><span style="font-weight: 400;">: </span>
+</h3>
+<ul>
+<li style="font-weight: 400;" aria-level="1"><span style="font-weight: 400;">If you offer more than one language, focus on improving the most popular one and offer more time slots.</span></li>
+</ul>
+<h3><strong>3.2 Lesson Frequency:</strong></h3>
+<p><span style="font-weight: 400;">*Simply click on the name of the category you will rearrange the time from the latest to the most recent, and the other way around</span></p>
+<ul>
+<li style="font-weight: 400;" aria-level="1">
+<span style="font-weight: 400;">When was your last lesson? Why not reach out to those that have had a lesson with you before, but stopped?</span> <span style="font-weight: 400;">Maybe their reasons will give you insight or some valuable information (or maybe send them a Lesson Invitation by clicking on the icon).</span>
+</li>
+</ul>
+<p class="wysiwyg-text-align-center"><img src="https://support.italki.com/hc/article_attachments/4402711439897" alt="IN.png"><br><br><span class="wysiwyg-font-size-small">(<a href="https://teach.italki.com/booking/invitation?student_id="><span style="font-weight: 400;">https://teach.italki.com/booking/invitation?student_id=</span></a><span style="font-weight: 400;"> your student’s ID)</span></span></p>
+<ul>
+<li style="font-weight: 400;" aria-level="1">
+<span style="font-weight: 400;">Don’t forget about the “</span><a href="https://support.italki.com/hc/en-us/articles/900004739886-What-is-Opportunities-"><span style="font-weight: 400;">Opportunities</span></a><span style="font-weight: 400;">” feature on your dashboard. Create some personalized templates and send them as friendly reminders for your students to book another lesson with you. </span>
+</li>
+</ul>
+<h3><strong>3.3 Language skills:</strong></h3>
+<ul>
+<li style="font-weight: 400;" aria-level="1"><span style="font-weight: 400;">If the majority of your students fall into one category (e.g. beginners) offer more classes for that level and adjust accordingly.</span></li>
+</ul>
+<h3><strong>3.4 Potential Students </strong></h3>
+<p class="wysiwyg-text-align-left"><img src="https://support.italki.com/hc/article_attachments/4402705163673" alt="PS.png"><br><span style="font-weight: 400;">The statistics are always easy to understand, but they provide useful insight too. Ask yourself:</span></p>
+<ul>
+<li style="font-weight: 400;" aria-level="1"><span style="font-weight: 400;">What types of students are you teaching now and are they different from before? Can you spot a trend? Maybe there’s been an increase in students of a certain native tongue or something has triggered new interest in your language.</span></li>
+<li style="font-weight: 400;" aria-level="1"><span style="font-weight: 400;">Have you started getting more new requests for another language that you teach? Why?</span></li>
+</ul>
+<h2><strong>4. Statistics</strong></h2>
+<p><strong><img src="https://support.italki.com/hc/article_attachments/4402705181849" alt="STAT.png"></strong><strong>Completed lessons:</strong></p>
+<ul>
+<li style="font-weight: 400;" aria-level="1"><span style="font-weight: 400;">During certain months you might experience a decline in your lessons (national holidays, exam periods etc.). You can anticipate this and offer you students alternative time slots or flexible rescheduling.</span></li>
+<li style="font-weight: 400;" aria-level="1">
+<span style="font-weight: 400;">Every few months we launch </span><a href="https://www.italki.com/languagechallenge"><span style="font-weight: 400;">Language Challenges</span></a><span style="font-weight: 400;">. Prepare for them, promote them to your students, and encourage your students to participate.</span>
+</li>
+</ul>
+<p><strong>Bottomline</strong></p>
+<p><span style="font-weight: 400;">Try thinking of creative ways to improve your students’ learning experience and your business performance. Sometimes simply asking different questions for the same piece of information can reveal interesting answers. </span></p>
+<p><br><strong>*Additional Tips:</strong></p>
+<p><span style="font-weight: 400;">In order to tailor your lessons even better to the needs of your students, here are some suggested tests that you can recommend to your students or even design yourself using free quiz/survey generators: </span></p>
+<ul>
+<li style="font-weight: 400;" aria-level="1"><span style="font-weight: 400;">The Myers-Briggs Test</span></li>
+<li style="font-weight: 400;" aria-level="1"><span style="font-weight: 400;">Self-generated tests and assessments</span></li>
+<li style="font-weight: 400;" aria-level="1"><span style="font-weight: 400;">Feedback forms, search for “feedback form” to get a template and question ideas. </span></li>
+<li style="font-weight: 400;" aria-level="1"><span style="font-weight: 400;">Attendance forms (making those visuals can help with the students’ consistency, which can be linked to “Curve of forgetting” for reference)</span></li>
+</ul>

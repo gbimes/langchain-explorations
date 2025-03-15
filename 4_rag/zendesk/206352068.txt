@@ -1,0 +1,53 @@
+<h1>How does italki charge a commission？</h1>
+<p><strong>When a lesson or package is completed, </strong>italki charges a <strong>commission fee</strong> based on the teacher's listed lesson price and the type of lesson i.e. single, 5-lesson package,10-lesson package, etc.</p>
+<p><strong>Commissions Fees:</strong> </p>
+<div>
+<table style="width: 100%;">
+<colgroup>
+<col>
+<col>
+</colgroup>
+<tbody>
+<tr>
+<td>Lesson type</td>
+<td>Commission</td>
+</tr>
+<tr>
+<td>Trial &amp; Instant Lesson (trial)</td>
+<td>0%</td>
+</tr>
+<tr>
+<td>Single Lesson</td>
+<td>21%</td>
+</tr>
+<tr>
+<td>5-Lesson Package</td>
+<td>19%</td>
+</tr>
+<tr>
+<td>10-Lesson Package</td>
+<td>17%</td>
+</tr>
+<tr>
+<td>15-Lesson Package </td>
+<td>15%</td>
+</tr>
+<tr>
+<td>20-Lesson Package</td>
+<td>15%</td>
+</tr>
+<tr>
+<td>Group Class</td>
+<td>30%</td>
+</tr>
+</tbody>
+</table>
+</div>
+<p> </p>
+<p><strong>Please note:</strong></p>
+<ol>
+<li>italki does not charge a commission fee for trial lessons.</li>
+<li>italki commission figure is rounded off, please see Terms of Service Teacher Policy 2.5 for more details.</li>
+<li>italki does not charge any commission or fee for withdrawing your italki credits (except express withdrawal). Depending on your choice of payment method, these payment methods will charge different fees. (<a href="https://support.italki.com/hc/en-us/articles/210002367-What-s-the-fee-for-withdrawing-my-earnings-on-italki-"><span style="color: #1a74b0;">Read more about payment methods and fees</span></a>)</li>
+</ol>
+<p class="wysiwyg-indent1">Teachers may be eligible for additional rewards for extra earnings. Based on performance (<a href="https://support.italki.com/hc/en-us/articles/41328901451801-The-Teacher-Excellence-Rewards-Program"><span class="wysiwyg-underline" style="color: #1155cc;">Read more here</span></a>)</p>

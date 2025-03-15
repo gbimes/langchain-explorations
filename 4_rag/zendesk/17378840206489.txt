@@ -1,0 +1,20 @@
+<h1>Teacher Statistics: Lesson Overview</h1>
+<p>Lesson Overview on your Statistics at the bottom of your teacher dashboard can tell you a lot about your business and lessons on italki, and help guide you in making decisions and managing your account. This Article is specifically for the Lesson Overview. Find the other statistics below:</p>
+<ul>
+<li><a href="https://support.italki.com/hc/en-us/articles/17378894636697" target="_self">My Popular Lessons</a></li>
+<li><a href="https://support.italki.com/hc/en-us/articles/17378944552089" target="_self">Students</a></li>
+<li><a href="https://support.italki.com/hc/en-us/articles/17379044730649" target="_self">Earnings</a></li>
+<li><a href="https://support.italki.com/hc/en-us/articles/17378789551129" target="_self">The Basics</a></li>
+</ul>
+<h3><span style="color: #434343;">Lesson Overview</span></h3>
+<p>This is all your data relating to lessons, let’s break it down. </p>
+<p><img src="https://lh6.googleusercontent.com/Nz-uC_WZzCDATc8eT0EiKX8uzEopeH8dCqAw561Z4dplCq3_hMukidgFthKljQ9Nsi1m154G-xRt2qICVyVQ9TmVycXI5TSHltxr0V2aUWESv71cTOqPU0sR5gIgHDhiUZXnV_Xl9y7j2H_8Oz1zdgw">  </p>
+<ul>
+<li>“Total Lessons Requests” is <strong>the number of lesson requests you received</strong> in that month. </li>
+<li>“Completed Lessons” is <strong>the number of lessons you completed</strong> that month. </li>
+<li>“Expiration” is <strong>the number of lesson requests that expired without a response from you</strong> in that month. </li>
+<li>“Decline” is <strong>the number of lesson requests that you declined</strong> in that month. </li>
+<li>“Canceled” is <strong>the number of booked lessons you (not the student) canceled</strong> in that month.</li>
+<li>“Absence” is <strong>the number of booked lessons that you were confirmed as absent</strong>.</li>
+</ul>
+<p>All of this is basic information about your lesson management and the actions you took on italki. These form the basis of student user experience on italki, and high-performing teachers look to minimize absences, cancelations, declines, and expirations.</p>

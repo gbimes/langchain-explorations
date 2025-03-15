@@ -1,0 +1,223 @@
+<h1>14th Anniversary Campaign (20210705-20210730)</h1>
+<p><img src="https://support.italki.com/hc/article_attachments/4402837267225/mceclip0.png" alt="mceclip0.png"></p>
+<p> </p>
+<h2>
+<strong>Campaign Duration:</strong> <span class="wysiwyg-color-red">2021-07-05 ~ 2021-07-30</span>
+</h2>
+<p> </p>
+<h2><strong>New Users: </strong></h2>
+<h3><span class="wysiwyg-underline"><strong>Register to get a $140 coupon pack </strong></span></h3>
+<p><strong><span style="font-weight: 400;">New students will receive their $140 coupon pack in their Wallet immediately after sign up. The coupon pack contains 12 coupons, with discounts totaling $140. The coupon pack can only be claimed between 5 July 00:00:00(UTC+0) - 30 July 23:59:59 (UTC+0).</span></strong></p>
+<table dir="ltr" border="1" cellspacing="0" cellpadding="0">
+<colgroup>
+<col width="100">
+<col width="100">
+<col width="181">
+<col width="100">
+<col width="168">
+<col width="100">
+</colgroup>
+<tbody>
+<tr>
+<td data-sheets-value='{"1":2,"2":"Actions"}'><strong>Actions</strong></td>
+<td data-sheets-value='{"1":2,"2":"Coupon Type"}'><strong>Coupon Type</strong></td>
+<td data-sheets-value='{"1":2,"2":"Coupon Details"}'><strong>Coupon Details</strong></td>
+<td data-sheets-value='{"1":2,"2":"Promotion"}'><strong>Promotion</strong></td>
+<td data-sheets-value='{"1":2,"2":"Expire"}'><strong>Expire</strong></td>
+<td data-sheets-value='{"1":2,"2":"Unit"}'><strong>Unit</strong></td>
+</tr>
+<tr>
+<td colspan="1" rowspan="7" data-sheets-value='{"1":2,"2":"Register to get $140"}'>
+<div>Register to get $140</div>
+</td>
+<td data-sheets-value='{"1":2,"2":"Lesson Coupon"}'>Lesson Coupon</td>
+<td data-sheets-value='{"1":2,"2":"Book 1 lesson no conditions get $5 off "}'>Book 1 lesson no conditions get $5 off</td>
+<td data-sheets-value='{"1":2,"2":"$0 - $5"}'>$0 - $5</td>
+<td data-sheets-value='{"1":2,"2":"3 days"}'>3 days</td>
+<td data-sheets-value='{"1":3,"3":1}'>1</td>
+</tr>
+<tr>
+<td data-sheets-value='{"1":2,"2":"Lesson Coupon"}'>Lesson Coupon</td>
+<td data-sheets-value='{"1":2,"2":"Book 1 lesson above $20 get $5 off "}'>Book 1 lesson above $20 get $5 off</td>
+<td data-sheets-value='{"1":2,"2":"$20 - $5"}'>$20 - $5</td>
+<td data-sheets-value='{"1":2,"2":"7 days"}'>7 days</td>
+<td data-sheets-value='{"1":3,"3":1}'>1</td>
+</tr>
+<tr>
+<td data-sheets-value='{"1":2,"2":"Lesson Coupon"}'>Lesson Coupon</td>
+<td data-sheets-value='{"1":2,"2":"Book lesson(mostly for lesson package) above $100, get $11 off"}'>Book lesson(mostly for lesson package) above $100, get $11 off</td>
+<td data-sheets-value='{"1":2,"2":"$100 - $11"}'>$100 - $11</td>
+<td data-sheets-value='{"1":2,"2":"5th, July - 30th July"}'>5th, July - 30th July</td>
+<td data-sheets-value='{"1":3,"3":1}'>1</td>
+</tr>
+<tr>
+<td data-sheets-value='{"1":2,"2":"Purchase Coupon"}'>Purchase Coupon</td>
+<td data-sheets-value='{"1":2,"2":"Buy $140 get $14 more"}'>Buy $140 get $14 more</td>
+<td data-sheets-value='{"1":2,"2":"$140 + $14"}'>$140 + $14</td>
+<td data-sheets-value='{"1":2,"2":"5th, July - 30th July"}'>5th, July - 30th July</td>
+<td data-sheets-value='{"1":3,"3":2}'>2</td>
+</tr>
+<tr>
+<td data-sheets-value='{"1":2,"2":"Purchase Coupon"}'>Purchase Coupon</td>
+<td data-sheets-value='{"1":2,"2":"Buy $500 get $56 more"}'>Buy $500 get $56 more</td>
+<td data-sheets-value='{"1":2,"2":"$500 + $56"}'>$500 + $56</td>
+<td data-sheets-value='{"1":2,"2":"5th, July - 30th July"}'>5th, July - 30th July</td>
+<td data-sheets-value='{"1":3,"3":1}'>1</td>
+</tr>
+<tr>
+<td data-sheets-value='{"1":2,"2":"Purchase Coupon"}'>Purchase Coupon</td>
+<td data-sheets-value='{"1":2,"2":"Buy $100 get $5 more"}'>Buy $100 get $5 more</td>
+<td data-sheets-value='{"1":2,"2":"$100 + $5"}'>$100 + $5</td>
+<td data-sheets-value='{"1":2,"2":"8/1 - 8/31\n9/1-9/30\n10/1-10/31\n11/1-11/30\n12/1- 12/31"}'>8/1 - 8/31<br>9/1-9/30<br>10/1-10/31<br>11/1-11/30<br>12/1- 12/31</td>
+<td data-sheets-value='{"1":3,"3":5}'>5</td>
+</tr>
+<tr>
+<td data-sheets-value='{"1":2,"2":"Language Test Coupon(Emmersion)"}'>Language Test Coupon(Emmersion)</td>
+<td data-sheets-value='{"1":2,"2":"$10 off coupon"}'>$10 off coupon</td>
+<td data-sheets-value='{"1":2,"2":"$30 - $10"}'>$30 - $10</td>
+<td data-sheets-value='{"1":2,"2":"90 days"}'>90 days</td>
+<td data-sheets-value='{"1":3,"3":1}'>1</td>
+</tr>
+</tbody>
+</table>
+<p> </p>
+<h2><strong>Existing Users:</strong></h2>
+<h3><span class="wysiwyg-underline"><strong>Share student journey and get a $140 coupon pack for free</strong></span></h3>
+<p><strong><span style="font-weight: 400;">After existing users shared their journey to social media, they will automatically receive the $140 coupon pack in your Wallet. The coupon pack contains 12 coupons, with discounts totaling $140. The coupon pack can only be claimed between 5 July 06:00:00(UTC+0) - 30 July 23:59:59 (UTC+0). </span></strong></p>
+<p><strong><img src="https://support.italki.com/hc/article_attachments/4402904869785/mceclip1.png" alt="mceclip1.png"></strong></p>
+<table dir="ltr" border="1" cellspacing="0" cellpadding="0">
+<colgroup>
+<col width="100">
+<col width="100">
+<col width="181">
+<col width="100">
+<col width="168">
+<col width="100">
+</colgroup>
+<tbody>
+<tr>
+<td data-sheets-value='{"1":2,"2":"Actions"}'><strong>Actions</strong></td>
+<td data-sheets-value='{"1":2,"2":"Coupon Type"}'><strong>Coupon Type</strong></td>
+<td data-sheets-value='{"1":2,"2":"Coupon Details"}'><strong>Coupon Details</strong></td>
+<td data-sheets-value='{"1":2,"2":"Promotion"}'><strong>Promotion</strong></td>
+<td data-sheets-value='{"1":2,"2":"Expire"}'><strong>Expire</strong></td>
+<td data-sheets-value='{"1":2,"2":"Unit"}'><strong>Unit</strong></td>
+</tr>
+<tr>
+<td colspan="1" rowspan="7" data-sheets-value='{"1":2,"2":"Share student Journey to get $140"}'>
+<div>Share student Journey to get $140</div>
+</td>
+<td data-sheets-value='{"1":2,"2":"Lesson Coupon"}'>Lesson Coupon</td>
+<td data-sheets-value='{"1":2,"2":"Book 1 lesson above $20 get $5 off "}'>Book 1 lesson above $20 get $5 off</td>
+<td data-sheets-value='{"1":2,"2":"$20 - $5"}'>$20 - $5</td>
+<td data-sheets-value='{"1":2,"2":"3 days"}'>3 days</td>
+<td data-sheets-value='{"1":3,"3":1}'>1</td>
+</tr>
+<tr>
+<td data-sheets-value='{"1":2,"2":"Lesson Coupon"}'>Lesson Coupon</td>
+<td data-sheets-value='{"1":2,"2":"Book lesson(mostly for lesson package) above $50, get $5 off"}'>Book lesson(mostly for lesson package) above $50, get $5 off</td>
+<td data-sheets-value='{"1":2,"2":"$50 - $5"}'>$50 - $5</td>
+<td data-sheets-value='{"1":2,"2":"5th, July - 30th July"}'>5th, July - 30th July</td>
+<td data-sheets-value='{"1":3,"3":1}'>1</td>
+</tr>
+<tr>
+<td data-sheets-value='{"1":2,"2":"Lesson Coupon"}'>Lesson Coupon</td>
+<td data-sheets-value='{"1":2,"2":"Book lesson(mostly for lesson package) above $100, get $11 off"}'>Book lesson(mostly for lesson package) above $100, get $11 off</td>
+<td data-sheets-value='{"1":2,"2":"$100 - $11"}'>$100 - $11</td>
+<td data-sheets-value='{"1":2,"2":"5th, July - 30th July"}'>5th, July - 30th July</td>
+<td data-sheets-value='{"1":3,"3":1}'>1</td>
+</tr>
+<tr>
+<td data-sheets-value='{"1":2,"2":"Purchase Coupon"}'>Purchase Coupon</td>
+<td data-sheets-value='{"1":2,"2":"Buy $140 get $14 more"}'>Buy $140 get $14 more</td>
+<td data-sheets-value='{"1":2,"2":"$140 + $14"}'>$140 + $14</td>
+<td data-sheets-value='{"1":2,"2":"5th, July - 30th July"}'>5th, July - 30th July</td>
+<td data-sheets-value='{"1":3,"3":2}'>2</td>
+</tr>
+<tr>
+<td data-sheets-value='{"1":2,"2":"Purchase Coupon"}'>Purchase Coupon</td>
+<td data-sheets-value='{"1":2,"2":"Buy $500 get $56 more"}'>Buy $500 get $56 more</td>
+<td data-sheets-value='{"1":2,"2":"$500 + $56"}'>$500 + $56</td>
+<td data-sheets-value='{"1":2,"2":"5th, July - 30th July"}'>5th, July - 30th July</td>
+<td data-sheets-value='{"1":3,"3":1}'>1</td>
+</tr>
+<tr>
+<td data-sheets-value='{"1":2,"2":"Purchase Coupon"}'>Purchase Coupon</td>
+<td data-sheets-value='{"1":2,"2":"Buy $100 get $5 more"}'>Buy $100 get $5 more</td>
+<td data-sheets-value='{"1":2,"2":"$100 + $5"}'>$100 + $5</td>
+<td data-sheets-value='{"1":2,"2":"8/1 - 8/31\n9/1-9/30\n10/1-10/31\n11/1-11/30\n12/1- 12/31"}'>8/1 - 8/31<br>9/1-9/30<br>10/1-10/31<br>11/1-11/30<br>12/1- 12/31</td>
+<td data-sheets-value='{"1":3,"3":5}'>5</td>
+</tr>
+<tr>
+<td data-sheets-value='{"1":2,"2":"Language Test Coupon(Emmersion)"}'>Language Test Coupon(Emmersion)</td>
+<td data-sheets-value='{"1":2,"2":"$10 off coupon"}'>$10 off coupon</td>
+<td data-sheets-value='{"1":2,"2":"$30 - $10"}'>$30 - $10</td>
+<td data-sheets-value='{"1":2,"2":"90 days"}'>90 days</td>
+<td data-sheets-value='{"1":3,"3":1}'>1</td>
+</tr>
+</tbody>
+</table>
+<p> </p>
+<h3><span class="wysiwyg-underline"><strong>Win free italki Credits with italki Classroom</strong></span></h3>
+<p><span style="font-weight: 400;">Students who use italki Classroom between 5 - 30 July will be entered into a daily lucky draw. Every day we will choose 14 students to win $3 ita</span><span style="font-weight: 400;">lki Credits each. <strong>All winners</strong> will be announced in a Community article on <strong>2nd August.</strong></span></p>
+<p> </p>
+<h3><span class="wysiwyg-underline"><strong>Share #myitalkistory for a chance to win $100</strong></span></h3>
+<p>Duration: July 5th - July 25th, 2021</p>
+<p>Participants: All existing users (both students and teachers)</p>
+<p><strong><img src="https://support.italki.com/hc/article_attachments/4402920780185/mceclip6.png" alt="mceclip6.png"></strong></p>
+<p> </p>
+<p> </p>
+<h2><strong>Teachers:</strong></h2>
+<h3><span class="wysiwyg-underline"><strong>Gift new students a $140 coupon pack and get shareable coupons</strong></span></h3>
+<ul>
+<li>
+<span style="font-weight: 400;">Teachers share their journey on social media with potential students. New users will get a $140 coupon pack when they sign up.</span><span style="font-weight: 400;"></span>
+</li>
+<li>
+<span style="font-weight: 400;">For all lessons taught on 30 July, all lesson commissions will be returned to teachers in "Buy Any Get $5 Off lesson coupons". Teachers can share this link with potential students. These coupons are <strong>tied to their account</strong> and can only be used by <strong>newly registered users</strong> <strong>for their lessons</strong>. The coupon will be valid for 30 days.</span><span style="font-weight: 400;"></span><span style="font-weight: 400;"></span>
+</li>
+</ul>
+<h2><strong>14th Anniversary Community Event</strong></h2>
+<p data-pm-slice="1 1 []"><span><strong>Form:</strong> </span><span>Users post interesting stories, frustrations, or gains they encountered on the road of language learning with italki with the topic #italkiAnniversary. </span></p>
+<p data-pm-slice="1 1 []"><span><strong>Duration:</strong> </span><span>5 July to 26 July</span></p>
+<p data-pm-slice="1 1 []"><span><strong>Who can participate:</strong> italki existing all users</span></p>
+<p data-pm-slice="1 1 []"><strong>Winner selection：</strong></p>
+<ul>
+<li data-pm-slice="1 1 []"><span>Each Monday from 5 July to 26 July, draw out five participants to reward $5 italki credit.</span></li>
+<li data-pm-slice="1 1 []">
+<span>On 26 July, according to the interaction value of the user’s post, 1 user is selected every week to receive $14 italki credit. </span><span class="wysiwyg-color-red">(Interaction value= Post’s like count + Post’s reply count*2)</span>
+</li>
+</ul>
+<p> </p>
+<h2><strong>FAQ:</strong></h2>
+<p><strong>1. What if the user failed or forgot to use the purchase coupon "Buy $140 get $14 more" and "Buy $500 get $56 more"?</strong></p>
+<p>If you got tickets asking to add the $14 or $56 amount since user forgot or failed to use the purchase coupon, please record the details in this sheet<a href="https://docs.google.com/spreadsheets/d/1jSuhixr9ogw_pTDboLWLEFIl0WkSpstZ_xyOx98h-Lc/edit?usp=sharing" target="_self">" Top-up issue recording"</a>. MKT team will give the name list to the finance team to manually add value for those users.  CS can reply with macro ”General::EN::14th Anniversary Campaign top-up issue“</p>
+<p> </p>
+<p><strong>2.What if the user complains no refund is given for the lessons and packages purchased with lesson coupons?</strong></p>
+<p><span>Based on system logic, if the amount refunds to student &lt; lesson coupon value, </span><strong>no refund will be given. </strong>In case user complains that they should get a refund, please record the required details in the sheet <a href="https://docs.google.com/spreadsheets/d/1jSuhixr9ogw_pTDboLWLEFIl0WkSpstZ_xyOx98h-Lc/edit?usp=sharing" target="_self">"Lesson/Package refund recording"</a> and @Exy please assist with the credit adjustment.</p>
+<p> </p>
+<p><strong>3.How does it looks like OMS when the user applied a lesson coupon during lesson/package purchase?</strong></p>
+<p><img src="https://support.italki.com/hc/article_attachments/4402999369369/mceclip0.png" alt="mceclip0.png"></p>
+<p> </p>
+<p><strong>4.For the anniversary reward to teachers,  Can they give "Buy Any Get $5 Off" coupons to their current students?</strong></p>
+<p><span style="font-weight: 400;">No, these coupons can only be used by newly registered students who sign up to get the coupon.</span></p>
+<p> </p>
+<p><strong>5.How many "Buy Any Get $5 Off" coupons can teachers give away?</strong></p>
+<p><span style="font-weight: 400;">The number of coupons teachers get will be their total commission (for lessons taught on 30 July and completed before 4 August) divided by 5. For example, if the total commission is $22.5 USD, the teacher will receive 5 coupons (rounding up from 4.5). The minimum total commission required for 1 coupon is 0.75 USD.   </span></p>
+<p><span style="font-weight: 400;"> </span></p>
+<p><strong>6.When will teachers get their "Buy Any Get $5 Off" coupons to give to potential students? </strong></p>
+<p><span style="font-weight: 400;">They will receive an email and an internal message(IM) from italki with their sharing link on </span><strong>5 August, 2021.</strong></p>
+<p><span style="font-weight: 400;"> </span></p>
+<p><strong>7.Where can the teacher share the link?</strong></p>
+<p><span style="font-weight: 400;">They can share the link on social media or any other public platform.</span></p>
+<p> </p>
+<p><strong>8.Can the teacher share the link multiple times?</strong></p>
+<p><span style="font-weight: 400;">Yes, but once all of their coupons have been claimed, potential students can only view the teacher's profile. The link will expire on<strong> 31 Dec, 23:59:59 (UTC+0)</strong> 2021.</span></p>
+<p> </p>
+<h3><strong>Know Issue after campaign release:</strong></h3>
+<p><span style="font-weight: 400;">1.When users shared a journey, if they only click "copy link", this is not considered as successful sharing. Even if they share the copied link to social media platform they cannot get the coupon pack.</span></p>
+<p> </p>
+<p><span style="font-weight: 400;">2. Wechat mini program didn't support the usage of coupon packs, we can advise user to download APP.</span></p>
+<p> </p>
+<p> </p>
+<p> </p>

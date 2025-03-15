@@ -1,0 +1,26 @@
+<h1>Case study: Have Trouble in  Keeping  Students</h1>
+<p><span style="font-weight: 400;">Students may move on and leave for different kinds of reasons. For example, if you offer lessons that are unlikely to result in many repeat lessons (like job interviews), the student will have completed their lesson goal after a few lessons. Generally speaking, if you do receive lesson requests but have trouble keeping students, there are a few possible reasons.</span></p>
+<p> </p>
+<p><strong>1: Have you provided good customer service to your students?</strong></p>
+<p><span style="font-weight: 400;">Responding quickly to messages, lesson requests, and communicating clearly and in detail is very important. </span></p>
+<p><span style="font-weight: 400;">Be aware that your students may be beginners and may not fully comprehend your messages so take the initiative and translate your messages into their native language. If you realize that you can’t meet the student’s expectations, be upfront and politely inform them this is not your area of expertise. They’ll appreciate your honesty and professionalism. </span></p>
+<p><span style="font-weight: 400;">After confirming a lesson request from a new student we strongly recommend you immediately message your student and follow these 3 steps:</span></p>
+<ol>
+<li style="font-weight: 400;"><span style="font-weight: 400;">Thank the student for choosing you.</span></li>
+<li style="font-weight: 400;"><span style="font-weight: 400;">Ask the student about their learning objectives, what they like and don’t like, their previous learning experience. Do they want structured or unstructured lessons? The idea is to better understand the student so you can meet their expectations. </span></li>
+<li style="font-weight: 400;"><span style="font-weight: 400;">Discuss with your student about a backup video call platform (Skype, Zoom, WeChat etc) in the event there is an issue with the connection on your chosen platform.</span></li>
+</ol>
+<p><span style="font-weight: 400;">Do not frequently reschedule, cancel, or miss your lessons and always be on time. If you have to reschedule or cancel your lesson, please communicate it politely, clearly and as early as possible.</span></p>
+<p> </p>
+<p><strong>2: Have you set up Packages with discounts?</strong></p>
+<p><span style="font-weight: 400;">Having discounted Package Lessons may help you retain your students as there’s a financial incentive for them. The example below shows a teacher offering a 15% discount:</span></p>
+<p><span style="font-weight: 400;"><img src="https://support.italki.com/hc/article_attachments/900000201283" alt="Screenshot_2020-01-14_at_15.28.01.png" width="676" height="529"></span></p>
+<p> </p>
+<p><strong>3: Have you tried using Lesson Invitation?</strong></p>
+<p><span style="font-weight: 400;">Lesson invitation is a feature that allows you and your student additional flexibility to book and schedule lessons within 12 hours. Please read </span><a href="https://support.italki.com/hc/en-us/articles/900000107266-What-is-Lesson-Invitation-and-how-do-I-use-this-feature-"><span style="font-weight: 400;">this FAQ </span></a><span style="font-weight: 400;">for more information.</span></p>
+<p> </p>
+<p><strong>4: Are you meeting your student's expectations?</strong></p>
+<p><span style="font-weight: 400;">We’ve received feedback from many new students who’ve been unsatisfied with the lack of lesson structure from teachers. They feel that their lessons are ineffective and are reluctant to book another lesson.</span></p>
+<p><span style="font-weight: 400;">Communication and expectation management is key. The responsibility is on the teacher to understand the student’s wants and needs. Ensure that your teaching environment is suitable for lessons and that you are prepared with all the necessary files, screenshots, documents, homework, lesson plans etc required for the lesson. </span></p>
+<p><span style="font-weight: 400;">If you cannot meet a student’s expectations please politely decline the lesson request and recommend the student to find a more suitable teacher.</span></p>
+<p><span style="font-weight: 400;">We recommend reading these </span><a href="https://support.italki.com/hc/en-us/sections/360006331013-Best-Practices"><span style="font-weight: 400;">best practice articles</span></a><span style="font-weight: 400;"> as they contain real-life tips from experienced italki teachers.</span></p>

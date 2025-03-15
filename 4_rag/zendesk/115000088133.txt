@@ -1,0 +1,34 @@
+<h1>How can I edit/disconnect my Payoneer account?</h1>
+<p>Unfortunately, you cannot "edit", "delete" or "cancel" the Payoneer withdrawal email address on italki. Also, you cannot "edit", "delete" or "cancel" Bank Transfers via Payoneer. The only way to change your Payoneer information is to contact Payoneer and have them do it for you.</p>
+<p>As the Payoneer system connects your email address with your italki account to issue your payment securely, we are not able to provide an "edit" button as we do for the other payment methods. The other payment methods are not connected in the same way.</p>
+<p> </p>
+<p><strong>You might need to change your connected Payoneer e-mail address if you:</strong></p>
+<ul>
+<li>want to change to a different account</li>
+<li>want to disconnect an incorrect account</li>
+</ul>
+<p>In both situations, the first step will be to contact Payoneer customer support to change your account information. This is because your Payoneer account information is all managed within the Payoneer system and not on italki.</p>
+<h4> </h4>
+<h4><span class="wysiwyg-underline"><strong>Step 1:</strong></span></h4>
+<p>Before you contact Payoneer, you should prepare:</p>
+<ol>
+<li>Your personal italki ID (you can find it on your profile link, if the link is http://www.italki.com/teacher/12345, then the ID is 12345),</li>
+<li>The currently connected Payoneer email address</li>
+<li>The new or correct email address.</li>
+</ol>
+<h4><span class="wysiwyg-underline"><strong>Step 2:</strong></span></h4>
+<p>Contact Payoneer with the information above, and ask them to disconnect your account from italki. Here's a link where you can reach Payoneer customer service support:</p>
+<p><a href="https://payoneer.custhelp.com/app/Contact_us">https://payoneer.custhelp.com/app/Contact_us</a> </p>
+<p>We also suggest making a phone call to Payoneer customer support if it's available and convenient:</p>
+<ul>
+<li>Within the United States* (6:00am-6:00pm EST Mon-Fri)<br>1-800-251-2521</li>
+<li>Outside the United States* (6:00am-6:00pm EST Mon-Fri)<br>1-646-658-3695</li>
+<li>Within the United Kingdom (6:00am-6:00pm EST Mon-Fri)<br>+44-203-519-1198</li>
+</ul>
+<h4><span class="wysiwyg-underline"><strong>Step 3:</strong></span></h4>
+<p>After you receive an email confirmation that Payoneer has disconnected your account, you must contact italki support so that we can update the change in our system. Please email italki at support@italki.com for this procedure.</p>
+<h4><span class="wysiwyg-underline"><strong>Step 4:</strong></span></h4>
+<p><strong>Add the updated Payoneer account to italki.</strong></p>
+<p>Once italki has updated the change, then you will need to "create an account or connect" Payoneer with your italki account, just as you did the first time.</p>
+<p> </p>
+<p><strong>If you simply want to disconnect/cancel your Payoneer account with italki, you only need to contact Payoneer for this operation;</strong> you do not need to contact italki to update anything afterwards. Then your Payoneer withdrawal record will go back to the original default status without any Payoneer account e-mail.</p>

@@ -1,0 +1,26 @@
+<h1>Can I change the date or time of a lesson request?</h1>
+<section class="article-info">
+<div class="article-content">
+<div class="article-body">
+<p dir="ltr">Yes, it's entirely possible!  If you would like to change the date or time of a lesson request, follow these steps. </p>
+<p dir="ltr"> </p>
+<p dir="ltr"><strong>DO NOT ACCEPT THE LESSON REQUEST</strong></p>
+<p dir="ltr">You will have to modify the request first. Once it has been accepted, it cannot be changed.</p>
+<p dir="ltr"> </p>
+<p dir="ltr">1. Click "Change date/time" on the lesson request.</p>
+<p dir="ltr"><img src="https://support.italki.com/hc/article_attachments/360028886194" alt="Screen_Shot_2019-03-19_at_5.22.32_PM.png" width="610" height="155"></p>
+<p dir="ltr"> </p>
+<p dir="ltr">2. Select your new date/time. </p>
+<p dir="ltr">As a Teacher, you can select <strong>any date/time</strong>, even if it doesn't appear in your Teacher Availability Calendar. </p>
+<p dir="ltr">This is useful <strong>if you want to offer a one-off lesson outside of your regular teaching schedule</strong> or for students<strong> making special requests for a specific time.</strong></p>
+<p dir="ltr"><img src="https://support.italki.com/hc/article_attachments/360028886214" alt="Screen_Shot_2019-03-19_at_5.25.49_PM.png" width="613" height="258"></p>
+<p dir="ltr"> </p>
+<p dir="ltr">3. Confirm the new time/date.</p>
+<p dir="ltr"><img src="https://support.italki.com/hc/article_attachments/360028886274" alt="Screen_Shot_2019-03-19_at_5.26.35_PM.png" width="391" height="387"></p>
+<p dir="ltr"> </p>
+<p dir="ltr">4. Wait for the student to accept the new date/time change. </p>
+<p dir="ltr">The student has <strong>48 hours (or until the original lesson time proposed) </strong>to accept your proposed date/time change.  If the student does not respond within the time period, the lesson request will expire.</p>
+<p dir="ltr"><img src="https://support.italki.com/hc/article_attachments/360028889614" alt="Screen_Shot_2019-03-19_at_5.37.52_PM.png" width="622" height="338"> </p>
+</div>
+</div>
+</section>

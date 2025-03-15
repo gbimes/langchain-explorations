@@ -1,0 +1,24 @@
+<h1>What is the Teacher Excellence Rewards Program?</h1>
+<p>The Teacher Excellence Rewards Program is our initiative to reward high-performing teachers with additional incentives and recognize their efforts in providing a high-standard learning experience for students. We want to motivate teachers, enhance lesson quality, and foster professional growth. </p>
+<p><strong>What is the Excellence Reward?</strong><strong><br></strong>The Excellence Reward is a special incentive for teachers recognized based on their performance. A 2% Reward is given for eligible lessons completed and settled during the designated cycle. </p>
+<p>Teachers who are eligible for Excellence Reward will see a badge update on the teacher dashboard on the 25th of every month. Rewards are distributed on the 1st of the following month at UTC+0 00:00.</p>
+<p><strong>How are high-performing teachers determined?</strong><strong><br></strong>Teachers are identified based on a set number of factors with different weights, which are calculated based on performance over the previous three months. </p>
+<ul>
+<li>
+<strong>Example:</strong> A teacher performance updated on April 25th will reflect the behavior from January to March:<br><em>(March performance * 50%) + (February performance * 30%) + (January performance * 20%)</em>
+</li>
+</ul>
+<p><strong>What factors are considered?</strong></p>
+<p>Base Factors are the main part of the performance and not performing well in those areas will affect a teacher's eligibility for Rewards. Bonus Factors are only additive and help raise a teacher’s score not lower it. Listed below are the factors in order of importance:</p>
+<p><strong>Factors:</strong> </p>
+<ul>
+<li>Month-over-Month Retention</li>
+<li>2nd Lesson Rebook</li>
+<li>Missed Lesson Requests </li>
+<li>Absences</li>
+<li>1st Lesson 5-star Review</li>
+<li>1st Lesson Teacher Feedback</li>
+<li>Lesson Declines</li>
+<li>Cancellations</li>
+</ul>
+<p><strong>When will the first Excellence Reward be issued?</strong><strong><br></strong>April 1st, 2025, based on teacher performance from December 2024 to February 2025.</p>

@@ -1,0 +1,92 @@
+<h1>Zendesk Trigger and Automations</h1>
+<h3><strong>Ticket Status:</strong></h3>
+<ol>
+<li style="font-weight: 400;">
+<strong>New</strong><span style="font-weight: 400;"> - New ticket, need assignment/response</span>
+</li>
+<li style="font-weight: 400;">
+<strong>Open</strong><span style="font-weight: 400;"> - Open ticket assigned to Assignee, need response from Assignee</span>
+</li>
+<li style="font-weight: 400;">
+<strong>On Hold</strong><span style="font-weight: 400;"> - Ticket put on hold temporarily</span>
+</li>
+<ul>
+<li style="font-weight: 400;"><span style="font-weight: 400;">Reopened after 12 hours automatically</span></li>
+</ul>
+<li style="font-weight: 400;">
+<strong>Pending</strong><span style="font-weight: 400;"> - Waiting for Requester reply</span>
+</li>
+<ul>
+<li style="font-weight: 400;"><span style="font-weight: 400;">Can be reopened if Requester reply</span></li>
+</ul>
+<li style="font-weight: 400;">
+<strong>Solved</strong><span style="font-weight: 400;"> - Request has been deemed solved by Assignee/Requester</span>
+</li>
+<ul>
+<li style="font-weight: 400;"><span style="font-weight: 400;">Can be reopened</span></li>
+</ul>
+<li style="font-weight: 400;">
+<strong>Closed</strong><span style="font-weight: 400;"> - Case Closed (96 hours after solved without reopen)</span>
+</li>
+<ul>
+<li style="font-weight: 400;"><span style="font-weight: 400;">Cannot be reopened</span></li>
+</ul>
+</ol>
+<h3><strong>Automation:</strong></h3>
+<ol>
+<li style="font-weight: 400;"><strong>Close ticket 4 days after status is set to solved</strong></li>
+<ul>
+<li style="font-weight: 400;"><span style="font-weight: 400;">If ticket status is set to SOLVED, after 96 hours, ticket status will automatically change to CLOSED</span></li>
+</ul>
+<li style="font-weight: 400;"><strong>Ticket is automatically prioritized</strong></li>
+<ul>
+<li style="font-weight: 400;"><span style="font-weight: 400;">If ticket status is NEW and is over 16 hours (no response), set ticket priority to HIGH</span></li>
+</ul>
+<li style="font-weight: 400;"><strong>Pending notification 24 hours</strong></li>
+<ul>
+<li style="font-weight: 400;"><span style="font-weight: 400;">If ticket status is PENDING for over 24 hours (no response), send reminder to Requester to respond to ticket</span></li>
+</ul>
+<li style="font-weight: 400;"><strong>Solve ticket 3 days after status is set to Pending (Except those in Payment Group)</strong></li>
+<ul>
+<li style="font-weight: 400;"><span style="font-weight: 400;">If ticket status is set to PENDING, after 168 hours, ticket status will automatically change to SOLVED</span></li>
+</ul>
+<li style="font-weight: 400;"><strong>Request customer satisfaction rating (System Automation)</strong></li>
+<ul>
+<li style="font-weight: 400;"><span style="font-weight: 400;">If ticket status is set to SOLVED, after 0 hours, send email to Requester to rate the ticket if unrated </span></li>
+</ul>
+</ol>
+<h3><strong>Triggers: </strong></h3>
+<ol>
+<li style="font-weight: 400;"><strong>Notify requester of received request</strong></li>
+<ul>
+<li style="font-weight: 400;"><span style="font-weight: 400;">Ticket is created, send auto email to Requester that we received ticket</span></li>
+</ul>
+<li style="font-weight: 400;"><strong>Notify requester of comment update</strong></li>
+<ul>
+<li style="font-weight: 400;"><span style="font-weight: 400;">If there is update to the ticket field, notify Requester</span></li>
+</ul>
+<li style="font-weight: 400;"><strong>Notify requester of solved request</strong></li>
+<ul>
+<li style="font-weight: 400;"><span style="font-weight: 400;">If ticket status change to SOLVED</span></li>
+</ul>
+<li style="font-weight: 400;"><strong>Notify assignee of comment update</strong></li>
+<ul>
+<li style="font-weight: 400;"><span style="font-weight: 400;">If we get an update to our ticket, we get email notification to our inbox</span></li>
+</ul>
+<li style="font-weight: 400;"><strong>Notify assignee of assignment</strong></li>
+<ul>
+<li style="font-weight: 400;"><span style="font-weight: 400;">If we get assigned a ticket, we get email notification to our inbox</span></li>
+</ul>
+<li style="font-weight: 400;"><strong>Notify assignee of reopened ticket</strong></li>
+<ul>
+<li style="font-weight: 400;"><span style="font-weight: 400;">If user change status of ticket from SOLVED to OPEN, we get email notification to our inbox</span></li>
+</ul>
+<li style="font-weight: 400;"><strong>Notify group of assignment</strong></li>
+<ul>
+<li style="font-weight: 400;"><span style="font-weight: 400;">If ticket is assigned to GROUP, we get email notification in our inbox</span></li>
+</ul>
+<li style="font-weight: 400;"><span style="font-weight: 400;">Notify all agents of received request</span></li>
+<ul>
+<li style="font-weight: 400;"><span style="font-weight: 400;">If we receive NEW ticket, we get email notification in our inbox</span></li>
+</ul>
+</ol>

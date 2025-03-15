@@ -1,0 +1,28 @@
+<h1>How to redeem a Tandem code</h1>
+<h2 id="h_01JG3FN4BRQGMJGNVS942NBHDD">About Tandem</h2>
+<p>You can practice over 300 languages through real conversations and immerse yourself in authentic cultural exchanges through text, audio, and video calls in Tandem. Language learning has never been this fun and engaging! Feel and sound fluent faster, make new friends, and explore different cultures, all in one place!</p>
+<h2 id="h_01JG3FN4BSNDWNS8AA06R65HA0">Redeem your code</h2>
+<ol>
+<li>Download the app and sign up for free. Enrollment is only available through the app. <span style="color: #1c1c1c; background-color: #ffffff;">Tandem will review each application within 24 hours to ensure a safe and enjoyable community. If you haven’t been approved within 72 hours, please reapply.</span>
+</li>
+</ol>
+<p class="wysiwyg-indent1"><img src="https://support.italki.com/hc/article_attachments/41674809647001" width="2048" height="833"></p>
+<ol start="2">
+<li>
+<strong>Android:</strong> Codes are valid for 7 days.</li>
+</ol>
+<p>Please navigate to the Play Store App. At the top right, tap on the profile icon and choose “Payments &amp; subscriptions”.</p>
+<p><img src="https://support.italki.com/hc/article_attachments/41674809650457" width="386" height="402"><img src="https://support.italki.com/hc/article_attachments/41674856045465" width="314" height="451"></p>
+<p>Click “Redeem code”.</p>
+<p><img src="https://support.italki.com/hc/article_attachments/41674856048921" width="279" height="371"></p>
+<p>Enter your code and Redeem.</p>
+<p><img src="https://support.italki.com/hc/article_attachments/41674856081689" width="225" height="431"><img src="https://support.italki.com/hc/article_attachments/41674809660953" width="226" height="430"><img src="https://support.italki.com/hc/article_attachments/41674809663641" width="227" height="432"></p>
+<p><strong>iOS:</strong> Codes are valid for 7 days.</p>
+<p>Please access your App Store, navigate to the <strong>Today</strong> tab, select your profile, and click on “Redeem Gift Card or Code.”</p>
+<p><img src="https://support.italki.com/hc/article_attachments/41674856098713" width="276" height="429"></p>
+<p>Select “You can also enter your code manually”, enter your code and Redeem.</p>
+<p><img src="https://support.italki.com/hc/article_attachments/41674809667481" width="274" height="526"><img src="https://support.italki.com/hc/article_attachments/41674856103577" width="276" height="526"></p>
+<ol start="3">
+<li>Go to the Tandem app, and tap on "Pro" to be upgraded. Please close and reopen the app if the Tandem Pro features don't appear in your profile.</li>
+</ol>
+<p>If you have issues with redeeming your code or enrollment, please contact support at <a href="mailto:italki@tandem.net"><span class="wysiwyg-underline" style="color: #1155cc;">italki@tandem.net</span></a>.</p>

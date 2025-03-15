@@ -1,0 +1,16 @@
+<h1>Can I edit or cancel a withdrawal?</h1>
+<p><span style="font-weight: 400;">If you've submitted a withdrawal request and it is </span><strong>Pending Approval</strong><span style="font-weight: 400;"> you can edit or cancel the request. However, once your withdrawal request has been approved by italki and we are sending</span> <span style="font-weight: 400;">money to you, it cannot be edited or canceled.</span></p>
+<p> </p>
+<p><strong>Can I make multiple withdrawal requests?</strong></p>
+<p><strong>You can only submit one withdrawal request per payment cycle.  </strong></p>
+<p><span style="font-weight: 400;">If you submit another withdrawal request within the </span><strong>same payment cycle</strong><span style="font-weight: 400;"> (so between the 1st and 15th or the 16th and 30/31st) this </span><strong>won’t </strong><span style="font-weight: 400;">be considered a new withdrawal. <strong>Instead, you will be editing the first withdrawal request you made. </strong></span></p>
+<p> </p>
+<p><strong>How do I edit or cancel my Withdrawal request?</strong></p>
+<p><span style="font-weight: 400;">Go to your </span><span style="font-weight: 400;"><strong>My Wallet</strong></span><span style="font-weight: 400;"> -&gt; </span><strong>Withdrawal history</strong><span style="font-weight: 400;"> -&gt; <strong>View Details</strong> and you can either </span><strong>Edit</strong><span style="font-weight: 400;"> or </span><strong>Cancel </strong><span style="font-weight: 400;">the request that is </span><strong>Pending Approval</strong><span style="font-weight: 400;">.</span></p>
+<p> </p>
+<p><span style="font-weight: 400;">Please refer to the below screenshot:</span></p>
+<p><img src="https://support.italki.com/hc/article_attachments/900006546503" alt="Screenshot_2021-01-19_at_16.10.23.png"></p>
+<p> </p>
+<p><img src="https://support.italki.com/hc/article_attachments/900006546303" alt="Screenshot_2021-01-19_at_16.04.55.png" width="618" height="427"></p>
+<p> </p>
+<p><span style="font-weight: 400;"><img src="https://support.italki.com/hc/article_attachments/900006546343" alt="Screenshot_2021-01-19_at_16.06.49.png" width="658" height="346"></span></p>

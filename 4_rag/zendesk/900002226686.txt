@@ -1,0 +1,25 @@
+<h1>Welcome to italki Community!</h1>
+<p><span class="wysiwyg-font-size-medium"><img src="https://support.italki.com/hc/article_attachments/900003065726" alt="welcome.png" width="979" height="326"></span></p>
+<p><span style="font-weight: 400;">On 31 August 2020, we released the open beta of the new Community. </span></p>
+<h2><strong>What’s new?</strong></h2>
+<p><span style="font-weight: 400;">As well as a fresh new look, we added some exciting features:</span></p>
+<ul>
+<li style="font-weight: 400;">
+<strong>Exercises</strong><span style="font-weight: 400;"> - Practice and improve your skills through audio and written exercises.</span>
+</li>
+<li style="font-weight: 400;">
+<strong>Questions</strong><span style="font-weight: 400;"> - Got a burning question? Get unstuck here.</span>
+</li>
+<li style="font-weight: 400;">
+<strong>Posts</strong><span style="font-weight: 400;"> - Share your learning milestones, stories, and more.</span>
+</li>
+<li style="font-weight: 400;">
+<strong>Topics </strong>- Meet, connect, and grow through language and culture discussions.  </li>
+</ul>
+<p><span style="font-weight: 400;">Now it’s easier than ever to support, share, and grow with other learners.</span></p>
+<h2><strong>Where can I find my italki friends in italki Community?</strong></h2>
+<p><span style="font-weight: 400;">Your italki friends have become your followers. You can find your followers under the “Me” tab in “Followers”. </span></p>
+<h2><strong>Where are my posts from the old community?</strong></h2>
+<p><span style="font-weight: 400;">Don’t worry, your work isn’t gone! All content on the web Community is available in the new Community. This includes Notebooks, Answers, and Discussions, which have been renamed:</span></p>
+<p><span style="font-weight: 400;">Notebook → </span><strong>Exercise</strong><strong><br></strong><span style="font-weight: 400;">Answers → </span><strong>Questions</strong><strong><br></strong><span style="font-weight: 400;">Discussion → </span><strong>Posts</strong><span style="font-weight: 400;"> </span></p>
+<p><span style="font-weight: 400;">You can find your past work in these sections.</span></p>

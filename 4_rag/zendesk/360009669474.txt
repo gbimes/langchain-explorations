@@ -1,0 +1,21 @@
+<h1>Teacher Warning Message Rules</h1>
+<p><strong>Policy</strong> Current policy is that teachers have 48 hours to respond to warnings. If they respond, we can talk further. If they do not respond, we may suspend their profile.</p>
+<p><strong>Attitude:</strong> In general, we do not want to suspend peoples' profiles. We believe in the people that we accept to teach on italki. We believe in their abilities and in their desire to be good teachers and helpful to their students. When you send a warning, send it with the intention of helping the teacher understand that something is or could become a serious problem, and we want to help them avoid that problem and improve as online teachers.</p>
+<p>It helps to imagine that the teacher you are about to warn is a close friend or family member who may have accidentally done something or who just doesn't realize that what they are doing is problematic. People appreciate it when you give them benefit of the doubt and try to understand and help them.</p>
+<p>However, it sometimes happens that people</p>
+<p><strong>Important notes:</strong></p>
+<ul>
+<li>Sometimes people are crazy and report crazy things. Sometimes you think people are sane, but it turns out they are crazy. Sometimes they seem crazy, but actually they are right, so don't jump to conclusions too quickly without hard evidence or without comparing stories.</li>
+</ul>
+<ul>
+<li>Except for in extreme situations, we send warnings because we want teachers to understand that we are taking the issue seriously and we want to know that it won't become a problem. A warning is a way for us to open the conversation, while letting teachers know the potential consequences.</li>
+</ul>
+<ul>
+<li>If teachers receive a warning without knowing why, they will be confused and upset and try to think of what else happened recently that could have caused it. Make sure that the warning message either follows close on the heels of some other event or explains clearly what prompted it WITHOUT giving away information about other people or about students. (Ex: "we received a student report" ... "we noticed that ...") etc.</li>
+</ul>
+<ul>
+<li>Even though we want to give people the benefit of the doubt, it's good to give them all the important information and consequences in the warning. That way, if it happens again later, we can take action against their profile knowing that we gave them the proper warning and they properly understood the consequences. Otherwise, it can get weird and confusing. It's better to be polite and straightforward from the beginning.</li>
+</ul>
+<ul>
+<li>Always make sure that the warning message contains an invitation for the teacher to reply to us to tell us that they disagree with our assessment or to let us know what's really going on. It's meant as a conversation starter. For all we know, perhaps our system needs to be changed to enable them to do something that they aren't currently able to do.</li>
+</ul>

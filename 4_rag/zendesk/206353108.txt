@@ -1,0 +1,23 @@
+<h1>What device/software do I need to take classes?</h1>
+<h2 id="h_01J7JKWYK8A4N9XZVJ3A756S5R"><strong>Device</strong></h2>
+<p><span style="font-weight: 400;">You will need a device with a camera. It is strongly recommended that you prepare a set of headphones and a microphone for an excellent class experience.</span></p>
+<h2 id="h_01J7JKWYK8JEWD8WK8FJ11Q8D7"><strong>Software / Communication Tools </strong></h2>
+<p><span style="font-weight: 400;">You can visit </span><a href="http://www.italki.com" target="_blank" rel="noopener">www.italki.com</a><span style="font-weight: 400;"> in a browser or download the </span><a href="http://www.italki.com/app" target="_blank" rel="noopener">italki app</a><span style="font-weight: 400;"> (available on Android and iOS).</span></p>
+<p><span style="font-weight: 400;">When booking a lesson, you can choose any of the following options as your lesson communication tool.</span></p>
+<ul>
+<li style="font-weight: 400;">
+<span style="font-weight: 400;"><strong>italki Classroom</strong> is available for both teachers and students and can be accessed through a web browser or italki App. (</span><span class="wysiwyg-underline"><a href="https://support.italki.com/hc/en-us/articles/360023117173" target="_blank" rel="noopener">What is the italki Classroom?</a></span><span style="font-weight: 400;">)</span>
+</li>
+<li style="font-weight: 400;">
+<span style="font-weight: 400;">Other optional communication tools, such as <strong><a href="#h_01EX162PH6ER4MWJ5MMN6WYDV9" target="_self">Skype, Facetime, Zoom</a>, or WeChat</strong>, are provided by teachers depending on which ones they use.</span><span style="font-weight: 400;"></span>
+</li>
+</ul>
+<p><img src="https://support.italki.com/hc/article_attachments/900005760726" alt="mceclip3.png" width="749" height="199"></p>
+<p><span style="font-weight: 400;">If you are using other communication tools instead of the italki Classroom, </span><span style="font-weight: 400;">your Account Name or ID may be required so that your teacher can contact you and take the lesson.</span></p>
+<p><img src="https://support.italki.com/hc/article_attachments/900006676003" alt="mceclip0.png"></p>
+<p><span style="font-weight: 400;">When a lesson request is accepted, your teacher’s ID of the communication tool you have both agreed to can be found on the lesson page. </span><span style="font-weight: 400;">If the software you like is not listed, you can contact the teacher and ask if it is available for him/her to use. </span></p>
+<p> </p>
+<h2 id="h_01EX162PH6ER4MWJ5MMN6WYDV9"><strong>Useful links:</strong></h2>
+<p><span style="font-weight: 400;">External link from Apple: Use </span><strong>FaceTime </strong><span class="wysiwyg-underline"><a href="https://support.apple.com/en-us/HT204380"><span style="font-weight: 400;">with your iPhone, iPad, or iPod touch</span></a></span><span style="font-weight: 400;"> or on your </span><span class="wysiwyg-underline"><a href="https://support.apple.com/en-hk/HT208176"><span style="font-weight: 400;">Mac </span></a></span></p>
+<p><span style="font-weight: 400;">External link from Google: </span><span class="wysiwyg-underline"><a href="https://hangouts.google.com/"><span style="font-weight: 400;">Google Hangouts</span></a></span></p>
+<p><span style="font-weight: 400;">External link from Zoom: </span><span class="wysiwyg-underline"><span style="font-weight: 400;"><a href="https://support.zoom.us/hc/en-us/articles/201362843-Personal-meeting-ID-PMI-and-personal-link">Personal meeting ID (PMI) and personal link</a></span></span></p>

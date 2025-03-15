@@ -1,0 +1,20 @@
+<h1>What should I do if my teacher did not show up for the lesson?</h1>
+<p><span style="font-weight: 400;">If in rare cases - teachers didn't attend a lesson without giving prior notice due to technical issues or personal emergencies - or there are other issues with your lesson, </span><strong>after the lesson,</strong><span style="font-weight: 400;"> you can </span><strong><a href="https://support.italki.com/hc/en-us/articles/360023118333#h_01ER28D3TR19VGJJ14Y42DCT0S" target="_blank" rel="noopener noreferrer">submit a lesson incomplete request</a></strong><span style="font-weight: 400;"> and let us know what happened.</span></p>
+<p><span style="font-weight: 400;">In this situation, please make sure:</span></p>
+<ul>
+<li style="font-weight: 400;" aria-level="1"><span style="font-weight: 400;">Contact your teacher during and after the lesson time to check if the teacher is available.</span></li>
+<li style="font-weight: 400;" aria-level="1">
+<span style="font-weight: 400;">If there is no response from the teacher, </span><strong><a href="https://support.italki.com/hc/en-us/articles/360023118333#h_01ER28D3TR19VGJJ14Y42DCT0S" target="_blank" rel="noopener noreferrer">submit a lesson incomplete request</a></strong>.</li>
+<li style="font-weight: 400;" aria-level="1"><span style="font-weight: 400;">Select "Teacher did not attend and did not give prior notice” and the solution.</span></li>
+</ul>
+<p><span style="font-weight: 400;">The teacher will have <strong>3</strong></span><span style="font-weight: 400;"><strong> days</strong> to respond to the request.</span></p>
+<ul>
+<li><span style="font-weight: 400;"><strong>If the request is accepted, </strong>it will be resolved in accordance with the solution proposed.</span></li>
+<li><span style="font-weight: 400;"><strong>If the request is declined</strong>, you will receive the reason and solution submitted by the teacher. You can either accept or decline it.</span></li>
+</ul>
+<p><span style="font-weight: 400;"><img src="https://lh7-us.googleusercontent.com/docsz/AD_4nXdPLzI--_ZrzE45thzfiFIeeHuGqy-87P85DV2_Zbuwp2d9SGHanY7i4TijM0V9RFHNhsVjCFmZpYizJ6ql3vqXLh-_ErAzh3yp_ategt5jtUL0h3wFrv6CHy7QxybA4tned3uHFAHIZx97aOAzLNLss1g?key=xFRnkVXgDChnllT3eojS1g" width="689" height="318"></span></p>
+<ul>
+<li>
+<span style="font-weight: 400;">If you decline the request submitted by the teacher, the lesson is then in dispute. </span><span style="font-weight: 400;">italki will settle the <a href="https://support.italki.com/hc/en-us/articles/206352878-Lesson-Dispute" target="_blank" rel="noopener noreferrer">Lesson Dispute</a>.</span> <span style="font-weight: 400;">A final decision will be made based on the information and details submitted by both parties.</span>
+</li>
+</ul>

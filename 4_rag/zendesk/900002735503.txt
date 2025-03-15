@@ -1,0 +1,19 @@
+<h1>How do I get a receipt or invoice?</h1>
+<p><span style="font-weight: 400;">To receive a receipt for your purchased italki Credits:</span></p>
+<ol>
+<li style="font-weight: 400;">
+<span style="font-weight: 400;">Go to </span><a href="https://www.italki.com/finance/overview" target="_blank" rel="noopener"><span class="wysiwyg-underline"><strong>My Wallet</strong></span></a>
+</li>
+<li style="font-weight: 400;">
+<span style="font-weight: 400;">Click the filter <img src="https://support.italki.com/hc/article_attachments/36793276198553" alt="filter.png" width="22" height="24"></span><span style="font-weight: 400;"> next to <strong>Transaction Details</strong></span>
+</li>
+<li style="font-weight: 400;">
+<span style="font-weight: 400;">Select Date range and transaction type of </span><strong>Buy italki credits</strong><span style="font-weight: 400;"> </span>
+</li>
+<li style="font-weight: 400;">
+<span style="font-weight: 400;">Find your purchase record and click</span><strong> Download Receipt </strong><strong><img src="https://support.italki.com/hc/article_attachments/900003650363" alt="2.2-download_receipt.png"></strong>
+</li>
+<li style="font-weight: 400;">
+<span style="font-weight: 400;">Enter your billing information and click </span><strong>Download As PDF</strong><strong><img src="https://support.italki.com/hc/article_attachments/900003702926" alt="2.2.2-download_as_PDF.png"></strong>
+</li>
+</ol>

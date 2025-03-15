@@ -1,0 +1,347 @@
+<h1>15th Anniversary Campaign </h1>
+<h2><strong>1. Campaign Duration</strong></h2>
+<p><strong>1st-31st  July  </strong><strong>JULY 1: 00:00:00 (</strong><strong>UTC+0) </strong><strong>- JULY 31: 23:59:59 (</strong><strong>UTC+0）</strong></p>
+<p><span style="font-weight: 400;">Design an incentive-based gamified experience to integrate our product features with, and make language learning a fun and rewardable experience for achievements.</span> The main<span style="font-weight: 400;"> goal is to encourage users to experience our products by providing a fun experience.</span></p>
+<h2><strong>2. Key Messages </strong></h2>
+<h3><strong>2.1 New users</strong></h3>
+<p><span style="font-weight: 400;">Come join the fun language adventure to unleash your language learning potential with the help of our experienced teachers through customized 1-1 lessons. </span><span style="font-weight: 400;"></span></p>
+<h3><strong>2.2 Existing users</strong></h3>
+<p><span style="font-weight: 400;">Thank you for being a part of italki’ s 15 years’ journey! We appreciate your trust along the way. Now continue your language learning adventure with us, push beyond your comfort zone to achieve more than what you think you can.  </span></p>
+<p> </p>
+<h2><strong>3. User Journey </strong></h2>
+<p><span style="font-weight: 400;">         <img src="https://support.italki.com/hc/article_attachments/7903214412697/mceclip0.png" alt="mceclip0.png"></span></p>
+<p> </p>
+<h2><strong>4. Rewards</strong></h2>
+<h3><span style="font-weight: 400;"><strong>4.1  Fixed Rewards</strong> </span></h3>
+<h3><span style="font-weight: 400;">Users will automatically receive these fixed rewards under the conditions below.</span></h3>
+<table style="height: 154px; width: 635px;" border="1">
+<tbody>
+<tr style="height: 22px;">
+<td style="width: 623px; height: 22px;" colspan="4">
+<p class="wysiwyg-text-align-center"><strong>Challenge rewards</strong></p>
+</td>
+</tr>
+<tr style="height: 22px;">
+<td style="width: 150.087px; height: 22px;">
+<p><strong>Condition</strong></p>
+</td>
+<td style="width: 146.738px; height: 22px;">
+<p><strong>Coupon details</strong></p>
+</td>
+<td style="width: 147.163px; height: 22px;">
+<p><strong>Coupon type</strong></p>
+</td>
+<td style="width: 146.012px; height: 22px;">
+<p><strong>Valid period</strong></p>
+</td>
+</tr>
+<tr style="height: 22px;">
+<td style="width: 150.087px; height: 22px;">
+<p><span style="font-weight: 400;">Complete Quiz</span></p>
+</td>
+<td style="width: 146.738px; height: 22px;">
+<p><span style="font-weight: 400;">Buy $15 get $3 off</span></p>
+</td>
+<td style="width: 147.163px; height: 22px;">
+<p><span style="font-weight: 400;">lesson coupon</span></p>
+</td>
+<td style="width: 146.012px; height: 22px;">
+<p><span style="font-weight: 400;">3 days</span></p>
+</td>
+</tr>
+<tr style="height: 22px;">
+<td style="width: 150.087px; height: 22px;">
+<p><span style="font-weight: 400;">Complete 1 lesson</span></p>
+</td>
+<td style="width: 146.738px; height: 22px;">
+<p><span style="font-weight: 400;">Buy $ 30 get $10 off</span></p>
+</td>
+<td style="width: 147.163px; height: 22px;">
+<p><span style="font-weight: 400;">language test coupon</span></p>
+</td>
+<td style="width: 146.012px; height: 22px;">
+<p><span style="font-weight: 400;">30 days</span></p>
+</td>
+</tr>
+<tr style="height: 22px;">
+<td style="width: 150.087px; height: 22px;">
+<p><span style="font-weight: 400;">Complete 5th lesson</span></p>
+</td>
+<td style="width: 146.738px; height: 22px;">
+<p><span style="font-weight: 400;">Buy $ 30 get $5 extra</span></p>
+</td>
+<td style="width: 147.163px; height: 22px;">
+<p><span style="font-weight: 400;">purchase coupon</span></p>
+</td>
+<td style="width: 146.012px; height: 22px;">
+<p><span style="font-weight: 400;">30 days</span></p>
+</td>
+</tr>
+<tr style="height: 22px;">
+<td style="width: 150.087px; height: 22px;">
+<p><span style="font-weight: 400;">Complete 10th lesson</span></p>
+</td>
+<td style="width: 146.738px; height: 22px;">
+<p><span style="font-weight: 400;">Buy $50 get $10 extra</span></p>
+</td>
+<td style="width: 147.163px; height: 22px;">
+<p><span style="font-weight: 400;">purchase coupon</span></p>
+</td>
+<td style="width: 146.012px; height: 22px;">
+<p><span style="font-weight: 400;">30 days</span></p>
+</td>
+</tr>
+<tr style="height: 22px;">
+<td style="width: 150.087px; height: 22px;">
+<p><span style="font-weight: 400;">Complete15th lesson</span></p>
+</td>
+<td style="width: 146.738px; height: 22px;">
+<p><span style="font-weight: 400;">Buy $100 get $25 extra</span></p>
+</td>
+<td style="width: 147.163px; height: 22px;">
+<p><span style="font-weight: 400;">purchase coupon</span></p>
+</td>
+<td style="width: 146.012px; height: 22px;">
+<p><span style="font-weight: 400;">30 days</span></p>
+</td>
+</tr>
+</tbody>
+</table>
+<p> </p>
+<h3><span class="wysiwyg-font-size-large"><strong>4.2 Prize Draw </strong></span></h3>
+<p><span style="font-weight: 400;">On Rewardsland (the 3rd Challenge Island), users are able to draw prizes after completing either: </span><span style="font-weight: 400;">A) 2 lessons or B) 1 lesson + 1 community post. Each extra lesson taken will be rewarded with an extra chance for Prize Draw. Once user is qualify for prize draw, user can enter it anytime and prize is distributed automatically. </span></p>
+<table style="height: 325px;" border="1" width="626">
+<tbody>
+<tr>
+<td style="width: 614px;" colspan="5">
+<p class="wysiwyg-text-align-center"><strong><span class="wysiwyg-font-size-medium">Prize  Draw </span></strong></p>
+</td>
+</tr>
+<tr>
+<td style="width: 88.675px;">
+<p><strong><span class="wysiwyg-font-size-medium">Items</span></strong></p>
+</td>
+<td style="width: 182.45px;">
+<p><strong><span class="wysiwyg-font-size-medium">Coupon details</span></strong></p>
+</td>
+<td style="width: 122.875px;">
+<p><strong><span class="wysiwyg-font-size-medium">Coupon type</span></strong></p>
+</td>
+<td style="width: 97.225px;">
+<p><strong><span class="wysiwyg-font-size-medium">Valid period</span></strong></p>
+</td>
+<td style="width: 78.775px;">
+<p><strong><span class="wysiwyg-font-size-medium"># of prize</span></strong></p>
+</td>
+</tr>
+<tr>
+<td style="width: 88.675px;">
+<p><span class="wysiwyg-font-size-medium">1st prize</span></p>
+</td>
+<td style="width: 182.45px;">
+<p><span class="wysiwyg-font-size-medium">1 month of free lessons</span></p>
+</td>
+<td style="width: 122.875px;">
+<p><span class="wysiwyg-font-size-medium">lesson coupon</span></p>
+</td>
+<td style="width: 97.225px;">
+<p><span class="wysiwyg-font-size-medium">30 days</span></p>
+</td>
+<td style="width: 78.775px;">
+<p><span class="wysiwyg-font-size-medium">50</span></p>
+</td>
+</tr>
+<tr>
+<td style="width: 88.675px;" rowspan="6">
+<p><span class="wysiwyg-font-size-medium">Other prizes</span></p>
+</td>
+<td style="width: 182.45px;">
+<p><span class="wysiwyg-font-size-medium">Buy $ 500 get $ 50 extra</span></p>
+</td>
+<td style="width: 122.875px;">
+<p><span class="wysiwyg-font-size-medium">purchase coupon</span></p>
+</td>
+<td style="width: 97.225px;">
+<p><span class="wysiwyg-font-size-medium">30 days</span></p>
+</td>
+<td style="width: 78.775px;">
+<p><span class="wysiwyg-font-size-medium">150</span></p>
+</td>
+</tr>
+<tr>
+<td style="width: 182.45px;">
+<p><span class="wysiwyg-font-size-medium">Buy $ 300 get $ 30 extra</span></p>
+</td>
+<td style="width: 122.875px;">
+<p><span class="wysiwyg-font-size-medium">purchase coupon</span></p>
+</td>
+<td style="width: 97.225px;">
+<p><span class="wysiwyg-font-size-medium">30 days</span></p>
+</td>
+<td style="width: 78.775px;">
+<p><span class="wysiwyg-font-size-medium">200</span></p>
+</td>
+</tr>
+<tr>
+<td style="width: 182.45px;">
+<p><span class="wysiwyg-font-size-medium">Buy $100 get $10 extra</span></p>
+</td>
+<td style="width: 122.875px;">
+<p><span class="wysiwyg-font-size-medium">purchase coupon</span></p>
+</td>
+<td style="width: 97.225px;">
+<p><span class="wysiwyg-font-size-medium">30 days</span></p>
+</td>
+<td style="width: 78.775px;">
+<p><span class="wysiwyg-font-size-medium">300</span></p>
+</td>
+</tr>
+<tr>
+<td style="width: 182.45px;">
+<p><span class="wysiwyg-font-size-medium">Buy $50 get $ 5 extra</span></p>
+</td>
+<td style="width: 122.875px;">
+<p><span class="wysiwyg-font-size-medium">purchase coupon</span></p>
+</td>
+<td style="width: 97.225px;">
+<p><span class="wysiwyg-font-size-medium">30 days</span></p>
+</td>
+<td style="width: 78.775px;">
+<p><span class="wysiwyg-font-size-medium">400</span></p>
+</td>
+</tr>
+<tr>
+<td style="width: 182.45px;">
+<p><span class="wysiwyg-font-size-medium">Buy $ 15 get $2 extra</span></p>
+</td>
+<td style="width: 122.875px;">
+<p><span class="wysiwyg-font-size-medium">purchase coupon</span></p>
+</td>
+<td style="width: 97.225px;">
+<p><span class="wysiwyg-font-size-medium">30 days</span></p>
+</td>
+<td style="width: 78.775px;">
+<p><span class="wysiwyg-font-size-medium">500</span></p>
+</td>
+</tr>
+<tr>
+<td style="width: 182.45px;">
+<p><span class="wysiwyg-font-size-medium">Buy $0 get $ 1 off</span></p>
+</td>
+<td style="width: 122.875px;">
+<p><span class="wysiwyg-font-size-medium">lesson coupon</span></p>
+</td>
+<td style="width: 97.225px;">
+<p><span class="wysiwyg-font-size-medium">30 days</span></p>
+</td>
+<td style="width: 78.775px;">
+<p><span class="wysiwyg-font-size-medium">1,500</span></p>
+</td>
+</tr>
+<tr>
+<td style="width: 524.225px;" colspan="4">
+<p><span class="wysiwyg-font-size-medium">Subtotal</span></p>
+</td>
+<td style="width: 78.775px;">
+<p><span class="wysiwyg-font-size-medium">3,100</span></p>
+</td>
+</tr>
+</tbody>
+</table>
+<p> </p>
+<h2>
+<span class="wysiwyg-font-size-large"><strong>5. Communication</strong> </span><span class="wysiwyg-font-size-large"></span>
+</h2>
+<table style="width: 778px; height: 533px;" border="1" data-number-column="false">
+<tbody>
+<tr style="height: 22px;">
+<td style="width: 103.275px; height: 22px;">
+<p aria-disabled="true"><span class="wysiwyg-font-size-medium">Goal</span></p>
+</td>
+<td style="width: 227.613px; height: 22px;">
+<p aria-disabled="true"><span class="wysiwyg-font-size-medium">Target Audience </span></p>
+</td>
+<td style="width: 199.538px; height: 22px;">
+<p aria-disabled="true"><span class="wysiwyg-font-size-medium">Comm Channel</span></p>
+</td>
+<td style="width: 202.575px; height: 22px;">
+<p aria-disabled="true"><span class="wysiwyg-font-size-medium">Trigger</span></p>
+</td>
+</tr>
+<tr style="height: 74px;">
+<td style="width: 103.275px; height: 74px;" data-colwidth="269">
+<p><span class="wysiwyg-font-size-medium">Awareness</span></p>
+</td>
+<td style="width: 227.613px; height: 74px;" data-colwidth="226">
+<p><span class="wysiwyg-font-size-medium">Visitors, logged-out users</span></p>
+</td>
+<td style="width: 199.538px; height: 74px;" data-colwidth="206">
+<p><span class="wysiwyg-font-size-medium">Internal Ads(IAs): homepage, Community</span></p>
+<p><span class="wysiwyg-font-size-medium">Social Media  </span></p>
+</td>
+<td style="width: 202.575px; height: 74px;" data-colwidth="215">
+<p><span class="wysiwyg-font-size-medium">n/a</span></p>
+</td>
+</tr>
+<tr style="height: 89px;">
+<td style="width: 103.275px; height: 237px;" rowspan="2" data-colwidth="269">
+<p><span class="wysiwyg-font-size-medium">Conversion</span></p>
+</td>
+<td style="width: 227.613px; height: 89px;" data-colwidth="226">
+<p><span class="wysiwyg-font-size-medium">Newly registered users - registration time is between 7/1 UTC+0: 00:00:00 A.M and 7/31 UTC+0: 23:59:59 PM</span></p>
+</td>
+<td style="width: 199.538px; height: 89px;" data-colwidth="206">
+<p><span class="wysiwyg-font-size-medium">IAs: student dashboard (web, app) </span><br><span class="wysiwyg-font-size-medium">1 Email &amp; 1 Push - URL: Main landing page</span></p>
+</td>
+<td style="width: 202.575px; height: 89px;" data-colwidth="215">
+<p><span class="wysiwyg-font-size-medium">Trigger comms based off of the registration event  during the whole month of July</span></p>
+</td>
+</tr>
+<tr style="height: 148px;">
+<td style="width: 227.613px; height: 148px;">
+<p><span class="wysiwyg-font-size-medium">Existing non-paying users:</span></p>
+<p><span class="wysiwyg-font-size-medium">Batch 1: Free users whose last login time is within past 6 months</span></p>
+<p><span class="wysiwyg-font-size-medium">Batch 2: Free users whose last login time is within 7 -12 months ago</span></p>
+</td>
+<td style="width: 199.538px; height: 148px;" data-colwidth="206">
+<p><span class="wysiwyg-font-size-medium">IAs: student dashboard (web, app)* </span><br><span class="wysiwyg-font-size-medium">1 Email &amp; 1 Push x4 </span></p>
+</td>
+<td style="width: 202.575px; height: 148px;" data-colwidth="215">
+<p><span class="wysiwyg-font-size-medium">n/a - 4 segment-triggered campaigns, send weekly on Wednesdays (last send date: 7/22)</span></p>
+</td>
+</tr>
+<tr style="height: 133px;">
+<td style="width: 103.275px; height: 133px;" data-colwidth="269">
+<p><span class="wysiwyg-font-size-medium">Retention</span></p>
+</td>
+<td style="width: 227.613px; height: 133px;" data-colwidth="226">
+<p><span class="wysiwyg-font-size-medium">Existing paying users:</span></p>
+<p><span class="wysiwyg-font-size-medium">Have completed 0 lessons</span></p>
+<p><span class="wysiwyg-font-size-medium">Have taken 1 lesson historically and last login w/ past 30D</span></p>
+<p><span class="wysiwyg-font-size-medium">30d &lt; last lesson request &lt;120d</span></p>
+</td>
+<td style="width: 199.538px; height: 133px;" data-colwidth="206">
+<p><span class="wysiwyg-font-size-medium">IAs: student dashboard (web, app) </span><br><span class="wysiwyg-font-size-medium">1 Emails, 1 Push x2 </span></p>
+</td>
+<td style="width: 202.575px; height: 133px;" data-colwidth="215">
+<p><span class="wysiwyg-font-size-medium">Send 2 Emails, 2 Push in July (every other week)</span></p>
+</td>
+</tr>
+<tr style="height: 67px;">
+<td style="width: 103.275px; height: 67px;" data-colwidth="269">
+<p><span class="wysiwyg-font-size-medium">Reactivation</span></p>
+</td>
+<td style="width: 227.613px; height: 67px;" data-colwidth="226">
+<p><span class="wysiwyg-font-size-medium">Existing paying users included in Student Drip: 120d &lt; last lesson request &lt;365d</span></p>
+</td>
+<td style="width: 199.538px; height: 67px;">
+<p><span class="wysiwyg-font-size-medium">IAs: student dashboard (web, app)*</span></p>
+</td>
+<td style="width: 202.575px; height: 67px;" data-colwidth="215">
+<p><span class="wysiwyg-font-size-medium">Triggered Student Drip (send dates: between 4 - 8 July)</span></p>
+</td>
+</tr>
+</tbody>
+</table>
+<p> </p>
+<p> </p>

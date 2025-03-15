@@ -1,0 +1,76 @@
+<h1>2022 Feb Language Challenge (LC) FAQ - Internal Reference</h1>
+<p><img src="https://support.italki.com/hc/article_attachments/4418364434969/mceclip0.png" alt="mceclip0.png"></p>
+<p> </p>
+<h2><strong>General Information</strong></h2>
+<h3><span class="wysiwyg-underline"><strong>When</strong></span></h3>
+<div><span><span style="font-weight: 400;">Feb 15th 2022 </span>(UTC+0) - <span style="font-weight: 400;">March 31st 2022 </span>(UTC+0)</span></div>
+<h2> </h2>
+<h3><span class="wysiwyg-underline"><strong>New Strategy</strong></span></h3>
+<div>
+<ul class="ak-ul" data-indent-level="1">
+<li>
+<p data-renderer-start-pos="547">Adjust “goal hour” tiers for different target audience segments to enhance engagement by reducing “failure &amp; struggler” rates. <strong>New tiers: 5h, 12h, 19h, 24h.</strong></p>
+</li>
+<li>
+<p data-renderer-start-pos="711">Encourage new and existing users to take more lessons during the campaign time frame by prompting them to achieve a Lesson Hour Goal by keeping nurturing them with targeted content marketing efforts.</p>
+</li>
+</ul>
+<h3><span class="wysiwyg-underline"><strong>Ranking Rewards</strong></span></h3>
+<h3><span class="wysiwyg-underline"><strong><img src="https://support.italki.com/hc/article_attachments/4442941877785/mceclip0.png" alt="mceclip0.png"></strong></span></h3>
+<h3><span class="wysiwyg-underline"><strong>Full details in confluence</strong></span></h3>
+<p><a href="https://italki.atlassian.net/wiki/spaces/IBR/pages/4170548214/Feb+2022+Language+Challenge+WIP">https://italki.atlassian.net/wiki/spaces/IBR/pages/4170548214/Feb+2022+Language+Challenge+WIP</a></p>
+<p> </p>
+<h3><span class="wysiwyg-underline"><strong>FAQ in language challenge page</strong></span></h3>
+<ul class="lc-faq-ul">
+<li>
+<div class="lc-faq-title"><span>1. When does the Language Challenge start/end?</span></div>
+<span>It starts at 6:00 am (UTC+0) on 15 February, and finishes at 11:59 pm (UTC+0) on 31 March.</span>
+</li>
+<li>
+<div class="lc-faq-title"><span>2. Can I change my Language Challenge goal?</span></div>
+<span>Yes. You can’t downgrade your goal, but you can upgrade to a higher goal on your dashboard and on the Language Challenge page.</span>
+</li>
+<li>
+<div class="lc-faq-title"><span>3. What if I don’t reach my goal?</span></div>
+<span>As long as you reach a challenge goal, you'll win rewards. For example, if you choose 19 hours but reach 18 instead, you'll win the 12 hour tier rewards. This rule also applies if you hit a higher goal.</span>
+</li>
+<li>
+<div class="lc-faq-title"><span>4. I’ve already taken some lessons but I haven’t signed up to the challenge yet. If I sign up, will they count toward my goal?</span></div>
+<span>No, lessons that don't take place during the challenge don't count. However, if you book lessons in advance and those lessons will take place during the challenge, they'll count.</span>
+</li>
+<li>
+<div class="lc-faq-title"><span>5. Do Trial Lessons count?</span></div>
+<span>Yes. But since Trial Lessons are only 30 minutes, you must complete 2 Trial Lessons for them to count as 1 completed lesson hour.</span>
+</li>
+<li>
+<div class="lc-faq-title"><span>6. Do I have to pay for the lessons I take?</span></div>
+<span>Yes, challengers must pay for all lessons taken on italki.</span>
+</li>
+<li>
+<div class="lc-faq-title"><span>7. Do I have to take language lessons on italki?</span></div>
+<span>Yes, all lessons must be taken on italki.</span>
+</li>
+<li>
+<div class="lc-faq-title"><span>8. Can I win rewards from multiple tiers?</span></div>
+<span>Rewards are accumulative. For example, if you reach the 19 hour goal, you'll earn the rewards from all previous goals, as well as the rewards exclusive to the 19 hour tier.</span>
+</li>
+<li>
+<div class="lc-faq-title"><span>9. How do I collect my rewards?</span></div>
+<span>After hitting your language learning goal, you will automatically receive your Buy $50 get $10 coupon and your discount coupon for a italki Language Test. All other awards will be available on the Language Challenge page on 7 April 6:00 am (UTC+0), after the challenge has finished. This includes any digital badges, the $50 italki Credits coupon, and the $500 italki Credits coupon. italki water bottle winners will be able to submit their details on the Language Challenge page for delivery.</span>
+</li>
+<li>
+<div class="lc-faq-title"><span>10. How do I know that my lessons have counted toward the challenge?</span></div>
+<span>During the challenge, your dashboard will have a progress bar that displays how many lessons you’ve taken. It will automatically update within 1 hour after you’ve confirmed a lesson as complete.</span>
+</li>
+<li>
+<div class="lc-faq-title"><span>11. Why do I see more than 1 leaderboard?</span></div>
+<span>The global leaderboard shows everyone's rank. Worldwide! If you make it into the top 3, 10, or 50 global language learners, you'll earn an extra badge.</span>
+</li>
+<li>
+<div class="lc-faq-title"><span>12. Why am I ranked lower/higher than other challengers even though I’ve completed the same amount of hours?</span></div>
+<span>Challengers are ranked by hours and sign up time. If you’re ranked higher but have the same hours as someone else, it means you signed up before the challengers below you.</span>
+</li>
+</ul>
+<div></div>
+</div>
+<div><span></span></div>

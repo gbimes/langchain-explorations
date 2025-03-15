@@ -1,0 +1,19 @@
+<h1>What is an AI Lesson Summary?</h1>
+<h2 id="h_01J8KEWMR9MM26W9CEXZ3F1AA0"><strong>What is a Lesson Summary?</strong></h2>
+<p>A Lesson Summary is an italki Plus feature that automatically organizes key learning content from your lessons, making it easier to review what you’ve learned!</p>
+<p>The summary is automatically generated at the end of your lesson in italki Classroom. It includes four parts: topics, vocabulary, idioms and fixed expressions, and grammar. Each part may not appear in every lesson, depending on what’s covered in specific lessons.</p>
+<p><span style="background-color: #ffffff;">You can access your lesson summaries from the lesson detail page, or in the lesson summary.</span></p>
+<p><span style="background-color: #ffffff;"><img src="https://support.italki.com/hc/article_attachments/38119320581145" width="696" height="335"></span></p>
+<p> </p>
+<h2 id="h_01J8KEXDKSMHY1DD2J5XAAJZXM"><strong><span style="background-color: #ffffff;">Why don't I see a Lesson Summary after my lessons?</span></strong></h2>
+<ul>
+<li><span style="background-color: #ffffff;">Your lesson may have been booked with a teacher who does not provide access to italki Plus services. You can ask them to turn on their lesson audio recording to enable italki Plus access, or you can find teachers with italki Plus access by searching for those with the '<span style="color: #515164; font-family: ' Noto Sans' , -apple-system, BlinkMacSystemFont, ' Segoe UI' , Roboto, ' Helvetica Neue' , Arial, sans-serif; font-size: 16px; font-style: normal; font-variant-ligatures: normal; font-variant-caps: normal; font-weight: bold; letter-spacing: normal; orphans: 2; text-align: start; text-indent: 0px; text-transform: none; widows: 2; word-spacing: 0px; -webkit-text-stroke-width: 0px; white-space: normal; background-color: #f5f6f9; text-decoration-thickness: initial; text-decoration-style: initial; text-decoration-color: initial; display: inline !important; float: none;">Plus features available</span>' label.</span></li>
+<li><span style="background-color: #ffffff;">The lessons must be taken in italki Classroom.</span></li>
+<li>
+<span style="background-color: #ffffff;">It might also be that you're learning a language that's not currently supported by italki Plus. The languages supported are </span><em><span style="background-color: #ffffff;">English, Spanish, French, Japanese, German, Italian, Chinese, Korean, Portuguese, Russian, Arabic, Dutch, Greek, Thai, Turkish, Polish, Vietnamese, Swedish, Hindi, Arabic (Levantine), Serbian, Chinese (Cantonese), Czech, Ukrainian, Norwegian, Hungarian, Filipino (Tagalog), Indonesian, Arabic (Egyptian), Romanian, Finnish, Arabic (Modern Standard), Danish, Croatian, Malayalam.</span></em>
+</li>
+</ul>
+<p> </p>
+<h2 id="h_01J8KEXMVT78DB5DKE606B8PK0"><strong><span style="background-color: #ffffff;">What if the lesson recording fails?</span></strong></h2>
+<p><span style="background-color: #ffffff;">For cases when the lesson recording fails, we also provide a backup solution where you can choose to create a Lesson Summary with the notes and messages from your lesson in italki Classroom.</span></p>
+<p><span style="background-color: #ffffff;"><img src="https://support.italki.com/hc/article_attachments/38119320585113" width="710" height="283"></span></p>

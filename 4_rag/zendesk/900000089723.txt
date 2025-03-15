@@ -1,0 +1,13 @@
+<h1>New Teacher Handbooks</h1>
+<p>The new teacher handbook provides important information about your major student markets, peak lesson times of your major student markets, pricing and best practices. </p>
+<h2><a href="https://uploads-ssl.webflow.com/5f6c06ea5780254500e94751/612cad97d81cf83b991de98b_Handbook%20for%20New%20Teachers%20-%20English%20(2021).pdf" target="_blank" rel="noopener">English</a></h2>
+<h2><a href="https://uploads-ssl.webflow.com/5f6c06ea5780254500e94751/6139d2c5673ba50d611cde13_Handbook%20for%20New%20Teachers%20-%20Espan%CC%83ol%20(2021).pdf" target="_blank" rel="noopener">Spanish</a></h2>
+<h2><a href="https://uploads-ssl.webflow.com/5f6c06ea5780254500e94751/6139d2212a5a81ff2a19555e_Handbook%20for%20New%20Teachers%20-%20Franc%CC%A7ais%20(2021).pdf" target="_blank" rel="noopener">French</a></h2>
+<h2><a href="https://uploads-ssl.webflow.com/5f6c06ea5780254500e94751/6139cdbafd746ffe02fb30e8_Handbook%20for%20New%20Teachers%20-%20%E2%BD%87%E6%9C%AC%E8%AA%9E%20(2021).pdf" target="_blank" rel="noopener">Japanese</a></h2>
+<h2><a href="https://uploads-ssl.webflow.com/5f6c06ea5780254500e94751/6139d32d9870db15ab014f34_Handbook%20for%20New%20Teachers%20-%20%E4%B8%AD%E6%96%87%20(2021).pdf" target="_blank" rel="noopener">Chinese</a></h2>
+<h2><a href="https://uploads-ssl.webflow.com/5f6c06ea5780254500e94751/6139d03b7e5dd512fb37e76c_Handbook%20for%20New%20Teachers%20-%20Deutsch%20(2021).pdf" target="_blank" rel="noopener">German</a></h2>
+<h2><a href="https://uploads-ssl.webflow.com/5f6c06ea5780254500e94751/6139ce8a898532d5365c53a5_Handbook%20for%20New%20Teachers%20-%20Italiano%20(2021).pdf" target="_blank" rel="noopener">Italian</a></h2>
+<h2><a href="https://uploads-ssl.webflow.com/5f6c06ea5780254500e94751/6139cc9636ad183be94fd759_Handbook%20for%20New%20Teachers%20-%20%D0%A0%D1%83%D1%81%D1%81%D0%BA%D0%B8%D0%B8%CC%86%20(2021).pdf" target="_blank" rel="noopener">Russian</a></h2>
+<h2><a href="https://uploads-ssl.webflow.com/5f6c06ea5780254500e94751/61138a2ba916389f731d1d88_Handbook%20for%20New%20Teachers%20-%20Portugue%CC%82s.pdf" target="_blank" rel="noopener">Portuguese</a></h2>
+<h2><a href="https://uploads-ssl.webflow.com/5f6c06ea5780254500e94751/6139cd1cfd746fae77fab3bc_Handbook%20for%20New%20Teachers%20-%20%E1%84%92%E1%85%A1%E1%86%AB%E1%84%80%E1%85%AE%E1%86%A8%E1%84%8B%E1%85%A5%20(2021).pdf" target="_blank" rel="noopener">Korean</a></h2>
+<h2><a href="https://uploads-ssl.webflow.com/5f6c06ea5780254500e94751/613f27c4c0e49f35921d0520_Handbook%20for%20New%20Teachers%20-%20Other%20Languages.pdf" target="_blank" rel="noopener">Other languages</a></h2>

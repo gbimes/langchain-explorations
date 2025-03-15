@@ -1,0 +1,73 @@
+<h1>I've submitted my withdrawal request.  When will I receive my payment?</h1>
+<h2><strong>Payment Timelines</strong></h2>
+<p><span style="font-weight: 400;">For Paypal, Payoneer, and bank transfers (by Payoneer), withdrawals are processed </span><strong>twice </strong><span style="font-weight: 400;">a month.</span></p>
+<table style="border-color: #000000;" border="2">
+<tbody>
+<tr>
+<td>
+<p><strong>If you submit a request...</strong></p>
+</td>
+<td>
+<p><strong>Payment will be sent...</strong></p>
+</td>
+</tr>
+<tr>
+<td>
+<p><span style="font-weight: 400;">Between 1st and 15th of the month</span></p>
+</td>
+<td>
+<p><span style="font-weight: 400;">Between 16th and 26th (26th at the latest)</span></p>
+</td>
+</tr>
+<tr>
+<td>
+<p><span style="font-weight: 400;">Between 16th and 30/31st of the month</span></p>
+</td>
+<td>
+<p><span style="font-weight: 400;">Between 1st and 10th (10th at the latest) of the next month</span></p>
+</td>
+</tr>
+</tbody>
+</table>
+<p><span style="font-weight: 400;">Since we have teachers in different time zones, we calculate the first and last date of the month according to </span><strong>UTC (+0) (Coordinated Universal Time)</strong><span style="font-weight: 400;">.</span></p>
+<p><span style="font-weight: 400;">For example, if you submit a withdrawal request using PayPal or Payoneer on the </span><strong>12th</strong><span style="font-weight: 400;">, we will collect the request on the </span><strong>15th</strong><span style="font-weight: 400;"> (the withdrawal deadline date). Payment will be sent any time between the 16th and the 26th.</span></p>
+<p> </p>
+<h2><strong>How to Check Your Payment Status </strong></h2>
+<p><span style="font-weight: 400;">After you’ve submitted your withdrawal request, you can check your payment status by clicking “Withdrawal History” on your </span><a href="https://teach.italki.com/finance/overview" target="_blank" rel="noopener">My Wallet</a><span style="font-weight: 400;"> page. </span></p>
+<h4>
+<img src="https://support.italki.com/hc/article_attachments/900001262546/Screen_Shot_2019-03-19_at_2.13.18_PM.png" alt="Screen_Shot_2019-03-19_at_2.13.18_PM.png"> </h4>
+<p><span style="font-weight: 400;">You can find your </span><strong>estimated payment date</strong><span style="font-weight: 400;"> and time by clicking “View Details”.</span></p>
+<p><span style="font-weight: 400;"><img src="https://support.italki.com/hc/article_attachments/900006614543/Screenshot_2021-01-22_at_18.17.16.png" alt="Screenshot_2021-01-22_at_18.17.16.png" width="602" height="431"></span></p>
+<p class="r"> </p>
+<h2><strong>Payment Status Definitions</strong></h2>
+<p><strong>Status: Pending approval</strong><span style="font-weight: 400;"> </span></p>
+<p><span style="font-weight: 400;">If your withdrawal request is pending approval (it hasn’t been processed yet), you can still edit the following:</span></p>
+<ul>
+<li style="font-weight: 400;" aria-level="1"><span style="font-weight: 400;">The payment method</span></li>
+<li style="font-weight: 400;" aria-level="1"><span style="font-weight: 400;">The payment account email address</span></li>
+<li style="font-weight: 400;" aria-level="1"><span style="font-weight: 400;">The payment amount</span></li>
+</ul>
+<p><span style="font-weight: 400;">You can also cancel the request. If you want to make an </span><a href="https://support.italki.com/hc/en-us/articles/360020074173-I-really-need-to-get-paid-now-Can-italki-process-my-withdrawal-quickly-" target="_blank" rel="noopener">express withdrawal</a><span style="font-weight: 400;">, you can </span><strong>only </strong><span style="font-weight: 400;">do so when your withdrawal is pending approval.</span><span style="font-weight: 400;"></span></p>
+<p><strong>Can I make multiple withdrawal requests?</strong></p>
+<p><strong>You can only submit one withdrawal request per payment cycle.  </strong></p>
+<p><span style="font-weight: 400;">If you submit another withdrawal request within the </span><strong>same payment cycle</strong><span style="font-weight: 400;"> (so between the 1st and 15th or the 16th and 30/31st) this </span><strong>won’t </strong><span style="font-weight: 400;">be considered a new withdrawal. Instead, you will be editing the first withdrawal request you made. </span></p>
+<p class="r"> </p>
+<p><strong>Status: Payment Pending </strong></p>
+<p><span style="font-weight: 400;">If your withdrawal request is payment pending, you won’t be able to:</span></p>
+<ul>
+<li style="font-weight: 400;" aria-level="1"><span style="font-weight: 400;">Edit your request</span></li>
+<li style="font-weight: 400;" aria-level="1"><span style="font-weight: 400;">Cancel you request</span></li>
+<li style="font-weight: 400;" aria-level="1"><span style="font-weight: 400;">Make an express withdrawal. </span></li>
+</ul>
+<p><span style="font-weight: 400;">If you want to make an express withdrawal, you can contact us to cancel it for you. Then you can submit an express withdrawal.</span></p>
+<p><span style="font-weight: 400;">If you don’t cancel your withdrawal request, your payment will be sent during the 10 day payment period.</span></p>
+<p> </p>
+<p><strong>Status: Completed</strong></p>
+<p><span style="font-weight: 400;">This means your payment has been sent to you.</span></p>
+<p> </p>
+<p><strong>Status: Canceled</strong><span style="font-weight: 400;"> </span></p>
+<p><span style="font-weight: 400;">There are 2 main reasons why a withdrawal request can be canceled:</span></p>
+<ol>
+<li style="font-weight: 400;" aria-level="1"><span style="font-weight: 400;">We couldn’t send your payment because your payment information was incorrect or incomplete. In this case, please contact us to confirm your payment withdrawal details.</span></li>
+<li style="font-weight: 400;" aria-level="1"><span style="font-weight: 400;">You canceled your withdrawal request.</span></li>
+</ol>

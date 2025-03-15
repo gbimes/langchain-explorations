@@ -1,0 +1,343 @@
+<h1>HSK 3.0 Era Has Arrived from Chinese Teacher Alice Guo</h1>
+<p><strong>What is HSK? </strong>HSK is a language test designed for non-native speakers of Chinese and is one of the most influential Chinese language tests in the world.</p>
+<p><strong>What is the purpose of the HSK score? HSK score is a pass to </strong>study in China, an important means to apply for scholarships for study abroad, and an important basis for recruitment of employees in many government departments and enterprises. Of course, if not for study or work, the HSK score is also an important reflection of the Chinese language ability of Chinese learners.</p>
+<p>In March 2021, the International Chinese Language Education Chinese Language Proficiency Level Standard was released as a language specification of the National Language Commission (NLC) to be officially implemented from July 1, 2021, after validation by the NLC Language Specification Standard Validation Committee. In other words, the <strong>HSK 3.0 era has arrived</strong>.</p>
+<h2><strong>Changes and adjustments to HSK 3.0</strong></h2>
+<p>As we all know, one of the biggest changes in HSK 3.0 is the adjustment of the Chinese proficiency level standard: from six levels in HSK version 2.0 to the current three levels of nine. So what are the aspects of this adjustment?</p>
+<h4><strong>Changes in the benchmarks for judging</strong></h4>
+<p>HSK2.0 is based on the principle of "combining examination and teaching, promoting learning and teaching through examination", and divides the examination level into 6 levels, with vocabulary as the basis for grading.</p>
+<p>      HSK 3.0, on the other hand, divides learners' Chinese language proficiency into three levels from low to high: elementary, intermediate and advanced, and within each level, each is divided into three levels according to the difference in proficiency, for a total of three levels and nine grades; at the same time, instead of measuring only by vocabulary, the four dimensions of syllables, Chinese characters, vocabulary and grammar are used as the benchmark. (See the table below for quantitative indicators)</p>
+<p> </p>
+<table style="font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', Helvetica, Arial, sans-serif;
+height: 350px;
+width: 0%;" border="1">
+<tbody>
+<tr>
+<td style="width: 17.7143%;" width="83">
+<p><strong>grade</strong></p>
+</td>
+<td style="width: 18.5411%;" width="53">
+<p><strong>level</strong></p>
+</td>
+<td style="width: 18.7636%;" width="68">
+<p><strong>syllables</strong></p>
+</td>
+<td style="width: 8.1356%;" width="68">
+<p><strong>Chinese</strong><strong> </strong><strong>character</strong><strong>s</strong></p>
+</td>
+<td style="width: 14.2812%;" width="68">
+<p><strong>vocabulary</strong></p>
+</td>
+<td style="width: 54.2779%;" width="69">
+<p><strong>grammar</strong></p>
+</td>
+</tr>
+<tr>
+<td style="width: 17.7143%;" rowspan="3" width="83">
+<p> </p>
+<p>elementary</p>
+<p> </p>
+<p> </p>
+<p> </p>
+</td>
+<td style="width: 18.5411%;" width="53">
+<p>Level1</p>
+</td>
+<td style="width: 18.7636%;" width="68">
+<p>269</p>
+</td>
+<td style="width: 8.1356%;" width="68">
+<p>300</p>
+</td>
+<td style="width: 14.2812%;" width="68">
+<p>500</p>
+</td>
+<td style="width: 54.2779%;" width="69">
+<p>48</p>
+</td>
+</tr>
+<tr>
+<td style="width: 18.5411%;" width="53">
+<p>Level2</p>
+</td>
+<td style="width: 18.7636%;" width="68">
+<p>199/468</p>
+</td>
+<td style="width: 8.1356%;" width="68">
+<p>300/600</p>
+</td>
+<td style="width: 14.2812%;" width="68">
+<p>772/1272</p>
+</td>
+<td style="width: 54.2779%;" width="69">
+<p>81/129</p>
+</td>
+</tr>
+<tr>
+<td style="width: 18.5411%;" width="53">
+<p>Level3</p>
+</td>
+<td style="width: 18.7636%;" width="68">
+<p>140/608</p>
+</td>
+<td style="width: 8.1356%;" width="68">
+<p>300/900</p>
+</td>
+<td style="width: 14.2812%;" width="68">
+<p>973/2245</p>
+</td>
+<td style="width: 54.2779%;" width="69">
+<p>81/210</p>
+</td>
+</tr>
+<tr>
+<td style="width: 17.7143%;" rowspan="3" width="83">
+<p> intermediate</p>
+</td>
+<td style="width: 18.5411%;" width="53">
+<p>Level4</p>
+</td>
+<td style="width: 18.7636%;" width="68">
+<p>116/724</p>
+</td>
+<td style="width: 8.1356%;" width="68">
+<p>300/1200</p>
+</td>
+<td style="width: 14.2812%;" width="68">
+<p>1000/3245</p>
+</td>
+<td style="width: 54.2779%;" width="69">
+<p>76/286</p>
+</td>
+</tr>
+<tr>
+<td style="width: 18.5411%;" width="53">
+<p>Level5</p>
+</td>
+<td style="width: 18.7636%;" width="68">
+<p>98/822</p>
+</td>
+<td style="width: 8.1356%;" width="68">
+<p>300/1500</p>
+</td>
+<td style="width: 14.2812%;" width="68">
+<p>1071/4316</p>
+</td>
+<td style="width: 54.2779%;" width="69">
+<p>71/357</p>
+</td>
+</tr>
+<tr>
+<td style="width: 18.5411%;" width="53">
+<p>Level 6</p>
+</td>
+<td style="width: 18.7636%;" width="68">
+<p>86/908</p>
+</td>
+<td style="width: 8.1356%;" width="68">
+<p>300/1800</p>
+</td>
+<td style="width: 14.2812%;" width="68">
+<p>1140/5456</p>
+</td>
+<td style="width: 54.2779%;" width="69">
+<p>67/424</p>
+</td>
+</tr>
+<tr>
+<td style="width: 17.7143%;" width="83">
+<p> advanced</p>
+</td>
+<td style="width: 18.5411%;" width="53">
+<p>Level7-9</p>
+</td>
+<td style="width: 18.7636%;" width="68">
+<p>202/1110</p>
+</td>
+<td style="width: 8.1356%;" width="68">
+<p>1200/3000</p>
+</td>
+<td style="width: 14.2812%;" width="68">
+<p>5636/11092</p>
+</td>
+<td style="width: 54.2779%;" width="69">
+<p>148/572</p>
+</td>
+</tr>
+</tbody>
+</table>
+<p>As can be seen from the HSK 3.0 quantitative indicators, the <strong>vocabulary of advanced</strong> has<strong> </strong>increased dramatically, with a maximum of 11,092 words in an advanced level 9, which is over 5,000 words more than HSK 2.0 HSK 6; and the <strong>writing requirements for elementary Chinese characters </strong>have also become higher, with the number of characters mastered reaching 900 to complete elementary Chinese, as well as the need to be proficient in the rules for writing strokes and order of strokes. For beginners, the study of Chinese characters is no longer a hobby class but has become a mandatory one.</p>
+<p>Another change in HSK3.0 is that the content of the topic tasks allows learners to use the five skills of listening, speaking, reading, writing, and translating in an integrated manner. There is no doubt that HSK3.0 will require more comprehensive communicative skills and the topics will be more relevant; advanced students will not only need to be able to listen, speak, read and write, but also need to have professional translation skills, and the standardized use of vocabulary, logical understanding of Chinese context, and awareness of cross-cultural communication will all be challenges.</p>
+<h4><strong>Changes in examination content</strong></h4>
+<p>The new HSK 3.0 textbook has not yet been published, and the exact content of the test is not yet known, but from the release of the International Chinese Language Education Chinese Proficiency Standards and the content of the HSK 2.0 test (see table below), the changes may include these.</p>
+<p> </p>
+<table style="font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', Helvetica, Arial, sans-serif; width: 74.6845%;" border="1">
+<tbody>
+<tr>
+<td style="width: 20.8571%;" width="91">
+<p> </p>
+</td>
+<td style="width: 9.55265%;" width="58">
+<p>HSK1</p>
+</td>
+<td style="width: 9.26687%;" width="58">
+<p>HSK2</p>
+</td>
+<td style="width: 10.2627%;" width="59">
+<p>HSK3</p>
+</td>
+<td style="width: 8.37745%;" width="49">
+<p>HSK4</p>
+</td>
+<td style="width: 7.55691%;" width="57">
+<p>HSK5</p>
+</td>
+<td style="width: 8.99506%;" width="52">
+<p>HSK6</p>
+</td>
+</tr>
+<tr>
+<td style="width: 20.8571%;" width="91">
+<p>listening</p>
+</td>
+<td style="width: 9.55265%;" width="58">
+<p>√</p>
+</td>
+<td style="width: 9.26687%;" width="58">
+<p>√</p>
+</td>
+<td style="width: 10.2627%;" width="59">
+<p>√</p>
+</td>
+<td style="width: 8.37745%;" width="49">
+<p>√</p>
+</td>
+<td style="width: 7.55691%;" width="57">
+<p>√</p>
+</td>
+<td style="width: 8.99506%;" width="52">
+<p>√</p>
+</td>
+</tr>
+<tr>
+<td style="width: 20.8571%;" width="91">
+<p>reading</p>
+</td>
+<td style="width: 9.55265%;" width="58">
+<p>√</p>
+</td>
+<td style="width: 9.26687%;" width="58">
+<p>√</p>
+</td>
+<td style="width: 10.2627%;" width="59">
+<p>√</p>
+</td>
+<td style="width: 8.37745%;" width="49">
+<p>√</p>
+</td>
+<td style="width: 7.55691%;" width="57">
+<p>√</p>
+</td>
+<td style="width: 8.99506%;" width="52">
+<p>√</p>
+</td>
+</tr>
+<tr>
+<td style="width: 20.8571%;" width="91">
+<p>Chinese character writing</p>
+</td>
+<td style="width: 9.55265%;" width="58">
+<p>×</p>
+</td>
+<td style="width: 9.26687%;" width="58">
+<p>×</p>
+</td>
+<td style="width: 10.2627%;" width="59">
+<p>√</p>
+</td>
+<td style="width: 8.37745%;" width="49">
+<p>√</p>
+</td>
+<td style="width: 7.55691%;" width="57">
+<p>√</p>
+</td>
+<td style="width: 8.99506%;" width="52">
+<p>√</p>
+</td>
+</tr>
+<tr>
+<td style="width: 20.8571%;" width="91">
+<p>Complete the sentences</p>
+</td>
+<td style="width: 9.55265%;" width="58">
+<p>×</p>
+</td>
+<td style="width: 9.26687%;" width="58">
+<p>×</p>
+</td>
+<td style="width: 10.2627%;" width="59">
+<p>√</p>
+</td>
+<td style="width: 8.37745%;" width="49">
+<p>√</p>
+</td>
+<td style="width: 7.55691%;" width="57">
+<p>√</p>
+</td>
+<td style="width: 8.99506%;" width="52">
+<p>√</p>
+</td>
+</tr>
+<tr>
+<td style="width: 20.8571%;" width="91">
+<p>Describe pictures</p>
+<p>/write essays</p>
+</td>
+<td style="width: 9.55265%;" width="58">
+<p>×</p>
+</td>
+<td style="width: 9.26687%;" width="58">
+<p>×</p>
+</td>
+<td style="width: 10.2627%;" width="59">
+<p>×</p>
+</td>
+<td style="width: 8.37745%;" width="49">
+<p>√</p>
+</td>
+<td style="width: 7.55691%;" width="57">
+<p>√</p>
+</td>
+<td style="width: 8.99506%;" width="52">
+<p>√</p>
+</td>
+</tr>
+<tr>
+<td style="width: 20.8571%;" width="91">
+<p>abbreviated</p>
+</td>
+<td style="width: 9.55265%;" width="58">
+<p>×</p>
+</td>
+<td style="width: 9.26687%;" width="58">
+<p>×</p>
+</td>
+<td style="width: 10.2627%;" width="59">
+<p>×</p>
+</td>
+<td style="width: 8.37745%;" width="49">
+<p>×</p>
+</td>
+<td style="width: 7.55691%;" width="57">
+<p>×</p>
+</td>
+<td style="width: 8.99506%;" width="52">
+<p>√</p>
+</td>
+</tr>
+</tbody>
+</table>
+<p>1. Elementary (Levels 1 - 3) adds Chinese characters writing, not just typing it on the computer, but also handwriting.</p>
+<p>2. Advanced(Levels 7-9) add a translation test to be able to accurately translate explanatory texts, application texts, argumentative essays, etc.</p>
+<h2><strong>The mission of a teacher of Chinese as a foreign language</strong></h2>
+<p>The release of HSK 3.0 has significantly increased the challenge of Chinese language learners and, correspondingly, has placed higher demands on the professionalism of foreign Chinese teachers. As Chinese teachers ，we must not only enrich ourselves but also adjust our teaching. As the saying goes, “methods in teaching are available, unlimited but worth selecting. ”The only way is to let students absorb more knowledge, experience the fun of the Chinese language, and feel the charm of Chinese culture!</p>

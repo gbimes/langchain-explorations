@@ -1,0 +1,31 @@
+<h1>SOP: Teacher requests to remove a student's lesson feedback</h1>
+<p>In general, italki<strong> does not help teachers remove any lesson feedback</strong> that their students have written about the lesson experience.</p>
+<p>Lesson feedback is a way the student reflects their lesson experience, their impression of the teacher, etc. and it can also be a good reference for other students to read before they book a lesson with this teacher.</p>
+<p><strong>Only in certain circumstances</strong>, where italki staff feels this feedback is inappropriate, then will we consider modifying or removing the student's feedback for the lesson accordingly.</p>
+<p>If the lesson feedback student leaves contains or is:</p>
+<ul>
+<li>
+<strong>Violence, hate language, or threats -</strong> perceive a genuine risk of physical harm, attack, or a direct threat to the teacher.</li>
+<li>
+<strong>Insulting, bullying, or harassment -</strong> abusive or harassing language directed to the teacher. </li>
+<li>
+<strong>Privacy or sensitive information</strong> <strong>-</strong> personal or contact information accidentally typed in the feedback.</li>
+<li><strong>Defamatory against teachers.</strong></li>
+</ul>
+<p>Example 1:<br><img src="https://support.italki.com/hc/article_attachments/360018875553/Screen_Shot_2018-11-15_at_5.05.51_PM.png" alt="Screen_Shot_2018-11-15_at_5.05.51_PM.png" width="638" height="169"></p>
+<p><a href="https://support.italki.com/agent/tickets/257868">https://italki.zendesk.com/agent/tickets/257868</a> </p>
+<p>Example 2:</p>
+<p><img src="https://support.italki.com/hc/article_attachments/360009407874/Screen_Shot_2018-07-25_at_5.51.34_PM.png" alt="Screen_Shot_2018-07-25_at_5.51.34_PM.png" width="651" height="268"></p>
+<p>The above feedback for the lesson is more about defamation against the teacher rather than the actual experience about the lesson. <strong>After we decide to remove this feedback, we will replace it with "italki has removed this feedback".</strong></p>
+<p>1. Go to OMS and find this lesson with its ID: <a href="https://omsv2.italki.com/lesson/sessions">https://omsv2.italki.com/lesson/sessions</a></p>
+<p>2. In the lesson details, click on "Modify Feedback" and add "italki has removed this feedback."</p>
+<p><img src="https://support.italki.com/hc/article_attachments/360009472354/Screen_Shot_2018-07-26_at_2.46.48_PM.png" alt="Screen_Shot_2018-07-26_at_2.46.48_PM.png" width="648" height="424"></p>
+<p><img src="https://support.italki.com/hc/article_attachments/360009523913/Screen_Shot_2018-07-26_at_2.49.25_PM.png" alt="Screen_Shot_2018-07-26_at_2.49.25_PM.png" width="651" height="521"></p>
+<p>3. In the teacher's profile, the previous feedback will appear as "italki has removed this feedback."</p>
+<p><img src="https://support.italki.com/hc/article_attachments/360009472394/Screen_Shot_2018-07-26_at_2.51.34_PM.png" alt="Screen_Shot_2018-07-26_at_2.51.34_PM.png" width="428" height="108"></p>
+<p><strong>Otherwise, </strong>if the lesson feedback doesn't include any <strong>Threats, </strong><strong>Insulting, Bullying, or Harassment </strong>as mentioned above. Then we think this is the student's actual experience of the lesson and the teacher, therefore we<strong> do not</strong> remove or modify the lesson feedback.</p>
+<p>* Remove this lesson rating.</p>
+<p><strong>Exception</strong>:</p>
+<ul>
+<li>If the teacher talks to the student and reaches an agreement to remove the lesson feedback. If the teacher shows us the agreement, then we can help to remove it.</li>
+</ul>

@@ -1,0 +1,29 @@
+<h1>2021 Jan Language Challenge (LC) FAQ - Internal Reference</h1>
+<p><strong>*This article has been Updated 2021-01-13*</strong></p>
+<p><strong>Recap of the last LC</strong>: <a href="https://support.italki.com/hc/en-us/articles/900002611683" target="_blank" rel="noopener">2020 Sep Language Challenge FAQ - Internal reference</a></p>
+<p> </p>
+<p><strong>KEY INFO:</strong></p>
+<p><span style="font-weight: 400;"><strong>1. Jan LC</strong> starts at 6:00 am<strong> (UTC) on 13 January</strong>, and <strong>finishes at 6:00 am on 1 March.<br></strong></span></p>
+<ul>
+<li><span style="font-weight: 400;"><strong>Stage 1,2</strong>: 2021-01-13 06:00(UTC+0) TO 2021-03-01 06:00(UTC+0) - <strong>Sign up and LC starts</strong></span></li>
+<li><span style="font-weight: 400;"><strong>Stage 3</strong>: 2021-03-01 06:00(UTC+0)) - 2021-03-08 06:00(UTC+0)<strong> Calculation and Awards</strong></span></li>
+<li><span style="font-weight: 400;"><strong>Stage 4</strong>: 2021-03-08 06:00(UTC+0) - 2021-03-15 06:00(UTC+0) <strong>Award delivery<br></strong></span></li>
+</ul>
+<p><span class="wysiwyg-color-red"><strong>2. Full details:</strong> </span><a href="https://italki.atlassian.net/wiki/spaces/SL2/pages/2060632180/Language+Challenge+January+2021">https://italki.atlassian.net/wiki/spaces/SL2/pages/2060632180/Language+Challenge+January+2021</a></p>
+<p><strong>Please also review the public FAQs on the<span class="wysiwyg-color-red"><a href="https://www.italki.com/languagechallenge" target="_blank" rel="noopener"> LC page</a><a href="https://www.italki.com/languagechallenge" target="_blank" rel="noopener">.</a></span></strong></p>
+<p><img src="https://support.italki.com/hc/article_attachments/900006427183/mceclip3.png" alt="mceclip3.png" width="421" height="189"></p>
+<p> </p>
+<p><strong>NEW CHANGES:</strong></p>
+<p><strong>1. CS can check LC records in OMS:</strong> <a href="https://omsv2.italki.com/language-challenge/participants">https://omsv2.italki.com/language-challenge/participants</a> </p>
+<p>Note: It is only counted when a lesson <strong>takes place </strong>after the <strong>User's LC sign-up time.</strong></p>
+<p><img src="https://support.italki.com/hc/article_attachments/900005530406/mceclip1.png" alt="mceclip1.png"></p>
+<p>When a user asks "Why my lesson XXX is not counted?", check if the <strong>Lesson Time</strong> is <strong>BEFORE</strong> the User's <strong>LC sign-up time. </strong></p>
+<p><img src="https://support.italki.com/hc/article_attachments/900006444383/mceclip2.png" alt="mceclip2.png"></p>
+<p> </p>
+<p>2. Global Leaderboard now has more rankings (1st, 2nd, - 100th...)</p>
+<p><img src="https://support.italki.com/hc/article_attachments/900006427083/mceclip2.png" alt="mceclip2.png"></p>
+<p>3. Apart from Global Leaderboard, now there's Single Language Leaderboards (11 popular languages)</p>
+<p><img src="https://support.italki.com/hc/article_attachments/900006425723/mceclip1.png" alt="mceclip1.png"></p>
+<p>4. The new "hours" --&gt; 12, 16,<strong> 20, 24h </strong></p>
+<p><strong><img src="https://support.italki.com/hc/article_attachments/900006423963/mceclip0.png" alt="mceclip0.png"></strong></p>
+<p> </p>

@@ -1,0 +1,323 @@
+<h1>Ticketing Rules </h1>
+<p> </p>
+<h2><strong>1. Ticket Status: </strong></h2>
+<ul>
+<li>
+<strong>New:</strong> New ticket is a ticket that has not been touched or assigned. </li>
+<li>
+<strong>Open:</strong> <span>An </span>Open <span>ticket is defined as a ticket assigned to an agent.  Once a ticket's status has been changed from New to Open, it can never be set back to New. <strong>Tickets must be solved within 3 hours from the moment they are assigned. </strong></span><span></span>
+</li>
+<li>
+<span><strong>Pending:</strong> Set ticket in "Pending" status when you need to ask for more information from the customer. If a ticket is in pending status and the user doesn't reply, we will resolve the ticket after 72 hrs. </span><span></span><span></span>
+</li>
+<li>
+<span><strong>On-hold:</strong> Set ticket in "On-Hold" status when you need to wait for confirmation or perform any action from the company side. (<strong><span class="wysiwyg-underline">On-hold must be used together with schedule field!).</span></strong></span><span></span>
+</li>
+<li>
+<strong>Solved: </strong>When you have answered all the questions and there are no further actions required from your side. </li>
+</ul>
+<p> </p>
+<h2>
+<strong>2. Ticket Rules:</strong><span></span>
+</h2>
+<p><strong>RULES:</strong></p>
+<p><strong>1. Tickets must be taken from Tier 1/2 only sections.</strong></p>
+<p><strong>2. Tickets must be taken accordingly to SLA* unless supervisor says otherwise.</strong></p>
+<p><strong>3. Tickets must be taken one after the other = IN ORDER. After you take your tickets (between 5 min to 10 max) make sure that there's no missing taken ticket in the middle. </strong></p>
+<p><strong>4. Cherry picking behaviour will be sanctioned. After the third (3rd) warning, italki has the right to end the contract. </strong></p>
+<p> </p>
+<p><strong>TICKETING SYSTEM:</strong></p>
+<ul>
+<li>
+<span>When escalating a ticket from Tier 1 to Tier 2, respond to the user, select ticket <strong>group(assignee)</strong>&amp;<strong>about</strong>, then submit as<strong> Open or Solved </strong>(<strong>depending on the Escalation Rules, </strong>see below). </span><span></span><span></span>
+</li>
+<li>
+<span>When waiting for the user to provide more information, respond to the user, select ticket <strong>group</strong></span><span><strong>(assignee)</strong></span><span>&amp; <strong>about</strong>, then submit as <strong>Pending</strong>. </span><span></span><span></span>
+</li>
+<li>
+<span>When waiting for italki to provide more information, respond to the user, select ticket <strong>group</strong></span><span><strong>(assignee)</strong></span>&amp; <strong style="font-size: 1.1em;">about</strong><span style="font-size: 1.1em;">, select "</span><strong style="font-size: 1.1em;">schedule</strong><span style="font-size: 1.1em;">" for how long you want to put it on hold, then submit as <strong>On-hold</strong>. *<strong>Please note the on-hold ticket will automatically open after the scheduled period. </strong></span>
+</li>
+</ul>
+<p class="wysiwyg-text-align-center"><img src="https://support.italki.com/hc/article_attachments/4856448654105/Screenshot_2022-03-15_at_10.56.47.png" alt="Screenshot_2022-03-15_at_10.56.47.png" width="288" height="681">                                       </p>
+<ul>
+<li>When the issue from the user has been addressed with no information required from either user or italki, submit the ticket as <strong>Solved</strong>. </li>
+</ul>
+<h2><strong>3. Ticketing Working Rules </strong></h2>
+<table dir="ltr" style="height: 2199px; width: 809px;" border="1" width="843" cellspacing="0" cellpadding="0">
+<colgroup>
+<col width="157">
+<col width="542">
+<col width="719">
+</colgroup>
+<tbody>
+<tr style="height: 40px;">
+<td style="width: 43.3125px; height: 90px;"> </td>
+<td class="wysiwyg-text-align-center" style="width: 128.914px; height: 90px;" data-sheets-value='{"1":2,"2":"Applicable Situations "}'><strong>Applicable Situations</strong></td>
+<td class="wysiwyg-text-align-center" style="width: 860.32px; height: 90px;" data-sheets-value='{"1":2,"2":"Actions needed before escalating to group"}'><strong>Actions needed before escalating </strong></td>
+</tr>
+<tr style="height: 43px;">
+<td class="wysiwyg-text-align-center" style="width: 43.3125px; height: 2109px;" rowspan="23" data-sheets-value='{"1":2,"2":"Escalated"}'>
+<div><strong>Rules</strong></div>
+<br>
+<div><strong> </strong></div>
+<br>
+<div><strong> </strong></div>
+<br>
+<div><strong> </strong></div>
+<br>
+<div><strong> </strong></div>
+</td>
+<td class="wysiwyg-text-align-center" style="width: 128.914px; height: 90px;" data-sheets-value='{"1":2,"2":"Dispute "}'>
+<p>Dispute</p>
+</td>
+<td style="width: 860.32px; height: 90px;" data-sheets-value='{"1":2,"2":"First reply with Macro: Dispute::EN::Info Received"}'>
+<p>Make sure the user <strong>provided the lesson ID number and their desired solution </strong>(must be clear: add lesson back to package, rescheduling, credits refund, receive payment or pay the teacher)</p>
+<p> </p>
+<p>1. First reply with Macro: Dispute::EN::Info Received</p>
+<p>2. Check dispute time on OMS, and set ticket schedule time 24/48 hours as per dispute time (we handle all disputes after 3 days)</p>
+<p>3. Submit ticket as <strong>On-hold </strong></p>
+<p> </p>
+<p>*If the disputed time is already 3 days ago, no need to set schedule and on-hold, please submit as open directly </p>
+</td>
+</tr>
+<tr style="height: 43px;">
+<td class="wysiwyg-text-align-center" style="width: 128.914px; height: 90px;" data-sheets-value='{"1":2,"2":"Strong Complaint (request supervisor/escalating) "}'>
+<p>Student purchased credits through card but credits not visible</p>
+</td>
+<td style="width: 860.32px; height: 90px;" data-sheets-value='{"1":2,"2":"Normal reply, escalate when needed "}'>
+<p>1. Ask user to provide the receipt and K Transaction Code.</p>
+<p>2. Send an email to Tommy with the user ID number, the K Transaction Code and receipt; and place on CC Tiffany/Stephany.</p>
+<p>3. Tommy will provide you some insights and he will refund back to the original payment method if we received them or add them to S wallet. </p>
+</td>
+</tr>
+<tr style="height: 43px;">
+<td class="wysiwyg-text-align-center" style="width: 128.914px; height: 90px;" data-sheets-value="{&quot;1&quot;:2,&quot;2&quot;:&quot;Apply for Compensation (due to confirmed italki's fault)&quot;}">
+<p>Apply for Compensation (Gift Card / 2nd Expired Credits reactivation)</p>
+</td>
+<td style="width: 860.32px; height: 90px;" data-sheets-value='{"1":2,"2":"Normal reply, escalate when needed "}'>
+<p><strong>If user insists (you declined second credits reactivation / refund due to bad lesson experience but the user is of great value for italki - spending amount in X little time) only. </strong></p>
+<p> </p>
+<p>1. Keep ticket on hold, schedule 24 hours, add internal note "Escalated for Tiffany compensation consideration".</p>
+<p>2. Send an email to Tiffany:</p>
+<p>- User ID</p>
+<p>- Ticket URL </p>
+<p>- Issue</p>
+<p>- Desired solution</p>
+<p>- Amount of the Gift Card you propose / Amount of the expired credits</p>
+<p>3. Come back to the user accordingly. </p>
+<p> </p>
+<p><strong>If you need help only (no compensation request) you may send a message to Tiffany through Slack. Email is only for compensation.</strong></p>
+</td>
+</tr>
+<tr style="height: 43px;">
+<td class="wysiwyg-text-align-center" style="width: 128.914px; height: 90px;" data-sheets-value='{"1":2,"2":"Ghosted/Banned users ask for release"}'>
+<p>Community Violation</p>
+</td>
+<td style="width: 860.32px; height: 90px;" data-sheets-value='{"1":2,"2":"First reply with Macro General::EN::Tier 2"}'>
+<p>1. Copy user ID and check on OMS &gt; Users &gt; Users Complaint List &gt; Abnormal Keywords: <a href="https://omsv2.italki.com/ns/cms/abnormal-keywords">https://omsv2.italki.com/ns/cms/abnormal-keywords</a> (<strong>*make sure to select under "Status": All).</strong></p>
+<p>2. Check <a href="https://support.italki.com/hc/en-us/articles/206353468-The-italki-Community-Guidelines#:~:text=Safety%20is%20italki's%20top%20priority,acts%20of%20real%2Dworld%20violence">italki-Community-Guidelines</a> and verify if the word/content flagged is legit.</p>
+<p>3. If the content flagged was a system misunderstanding you may ask in our Slack chat for the ban to be removed by sharing the user ID and your considerations. </p>
+</td>
+</tr>
+<tr style="height: 43px;">
+<td class="wysiwyg-text-align-center" style="width: 128.914px; height: 90px;" data-sheets-value='{"1":2,"2":"Teacher ID Verification Failed Reason"}'>
+<p>Ghosted banned user/asks for release</p>
+</td>
+<td style="width: 860.32px; height: 90px;" data-sheets-value='{"1":2,"2":"First reply with Macro General::EN::Tier 2"}'>
+<p> </p>
+<p>1. Check the reason why the user was ghosted/banned and have a look at:<a href="https://italki.atlassian.net/wiki/spaces/SOT/pages/4007133233/Moderation+Guideline" target="_blank" rel="noopener" data-saferedirecturl="https://www.google.com/url?q=https://italki.atlassian.net/wiki/spaces/SOT/pages/4007133233/Moderation%2BGuideline&amp;source=gmail&amp;ust=1647426984052000&amp;usg=AOvVaw3SEu9LeoIEMhg6IgUKMx8j"> https://italki.atlassian.net/<wbr></wbr>wiki/spaces/SOT/pages/<wbr></wbr>4007133233/Moderation+<wbr></wbr>Guideline.</a></p>
+<p>2. Depending on the scenario and number of reports, <strong>you may escalate for release only. </strong></p>
+</td>
+</tr>
+<tr style="height: 21px;">
+<td class="wysiwyg-text-align-center" style="width: 128.914px; height: 90px;" data-sheets-value='{"1":2,"2":"Check Pre-approval Call Booking"}'>
+<p>Q&amp;A Call Re-booking</p>
+</td>
+<td style="width: 860.32px; height: 90px;" data-sheets-value='{"1":2,"2":"First reply with Macro General::EN::Tier 2"}'>
+<p>Share link to book Q&amp;A Session: </p>
+<p>JP QA Call - <a href="https://calendly.com/teacher-services/qa-call-japanese">https://calendly.com/teacher-services/qa-call-japanese</a> <br>EN QA Call - <a href="https://calendly.com/teacher-services/qa-call-english-clone">https://calendly.com/teacher-services/qa-call-english-clone</a> </p>
+</td>
+</tr>
+<tr style="height: 65px;">
+<td class="wysiwyg-text-align-center" style="width: 128.914px; height: 90px;" data-sheets-value='{"1":2,"2":"Ask for peak hour/average price that are not listed on handbook"}'>
+<p>Ask for peak hour/average price that's not listed on the teacher handbook</p>
+</td>
+<td style="width: 860.32px; height: 90px;" data-sheets-value='{"1":2,"2":"First reply with Macro General::EN::Tier 2"}'>
+<p>First reply with Macro General::EN::Tier 2</p>
+</td>
+</tr>
+<tr style="height: 109px;">
+<td class="wysiwyg-text-align-center" style="width: 128.914px; height: 90px;" data-sheets-value='{"1":2,"2":"Apply Referral Voucher after your investigation"}'>
+<p>Apply Referral Voucher after your investigation</p>
+</td>
+<td style="width: 860.32px; height: 90px;" data-sheets-value='{"1":2,"2":"1. Check oms for invalid reason and reply with macro. 2. If you think users is eligible for referral voucher (e.g. shared browser but obviously two users), leave a clear note to ask for referral voucher and escalate "}'>
+<div>1. Check OMS for invalid reasons and reply with macro.</div>
+<div>2. If you think the user is eligible for a referral voucher (e.g. shared browser but obviously two users), leave a clear note to ask for a referral voucher and escalate</div>
+</td>
+</tr>
+<tr style="height: 43px;">
+<td class="wysiwyg-text-align-center" style="width: 128.914px; height: 90px;" data-sheets-value='{"1":2,"2":"Change Coupon Status (using to unused)"}'>
+<p>Change Coupon Status (using to unused)</p>
+</td>
+<td style="width: 860.32px; height: 90px;" data-sheets-value='{"1":2,"2":"1. Check coupon status first under Vouchers- Voucher list 2. If status is using - escalate  "}'>
+<p>1. Check coupon status first under Vouchers- Voucher list</p>
+<p>2. If the status is "Using", escalate.</p>
+</td>
+</tr>
+<tr style="height: 43px;">
+<td class="wysiwyg-text-align-center" style="width: 128.914px; height: 90px;" data-sheets-value='{"1":2,"2":"Transfer Credits to Friends"}'>
+<p>Transfer Credits to Friends</p>
+</td>
+<td style="width: 860.32px; height: 90px;" data-sheets-value='{"1":2,"2":"Reply with Macro: Payment::EN::Transfer Credits To Friend, submit as closed "}'>
+<p>Reply with Macro: Payment::EN::Transfer Credits To Friend, submit as solved</p>
+</td>
+</tr>
+<tr style="height: 21px;">
+<td class="wysiwyg-text-align-center" style="width: 128.914px; height: 90px;" data-sheets-value='{"1":2,"2":"Ask for Gift Card Code to Resend"}'>
+<p>Ask for Gift Card Code to Resend</p>
+</td>
+<td style="width: 860.32px; height: 90px;" data-sheets-value='{"1":2,"2":"First reply with Macro General::EN::Tier 2"}'>
+<p>1. First reply with Macro General::EN::Tier 2 </p>
+<p>2. Assign to Tier 2 - Escalated</p>
+</td>
+</tr>
+<tr style="height: 90px;">
+<td class="wysiwyg-text-align-center" style="width: 128.914px; height: 90px;">Chinese user living in Mainland China asks for invoice (NOT from Hong Kong, Taiwan or Macao)</td>
+<td style="width: 860.32px; height: 90px;">
+<p>1. Invoice can be provided only if the CN user paid using: W<span>eChat CN or Alipay CN (check OMS ITC purchase K transaction code).</span></p>
+<p>2. Use Tier 2 Macro to Escalate the Ticket as Open.</p>
+<p>3. Add internal note "Chinese Mainland user ask for invoice W<span>eChat CN/Alipay CN payment</span>".</p>
+</td>
+</tr>
+<tr style="height: 109px;">
+<td class="wysiwyg-text-align-center" style="width: 128.914px; height: 90px;" data-sheets-value='{"1":2,"2":"Expired Credits"}'>
+<p>Expired Credits</p>
+</td>
+<td style="width: 860.32px; height: 90px;" data-sheets-value='{"1":2,"2":"1. First reply with Macro \"Payment::EN::Request to Reactivate Credit (1st Reply)\" 2. Leave a clear internal note of the action request 3. Assign to Payment Group "}'>
+<div>1. First reply with Macro "Payment::EN::Request to Reactivate Credit "</div>
+<div>2. Leave a clear internal note with: "First time expiration", User ID, Date of Expired Credits and Amount.</div>
+<div>3. Escalate to Tier 2.</div>
+</td>
+</tr>
+<tr style="height: 44px;">
+<td class="wysiwyg-text-align-center" style="width: 128.914px; height: 44px;">
+<p>Unfreeze teacher wallet due to Teacher deactivation</p>
+</td>
+<td style="width: 860.32px; height: 44px;">
+<div>First reply with Macro General::EN::Tier 2</div>
+</td>
+</tr>
+<tr style="height: 90px;">
+<td class="wysiwyg-text-align-center" style="width: 128.914px; height: 90px;" data-sheets-value='{"1":2,"2":"Adjust Credits request for completed lessons (with written confirmation from both)"}'>
+<p>Adjust Credits request for completed lessons (with written confirmation from both)</p>
+</td>
+<td style="width: 860.32px; height: 90px;" data-sheets-value='{"1":2,"2":"1. Give first reply 2. Leave a clear internal note of the action request 3. Assign to Payment Group "}'>
+<p>1. Student must provide visual proof of the refund agreement with the teacher / if the teacher wants to refund, escalate.</p>
+<p>2. Leave a clear internal note with User ID, lesson ID, Amount and Reason.</p>
+<p>3. Escalate to Tier 2.</p>
+</td>
+</tr>
+<tr style="height: 65px;">
+<td class="wysiwyg-text-align-center" style="width: 128.914px; height: 90px;" data-sheets-value='{"1":2,"2":"BOS "}'>
+<p>First-time inquiry about how BOS works</p>
+</td>
+<td style="width: 860.32px; height: 90px;" data-sheets-value='{"1":2,"2":"1. First reply with Macro \"Other::EN::BOS Inquiry\" 2. Assign to BOS group and submit as pending "}'>
+<p>1. First reply with Macro "Other::EN::BOS Inquiry"</p>
+<p>2. Submit as solved</p>
+</td>
+</tr>
+<tr style="height: 103px;">
+<td class="wysiwyg-text-align-center" style="width: 128.914px; height: 103px;">
+<p>Other BOS inquiries </p>
+</td>
+<td style="width: 860.32px; height: 103px;">
+<p>Escalate only for meeting request, bank transfer completed "add credits to X BOS account " and remove or add new user.</p>
+<p>1. First reply with Macro General::EN::Tier 2 </p>
+<p>2. Assign to Tier 2 : Exy</p>
+</td>
+</tr>
+<tr style="height: 21px;">
+<td class="wysiwyg-text-align-center" style="width: 128.914px; height: 90px;" data-sheets-value='{"1":2,"2":"Chargeback Replies"}'>
+<p>Cash Refund</p>
+</td>
+<td style="width: 860.32px; height: 90px;" data-sheets-value='{"1":2,"2":"First reply with Macro General::EN::Tier 2"}'>
+<p>1. First reply with Macro Cash Refund 1st reply and solve, if user follow up use Cash Refund 2nd and solve.</p>
+<p>2. If user insists, fill the cash refund file: <a href="https://docs.google.com/spreadsheets/d/1NB_imaumJ942shkDWNINE27IjQ8MMElCm_utS2WZtuE/edit#gid=2121099372">https://docs.google.com/spreadsheets/d/1NB_imaumJ942shkDWNINE27IjQ8MMElCm_utS2WZtuE/edit#gid=2121099372</a></p>
+<p>3. Wait for Daisy/Linda/Tommy email about the cash refund being processed and follow up with the user. </p>
+<p><strong>Exception: if the user is based in China and is Chinese we add it immediately into the cash refund file, and then we inform the user that the refund will be provided within the next 10 business days.</strong></p>
+</td>
+</tr>
+<tr style="height: 21px;">
+<td class="wysiwyg-text-align-center" style="width: 128.914px; height: 90px;" data-sheets-value='{"1":2,"2":"Fraud Replies"}'>
+<p>Chargeback/Fraud Replies </p>
+<p> </p>
+</td>
+<td style="width: 860.32px; height: 90px;" data-sheets-value='{"1":2,"2":"First reply with Macro General::EN::Tier 2"}'>
+<p>1. Give Tier 2 Macro reply.</p>
+<p>2. Leave internal note - copy and paste the OMS sticky note.</p>
+<p>3. Escalate as Open, Tier 2 - Exy</p>
+</td>
+</tr>
+<tr style="height: 65px;">
+<td class="wysiwyg-text-align-center" style="width: 128.914px; height: 90px;" data-sheets-value='{"1":2,"2":"Cancel Pending Withdrawal Request (Express withdrawal excluded)"}'>
+<p>Cancel "Approve, Will Pay" Withdrawal Request (Express withdrawal excluded)</p>
+</td>
+<td style="width: 860.32px; height: 90px;" data-sheets-value='{"1":2,"2":"1. Give first reply 2. Leave a clear internal note of the action request 3. Assign to Payment Group  "}'>
+<p>1. Send email to Finance Linda. </p>
+<p>2. Follow up with the user accordingly. </p>
+</td>
+</tr>
+<tr style="height: 162px;">
+<td class="wysiwyg-text-align-center" style="width: 128.914px; height: 162px;">
+<p>Bank Transfer, funds not visible in user wallet (user / BOS)</p>
+</td>
+<td style="width: 860.32px; height: 162px;">
+<p>1. Check OMS transaction status, if failed/canceled/pending but user said the payment has been made, ask for the receipt<span lang="en-US" style="font-family: Calibri;">, </span><span lang="zh-CN" style="font-family: 'Microsoft YaHei';">including bank confirmation number.</span></p>
+<p><span lang="zh-CN" style="font-family: 'Microsoft YaHei';">2. Check this Bank Transfer file and try to locate the payment through the amount, name, bank, receipt: <a href="https://docs.google.com/spreadsheets/d/1wqD62SNSzKma8pAqeiRq3xrPQMpDWebqJugHPR7fspg/edit#gid=9738135">https://docs.google.com/spreadsheets/d/1wqD62SNSzKma8pAqeiRq3xrPQMpDWebqJugHPR7fspg/edit#gid=9738135</a></span></p>
+<p><span lang="zh-CN" style="font-family: 'Microsoft YaHei';">Contact Linda only if the payment is recorded in this file. </span></p>
+<p><span lang="zh-CN" style="font-family: 'Microsoft YaHei';">3. Contact Linda linda.jiang@italki.com through EMAIL / CC Tiffany and Stephany: </span></p>
+<p><span lang="zh-CN" style="font-family: 'Microsoft YaHei';"><strong>EMAIL OBJECT MUST BE: Unclaimed Bank transfer+ID/Order ID"</strong></span></p>
+<p><span lang="zh-CN" style="font-family: 'Microsoft YaHei';">- User ID</span></p>
+<p><span lang="zh-CN" style="font-family: 'Microsoft YaHei';">- Date</span></p>
+<p><span lang="zh-CN" style="font-family: 'Microsoft YaHei';">- Amount</span></p>
+<p><span lang="zh-CN" style="font-family: 'Microsoft YaHei';">- K Transaction code + OMS K transaction screenshot</span></p>
+<p><span lang="zh-CN" style="font-family: 'Microsoft YaHei';">- Payment receipt provided by the user </span></p>
+<p><span lang="zh-CN" style="font-family: 'Microsoft YaHei';">- Screenshot of the bank transfer link that you located in the file below: here:https://docs.google.com/spreadsheets/d/1wqD62SNSzKma8pAqeiRq3xrPQMpDWebqJugHPR7fspg/edit#gid=9738135</span><span lang="zh-CN" style="font-family: 'Microsoft YaHei';"></span><span lang="zh-CN" style="font-family: 'Microsoft YaHei';"> </span></p>
+</td>
+</tr>
+<tr style="height: 109px;">
+<td class="wysiwyg-text-align-center" style="width: 128.914px; height: 90px;" data-sheets-value='{"1":2,"2":"Check Payment Failure Reason"}'>
+<p>Card Payment Failure Reason</p>
+</td>
+<td style="width: 860.32px; height: 90px;" data-sheets-value='{"1":2,"2":"1. Check failed reason in oms, can reply with Macro \"Payment::EN::Payment Failed\" if applicable 2. Only escalate if user has contacted bank and still cannot pay after several days"}'>
+<div>1. Check failed reason in OMS.</div>
+<div>2. Reply with Macro "Payment::EN::Payment Failed" if applicable.</div>
+<div>3. If user insists bank/card all good, then send an email to Tommy (cards) w/ user ID, email/phone number associated to the user and Withdrawal ID, Issue: student can't pay / Desired solution: please investigate why the user can't pay. </div>
+<div>Keep in cc Tiffany/Stephany.</div>
+</td>
+</tr>
+<tr style="height: 109px;">
+<td class="wysiwyg-text-align-center" style="width: 128.914px; height: 90px;" data-sheets-value="{&quot;1&quot;:2,&quot;2&quot;:&quot;Withdrawal \&quot;Completed\&quot; in oms but teacher hasn't received &quot;}">
+<p>Withdrawal Issues</p>
+</td>
+<td style="width: 860.32px; height: 90px;" data-sheets-value='{"1":2,"2":"1. Recheck oms status and advise user to contact PayPal/Payoneer first 2. Only escalate if teacher gets back with reply from PayPal/Payoneer that the withdrawal failed, escalate to Payment Group"}'>
+<div class="gmail_quote">
+<div dir="ltr">
+<div>Tickets regarding the below questions/issues:</div>
+<div></div>
+<div>- Hyperwallet/Payoneer withdrawal completed in OMS but teacher claim not received.</div>
+<div>- Hyperwallet/PayPal funds sent to the wrong account.</div>
+<div>- Payoneer account inactive issue.</div>
+<div>- Withdrawal cancelled.</div>
+<div><span></span></div>
+<div><span>1. First reply needed as per Tier 2 Macro.</span></div>
+<div>
+<span>2. <strong>E</strong></span><strong data-stringify-type="bold"><span>scalate to</span><span> </span>Tier 2-TW</strong>
+</div>
+</div>
+</div>
+</td>
+</tr>
+</tbody>
+</table>
+<p> </p>

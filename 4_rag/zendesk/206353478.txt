@@ -1,0 +1,26 @@
+<h1>How do I report inappropriate or abusive behavior?</h1>
+<p dir="ltr">If you see something on italki that you believe violates our <a href="http://www.italki.com/tos" target="_blank" rel="noopener">Terms of Service</a>, <a href="https://support.italki.com/hc/en-us/articles/206353468-italki-Community-Guidelines" target="_blank" rel="noopener">Community Guidelines</a>, or <a href="https://support.italki.com/hc/en-us/articles/215325898-italki-Teacher-Policies-Teacher-Code-of-Conduct" target="_blank" rel="noopener">Teacher Policies</a>, you should report it to us.</p>
+<p dir="ltr">Examples of violations include:</p>
+<ul dir="ltr">
+<li>
+<div>Commercial spam</div>
+</li>
+<li>Sexual or inappropriate comments</li>
+<li>Hate speech, threats</li>
+<li>Scams, phishing or fraud</li>
+<li>Bullying or harassment</li>
+<li>Overtly religious or political posts</li>
+</ul>
+<p>If the inappropriate comment took place on an italki Answers, Notebook, or Discussions, please take the following steps to report the comment.</p>
+<p> </p>
+<p><strong>1. View and click "Report".</strong></p>
+<p><img src="https://support.italki.com/hc/article_attachments/360028566914" alt="QQ__20190314152357.jpg"></p>
+<p dir="ltr"> </p>
+<p dir="ltr"><strong>2. After clicking "Report" a "Report this user" window will pop-up.  Fill out the Report this user form and click "Submit".</strong></p>
+<p dir="ltr"><img src="https://support.italki.com/hc/article_attachments/360028567074" alt="QQ__20190314152511.jpg"></p>
+<p dir="ltr">If the comment took place in an inbox message or on another system (like Skype), please take a screenshot and copy the text from the comment, and send it to <a href="mailto:support@italki.com">support@italki.com</a>.  The support team at italki will review the comment and take action.</p>
+<p> </p>
+<p><strong>Avoiding Scams</strong></p>
+<p>On italki you will have the opportunity to become friends with people from all over the world. Please remember to use your own best judgment when giving information to people you don't know.  For your own personal and financial safety we recommend never sharing information that should be kept confidential, such as your physical address and your bank account information.</p>
+<p>You should never send any money to someone you have met on the internet.  All transactions on italki should be made in italki Credits from student to teacher, or between friends in Gift Cards of a reasonable amount.  </p>
+<p>If any italki user ever makes you feel pressured to do something you are not comfortable with, please contact us at support@italki.com immediately for assistance.</p>

@@ -1,0 +1,21 @@
+<h1>What are the language requirements for teaching?</h1>
+<h2><strong>Language level</strong></h2>
+<p><span style="font-weight: 400;">We require that teachers have </span><strong>native</strong><span style="font-weight: 400;"> proficiency or </span><strong>C2</strong><span style="font-weight: 400;"> level in order to teach a target language. italki uses the </span><a href="https://en.wikipedia.org/wiki/Common_European_Framework_of_Reference_for_Languages" target="_blank" rel="noopener">Common European Framework of Reference for Languages (CEFR)</a><span style="font-weight: 400;"> for reporting language proficiency. </span></p>
+<p> </p>
+<h2><strong>How do I demonstrate my language level on italki?</strong></h2>
+<ul>
+<li style="font-weight: 400;" aria-level="1">(Mandatory) Speak in the language during your introduction video</li>
+<li style="font-weight: 400;" aria-level="1">(Optional) Upload language proficiency certification</li>
+<li style="font-weight: 400;" aria-level="1">(Optional) If you are an English teacher<span style="font-weight: 400;">, take the </span><a href="https://www.italki.com/p/oet" target="_blank" rel="noopener">Oxford Online Placement Test (OOPT)</a><span style="font-weight: 400;">.  You can display the result on your profile where students will easily see it.</span>
+</li>
+</ul>
+<p> </p>
+<h2><strong>How is this shown on a teacher's profile?</strong></h2>
+<p><span style="font-weight: 400;">Your teacher profile shows the languages you teach and speak.</span><span style="font-weight: 400;"><br></span></p>
+<p><span style="font-weight: 400;">Additions or updates to any of these require approval by italki staff. You can go to </span><a href="https://teach.italki.com/console/profile" target="_blank" rel="noopener">https://teach.italki.com/console/profile</a><span style="font-weight: 400;"> - Languages to update it.</span></p>
+<p><strong>italki retains the rights to:</strong></p>
+<ul>
+<li style="font-weight: 400;" aria-level="1"><span style="font-weight: 400;">Modify the language level(s) on teachers’ profiles if the reported language level is suspected of being inaccurate or misleading.</span></li>
+<li style="font-weight: 400;" aria-level="1"><span style="font-weight: 400;">Remove a teacher from the teacher search in a particular language if a teacher’s language level is suspected of being below the necessary requirement to teach.</span></li>
+<li style="font-weight: 400;" aria-level="1"><span style="font-weight: 400;">Deactivate teacher profiles that have false or misleading information about the teacher’s language proficiency level.</span></li>
+</ul>

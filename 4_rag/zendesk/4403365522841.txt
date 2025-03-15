@@ -1,0 +1,26 @@
+<h1>How do I record my lesson in the italki Classroom?</h1>
+<p><span style="font-weight: 400;">Many students and teachers have requested the ability to record their italki lessons. We now can offer this function for the italki classroom. This function in the italki Classroom is currently only supported in the </span><strong>Chrome and Firefox</strong><span style="font-weight: 400;"> web browser. If one person is not using a supported browser, the recording function will be unavailable for both users.</span></p>
+<p><strong>italki takes student and teacher privacy very seriously. </strong><span style="font-weight: 400;">In order for ANY recording to be made, BOTH the teacher AND the student must agree to allow recording.  </span><span style="font-weight: 400;"></span></p>
+<p> </p>
+<p><span style="font-weight: 400;">When you enter the italki Classroom, you will see a Recording Authorization Switch in the upper-right hand corner. The default for this switch is "<strong>On</strong>". If you do not want to allow the lesson to be recorded, turn the switch to "<strong>Off</strong>". When you change your preference, your new setting will be saved as the default for future lessons.  </span></p>
+<p><img src="https://support.italki.com/hc/article_attachments/36793840597401" alt="Screen_Shot_2021-09-07_at_6.35.26_PM.png" width="679" height="352"></p>
+<p><span style="font-weight: 400;">If the authorization switch is "On" for both the student and the teacher, then a Record Button will appear.  </span></p>
+<p><span style="font-weight: 400;"><img src="https://support.italki.com/hc/article_attachments/36793840598809" alt="Screen_Shot_2021-09-07_at_6.36.14_PM.png" width="685" height="353"></span></p>
+<p><span style="font-weight: 400;">Again, if either person has the authorization switch to "Off", the Record Button will not appear for both users. </span><span style="font-weight: 400;"></span></p>
+<p><img src="https://support.italki.com/hc/article_attachments/36793847173913" alt="Screen_Shot_2021-09-07_at_6.37.08_PM.png"></p>
+<p><span style="font-weight: 400;">When you click on the Record Button, you will be asked to give permission for screen sharing. Please agree to share your screen. If your operating system does not allow you to share your screen, please authorize this in your settings before recording. If you are having difficulties with screen sharing, Check out <strong><a href="https://support.italki.com/hc/en-us/articles/900005800623-How-to-allow-screen-sharing-on-your-Mac-for-italki-Classroom-lessons-" target="_self">How to allow screen sharing on your Mac for italki Classroom lessons?</a></strong></span></p>
+<p><img src="https://support.italki.com/hc/article_attachments/36793847174681" alt="Screen_Shot_2021-09-07_at_6.38.10_PM.png"></p>
+<p><span style="font-weight: 400;">After you start recording, you can choose to pause or stop recording at any time. When you finish recording, select where you want to save the recording. If you accidentally close or refresh your browser, you can re-enter the classroom, and save your last recording. </span></p>
+<h2> </h2>
+<h2><strong>Where is the video recording saved?</strong></h2>
+<p><span style="font-weight: 400;">Recordings of italki classroom lessons will be saved locally onto your computer. The videos will be in a WEBM format and should be viewable with <a href="https://www.webmproject.org/users/" target="_self">a supported web browser.</a>  </span></p>
+<p><span style="font-weight: 400;">The video recording is not saved or uploaded to any online server. The recording is only saved on your computer. italki does not have access to your video and does not have a copy of the video.</span></p>
+<h2> </h2>
+<h2><strong>Responsible video use</strong></h2>
+<ul>
+<li><span style="font-weight: 400;">If any users have concerns about lesson recordings, we recommend not allowing lesson recording.</span></li>
+<li><span style="font-weight: 400;">Students and teachers should always ask the other person for permission to record a lesson.  Lesson recordings should only be used for personal review. </span></li>
+<li><span style="font-weight: 400;">Allowing recording authorization does not give a person (the student or the teacher) the right to use the video for any other purposes (including, but not limited to commercial use, promotional use, resale, etc.).  </span></li>
+<li><span style="font-weight: 400;">italki does not take responsibility for any lesson recordings. Teachers and students that allow lesson recording are responsible for their own behavior.  italki is not responsible for improper use of recorded content.</span></li>
+<li><span style="font-weight: 400;">Lesson recording is a feature that is offered as-is. The recording quality can be affected by a user's equipment, internet connection, browser, etc. italki is not responsible for any losses or damages caused by recording or saving failures.  </span></li>
+</ul>

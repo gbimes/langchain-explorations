@@ -1,0 +1,10 @@
+<h1>SOP: Unauthorized user wants to get their teacher account back</h1>
+<p><span style="font-weight: 400;">Sometimes, if a teacher hasn't use italki for a long time due to different reasons (new job, long-term illness, move to another country etc.) and they forgot their login detail i.e. password, login email address. When they contact us to help them recover their password. We must ask them to provide their legal document such as a copy of their passport to make sure it is themselves who are requiring their account recovery, especially if there is still money left in the teacher wallet.</span></p>
+<p><strong>Certificate Proving the teacher's identification</strong></p>
+<ul>
+<li style="font-weight: 400;"><strong>Copy of their Passport, Driver's License</strong></li>
+</ul>
+<p><span style="font-weight: 400;">The information in their Passport or Driving License must be the same as the information in their teacher account i.e. full name, birth date etc.</span></p>
+<p><span style="font-weight: 400;">Once we have confirmed that the person who requested to recovering their old teacher account is the same person, we can then help them change the password so they can log into the account again. Please also add the IDs to this Google Drive folder to keep on file: </span><a href="https://drive.google.com/drive/u/0/folders/1TkQcwkClZ3Vh6xTFIMzVn2B6u-OozzXV"><span style="font-weight: 400;">Internal Teacher SOP: Unusual case ID collection</span></a></p>
+<h3><span style="font-weight: 400;">History:</span></h3>
+<p><span style="font-weight: 400;">2018 September 18th: https://italki.zendesk.com/agent/tickets/246490</span></p>

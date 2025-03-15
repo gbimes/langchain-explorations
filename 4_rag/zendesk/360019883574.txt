@@ -1,0 +1,11 @@
+<h1>How can I close my teacher account?</h1>
+<p>If you decide that it's best to deactivate your teacher profile, you must first make sure that:</p>
+<ol>
+<li>You have no lessons under these statuses: upcoming, action required, waiting. (check here: <a href="https://teach.italki.com/lessons/sessions" target="_blank" rel="noopener noreferrer">https://teach.italki.com/lessons/sessions</a>)</li>
+<li>You have no packages under these statuses: active, action required, temporarily frozen. (check here: <a style="background-color: #ffffff;" href="https://teach.italki.com/lessons/packages" target="_blank" rel="noopener noreferrer">https://teach.italki.com/lessons/packages</a>)</li>
+<li>You understand that you have to <a href="https://teach.italki.com/application" target="_blank" rel="noopener">re-apply</a> if you want to resume teaching on italki. Your lesson history will be saved.</li>
+</ol>
+<p>Next, contact italki support and we will process your request to deactivate your teacher profile.</p>
+<p> </p>
+<p>Note: Your user account will still be active. <a href="https://support.italki.com/hc/en-us/articles/206352938-How-do-I-deactivate-my-italki-account-" target="_blank" rel="noopener">Read more: How do I deactivate my italki account?</a></p>
+<p> </p>

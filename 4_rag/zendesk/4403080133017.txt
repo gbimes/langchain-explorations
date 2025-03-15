@@ -1,0 +1,4 @@
+<h1>Introducing: Lesson Request Window</h1>
+<p>If you're reading this on our app, please go to <a href="https://teach.italki.com/console/lessons" target="_blank" rel="noopener">https://teach.italki.com/console/lessons</a> from your desktop browser to access <strong>Lesson Request Window</strong> in your <strong>Availability Settings</strong>.</p>
+<p><a href="https://teach.italki.com/console/lessons" target="_blank" rel="noopener"><img src="https://support.italki.com/hc/article_attachments/4403074309401" alt="25a6037aa06e19bc061ce34636c6e0a9.png"></a></p>
+<p><img src="https://support.italki.com/hc/article_attachments/4407762210713" alt="mceclip0.png"></p>

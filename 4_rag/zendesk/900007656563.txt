@@ -1,0 +1,21 @@
+<h1>How to add another teaching language?</h1>
+<p><strong>To add another teaching language, please completed the necessary steps below:</strong></p>
+<ol>
+<li style="font-weight: 400;" aria-level="1"><span style="font-weight: 400;">Check if the language you’d like to teach is open for application.</span></li>
+<li style="font-weight: 400;" aria-level="1"><span style="font-weight: 400;">Prepare a video of you speaking all the languages that you want to teach.  </span></li>
+<li style="font-weight: 400;" aria-level="1"><span style="font-weight: 400;">Prepare the supporting documents for your application, such as certificates/credentials that support your language level and teaching qualifications in the new teaching language. (Professional teacher only) </span></li>
+</ol>
+<p><strong>Once you are ready, please follow the steps below to add the language:</strong></p>
+<ol>
+<li style="font-weight: 400;" aria-level="1"><span style="font-weight: 400;">Add the language to your ‘Languages you speak or learn’ . </span></li>
+<li style="font-weight: 400;" aria-level="1">
+<span style="font-weight: 400;">Add the language to your ‘Teaching Languages’. Only languages at level C2 or native are shown here. (If the language is not open for application, you will not be able to select it.) <img src="https://support.italki.com/hc/article_attachments/44055341450649" alt="企业微信截图_17409837782971.png"></span><span style="font-weight: 400;"></span>
+</li>
+<li style="font-weight: 400;" aria-level="1">
+<span style="font-weight: 400;">Update your video here. Please update your video at the same time you submit your language application, your video will be referenced when considering your application.<img src="https://support.italki.com/hc/article_attachments/44055380470041" alt="企业微信截图_e85f222c-0b82-4c80-9e56-868f620c0b53.png"></span><span style="font-weight: 400;"></span>
+</li>
+<li style="font-weight: 400;" aria-level="1">
+<strong>Professional Teacher Only</strong> - Update your certificates that support your language level and Teaching Credentials. </li>
+</ol>
+<p> </p>
+<p><span style="font-weight: 400;">Now you are all set! The review generally takes 2-3 working days and you will be notified once the decision has been made. </span></p>

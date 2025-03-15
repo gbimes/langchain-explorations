@@ -1,0 +1,101 @@
+<h1>Instant Lesson</h1>
+<p data-renderer-start-pos="120"><span>Instant Lesson allows students to book trial lessons right away. These lessons are automatically accepted and can’t be declined. Instant Lessons start 5 minutes after a student purchases.</span></p>
+<ol class="ak-ol" data-indent-level="1">
+<li>
+<p data-renderer-start-pos="329">Instant Lessons are currently only available for 30 minutes <strong>trial lessons</strong>.</p>
+</li>
+<li>
+<p data-renderer-start-pos="407">These lessons are automatically accepted and start 5 minutes after purchase.</p>
+</li>
+<li>
+<p data-renderer-start-pos="487">If students have an upcoming lesson within the next 40 minutes, student<span id="342e15a9-09c1-423a-bcd2-efdf41f07a95" class="inline-highlight" data-renderer-mark="true" data-mark-type="annotation" data-mark-annotation-type="inlineComment" data-id="342e15a9-09c1-423a-bcd2-efdf41f07a95"> can't book an Instant Lesson.</span></p>
+</li>
+<li>
+<p data-renderer-start-pos="583">All Instant Lessons must be taken in italki Classroom.</p>
+</li>
+<li>
+<p data-renderer-start-pos="641">Instant lessons cannot be canceled or rescheduled.</p>
+</li>
+</ol>
+<h2 data-renderer-start-pos="754"><span class="wysiwyg-color-cyan110"><strong>Teacher Side</strong></span></h2>
+<ul>
+<li>Under the teacher dashboard, the teacher will be asked to enable instant lessons. After read through the definition of instant lesson and lesson policy, the teacher will be required to sign up to enable this function.</li>
+<li>If the teacher not yet setting up any trial lesson, the system will ask the teacher to complete the trial lesson setting then.</li>
+<li>Teachers needs to turn on system notifications to enable instant lesson as well.</li>
+</ul>
+<p><img src="https://support.italki.com/hc/article_attachments/4406384225177/mceclip0.png" alt="mceclip0.png"></p>
+<p> </p>
+<ul>
+<li>When successfully sign up for the instant lesson, teacher will be able to see the "⚡“ sign turns blue.</li>
+</ul>
+<p><img src="https://support.italki.com/hc/article_attachments/4406184459289/mceclip1.png" alt="mceclip1.png"></p>
+<p> </p>
+<ul>
+<li>Once enabled Instant Lesson, the accepting students status will allow "all students" to request for lessons that cannot be changed.</li>
+</ul>
+<p><img src="https://support.italki.com/hc/article_attachments/4406824461081/mceclip0.png" alt="mceclip0.png"></p>
+<div>
+<div class="inspect_panels--copyableRow--2_PiZ inspect_panels--highlightRow--21P9S">
+<div class="inspect_panels--propertyRowContent--7Y-mu inspect_panels--copyableRow--2_PiZ inspect_panels--highlightRow--21P9S">
+<ul>
+<li class="inspect_panels--contentProperty--2Z1QI text--fontPos11--RSei3 text--_fontBase--YWDo0 ellipsis--ellipsisAfter8Lines--2rn32 ellipsis--_ellipsisAfterNLines--26JkZ">If a teacher is under penalization period due to TMS, his/ her instant lesson will be turn off. TMS due to absence logic also applies to instant lessons.</li>
+</ul>
+<div class="inspect_panels--contentProperty--2Z1QI text--fontPos11--RSei3 text--_fontBase--YWDo0 ellipsis--ellipsisAfter8Lines--2rn32 ellipsis--_ellipsisAfterNLines--26JkZ"><img src="https://support.italki.com/hc/article_attachments/4406384259353/mceclip1.png" alt="mceclip1.png"></div>
+</div>
+</div>
+</div>
+<p><img src="https://support.italki.com/hc/article_attachments/4406184492313/mceclip2.png" alt="mceclip2.png"></p>
+<ul>
+<li>Teacher will get a pop-up window when he/she receive an instant lesson. This popup will display with sound alert while teacher recieve the Instant Lesson.<br>Click button “REMIND ME LATER” to close the popup.<br>If the countdown to last 1 min, the popup will display again.<br>If the first showtime of the popup is less than 1 min, then there is only one button “ENTER CLASSROOM”.</li>
+</ul>
+<p><img src="https://support.italki.com/hc/article_attachments/4406191913497/mceclip4.png" alt="mceclip4.png"></p>
+<p data-renderer-start-pos="1640"><strong>Instant Lesson will be disabled in the following situations:</strong></p>
+<ul class="ak-ul" data-indent-level="1">
+<li>
+<p data-renderer-start-pos="1704">Teachers are inactive for 6 hours (<span class="wysiwyg-color-red80">inactive means no switching pages or clicking on functions on the web or APP )</span></p>
+</li>
+<li>
+<p data-renderer-start-pos="1736">After completing an Instant Lesson or having no available time slots for the next 40 minutes.</p>
+</li>
+</ul>
+<p data-renderer-start-pos="1836"><strong>Instant Lessons follow all standard italki Lesson policies as well as the following:</strong></p>
+<ul class="ak-ul" data-indent-level="1">
+<li>
+<p data-renderer-start-pos="2046">Instant Lessons <span id="a9258ab8-2129-4dbb-bc8c-f733f87bc13b" class="inline-highlight" data-renderer-mark="true" data-mark-type="annotation" data-mark-annotation-type="inlineComment" data-id="a9258ab8-2129-4dbb-bc8c-f733f87bc13b">override teacher's</span> auto-accept settings.</p>
+</li>
+<li>
+<p data-renderer-start-pos="2099">Instant Lessons cannot be canceled or rescheduled.</p>
+</li>
+</ul>
+<p><strong>Teachers are unable to change the following functions after enabling instant lessons:</strong></p>
+<ul class="ak-ul" data-indent-level="1">
+<li>
+<p data-renderer-start-pos="1044">Vacation mode</p>
+</li>
+<li>
+<p data-renderer-start-pos="1061">Lesson request settings</p>
+</li>
+<li>
+<p data-renderer-start-pos="1088">Trial lesson settings</p>
+</li>
+</ul>
+<h2> </h2>
+<h2><strong><span class="wysiwyg-color-orange">Student Side</span></strong></h2>
+<p>If a student clicks the "Instant Lesson" banner, he/she will be direct to the Instant Lesson landing page.</p>
+<p><img src="https://support.italki.com/hc/article_attachments/4406344426137/mceclip1.png" alt="mceclip1.png" width="601" height="499"></p>
+<p><img src="https://support.italki.com/hc/article_attachments/4406344455449/mceclip2.png" alt="mceclip2.png"></p>
+<p> </p>
+<p>When students want to pay a payment for the instant lesson, they will need to select lesson type and click on booking an instant lesson. If they select 30 mins trial lesson and click the schedule button, the lesson booked is a normal trial lesson but not an instant one.</p>
+<p><img src="https://support.italki.com/hc/article_attachments/4406351472537/mceclip3.png" alt="mceclip3.png"></p>
+<p> </p>
+<p><img src="https://support.italki.com/hc/article_attachments/4406344558105/mceclip4.png" alt="mceclip4.png"></p>
+<p> </p>
+<h2><strong><span class="wysiwyg-color-orange">OMS</span></strong></h2>
+<p>To check the status of the instant lesson of a specific teacher, you can go to teacher profile and view the history of instant lesson status (whether it is on/off in a certain time frame). Also, you can see the status of whether and when did teach sign up the contract of this feature.</p>
+<p><strong><span class="wysiwyg-color-orange"><img src="https://support.italki.com/hc/article_attachments/4406867360153/mceclip0.png" alt="mceclip0.png"></span></strong></p>
+<p> </p>
+<p><span class="wysiwyg-color-black">Instant lesson function will be turned off when an instant lesson was booked, in OMS the operation will show "Turn off by requested instant lesson".</span></p>
+<p><strong><span class="wysiwyg-color-orange"><img src="https://support.italki.com/hc/article_attachments/4406867381785/mceclip1.png" alt="mceclip1.png"></span></strong></p>
+<p><span class="wysiwyg-color-black">You can check whether a lesson is an instant lesson under lesson details.</span></p>
+<p> </p>
+<p><strong><span class="wysiwyg-color-orange"><img src="https://support.italki.com/hc/article_attachments/4406867413785/mceclip2.png" alt="mceclip2.png"></span></strong></p>

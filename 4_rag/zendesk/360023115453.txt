@@ -1,0 +1,19 @@
+<h1>What is italki Credits</h1>
+<p>"italki Credits" is the virtual currency purchased from italki, which can be used solely on the italki Platform to purchase Teacher Services.</p>
+<h3 id="h_01J84EYKNNZES7RHJMCAZEZS4R"><strong>italki Credits Refund Policy</strong></h3>
+<p><span style="font-weight: 400;">Authorized payments are final. No cash refunds will be given for purchased italki Credits.</span></p>
+<ul>
+<li style="font-weight: 400;" aria-level="1">
+<span style="font-weight: 400;">If your lesson request is canceled by you, declined by a teacher, or expires (not confirmed by the Teacher in time), you will receive a 100% refund to your italki  </span><a href="https://www.italki.com/finance/overview" target="_blank" rel="noopener noreferrer">Student Wallet</a><span style="font-weight: 400;">.</span>
+</li>
+<li style="font-weight: 400;" aria-level="1">
+<span style="font-weight: 400;">If your lesson is canceled 24 hours prior to the lesson time, the lesson credits will be transferred to your italki  </span><a href="https://www.italki.com/finance/overview" target="_blank" rel="noopener noreferrer">Student Wallet</a><span style="font-weight: 400;">.</span>
+</li>
+<li style="font-weight: 400;" aria-level="1">
+<span style="font-weight: 400;">If your lesson is canceled by reporting a lesson problem after lesson time, and the agreement has been reached, the lesson credits will be transferred to your italki  </span><a href="https://www.italki.com/finance/overview" target="_blank" rel="noopener noreferrer">Student Wallet</a><span style="font-weight: 400;">.</span>
+</li>
+</ul>
+<p><span style="font-weight: 400;">Check our help page here: </span><strong><a href="https://support.italki.com/hc/en-us/articles/360023118333" target="_blank" rel="noopener noreferrer">How to submit a lesson incomplete request?</a></strong></p>
+<h3 id="h_01J84EYKNNVKR24RWJ6721Y54Z"><strong>italki Credits Expiration Policy</strong></h3>
+<p><span style="font-weight: 400;">Your italki Credits will not expire as long as you are an active member of italki.</span></p>
+<p><span style="font-weight: 400;">If your italki account has been inactive and has no login record for more than twelve (12) months, the italki Credits will expire.</span></p>

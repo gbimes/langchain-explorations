@@ -1,0 +1,33 @@
+<h1>How do I set up my calendar if there are different Time zones -TEST</h1>
+<p><strong>Quick suggestion: </strong><strong>DO NOT CHANGE YOUR TIME ZONE.</strong></p>
+<p> </p>
+<p>I'm a teacher based in China (UTC +8) most of the time. This would be how my regular Calendar looks like when I'm in UTC +8, Shanghai, as you can see down there.</p>
+<p> </p>
+<p><img src="https://support.italki.com/hc/article_attachments/360051523394/mceclip1.png" alt="mceclip1.png"></p>
+<p>During Chinese New Year, Jan. 24th - Jan 30th, I will be staying in Michigan with my family. During the CNY, as much as I want to enjoy the holiday with my family, I would still like to teach a few lessons to my regular students, as they might not be having the same holiday. When I return to China on Jan. 31st, I'd like to teach as usual, too. So how should I set up my classes during my holidays?</p>
+<p><img src="https://support.italki.com/hc/article_attachments/360052400013/mceclip2.png" alt="mceclip2.png">1. Click on the "Calendar Cleanup" </p>
+<p>2. Click on the blank area to select date(s) you want to clean</p>
+<p>3. Choose the dates you want to clean.</p>
+<p>4. Confirm</p>
+<p><img src="https://support.italki.com/hc/article_attachments/360052400153/mceclip3.png" alt="mceclip3.png"></p>
+<p><img src="https://support.italki.com/hc/article_attachments/360051523634/mceclip4.png" alt="mceclip4.png"></p>
+<p>I like to stay up late. So if I prefer to teach <strong>during the holiday</strong> on<strong> Jan. 24th. 2020, at night time 22:00 - 23:30, but it WILL BE in UTC -5.</strong> I will need to do the following:</p>
+<p>1. Go to a <a href="https://www.timeanddate.com/worldclock/converter.html?iso=20191204T120000" target="_blank" rel="noopener">Time Zone Converter Website</a> Add my<strong> target Time Zone (UTC -5),</strong> date and time</p>
+<p><img src="https://support.italki.com/hc/article_attachments/360051523914/mceclip5.png" alt="mceclip5.png"></p>
+<p>2. Add my <strong>current Time Zone: UTC +8.</strong> There, it shows the answer.</p>
+<p><img src="https://support.italki.com/hc/article_attachments/360051523994/mceclip7.png" alt="mceclip7.png"></p>
+<p>3. Now add the converted time shown in the picture above to my Calendar. <strong>11:00am - 12:30am.</strong> Apply to <strong>25th</strong> only. </p>
+<p><img src="https://support.italki.com/hc/article_attachments/360052400593/mceclip8.png" alt="mceclip8.png"></p>
+<p>Then I have correctly set up my Holiday Day 1. But still, more to go...</p>
+<p><img src="https://support.italki.com/hc/article_attachments/360051524874/mceclip12.png" alt="mceclip12.png"></p>
+<p>This would be what my availability looks like on my profile page - Remember, now the time zone in my Calendar is still <strong>UTC+8, no time zone change.</strong></p>
+<p><img src="https://support.italki.com/hc/article_attachments/360051524234/mceclip9.png" alt="mceclip9.png"></p>
+<p>Someone just booked a lesson with me on the day that I just set up for my holiday. It will show up in my <a href="https://teach.italki.com/lessons/sessions?lesson_status=upcoming&amp;session_tag=upcoming" target="_self">Upcoming Lesson List</a> like this,</p>
+<p> <img src="https://support.italki.com/hc/article_attachments/360052882573/mceclip1.png" alt="mceclip1.png"></p>
+<p><strong>DO NOT</strong> change your time zone. The list will remain like above even on Jan 24th or 25th.</p>
+<p>But remember, actually I will need to take the class at<strong> 10pm at night, Jan 24th, 2020,</strong> when I'm at home in Michigan.</p>
+<p>I'm not worried, as italki will still push notifications to me in italki App. I will also get an email reminding me of the class. Both notifications will be sent at <strong>8pm, 2h right before the class of 10 pm Jan 24th, 2020.</strong></p>
+<p> </p>
+<p>What if something went up, I need to change my availabilities <strong>of the holiday, during the holiday?</strong></p>
+<p>Simple. As we do not change the time zone settings anymore, just assume you are still in your original time zone - at least italki still does - check your holiday dates, do the conversion again, change the settings accordingly. </p>
+<p> </p>

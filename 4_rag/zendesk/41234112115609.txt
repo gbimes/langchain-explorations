@@ -1,0 +1,13 @@
+<h1>How to redeem a Lingvist code</h1>
+<h2 id="h_01JG3ES39PZ60BCWTG3T2DKAV1">About Lingvist</h2>
+<p>Lingvist uses AI to tailor over 60 language courses to your skill level, introducing the most relevant words first. Its spaced repetition technology presents words at the perfect time to boost memory retention, making it the fastest and most effective way to learn new vocabulary.</p>
+<h2 id="h_01JG3ES39PHWQETJWC4GCJCYB9">Redeem your code</h2>
+<ol>
+<li>Sign up <a href="https://lingvist.com/" target="_blank" rel="noopener noreferrer">here</a> to create your Lingvist account.</li>
+</ol>
+<p class="wysiwyg-indent1"><img src="https://support.italki.com/hc/article_attachments/41674191943193" width="2048" height="876"></p>
+<ol start="2">
+<li>Navigate to the “Subscriptions” section located in the sidebar. Select the option “Redeem it here” and enter your code.</li>
+</ol>
+<p><img src="https://support.italki.com/hc/article_attachments/41674162826393" width="2048" height="1136"></p>
+<p>If you have issues with redeeming your code, please contact support at <a href="mailto:hello@lingvist.io"><span class="wysiwyg-underline" style="color: #1155cc;">hello@lingvist.io</span></a>.</p>

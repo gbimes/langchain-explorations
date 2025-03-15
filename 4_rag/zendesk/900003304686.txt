@@ -1,0 +1,22 @@
+<h1>What is a package?</h1>
+<p>Lesson Packages on italki are a pack of lessons created and provided by teachers, usually at a discounted price.</p>
+<ul>
+<li style="font-weight: 400;" aria-level="1"><span class="wysiwyg-color-black"><strong>Valid for six (6) months</strong><span style="font-weight: 400;">. You can find the expiry date on the Package page. All lessons should be completed before the expiration date</span></span></li>
+<li style="font-weight: 400;" aria-level="1">
+<span style="background-color: #ffffff;">Prepaid already. They are a set number of lessons you purchase all at once. Te</span>acher and lesson length cannot be changed after the package is scheduled successfully</li>
+<li style="font-weight: 400;" aria-level="1">
+<span class="wysiwyg-color-black" style="font-weight: 400;">For Package Extension and Package Termination -  the student needs to </span><span style="font-weight: 400;"><span class="wysiwyg-color-black">communicate to the</span> teacher prior to the requests</span><span style="font-weight: 400;"> (<span class="wysiwyg-underline"><strong><a href="https://support.italki.com/hc/en-us/articles/360022945034" target="_blank" rel="noopener">What happens if my package expires and what should I do?</a></strong></span><strong><a href="https://support.italki.com/hc/articles/360022945034" target="_blank" rel="noopener"> </a></strong>Or <span class="wysiwyg-underline"><strong><a href="https://support.italki.com/hc/en-us/articles/360016299554" target="_blank" rel="noopener">I can't finish my Lesson Package. What should I do?</a></strong></span>)</span>
+</li>
+<li style="font-weight: 400;" aria-level="1">See how to schedule your lessons in the package <strong><a href="https://support.italki.com/hc/en-us/articles/900007752663-How-to-schedule-a-lesson-in-a-package-" target="_blank" rel="noopener noreferrer">here</a></strong>
+</li>
+</ul>
+<p><span style="font-weight: 400;"><img src="https://support.italki.com/hc/article_attachments/4414513583385" alt="mceclip1.png"></span></p>
+<p> </p>
+<p><span style="font-weight: 400;">To book a package, you can visit a teacher's profile page:</span></p>
+<ol>
+<li><span style="font-weight: 400;"> Click the “Book Now” button</span></li>
+<li><span style="font-weight: 400;"> Select a suitable lesson level/type</span></li>
+<li><span style="font-weight: 400;"> Select the lesson duration and lesson numbers in your package (5/10/20 Lessons), click “Next”</span></li>
+<li>Check out with a preferred payment method or your italki Credits.</li>
+</ol>
+<p><span style="font-weight: 400;">After your teacher accepts your lesson package request, you have a package!</span></p>

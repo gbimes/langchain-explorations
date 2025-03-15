@@ -1,0 +1,173 @@
+<h1>April 2020 italki Teacher Newsletter</h1>
+<p>Dear <span>Teachers,</span></p>
+<p><span>Here below is April 2020 italki Teacher Newsletter.</span></p>
+<p>  </p>
+<!-- [if gte mso 9]><xml><o:OfficeDocumentSettings><o:AllowPNG/><o:PixelsPerInch>96</o:PixelsPerInch></o:OfficeDocumentSettings></xml><![endif]--><!-- [if !mso]><!--><!--<![endif]--><!-- [if !mso]><!--><!--<![endif]--><!-- [if IE]><div class="ie-browser"><![endif]-->
+<table class="nl-container" style="table-layout: fixed; vertical-align: top; min-width: 320px; margin: 0 auto; border-spacing: 0; border-collapse: collapse; mso-table-lspace: 0pt; mso-table-rspace: 0pt; background-color: #ffffff; width: 100%;" role="presentation" width="100%" cellspacing="0" cellpadding="0" bgcolor="#FFFFFF">
+<tbody>
+<tr style="vertical-align: top;" valign="top">
+<td style="word-break: break-word; vertical-align: top;" valign="top">
+<!-- [if (mso)|(IE)]><table width="100%" cellpadding="0" cellspacing="0" border="0"><tr><td align="center" style="background-color:#FFFFFF"><![endif]-->
+<div style="background-color: transparent;">
+<div class="block-grid " style="margin: 0 auto; min-width: 320px; max-width: 500px; overflow-wrap: break-word; word-wrap: break-word; word-break: break-word; background-color: transparent;">
+<div style="border-collapse: collapse; display: table; width: 100%; background-color: transparent;">
+<!-- [if (mso)|(IE)]><table width="100%" cellpadding="0" cellspacing="0" border="0" style="background-color:transparent;"><tr><td align="center"><table cellpadding="0" cellspacing="0" border="0" style="width:500px"><tr class="layout-full-width" style="background-color:transparent"><![endif]--> <!-- [if (mso)|(IE)]><td align="center" width="500" style="background-color:transparent;width:500px; border-top: 0px dotted transparent; border-left: 0px dotted transparent; border-bottom: 0px dotted transparent; border-right: 0px dotted transparent;" valign="top"><table width="100%" cellpadding="0" cellspacing="0" border="0"><tr><td style="padding-right: 0px; padding-left: 0px; padding-top:5px; padding-bottom:5px;"><![endif]-->
+<div class="col num12" style="min-width: 320px; max-width: 500px; display: table-cell; vertical-align: top; width: 500px;">
+<div style="width: 100% !important;">
+<!-- [if (!mso)&(!IE)]><!-->
+<div style="border: 0px dotted transparent; padding: 5px 0px 5px 0px;">
+<!--<![endif]-->
+<div class="img-container center  autowidth  fullwidth" style="padding-right: 0px; padding-left: 0px;" align="center">
+<!-- [if mso]><table width="100%" cellpadding="0" cellspacing="0" border="0"><tr style="line-height:0px"><td style="padding-right: 0px;padding-left: 0px;" align="center"><![endif]--><img class="center  autowidth  fullwidth" style="text-decoration: none; -ms-interpolation-mode: bicubic; border: 0; height: auto; width: 100%; max-width: 500px; display: block;" title="Image" src="https://bsftassets.s3.amazonaws.com/bee/images/d76ed3c2-ff52-4b3b-b852-d04c8f6c8e0c/Header%20English.png" alt="Image" width="500" align="center" border="0"> <!-- [if mso]></td></tr></table><![endif]-->
+</div>
+<!-- [if mso]><table width="100%" cellpadding="0" cellspacing="0" border="0"><tr><td style="padding-right: 15px; padding-left: 15px; padding-top: 15px; padding-bottom: 15px; font-family: Arial, sans-serif"><![endif]-->
+<div style="color: #555555; font-family: Arial, 'Helvetica Neue', Helvetica, sans-serif; line-height: 1.5; padding: 15px;">
+<div style="font-family: Arial, 'Helvetica Neue', Helvetica, sans-serif; font-size: 12px; line-height: 1.5; color: #555555; mso-line-height-alt: 18px;">
+<p style="font-size: 14px; line-height: 1.5; text-align: center; mso-line-height-alt: 21px; margin: 0;"><strong>Share Your Success Stories</strong></p>
+<p style="font-size: 14px; line-height: 1.5; text-align: center; mso-line-height-alt: 21px; margin: 0;"> </p>
+<p style="font-size: 13px; line-height: 1.5; text-align: center; mso-line-height-alt: 20px; mso-ansi-font-size: 14px; margin: 0;"><span style="font-size: 13px; mso-ansi-font-size: 14px;">Have you ever...</span></p>
+<p style="font-size: 13px; line-height: 1.5; text-align: center; mso-line-height-alt: 20px; mso-ansi-font-size: 14px; margin: 0;"><span style="font-size: 13px; mso-ansi-font-size: 14px;">helped a student pass an interview?</span></p>
+<p style="font-size: 13px; line-height: 1.5; text-align: center; mso-line-height-alt: 20px; mso-ansi-font-size: 14px; margin: 0;"><span style="font-size: 13px; mso-ansi-font-size: 14px;">helped a student ace an important exam?</span></p>
+<p style="font-size: 13px; line-height: 1.5; text-align: center; mso-line-height-alt: 20px; mso-ansi-font-size: 14px; margin: 0;"><span style="font-size: 13px; mso-ansi-font-size: 14px;">helped a student reach fluency from scratch?</span></p>
+<p style="font-size: 12px; line-height: 1.5; text-align: center; mso-line-height-alt: 18px; margin: 0;"> </p>
+<p style="font-size: 13px; line-height: 1.5; text-align: center; mso-line-height-alt: 20px; mso-ansi-font-size: 14px; margin: 0;"><span style="font-size: 13px; mso-ansi-font-size: 14px;">This month we’re collecting stories to showcase the positive impact teachers have on students’ lives by helping students achieve their goal. Do you have a story that could serve as an example for other teachers to follow?</span></p>
+</div>
+</div>
+<!-- [if mso]></td></tr></table><![endif]-->
+<div class="img-container center fixedwidth" style="padding-right: 0px; padding-left: 0px;" align="center">
+<!-- [if mso]><table width="100%" cellpadding="0" cellspacing="0" border="0"><tr style="line-height:0px"><td style="padding-right: 0px;padding-left: 0px;" align="center"><![endif]--><a style="outline: none;" tabindex="-1" href="https://www.surveymonkey.com/r/8B8X3PM" target="_blank" rel="noopener"> <img class="center fixedwidth" style="text-decoration: none; -ms-interpolation-mode: bicubic; height: auto; border: none; width: 100%; max-width: 125px; display: block;" title="Image" src="https://bsftassets.s3.amazonaws.com/bee/images/d76ed3c2-ff52-4b3b-b852-d04c8f6c8e0c/Button%201.png" alt="Image" width="125" align="center" border="0"></a> <!-- [if mso]></td></tr></table><![endif]-->
+</div>
+<!-- [if mso]><table width="100%" cellpadding="0" cellspacing="0" border="0"><tr><td style="padding-right: 10px; padding-left: 10px; padding-top: 10px; padding-bottom: 10px; font-family: Arial, sans-serif"><![endif]-->
+<div style="color: #555555; font-family: Arial, 'Helvetica Neue', Helvetica, sans-serif; line-height: 1.5; padding: 10px;">
+<div style="font-family: Arial, 'Helvetica Neue', Helvetica, sans-serif; font-size: 12px; line-height: 1.5; color: #555555; mso-line-height-alt: 18px;">
+<p style="font-size: 11px; line-height: 1.5; text-align: center; mso-line-height-alt: 17px; margin: 0;"><span style="font-size: 11px;"><strong>Your story will be featured in the teacher recommendation letter and knowledge base.</strong></span></p>
+<p style="font-size: 12px; line-height: 1.5; mso-line-height-alt: 18px; margin: 0;"> </p>
+</div>
+</div>
+<!-- [if mso]></td></tr></table><![endif]-->
+<div class="img-container center  autowidth  fullwidth" style="padding-right: 0px; padding-left: 0px;" align="center">
+<!-- [if mso]><table width="100%" cellpadding="0" cellspacing="0" border="0"><tr style="line-height:0px"><td style="padding-right: 0px;padding-left: 0px;" align="center"><![endif]--><a style="outline: none;" tabindex="-1" href="https://www.surveymonkey.com/r/8FS6XJ9" target="_blank" rel="noopener"> <img class="center  autowidth  fullwidth" style="text-decoration: none; -ms-interpolation-mode: bicubic; height: auto; border: none; width: 100%; max-width: 500px; display: block;" title="Image" src="https://bsftassets.s3.amazonaws.com/bee/images/d76ed3c2-ff52-4b3b-b852-d04c8f6c8e0c/Body%20English.png" alt="Image" width="500" align="center" border="0"></a> <!-- [if mso]></td></tr></table><![endif]-->
+</div>
+<!-- [if mso]><table width="100%" cellpadding="0" cellspacing="0" border="0"><tr><td style="padding-right: 15px; padding-left: 15px; padding-top: 15px; padding-bottom: 15px; font-family: Arial, sans-serif"><![endif]-->
+<div style="color: #555555; font-family: Arial, 'Helvetica Neue', Helvetica, sans-serif; line-height: 1.5; padding: 15px;">
+<div style="font-family: Arial, 'Helvetica Neue', Helvetica, sans-serif; font-size: 12px; line-height: 1.5; color: #555555; mso-line-height-alt: 18px;">
+<p style="font-size: 14px; line-height: 1.5; text-align: center; mso-line-height-alt: 21px; margin: 0;"><span style="font-size: 14px;"><strong>italki Youtube Live Stream Lessons</strong></span></p>
+<p style="font-size: 12px; line-height: 1.5; mso-line-height-alt: 18px; margin: 0;"> </p>
+<p style="font-size: 13px; line-height: 1.5; text-align: center; mso-line-height-alt: 20px; mso-ansi-font-size: 14px; margin: 0;"><span style="font-size: 13px; mso-ansi-font-size: 14px;">italki teachers have been offering free Youtube live lessons to students in Spain. </span></p>
+<p style="font-size: 13px; line-height: 1.5; text-align: center; mso-line-height-alt: 20px; mso-ansi-font-size: 14px; margin: 0;"><span style="font-size: 13px; mso-ansi-font-size: 14px;">Thanks to all the teachers who have participated!</span></p>
+</div>
+</div>
+<!-- [if mso]></td></tr></table><![endif]-->
+<div class="img-container center fixedwidth" style="padding-right: 0px; padding-left: 0px;" align="center">
+<!-- [if mso]><table width="100%" cellpadding="0" cellspacing="0" border="0"><tr style="line-height:0px"><td style="padding-right: 0px;padding-left: 0px;" align="center"><![endif]--><a style="outline: none;" tabindex="-1" href="https://www.youtube.com/playlist?list=PLFduWcyZ27C4kpSMxk8gi9fZA7jVs0y7Y" target="_blank" rel="noopener"> <img class="center fixedwidth" style="text-decoration: none; -ms-interpolation-mode: bicubic; height: auto; border: none; width: 100%; max-width: 200px; display: block;" title="Image" src="https://bsftassets.s3.amazonaws.com/bee/images/d76ed3c2-ff52-4b3b-b852-d04c8f6c8e0c/Button%202.png" alt="Image" width="200" align="center" border="0"></a> <!-- [if mso]></td></tr></table><![endif]-->
+</div>
+<!-- [if (!mso)&(!IE)]><!-->
+</div>
+<!--<![endif]-->
+</div>
+</div>
+<!-- [if (mso)|(IE)]></td></tr></table><![endif]--> <!-- [if (mso)|(IE)]></td></tr></table></td></tr></table><![endif]-->
+</div>
+</div>
+</div>
+<!-- [if (mso)|(IE)]></td></tr></table><![endif]-->
+</td>
+</tr>
+</tbody>
+</table>
+<!-- [if (IE)]></div><![endif]--><!-- Layout 18 (Image and text block with button) -->
+<div>
+<table style="background-color: #fff; margin: 0 auto;" border="0" width="100%" cellspacing="0" cellpadding="0" align="center" bgcolor="#FFFFFF">
+<tbody>
+<tr>
+<td style="background-color: #fff;" bgcolor="#FFFFFF">
+<table class="container" style="margin: 0 auto; max-width: 520px;" border="0" cellspacing="0" cellpadding="0" align="center" bgcolor="#FFFFFF">
+<tbody>
+<tr>
+<td class="spacer" style="font-size: 0; line-height: 0; border-bottom: 1px solid #7F7F7F;" height="10"> </td>
+</tr>
+<tr>
+<td class="spacer" style="font-size: 0; line-height: 0; border-top: 1px solid #DDDDDD;" height="10"> </td>
+</tr>
+<tr>
+<td>
+<table class="container" style="margin: 0 auto; max-width: 520px;" border="0" cellspacing="0" cellpadding="0" align="center">
+<tbody>
+<tr>
+<td style="text-align: center; vertical-align: top; font-size: 0; padding: 15px; display: flex; justify-content: space-between;" align="center">
+<!--left-->
+<div>
+<table border="0" cellspacing="0" cellpadding="0" align="center">
+<tbody>
+<tr>
+<td align="center" width="370">
+<table border="0" width="100%" cellspacing="0" cellpadding="0" align="center">
+<tbody>
+<tr>
+<td style="font-family: 'Roboto', Arial, sans-serif; font-size: 9px; color: #9b9b9b; line-height: 15px; text-align: left;">italki, Suite 2004,20/F., Tower 5, China<br> Hong Kong City, 33 Canton Road,<br> Tsim Sha Tsui, Kowloon, Hong Kong</td>
+</tr>
+</tbody>
+</table>
+</td>
+</tr>
+</tbody>
+</table>
+</div>
+<!--end left--> <!-- [if (gte mso 9)|(IE)]>
+                                                   </td>
+                                                   <td align="center" style="text-align:center;vertical-align:top;font-size:0;">
+                                                      <![endif]--> <!--right-->
+<div>
+<table border="0" cellspacing="0" cellpadding="0" align="center">
+<tbody>
+<tr>
+<td align="center" width="150">
+<table border="0" width="95%" cellspacing="0" cellpadding="0" align="center">
+<tbody>
+<tr>
+<td style="padding-top: 5px;" align="right">
+<table width="140" cellspacing="0" cellpadding="0" align="right">
+<tbody>
+<tr>
+<td align="center" width="25"><a href="https://www.facebook.com/italkilanguages/" target="_blank" rel="noopener"><img src="https://filemanager-static01.italki.com/190812041022facebook.png" alt="Facebook" width="25" border="0"></a></td>
+<td width="10"> </td>
+<td width="30"><a href="https://twitter.com/italki" target="_blank" rel="noopener"><img src="https://filemanager-static01.italki.com/190812041132twitter.png" alt="Twitter" width="30" border="0"></a></td>
+<td width="10"> </td>
+<td width="25"><a href="https://instagram.com/italki/" target="_blank" rel="noopener"><img src="https://filemanager-static01.italki.com/190812041039ins.png" alt="Youtube" width="25" border="0"></a></td>
+<td width="10"> </td>
+<td width="30"><a href="https://www.youtube.com/italkilanguage" target="_blank" rel="noopener"><img src="https://filemanager-static01.italki.com/190812041115youtube.png" alt="Youtube" width="30" border="0"></a></td>
+</tr>
+</tbody>
+</table>
+</td>
+</tr>
+</tbody>
+</table>
+</td>
+</tr>
+</tbody>
+</table>
+</div>
+<!--end right-->
+</td>
+</tr>
+</tbody>
+</table>
+</td>
+</tr>
+<tr>
+<td class="spacer" style="font-size: 0; line-height: 0;" height="20"> </td>
+</tr>
+</tbody>
+</table>
+</td>
+</tr>
+</tbody>
+</table>
+</div>
+<!-- End Footer -->
+<p> </p>
+<!-- [if (IE)]></div><![endif]-->
+<p> </p>
+<!-- End Layout 18 (Image and text block with button) -->
+<p> </p>

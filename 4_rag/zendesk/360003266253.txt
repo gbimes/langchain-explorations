@@ -1,0 +1,49 @@
+<h1>Tier 2 - Teachers Escalation Rules</h1>
+<p><span class="wysiwyg-font-size-medium">For our Tier 1 Remote Workers, this list will help you understand which types of tickets you can handle which are teacher related and which types of tickets need to be escalated to Tier 2 - Teachers Group.</span></p>
+<p><span class="wysiwyg-font-size-large"><strong><span class="wysiwyg-color-red">General Rule: If you cannot answer the ticket yourself and it is teacher related, simply escalate it to Tier 2 - Teachers</span></strong></span></p>
+<p><span class="wysiwyg-font-size-medium">However, these are the specific types of tickets you can escalate to Tier 2 - Teachers:</span></p>
+<p><strong><span class="wysiwyg-font-size-medium">All Teacher Management System - Missed Lessons and Expired Lesson Requests</span></strong></p>
+<ul>
+<li>
+<span class="wysiwyg-font-size-medium"><a href="https://support.italki.com/hc/en-us/articles/360001003194-SOP-of-Handling-TMS-Reports-and-Tickets-Lesson-Attendance" target="_blank" rel="noopener">Teacher Management System - Missed Lessons</a></span>
+<ul>
+<li><span class="wysiwyg-font-size-medium">My profile is hidden and I missed a lesson - Teachers may have many excuses or explanations on why they missed a lesson</span></li>
+</ul>
+</li>
+<li>
+<span class="wysiwyg-font-size-medium"><a href="https://support.italki.com/hc/en-us/articles/360001003314-SOP-of-Handling-TMS-Reports-and-Tickets-Expired-Lesson-Requests" target="_blank" rel="noopener">Teacher Management System - Missed Lesson Requests</a></span><br>
+<ul>
+<li><span class="wysiwyg-font-size-medium">I missed accepting or declining a lesson request - Teachers may be apologetic</span></li>
+</ul>
+</li>
+</ul>
+<p><strong><span class="wysiwyg-font-size-medium">Teacher Profile / Application / Upgrade Tickets</span></strong></p>
+<ul>
+<li><span class="wysiwyg-font-size-medium">Why was my application declined?</span></li>
+<li><span class="wysiwyg-font-size-medium">Why was my application upgrade declined?</span></li>
+<li><span class="wysiwyg-font-size-medium">Teacher Profile Change Requests</span></li>
+<li><span class="wysiwyg-font-size-medium">Teacher Activity Certification: I need something to prove I work at italki?</span></li>
+<li><span class="wysiwyg-font-size-medium">Teacher Rating Questions? (Why is my rating going down?)</span></li>
+<li><span class="wysiwyg-font-size-medium">Removing Bad Student Feedback</span></li>
+<li><span class="wysiwyg-font-size-medium">Adding a New Language</span></li>
+<li><span class="wysiwyg-font-size-medium">Adding a New Test Tag</span></li>
+<li><span class="wysiwyg-font-size-medium">Video Uploading Issues</span></li>
+<li><span class="wysiwyg-font-size-medium">Teacher reapplying when they used to be a teacher</span></li>
+</ul>
+<p><strong><span class="wysiwyg-font-size-medium">Teacher Related Bugs / Feedback</span></strong></p>
+<ul>
+<li><span class="wysiwyg-font-size-medium">Teacher Calendar issues - I saved my profile date and it isn't working</span></li>
+<li><span class="wysiwyg-font-size-medium">Calendar Sync issues</span></li>
+<li><span class="wysiwyg-font-size-medium">Not appearing in Teacher Search</span></li>
+<li><span class="wysiwyg-font-size-medium">Other Teacher Related Bug Tickets</span></li>
+<li><span class="wysiwyg-font-size-medium">Teacher feature feedback (italki classroom, any teacher features)</span></li>
+</ul>
+<p><strong><span class="wysiwyg-font-size-medium">Teacher Police / Discipline Issues</span></strong></p>
+<ul>
+<li><span class="wysiwyg-font-size-medium">After you deal with the Student Complaint or issue regarding the Teacher make sure you report the problem-&gt; <a href="https://support.italki.com/hc/en-us/articles/360000941694-Reporting-a-Problem-about-a-Teacher">Reporting a Problem About A Teacher</a></span></li>
+</ul>
+<p><strong><span class="wysiwyg-font-size-medium">Other Teacher Issues</span></strong></p>
+<ul>
+<li><span class="wysiwyg-font-size-medium">Long detailed messages from Teachers that need a personalized answer</span></li>
+<li><span class="wysiwyg-font-size-medium">Business Development or more cooperation issues between italki and Teacher Services</span></li>
+</ul>

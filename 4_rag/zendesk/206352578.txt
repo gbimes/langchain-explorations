@@ -1,0 +1,12 @@
+<h1>What should I do if a teacher asks me to pay outside of italki?</h1>
+<p dir="ltr">Please report teachers that do this by <a href="http://support.italki.com/requests/new">submitting a support ticket</a> or sending an email to <a href="mailto:support@italki.com">support@italki.com</a>.</p>
+<p dir="ltr"><span data-mce-mark="1">This is a serious violation of the italki </span><a href="http://www.italki.com/tos"><span data-mce-mark="1">Terms of Service</span></a><span data-mce-mark="1">. </span><span data-mce-mark="1">Additionally, this behavior is potentially dangerous for students for the following reasons:</span></p>
+<ul>
+<li><span data-mce-mark="1"><strong>Risky:</strong> If you pay the teacher directly outside of the italki system, you may be at risk that the teacher does not deliver class as scheduled. italki ensures that your funds are delivered only after your class has been attended and you are satisfied with the quality of the class.</span></li>
+<li><span data-mce-mark="1"><strong>Inconvenient:</strong> italki handles payment and lesson scheduling together. If you pay outside of the italki system, you won't be able to also use the italki scheduling system to keep track of your lessons.</span></li>
+<li>
+<strong>No mediation:</strong> In the event that a class session does not go as planned, there is no way for teachers and students to settle their payment issues in an easy manner.  All Teachers and Students on italki are eligible for italki Dispute Resolution in the event that a teaching session or package does not go as planned. If italki staff cannot see any record of the lesson in our system, they will not be able to help.</li>
+<li>
+<strong>No Recourse for Student:</strong> There is no way for the student to leave public feedback about a lesson that was taken outside of the italki system either positive or negative.</li>
+</ul>
+<p dir="ltr">As an italki student, you should report the teacher to <a href="http://support.italki.com/hc/requests/new" target="_blank" rel="noopener">italki Support</a>.</p>

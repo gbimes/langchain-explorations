@@ -1,0 +1,19 @@
+<h1>How do I change/reset my password?</h1>
+<p>You can follow the steps below to reset or change your italki password. </p>
+<h2 id="h_01EQ04VR3SQ58Q5SCEWNT0J713"><strong>Reset your italki password</strong></h2>
+<p>If your account was created by a third-party account, please reset the password via the email or phone number that is connected to your third-party account. You can find the information on the <a href="https://www.italki.com/settings/account" target="_self">setting page.</a></p>
+<p>1. Go to <a href="https://www.italki.com/" target="_self" rel="undefined">www.italki.com</a> and click <strong>LOG IN</strong>.</p>
+<p>2. Click "<strong>Email</strong>" or "<strong>Phone</strong>" based on which account you used to sign up for italki. </p>
+<p>3. Click the "<strong>Forgot password?</strong>" button.</p>
+<p class="wysiwyg-text-align-center"><img src="https://support.italki.com/hc/article_attachments/900003542583" alt="1.1-Forgot_password_button.png"></p>
+<p>4. Enter your email address/phone number and click <strong>Submit</strong>. </p>
+<p>5. Follow the steps provided to reset your password. </p>
+<p> </p>
+<h2 id="h_01EQ04VWVYK76TGTE702PD9GCJ"><strong>Change your italki password</strong></h2>
+<p><span>1. Hover on your Profile Picture and click </span><strong>Settings<span> </span></strong>to<span> </span>visit your italki <a href="https://www.italki.com/settings/account" target="_blank" rel="noopener">Settings</a> Page.</p>
+<p class="wysiwyg-text-align-center"><span><img src="https://support.italki.com/hc/article_attachments/20914874801945" alt="1.4.1-Hoever-Settings.png" width="627" height="316"></span></p>
+<p>2. Click "UPDATE PASSWORD"</p>
+<p class="wysiwyg-text-align-center"><img src="https://support.italki.com/hc/article_attachments/360035475933" alt="_____20190516152005.png" width="635" height="384"></p>
+<p>3. Enter your old password and a new password</p>
+<p>4. Click <strong>Save</strong> to confirm the change. </p>
+<p> </p>

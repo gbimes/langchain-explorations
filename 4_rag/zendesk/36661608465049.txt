@@ -1,0 +1,17 @@
+<h1>How do I set lessons in different Categories?</h1>
+<h3 id="h_01J5T06KP286AVQP28Y1F8ZN99">Why is it important to set lesson categories? </h3>
+<p>Selecting the right category for lessons on italki is crucial for teachers because it directly impacts their visibility, effectiveness, and student satisfaction. On a platform like italki, where thousands of teachers offer lessons in various languages, selecting the appropriate category ensures that the lessons reach the target audience.</p>
+<p>Moreover, choosing the correct category helps in building a teacher's reputation. Positive reviews and repeat students are more likely when the lessons are well-aligned with student needs. Misclassification can lead to lower ratings and fewer bookings, affecting the teacher's success on the platform.</p>
+<h3 id="h_01J6S11P4GDG22082J7B5RTCCD"> </h3>
+<h3 id="h_01J5T0DFY9S47TWKCE2RWKEHY4">How to set up categories?  </h3>
+<p>1. Make sure you have applied and upgraded to offer the categories you wish to teach.</p>
+<p>     a. Not sure how to upgrade check the FAQ here: <a href="https://support.italki.com/hc/en-us/articles/35652968688537-How-do-I-teach-different-Lesson-Categories">How do I teach different Lesson Categories?</a> </p>
+<p>2. From your Teacher Dashboard navigate to Teacher Settings --&gt; Lessons and Availability --&gt; Lesson Management.</p>
+<p><img src="https://support.italki.com/hc/article_attachments/36664348800025"></p>
+<p> </p>
+<p>3. From there you edit an existing lesson or create a new lesson.  </p>
+<p>4. In the lesson settings you can select any approved lesson categories from the dropdown menu. </p>
+<p><img src="https://support.italki.com/hc/article_attachments/37176815530777" width="332" height="361"></p>
+<p> </p>
+<p>5. After setting the correct category, you can complete the other required fields and submit the lessons.  </p>
+<p> </p>

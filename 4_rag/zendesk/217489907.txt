@@ -1,0 +1,7 @@
+<h1>Which payment methods can I use to pay?</h1>
+<p><span style="font-weight: 400;">We provide different payment methods according to different billing countries &amp; regions.</span></p>
+<p><span style="font-weight: 400;">Popular payment methods such as Credit Card, Paypal, Skrill, Apple Pay, UnionPay, Alipay are available. </span></p>
+<p><span style="font-weight: 400;">After logging into your italki account, select your <strong>Billing Country/Region</strong> on the <strong><span class="wysiwyg-underline"><a href="https://www.italki.com/settings/payments" target="_blank" rel="noopener noreferrer">Payment setting page</a></span> </strong>to check available payment options.</span></p>
+<p><img src="https://support.italki.com/hc/article_attachments/24435363303833"></p>
+<p><span style="font-weight: 400;">Currently, WeChat is only available on <a href="https://www.italki.cn" target="_blank" rel="noopener noreferrer">www.italki.cn</a> and on our App when the billing country is China.</span></p>
+<p><span style="font-weight: 400;">In the italki app, if you cannot find the payment methods you have previously used, check the (language and) region settings on your phone. Some payment options might not be available due to the limit from the service providers.</span></p>
