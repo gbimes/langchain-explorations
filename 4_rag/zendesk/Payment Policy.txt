@@ -1,0 +1,115 @@
+Payment Policy (Effective as of: October 14, 2024)
+This payment policy ("Payment Policy") governs the Payment Services (as defined in the italki Terms) provided by italki to you. Capitalized terms (including the term "italki") used but not defined in this Payment Policy have the meanings ascribed to such terms in our Terms of Service, which is available at www.italki.com/tos (the "italki Terms").
+
+1. Key Terms for Payment Services
+"italki Credits" means the virtual currency purchased from italki, which can be used solely on the italki Platform to purchase Teacher Services, and does not have any value outside of the italki Platform. All Teacher Services on the italki Platform are paid for with italki Credits.
+
+"Lesson Fees" or "Package Fees" means the amounts that are due and payable by a Student for confirmed language lessons that have been given by a Teacher. The Teacher alone, and not italki, is responsible for setting the amount of the Lesson Fees or Package Fees.
+
+"Platform Service Fees" means the fees italki charges to the Teacher when using italki Connection Services.
+
+"Student Wallet" means an account created by a Student to purchase italki Credits that will be spent on the italki Platform. italki Credits in a Student Wallet can be used to pay for Teacher Services provided by Teachers, and other services offered by or through the italki Platform.
+
+"Payment Method" means a method or service available on the italki Platform for a Student to purchase italki Credits, such as credit card, debit card, PayPal, or Skrill.
+
+"Teacher Wallet" means an account created by Teachers to receive payment for Teacher Services.
+
+"Withdrawal Method" means a method or service available on the italki Platform for a Teacher to receive cash in the exchange for italki Credits, such as PayPal, and other third party payment providers.
+
+"Subscription Fees" means the fees italki charges to the Members when using any italki Paid Subscription Services.
+
+2. Lesson Contract
+Upon confirmation of Teacher Services, time, and price by both the Student and the Teacher, such Student and Teacher shall be considered as entering into a contract, pursuant to which the Student agrees to purchase, and the Teacher agrees to deliver, the Teacher Services (the "Lesson Contract"). You agree not to enter into any contractual provisions that conflict with the italki Terms or other italki Policies. The Student and Teacher each covenant and agree to act with good faith and fair dealing in performance of the Lesson Contract. Furthermore, the Student and Teacher each acknowledge and agree that the value, reputation, and goodwill of the italki Platform depends on their performance of the foregoing covenants and agreements. The Student and the Teacher therefore agree that italki has the right to take such actions with respect to the Lesson Contract, including without limitation suspension, termination, or legal actions, as italki in its sole discretion deems necessary to protect the value, reputation, and goodwill of the italki Platform.
+
+3. Financial Terms for Students
+For Students, you must use italki Credits to purchase Teacher Services from a Teacher. italki provides each Student with a Student Wallet to hold the italki Credits.
+
+3.1 Purchasing italki Credits
+In order to acquire italki Credits, you may use a Payment Method to pay for the desired amount of italki Credits through your italki Account. By providing italki with the required information for the applicable Payment Method, you authorize us to charge for the amounts you selected on the payment page of your italki Account. Following a successful transaction, your Student Wallet will have the corresponding amount of italki Credits. You acknowledge and agree that the italki Credit you purchased will be used to pay italki or Teacher for the services on the italki Platform. If you are a Company, italki Credit acquired by you may be allocated between the Company Employees’ italki Account.
+
+3.2 No Refunds on Authorized Payments
+Authorized payments are final. No refunds will be given for italki Credits purchased.
+
+3.3 Third Party Payment Method Fees
+When purchasing italki Credits, you may be charged additional fees by the third party that provides the applicable Payment Method. These fees are not under italki's control, and italki disclaims all liability in this regard. Whatever Payment Method you use may be subject to additional terms and conditions, which we recommend that you review before using such Payment Method.
+
+3.4 Cancelled Lesson Requests
+If a Lesson Request is cancelled by the Student, declined by the Teacher, or expires (not confirmed by the Teacher within the request period), you will receive a 100% refund in the form of italki credits to the student’s student wallet.
+
+3.5 Confirmation of Lessons
+As a Student, when you confirm a Lesson was successful, you confirm that the Teacher has completed the applicable Teacher Services fully and satisfactorily, and you are instructing italki to transfer the applicable italki Credits from your Student Wallet to the Teacher’s Teacher Wallet.
+
+3.6 Feedback and Ratings on Lessons
+As a Student, when you confirm a Lesson was successful, you may be asked to leave feedback and a rating for the Teacher. Leaving feedback or a rating is optional. However, if you do so, you agree that your feedback must be genuine and honest, and will not commit fraud, spam, insult, harass, threaten, or otherwise misuse the feedback system.
+
+You agree to report violations or abuses of our rating and feedback system by contacting Customer Service, and agree not to take any actions that undermine the integrity of the feedback system.
+
+3.7 Lesson Packages
+A Teacher may offer Students, and Students may purchase from a Teacher, more than one Lesson in a single package (each such lesson package, a "Lesson Package"). Students are expected to complete all Lessons in the Lesson Packages within six (6) months of the purchase date (the "Package Expiration Date"). If there are any remaining Lessons that have not been completed on or before the Package Expiration Date, italki will send reminders to both the Student and the Teacher prior to the applicable Package Expiration Date. Both student and teacher have a chance to extend the package before the applicable Package Expiration Date. If a Package is expired, the completed lessons in the package will be settled at the single lesson price and the remaining credits, assuming there are any, will return to the student’s wallet. See additional details here: (https://support.italki.com/hc/en-us/articles/360022945034-How-to-extend-a-package).
+
+4. italki Credits Policies
+4.1 italki Credits are not Bank Deposits
+You acknowledge that: (1) italki is not a bank, and Student Wallets and Teacher Wallets are a payment service rather than a banking service; and (2) italki is not acting as a trustee or fiduciary with respect to your funds, but is acting only as an agent and custodian. (3) ITALKI IS NOT A BANK, AND AMOUNTS TRANSFERRED THROUGH OR STORED IN STUDENT WALLETS OR TEACHER WALLETS ARE NOT INSURED DEPOSITS.
+
+4.2 italki Credits Expiration Policy
+italki Credits in a italki Account will be valid for so long as the Member remains active on italki. If any Member’s italki Account has been inactive for more than twelve (12) months, the italki Credits will expire. Credits can be reactivated by contacting italki customer support with a reactivation request, with the condition that the credits have expired for less than 12 months. Credits can be reactivated only one time, and will be valid for 12 months after the reactivation. Any activity in the credits will extend the expiration date of the credits an additional 12 months.
+
+4.3 Foreign Exchange Risk
+italki Credits are tied to US Dollars. italki is not responsible for currency fluctuations that occur when billing or crediting a credit or debit card denominated in a currency other than US Dollars, nor is italki responsible for currency fluctuations that occur when receiving or sending payment via third party payment services when purchasing italki Credits or withdrawing an italki Credit balance.
+
+4.4 italki Credits Limitations
+italki Credits are valid only when purchased on the italki Platform or through authorized italki partners. italki Credits in the form of italki gift cards or vouchers cannot be resold or redeemed for cash. italki Credits redeemed from gift cards or vouchers purchased through unofficial sources or channels are subject to cancellation without notice.
+
+5. italki Subscription Service
+5.1 Purchasing italki Paid Subscription Services.
+italki accepts payment via the payment method indicated at the time of your purchase. You agree to pay the Subscription Fees for any Paid Subscription Services that you order. italki will charge your payment method for the amount listed for the relevant Paid Subscription Services. If you purchase any automatically renewing Paid Subscription Services, your italki account will be billed continuously for the Subscription Fees until you terminate your subscription as set forth below. After your initial subscription period, and again after any subsequent subscription period, your subscription will automatically renew for an additional equivalent period. If the payment method on file becomes invalid due to an expired credit card or any other reason, and italki is unable to charge you for the next billing period, you may not be able to access the applicable Paid Subscription Services until you update your payment method. Where possible, we will provide you with notice when this happens. If you fail to update your payment method within a reasonable amount of time following that notice, italki may cancel your subscription. In some cases, you may transact with a third-party or affiliate platform when you purchase a Paid Subscription Service (e.g., if you subscribed using another platform like Apple or Google Play). In these cases, such platform will charge your payment method and be responsible for managing any issues with your payment, including refunds.
+
+From time to time, we may offer trials or other services related to Paid Subscription Services free of charge or at a discounted rate for a specified period as may be indicated on our platform. To participate in these offers, you might be required to have a valid, accepted payment method. We will remind you of any upcoming renewal charges when a free trial period ends, if the free trial period lasts for more than 31 days.
+
+5.2 Cancelling Paid Subscription Services
+You can cancel italki Paid Subscription Service any time. The cancellation will take effect at the end of the current billing period. You will retain access to the Paid Subscription Service from the time you cancel until the end of that billing period, and you will not receive a refund or credit for any remaining days in your current billing period. To cancel or terminate your italki Paid Subscription Service, you can follow the instructions located on this page:
+
+https://support.italki.com/hc/en-us/articles/38554404568729-How-to-cancel-italki-Plus-subscription
+
+6. italki's Rights Regarding italki Accounts and Funds
+6.1 Security and Financial Fraud
+As a security measure, italki may impose transaction limits on some or all Students and Teachers relating to the value of any transaction or disbursement, the cumulative value of all transactions or disbursements during a period of time, or the number of transactions per day or other period of time. We will impose these limits before any services are rendered if we determine it is necessary for security reasons or the prevention of fraud.
+
+italki reserves the right to void italki Credit purchases if purchases are found to be fraudulent. This includes italki Credits that have been redeemed from fraudulent italki gift card purchases.
+
+6.2 Reservation of Rights for Erroneous Transactions
+italki reserves the right to seek reimbursement from any Teacher or Student, if italki, in its sole discretion, determines that erroneous or duplicate transactions have occurred. italki may obtain such reimbursement by deducting from future payments owed to such Teacher, by reversing any italki Credits to such Teacher's Teacher Wallet, or by seeking reimbursement from such Teacher by any other lawful means.
+
+6.3 Prohibition on Friendly Fraud
+"Friendly Fraud" is when a person initiates a fraud dispute with a payment provider, claiming that their credit card (or other payment method) was not intended to be used. Because italki does not offer refunds, users that disagree with the policy have tried to use Friendly Fraud to receive a refund.
+
+This type of behavior is illegal and prohibited by all payment providers. italki also strictly opposes Friendly Fraud. If Friendly Fraud is discovered, the Student's italki Account and Student Wallet will be deactivated, purchased credits will be confiscated, and the Student will be noted as a financial security risk.
+
+In the case of honest mistakes, italki can reverse the transaction. We strongly advise Students to contact italki Customer Service to resolve any financial disputes.
+
+7. Prohibitions
+In addition to complying with the restrictions regarding improper use of the italki Platform described in Section 12 (Restrictions) of the italki Terms, you understand and agree that you are solely responsible for compliance with any applicable laws, rules, regulations, and tax obligations that may apply to you in connection with the use of the Payment Services. In addition, you may not and you agree that you will not:
+
+Violate any local, state, provincial, national, or other law or regulation, or any order of a court, such as money laundering and internet fraud or theft;
+Use the Payment Services for any commercial or other purposes that are not expressly permitted by this Payment Policy;
+Use the Payment Services to transmit, distribute, post or submit any information concerning any other person or entity, including without limitation, personal contact information or credit, debit, calling card or account numbers, or photographs of others without their permission;
+Register any Payment Method or Withdrawal Method with your italki account that is not yours or you do not have authorization to use;
+Attempt to probe, scan, or test the vulnerability of any italki system or network or breach any security or authentication measures;
+Avoid, bypass, remove, deactivate, impair, descramble, or otherwise circumvent any technological measure implemented by italki or any other third party (including another Member) to protect the Payment Services;
+Forge any TCP/IP packet header or any part of the header information in any email or newsgroup posting, or in any way use the Payment Services to send altered, deceptive or false source-identifying information;
+Attempt to decipher, decompile, disassemble or reverse engineer any of the software used to provide the Payment Services;
+Use credit cards or other payment methods fraudulently;
+Advocate, encourage, or assist any third party in doing any of the foregoing.
+italki has the right to investigate and prosecute violations of any of the above to the fullest extent of the law. In addition, and as set in this Payment Policy, italki may take a range of actions against you, including but not limited to limiting access to your italki Account and any associated Payment Services, for a violation of this Payment Policy.
+
+8. Teacher – Student Dispute
+In the event of a disagreement between a Teacher and a Student, italki encourages the Teacher and Student to communicate directly and attempt to resolve the disagreement. If a Teacher and Student are unable to resolve a disagreement and italki is asked to mediate, italki may request that the Teacher and Student both provide communication records regarding the dispute, which should show all key relevant information including the time, date and communication details. Although italki will attempt to evaluate the dispute on an impartial basis, italki will have the authority to resolve the dispute in its sole discretion, and italki’s resolution of the dispute will be final. As a result, italki shall have the right, in its sole discretion:
+
+To transfer credits, offer a refund, or reverse a transaction.
+To designate who shall bear the Platform Service Fees resulting from any such actions.
+9. Contacting Customer Service
+If you wish to report a violation of this Payment Policy, have any questions or need assistance, please contact italki Customer Service as follows:
+
+Online Support: https://support.italki.com
+
+Email: support@italki.com

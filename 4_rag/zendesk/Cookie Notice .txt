@@ -1,0 +1,152 @@
+Cookie Notice (Effective as of: October 14, 2024)
+italki (“Company,” "us", "we", or "our") uses cookies and other technologies on the italki Platform. By using the Services and clicking the respective buttons on our banners, you consent to the use of cookies for the purposes we describe in this Cookie Policy.
+
+This Cookie Policy is incorporated by reference into the Terms of Service available at www.italki.com/tos (our "Terms of Service") and the Privacy Policy available at https://www.italki.com/privacy (our "Privacy Policy") and is subject to the provisions of our Terms of Service and Privacy Policy. Capitalized terms used but not defined in this Cookie Policy shall have the meaning ascribed to such terms in our Terms of Service.
+
+This Cookie Policy is a part of our Terms of Service and Privacy Policy, together with your consents comprising our agreement with you.
+
+If you have any questions, please contact us by email at support@italki.com.
+
+1. Cookies and Similar Technologies
+Cookies are text files placed on your computer to collect standard internet log information and visitor behavior information. For further information, visit allaboutcookies.org.
+
+Cookies and similar technologies (including pixel tags, scripts, beacons, and SDK integrations) are standard features of the italki Platform that allow us to store small amounts of data on your device about your visit to the italki Platform. Cookies and similar technologies help us learn which areas of the italki Platform are useful and which areas need improvement.
+
+You may choose whether to accept the use of various categories of cookies in the pop-up window shown during your first visit to the Site or opt out later.
+
+In the pop-up window, you will be able to check the types of cookies by clicking the “Show details” option and choosing specific types of cookies in the pop-up window to switch on. If you don't agree with the use of cookies, you can continue using the Services with necessary cookies only. Please note that disabling specific types of cookies other than necessary cookies will affect your experience on our Site since there will be no personalization and recognition of devices during the subsequent uses of the Site.
+
+Once you create an italki Account, you can manage cookie permissions on the Site by logging into your italki Account and checking or unchecking the relevant boxes in your Cookie Settings, which you can access through Settings > Privacy. If you do not have an italki Account, you can manage cookie permissions on the Site by deleting the cookies and data stored on your device by the Site in your preferred browser’s settings.
+
+For your convenience, we've outlined the steps to access the relevant settings on the most commonly used browsers below. Please note that this information may become outdated if the browsers update or change their configurations. To explore more options for managing cookies and data in each browser, please refer to the provided links.
+
+Chrome
+1. On your computer, open Chrome.	For more information: Link
+2. At the top right, click More > Settings
+3. Click Privacy and security > Third-party cookies.
+4. Click See all site data and permissions.
+5. At the top right, search for the Site’s name.
+6. To the right of the site, click Delete.
+7. To confirm, click Delete.
+Safari
+1. Go to the Safari app on your Mac.	For more information: Link
+2. Choose Safari > Settings, then click Privacy.
+3. Click Manage Website Data.
+4. Select the Site, then click Remove or Remove All.
+Edge
+1. Open Edge browser, select Settings and more > Settings > Cookies and site permissions.	For more information: Link
+2. Under Cookies and data stored, select Manage and delete cookies and site data > See all cookies and site data and search for the Site.
+3. Select the down arrow to the right of the Site and select Delete.
+Firefox
+1. Click the menu button and select Settings.	For more information: Link
+2. Select the Privacy & Security panel and go to the Cookies and Site Data section.
+3. Click the Manage Data button. The Manage Cookies and Site Data dialog will appear.
+4. Type the name of the Site.
+5. To remove all cookies and storage data for the Site, click Remove All Shown. Otherwise, select specific entries and click Remove Selected.
+6. Click Save Changes.
+7. In the Removing Cookies and Site Data confirmation dialogue that opens, click OK.
+You can manage permissions for similar technologies on Android or iOS devices through the below device settings. Please note that this information may become outdated with future Android or iOS updates.
+
+Permissions	iOS	Android
+App Tracking	
+Settings > Privacy & Security > Tracking
+
+You can turn off the option that allows apps to request permission to track your activity. You can also review which apps have requested permission and adjust their settings
+
+Settings > Security & privacy > More privacy settings
+
+Here, you can enable or disable the Android personalization service, which may track your app usage.
+
+Advertising Preferences	Settings > Privacy & Security > Apple Advertising	
+Settings > Security & privacy > More privacy settings > Ads
+
+You can turn off personalized ads, which limits tracking for advertising purposes. You can also reset or delete your advertising ID.
+
+App Permissions	
+Settings > Scroll down to the Application
+
+Here, you can adjust permissions for Camera, Microphone, Photos, etc.
+
+Settings > Apps or Apps & notifications > Scroll down to the Application > Permissions
+
+Here, you can toggle each permission on or off for Camera, Microphone, Storage, etc.
+
+Permissions Based on Type of Information	
+Settings > Privacy & Security
+
+Here, you can manage permissions based on the specific category of information you wish to manage (e.g., Photos) for all apps on your device.
+
+Settings > Security & privacy > Permission manager
+
+Here, you can manage permissions based on the specific category of information you wish to manage (e.g., Files and Media) for all apps on your device.
+
+Browser	Settings > Apps > Safari	If you use Chrome or another browser, go to the browser's settings to adjust privacy settings.
+2. How We Use Cookies and Similar Technologies
+Our Company uses cookies in a range of ways to improve your experience on the italki Platform, including:
+
+Keeping you signed in
+Understanding how you use the italki Platform
+Enable you to share italki social media posts across different platforms
+Help us deliver advertising more relevant to your interests
+3. Cookies and Similar Technologies We Use
+Below we list the different types of cookies that we use on the italki Platform. The specific cookies that we use, and the categories to which they belong, are available below. To the extent any personal information is collected through cookies, our Privacy Policy applies and complements this Cookie Policy.
+
+Necessary cookies, which enable you to navigate the italki Platform and use its services and features. Without these necessary cookies, certain italki Platform services or features may not work properly. We use the following necessary cookies or similar technologies:
+
+Looker
+Blueshift
+Turbolink
+Firebase
+Cloudflare
+Rechaptcha
+HCaptcha
+Functional cookies, which allow our Company to recognize you on the italki Platform and remember your previously selected preferences. These could include what language you prefer and what location you are in. We use the following functional cookies or similar technologies:
+
+Adjust
+TrackingIO
+Analytical cookies, which allow our Company to analyze your use of the Site to evaluate and improve our performance. We use the following statistic technology:
+
+Google Analytics
+Social Media cookies, which enhance your experience on the Site, for example, by enabling social sharing functionalities or enabling video content. We use the following social media cookies or similar technologies:
+
+Wechat Sharing
+Facebook & Messenger Sharing
+Gmail Sharing
+VK Sharing
+Instagram Sharing
+Twitter Sharing
+Whatsapp Sharing
+Xiaohongshu Sharing
+Kakao Sharing
+Marketing cookies, which allow our Company to collect information about your visit to the italki Platform, the content you viewed, and the links you followed. The Company may also share online data collected through cookies with advertising partners. This means that when you visit another website, you may be shown advertising based on your browsing patterns on the italki Platform. The Company sometimes shares some limited aspects of this data with third parties for advertising purposes. We use the following marketing cookies or similar technologies:
+
+Google Ads
+Facebook Ads
+Baidu Ads
+Zhihu Ads
+Wechat Ads
+Naver Ads
+ShareAsale
+CF (Commission Factory)
+Admitad
+CommissionFactory
+Chusu Affiliate
+Awin
+Webgains
+Impact
+clickPixel
+Firebase
+4. Managing Cookies and Similar Technologies
+You can refuse or accept cookies using the function shown when you first visit the Site, or by unchecking the relevant boxes in your Cookie Settings, which you can access through Settings > Privacy. You may also choose to manage or disable cookies at any time by adjusting your browser settings. Please refer to the settings menu of your browser for instructions on how to change your cookie preferences. Note that if you choose to disable cookies, the Site may not function properly, and certain content may not be available. It is also possible to opt out of some third-party cookies through the Network Advertising Initiative’s Opt-Out Tool.
+
+5. Contact
+We hope that we can resolve any query or concern you raise about our use of cookies. If you would like to make a complaint regarding our cookie practices, please contact us at support@italki.com. We will reply to your complaint as soon as we can. If you feel that your complaint has not been adequately resolved, you may be able to lodge a complaint with a supervisory authority or other authority local to you.
+
+User Location	File a Complaint…
+European Union	With the data protection supervisory authority corresponding to your location within the EU. You can find your data protection regulator here
+United States	
+For California, with the California Privacy Protection Agency here
+
+For all other US states, with the relevant state’s attorney general.
+
+China	With Cybersecurity Administration of China here

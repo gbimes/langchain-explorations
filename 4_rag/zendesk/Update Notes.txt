@@ -1,0 +1,83 @@
+Update Notes(Last Updated on 14 October, 2024)
+Version 2024.10.14
+What has been updated?
+We have reorganized our policies to provide clearer and more streamlined information:
+
+Community policy has been merged into our main Terms of Service for easier access.
+All teacher-related information is now consolidated in Teacher Policy
+We have introduced new terms and explanations on italki’s paid service and paid subscription services.
+A new section outlines the usage of AI technology and the associated policies.
+We've enhanced and separated our cookie policy into its own dedicated section.
+Version 2024.03.27
+What has been updated?
+We've added information about how we use your IP information in our CN privacy policy.
+
+Version 2023.07.12
+What has been updated?
+We've added more third party SDK information in our privacy policy.
+
+Version 2022.12.12
+What has been updated?
+We’ve added specific instructions in our privacy policy regarding italki account deactivations and deletion processes.
+
+Version 2021.06.18
+What has been updated?
+We’ve updated our Chinese Privacy Policy to specify italki’s services for users inside the People’s Republic of China.
+
+Version 2020.08.31
+What has been updated?
+We’ve updated our Terms of Service to reflect how italki has evolved its products and services. The language used is more consistent with international legal frameworks (GDPR and CCPA) and better organized.
+
+Terms of Service
+We’ve added a "Relationship" section to help users better understand the relationship between italki, Students and Teachers.
+
+We've added a section called “Virtual Currency of Lingbe Product” to provide a clearer explanation of Lingbe's virtual currency.
+
+For consistency, we've renamed and reworded certain clauses.
+
+Teacher Policy
+We've provided detailed service standards to guide Teachers in their daily conduct when providing Teacher Services and interacting with Students.
+
+Payment Policy
+We have removed repetitive wordings and clauses in the Terms of service.
+
+We've added a requirement regarding expired credits. Expired credits may only be reactivated once and it must be within 12 months of the expiry date.
+
+Community Policy
+We’ve combined Conduct and Content Policy into one section for purposes of clarity
+
+Version 2018.11.29
+What has been updated?
+Teacher Policy
+We’ve made some modifications to the Teacher Terms of Service, with the goal of clarifying some issues.
+
+We’ve removed the "License Grant for Teacher Logos" which encouraged teachers to use their own trademarks, service marks, or brands. This was causing confusion, since italki does not allow promotion of other teaching services.
+
+We’ve added two requirements to the teacher service description. First, service descriptions should not advertise third-party teaching services. Second, service descriptions should not include personal contact information details, like email or phone numbers.
+
+We’ve increased the teacher’s response time requirement from one business day to 48 hours.
+
+We are requiring teachers to respond to all lesson requests.
+
+We’ve added a requirement that if the teacher is unable to give a lesson due to an emergency situation, that teacher must provide an explanation to the student as soon as possible.
+
+Community Policy
+We’ve added a policy to help community managers remove negative content and handle users that make defamatory posts about italki. We will try to avoid doing this, but we have encountered some users that persist in unconstructive and unreasonable behavior.
+
+Version 2018.5.7
+What has been updated?
+Privacy Policy
+The upcoming General Data Protection Regulation  places new obligations on organizations that process EU personal data. As a result, we’re updating our Privacy Policy and User Terms to better explain our relationship with our customers and users.
+
+Payment Policy
+We've removed the one-year period of exclusivity where Teachers and Students must have lessons on italki. italki does not tolerate teachers trying to take italki students off of italki or accepting payments outside of the italki system period.
+
+We've added prohibitive measures for Friendly Fraud. "Friendly Fraud" is when a person initiates a fraud dispute with a payment provider, claiming that their credit card (or other payment method) was not intended to be used.
+
+Version: 2017.1.1
+What has been updated?
+Payment Policy
+We’ve added a clause in the Payment Terms of Service explaining that credits redeemed from Gift Cards or Vouchers that were purchased through unofficial sources are subject to cancellation. The addition can be found under italki Credits Policies on section 10.
+
+Teacher Policy
+To ensure that all italki users have access to Teacher Introduction videos regardless of their location in the world, we’ve added a clause to the Teacher Terms of Service that allows italki to upload Teacher Introduction videos to third-party video hosting and streaming services (i.e. Youtube, Vimeo, Youku, etc.). Only videos uploaded directly to italki under Teacher Settings are subject to this clause. The addition can be found under the License Grants section.

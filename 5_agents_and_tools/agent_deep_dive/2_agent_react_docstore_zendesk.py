@@ -1,25 +1,40 @@
 import os
 
 from dotenv import load_dotenv
+from langchain import hub
+from langchain.agents import AgentExecutor, create_react_agent
 from langchain.chains import create_history_aware_retriever, create_retrieval_chain
 from langchain.chains.combine_documents import create_stuff_documents_chain
 from langchain_community.vectorstores import Chroma
-from langchain_core.messages import HumanMessage, SystemMessage
+from langchain_core.messages import AIMessage, HumanMessage
 from langchain_core.prompts import ChatPromptTemplate, MessagesPlaceholder
+from langchain_core.tools import Tool
 from langchain_openai import ChatOpenAI, OpenAIEmbeddings
 
-# Load environment variables from .env
+# Load environment variables from .env file
 load_dotenv()
 
-# Define the persistent directory
+# Load the existing Chroma vector store
 current_dir = os.path.dirname(os.path.abspath(__file__))
-persistent_directory = os.path.join(current_dir, "db", "chroma_db_with_zendesk")
+db_dir = os.path.join(current_dir, "..", "..", "4_rag", "db")
+persistent_directory = os.path.join(db_dir, "chroma_db_with_zendesk")
+
+# Check if the Chroma vector store already exists
+if os.path.exists(persistent_directory):
+    print("Loading existing vector store...")
+    db = Chroma(persist_directory=persistent_directory,
+                embedding_function=None)
+else:
+    raise FileNotFoundError(
+        f"The directory {persistent_directory} does not exist. Please check the path."
+    )
 
 # Define the embedding model
 embeddings = OpenAIEmbeddings(model="text-embedding-3-small")
 
 # Load the existing vector store with the embedding function
-db = Chroma(persist_directory=persistent_directory, embedding_function=embeddings)
+db = Chroma(persist_directory=persistent_directory,
+            embedding_function=embeddings)
 
 # Create a retriever for querying the vector store
 # `search_type` specifies the type of search (e.g., similarity)
@@ -62,7 +77,7 @@ history_aware_retriever = create_history_aware_retriever(
 # This system prompt helps the AI understand that it should provide concise answers
 # based on the retrieved context and indicates what to do if the answer is unknown
 qa_system_prompt = (
-    "You are Beni, an italki user learning assistant for question-answering tasks."
+    "You are a user learning assistant on italki for question-answering tasks. "
     "Refer to yourself as Beni and alway respond as though you are part of the italki brand."
     "Use the following pieces of retrieved context to answer the "
     "question. If you don't know the answer, just say that you "
@@ -86,26 +101,44 @@ qa_prompt = ChatPromptTemplate.from_messages(
 question_answer_chain = create_stuff_documents_chain(llm, qa_prompt)
 
 # Create a retrieval chain that combines the history-aware retriever and the question answering chain
-rag_chain = create_retrieval_chain(history_aware_retriever, question_answer_chain)
+rag_chain = create_retrieval_chain(
+    history_aware_retriever, question_answer_chain)
 
 
-# Function to simulate a continual chat
-def continual_chat():
-    print("Start chatting with the AI! Type 'exit' to end the conversation.")
-    chat_history = []  # Collect chat history here (a sequence of messages)
-    while True:
-        query = input("You: ")
-        if query.lower() == "exit":
-            break
-        # Process the user's query through the retrieval chain
-        result = rag_chain.invoke({"input": query, "chat_history": chat_history})
-        # Display the AI's response
-        print(f"AI: {result['answer']}")
-        # Update the chat history
-        chat_history.append(HumanMessage(content=query))
-        chat_history.append(SystemMessage(content=result["answer"]))
+# Set Up ReAct Agent with Document Store Retriever
+# Load the ReAct Docstore Prompt
+react_docstore_prompt = hub.pull("hwchase17/react")
 
+tools = [
+    Tool(
+        name="Answer Question",
+        func=lambda input, **kwargs: rag_chain.invoke(
+            {"input": input, "chat_history": kwargs.get("chat_history", [])}
+        ),
+        description="useful for when you need to answer questions about the context",
+    )
+]
 
-# Main function to start the continual chat
-if __name__ == "__main__":
-    continual_chat()
+# Create the ReAct Agent with document store retriever
+agent = create_react_agent(
+    llm=llm,
+    tools=tools,
+    prompt=react_docstore_prompt,
+)
+
+agent_executor = AgentExecutor.from_agent_and_tools(
+    agent=agent, tools=tools, handle_parsing_errors=True, verbose=True,
+)
+
+chat_history = []
+while True:
+    query = input("You: ")
+    if query.lower() == "exit":
+        break
+    response = agent_executor.invoke(
+        {"input": query, "chat_history": chat_history})
+    print(f"AI: {response['output']}")
+
+    # Update history
+    chat_history.append(HumanMessage(content=query))
+    chat_history.append(AIMessage(content=response["output"]))

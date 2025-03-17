@@ -1,0 +1,151 @@
+Teacher Policy(Effective as of: October 14, 2024)
+If you want to offer Teacher Services on the italki Platform, you must read and agree to be bound by these policies for Teachers ("Teacher Policy"). Capitalized terms (including the term "italki") used but not defined in this Teacher Policy have the meanings ascribed to such terms in our Terms of Service, which is available at www.italki.com/tos (the "italki Terms").
+
+If you do not accept this Teacher Policy in full, you are not authorized to teach on the italki Platform and you are not eligible to receive any benefits from italki for any Teacher Services you provide.
+
+1. Teacher Registration and Service Description
+1.1 Teacher Registration
+In order to become a "Teacher," you must first submit a complete application together with a copy of your passport or other official identification card issued by the applicable government authorities through the italki Platform ("Teacher Application"). Your completed Teacher Application will be evaluated by italki for approval. If your Teacher Application is approved, your Member status will be changed to "Teacher", you will have the ability to create and manage a Teacher profile on the italki Platform, and you can begin providing "Teacher Services", including offering and providing paid lessons ("Lesson") to Students.
+
+To the extent permitted by applicable law, italki may obtain (i) background check reports from public records or through third party venders regarding matters such as criminal convictions or sex offender registrations, and/or (ii) identity verification check reports. As a condition of applying to become a Teacher, you agree and authorize us to use your personal information, such as your full name and date of birth, to obtain such reports. In order to obtain such identity verification check reports, you further agree and authorize us to provide the copy of your passport or official identification card you submitted with a third party vender, such as Sum＆Substance (https://sumsub.com/).
+
+1.2 Teacher Services Description
+All Teachers must create a description of their Teacher Services on the italki Platform. When creating the description of your Teaching Services, you agree to the following:
+
+Write a specific, detailed service description with clear teaching scope and Lessons;
+Set expectations that you can meet or exceed;
+Do not offer services with the intent to commit fraud, provide services other than those outlined in your description, or offer any services in exchange for positive feedback or at no cost;
+Do not advertise any third-party teaching service, platform, software, or application; and
+Do not include any personal contact information, including but not limited to, email, telephone number, or social media account number.
+2. Financial Terms for Teachers
+Teachers must use italki Credits to receive payment for Teacher Services from Students. italki provides each Teacher with a "Teacher Wallet" to hold the italki Credits and to convert italki Credits to cash.
+
+2.1 italki Platform Service Fees
+italki charges Platform Service Fees upon the student confirming the successful completion of a Lesson. This fee will be deducted when italki Credits are transferred to the Teacher's Teacher Wallet. The fees may vary based on the type of Lesson or Lessons, the number of Lessons in a package, and the Teacher's overall performance. For more details on how these fees are calculated, please visit: https://support.italki.com/hc/en-us/articles/206352068-How-does-italki-charge-a-commission.
+
+italki reserves the right to modify the Platform Service Fees at any time. Should any changes occur, italki will inform Teachers prior to the new fees taking effect.
+
+The balance shown in the Teacher Wallet is the full balance after all fees have been deducted. Amounts may be rounded up or down as described in Section 2.5 (Rounding Off) below.
+
+To the extent any refunds are issued to a Student, no Commission Fees will be charged to the Teacher with respect to italki Credits that are refunded back to the Student.
+
+2.2 No Circumvention of Platform Service Fees
+Teachers shall not engage in any action or activity meant to circumvent the Platform Service Fees, with such actions or activities including, but not limited to: (i) suggesting, soliciting, or accepting payment outside of the italki Platform, or by means other than through the Payment Services; or (ii) reporting or listing an inaccurate price for a Lesson on the italki Platform, or charging a fee for a Lesson that is different from the amount agreed between Student and Teacher.
+
+2.3 Withdrawal of Funds
+When withdrawing italki Credits, you may be charged additional fees by the third party providing the applicable Withdrawal Method. These fees are not within italki's control, and italki disclaims all liability with regard to such fees. The Withdrawal Method you use may be governed by additional terms and conditions, which we recommend that you review prior to selecting or using such Withdrawal Method.
+
+2.4 Withholding or Delaying Disbursement of Funds
+If italki determines that a Teacher's actions may have resulted or will result in a significant number of disputes, refunds or other claims from Students who purchased such Teacher’s Lessons, italki reserves the right to delay or stop the disbursement of all funds accrued in such Teacher's Teacher Wallet. If italki reasonably concludes that a Teacher has violated the italki Terms or other italki Policies, italki may refuse to disburse the funds accrued in such Teacher's Teacher Wallet and remove such funds from the Teacher Wallet.
+
+2.5 Rounding Off
+italki may, in its sole discretion, round up or round down amounts that are payable by Students to Teachers to the nearest whole functional base unit in which the currency is denominated (e.g. to the nearest U.S. dollar). For example, italki may round up an amount of $101.50 to $102.00, and may round down an amount of $101.49 to $101.00.
+
+3. Teacher Services Guidelines
+3.1 Teacher Service Request
+Once you receive a Teacher Service request, you agree to the following:
+
+Use the italki Platform to manage all Teacher Service requests from Students;
+Respond promptly to all Teacher Services related communications, whether from a Student or from italki;
+Maintain a record of all important details of the communication between you and the Student. For the avoidance of doubt, communication may be conducted via emails, instant messages, telephone or in-person conversations, and important details generally includes information related to the scope of your Teacher Services, your time frames and availability to provide any Teacher Service, your price, your feedback to Student, any schedule changes, any delay of providing your Teacher Service, and completion of Lessons; and
+Respond to all Teacher Services requests with accept, decline, or propose a time/date change. Do not ignore Teaching Service requests and allow them to expire.
+3.2 Lesson and Lesson Package Policy
+3.2.1 Accepting Lesson Requests
+Teachers will receive requests for Lessons from Students ("Lesson Requests"). By accepting a Lesson Request, you agree to provide the Lesson to the Student at the date and time described in the applicable Lesson Request. You can choose to decline any Lesson Request. If you do not respond, the Lesson Request will automatically expire, and the Lesson will not be scheduled.
+
+3.2.2 Cancellations of Lesson Requests
+As a Teacher, you acknowledge and agree that italki may in its sole discretion cancel a confirmed Lesson Request pursuant to italki Terms and other italki Policies. You further acknowledge and agree that neither italki nor the requesting Student will have any liability for such cancellations or refunds.
+
+3.2.3 Cancelling or Rescheduling a Lesson
+If you will be unable to provide your Teacher Services at the time previously agreed between you and a Student, you agree to immediately inform the Student that you are unable to provide your Teacher Services at the scheduled time, and provide the Student with an explanation. If you were unable to inform the Student in advance due to an emergency, you are required to give an explanation to the Student as soon as you are able to do so.
+
+After obtaining the consent from the Student, a Teacher may cancel or reschedule any scheduled Teacher Service (including a Lesson) at any time that is more than 24 hours before such Teacher Service is scheduled to start. Canceling or rescheduling a Teacher Service must be handled through the italki Platform, and by following the cancellation and rescheduling process.
+
+Except in the rare case of true emergencies, no Teacher Service (including a Lesson) may be canceled or rescheduled by a Teacher or Student within 24 hours of the start time for such Teacher Service.
+
+3.2.4 Communication Tools
+By providing Teacher Services, you agree to use the communication tools specified and selected by your Students.
+
+To ensure a personalized learning experience, the italki video communication tool (“italki Classroom”) is integrated with AI-Powered Features and Services. By using italki Classroom, you acknowledge and give consent for italki to record Lessons for the purpose of generating learning content including but not limited to Lesson summaries, exercises, homework, progress tracking, and personalized recommendations.
+
+By offering Lessons through italki Classroom and enabling italki to record Lessons, Teachers can benefit from various exclusive features in italki Classroom, the availability of which will be advertised to Students with a specific label visible on the platform, allowing participating Teachers to stand out.
+
+You have the option to disable the Lesson recordings. Please note that disabling this feature may affect your visibility on the italki Platform and in our Teacher Recommendation System.
+
+3.2.5 Lesson Packages
+Teachers may offer Students, and Students may purchase from Teachers, more than one Lesson in a single package (each such package, a "Lesson Package"). Students are expected to complete all Lessons in a Lesson Package within six (6) months of the purchase date (the "Package Expiration Date"). You agree to be available to provide Teacher Services to Students who have purchased a Lesson Package until the Package Expiration Date. In the unlikely event that you cannot provide Teacher Services for all Lessons included in a Lesson Package by the Package Expiration Date, it is your responsibility to contact the Student immediately. You must provide the Student with an explanation and work together to reach an agreement on whether to extend or cancel the Lesson Package.
+
+3.2.6 Additional Guidelines
+By providing Teacher Services on the italki Platform, you also agree to:
+
+Maintain the privacy of your own personal information, including details related to your Teacher Wallet (as defined in the Payment Policy);
+Maintain records of all invoices and payments connected with your Teacher Services;
+Cooperate with italki in any anti-fraud actions and in resolving any disputes;
+Maintain records of all important details of communications with the Students. If there is a dispute between Teacher and Student, italki will request evidence from both the Teacher and the Student in the form of screenshots, and such screenshots must contain all information related to the relevant dispute, including the date, time and other communication details; and
+Report any violation of the italki Terms or any other italki Policies, including misuse of ratings and feedback.
+4. Teacher Code of Conduct
+4.1 Be Culturally Sensitive
+Respect the values and traditions of your Students and keep in mind that stereotypical assumptions can be offensive. We recommend avoiding conversations about marital status, politics, religion, and other potentially sensitive or personal topics. All students must be treated equally. You may not select Students based on their race, nationality, ethnic origin, age, religion, disability, sexual orientation, gender, or any other protected or sensitive characteristic.
+
+4.2 Be Professional and Empathetic
+Teachers must take the initiative in communicating with and managing Students. Teachers are expected to provide Teacher Services in a professional manner, which includes:
+
+Being responsive.You should respond to messages from Students promptly.
+Actively managing your calendar and profile.Maintain your calendar to accurately reflect the times you are available to provide Teacher Services. If you plan to take time off from providing Teacher Services, update your profile accordingly so that you will be removed from active Teacher listings. (For more information, please see:I need to take a break from teaching on italki. What do I do? )
+Respecting Student privacy.Respecting student privacy includes refraining from requesting any personally identifiable information from Students, such as birth date, age, government-issued identification number, phone number, or home address;
+Providing accurate and respectful feedback.Provide your Students with helpful, objective, balanced feedback.
+4.3 Attend All Lessons and Arrive On Time
+italki expects that Teachers will responsibly attend Lessons at the scheduled times and should initiate contact with the Student, particularly with a first-time Student.
+
+Rescheduling or cancelling scheduled Lessons should be your last resort. If a Student is late for a scheduled Lesson, the Teacher should wait for the Student until the end of the period for the scheduled Lesson. The Teacher should be available to start the Lesson at any time during the scheduled period for the Lesson. The Teacher is not, however, required to make up for lost time due to the Student's late arrival.
+
+4.4 Be an italki Ambassador
+By providing Teacher Services on the italki Platform, you agree to uphold a positive attitude regarding italki and its employees. Additionally, you agree not to publicly disclose any information or content exchanged between you and italki without italki’s prior consent.
+
+5. Teacher Content
+The terms of this section regarding Teacher Content applies to all Teachers providing Teacher Services on the italki Platform, in addition to the terms of Section 11 (Member Content) of the italki Terms.
+
+5.1 Teacher Content Ownership
+Any articles, video or any other materials used in your Teacher Services or submitted to the italki Platform in connection with your Teacher Services, such as your introduction video (the "Teacher Content"), constitute Member Content. As a result, pursuant to this section and Section 11 (Member Content) of the italki Terms, you own the copyright to your Teacher Content, and italki does not claim any ownership rights in any Teacher Content.
+
+5.2 Student License to Teacher
+You hereby grant each Student who purchases your Teacher Services a right to use, view and copy your Teacher Content that you use in providing your Teacher Services to such Student solely for personal and noncommercial educational purposes. You acknowledge that all of the representations, warranties, license grants and other provisions contained in Section 11 (Member Content) of the italki Terms apply to all of your Teacher Content that you submit to the italki Platform.
+
+5.3 italki License to Teacher Content
+In addition to the license you grant to italki to use, view, copy, modify, distribute, publish and otherwise exploit your Member Content (including your Teacher Content) pursuant to Section 11 (Member Content) of the italki Terms, you hereby grant italki a license to use your Teacher Content (including your introduction video) and information about your Teaching Services in marketing, advertising and promotion of the italki Platform in any medium. For the avoidance of doubt, italki may publish your introduction video to italki’s official channels in third-party video hosting and streaming services, such as Youtube, Vimeo, Youku. italki will remove any Teacher introduction videos from our official channels on third-party video hosting and streaming services upon written request from such Teacher sent to italki customer service. You also grant italki the right to use your profile name as part of our marketing, advertising and promotion of the italki Platform.
+
+6. Prohibitions
+In addition to complying with the restrictions regarding improper use of the italki Platform described in Section 12 (Restrictions) of the italki Terms, you agree not to, and will not assist, encourage, or enable Students or other Teachers to:
+
+Provide or post false, misleading, inaccurate, or plagiarized information on the italki Platform, including in your Teacher profile, course content, lesson history and feedback.
+Fail to establish or maintain your italki Teacher profile to ensure that it contains complete, accurate, and updated information.
+Provide your Teacher Services for free or in exchange for positive feedback or ratings from Students.
+Provide your Teacher Service, including offering and providing Lessons, to any "fake" Students that uses italki Account created by yourself or any third party to drive up your lesson counts and ratings in bad faith.
+Forge or alter your education background, curriculum vitae, work experience or certificates.
+Advertise or promote third party language learning services.
+Encourage or allow Students to work with you outside of the italki Platform or accept payment outside of the italki Platform. If a Student asks you to provide Teacher Services outside of the italki Platform, please remind the Student that lessons must be scheduled and paid for through the italki Platform. You can report the Student or contact italki customer support. (For more information, please see:How do I report inappropriate or abusive behavior).
+Engage in extremely negative and defamatory behavior toward others or italki.
+In the event that you violate the prohibitions set forth in this section, italki reserves the right to immediately suspend or deactivate your italki Account. italki also reserves the right to confiscate any earned italki Credits (as defined in the Payment Policy), and you may lose access to your lesson and teaching history on the italki Platform. If you believe that others have violated these prohibitions, or if you are not sure whether any specific actions would violate these prohibitions, please contact italki customer support immediately.
+
+7. Violation of this Teacher Policy
+You are expected to perform any Teacher Service in a manner that satisfies the teaching standards described above and results in a consistently high level of Student satisfaction. You are in breach of this Teacher Policy, if you:
+
+Fail to deliver any Teacher Service for which payment was accepted;
+Fail to take reasonable efforts to resolve a dispute with a Student;
+Create unacceptable levels of Student dissatisfaction; or
+Violate any italki Terms or any other italki Policies.
+italki reserves the right to take any of the following actions at any time and in its sole discretion:
+
+Cancel your listed Teacher Services;
+Limit your italki Account privileges;
+Adjust your Teacher Wallet balance and/or freeze or suspend your Teacher Wallet;
+Suspend or terminate your italki Account; or
+Contact law enforcement or seek legal remedies
+8. Contacting Customer Service
+If you wish to report a violation of this Teacher Policy, italki Terms or any other italki Policies, or have any questions or need assistance, please contact italki customer service as follows:
+
+Online Support: https://support.italki.com
+
+Online Report Form:https://support.italki.com/hc/en-us/requests/new
+
+Email:support@italki.com
