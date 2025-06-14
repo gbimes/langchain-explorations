@@ -16,7 +16,7 @@ db = Chroma(persist_directory=persistent_directory,
             embedding_function=embeddings)
 
 # Define the user's question
-query = "what are group courses?"
+query = "Does italki file help file taxes and is there an exemption for teachers with Hong Kong and China IDs?"
 
 # Retrieve relevant documents based on the query
 retriever = db.as_retriever(

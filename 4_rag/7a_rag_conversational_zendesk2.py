@@ -26,7 +26,7 @@ db = Chroma(persist_directory=persistent_directory, embedding_function=embedding
 # `search_kwargs` contains additional arguments for the search (e.g., number of results to return)
 retriever = db.as_retriever(
     search_type="similarity",
-    search_kwargs={"k": 3},
+    search_kwargs={"k": 1},
 )
 
 # Create a ChatOpenAI model
@@ -68,10 +68,10 @@ qa_system_prompt = (
     "Alway respond as though you are part of the italki brand."
     "Use the following pieces of retrieved context to answer the "
     "question. If you don't know the answer, just say that you "
-    "don't know. Use three sentences maximum and keep the answer. if the "
+    "don't know. expand your responses as needed. if the "
     "response needs a url for reference, please always include it."
     "For responses that require step by step actions, always present them in steps of bullet points."
-    "concise. for responses that has two different response for teacher and student, please clarify who the role before responding accordingly"
+    "concise."
     "\n\n"
     "{context}"
 )

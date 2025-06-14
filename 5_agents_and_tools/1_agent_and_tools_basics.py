@@ -56,7 +56,7 @@ agent_executor = AgentExecutor.from_agent_and_tools(
 )
 
 # Run the agent with a test query
-response = agent_executor.invoke({"input": "What time is it?"})
+response = agent_executor.invoke({"input": "what time is it?"})
 
 # Print the response from the agent
 print("response:", response)
